@@ -1,0 +1,880 @@
+[30/11/2009 00:02:24] > Saving server...
+[30/11/2009 00:02:30] > SAVE: Complete in 6.109 seconds using relational house storage.
+[30/11/2009 00:07:25] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !notice, foro del server http://aggrometal.foroactivo.net".
+[30/11/2009 00:17:25] > Saving server...
+[30/11/2009 00:17:31] > SAVE: Complete in 5.875 seconds using relational house storage.
+[30/11/2009 00:17:31] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !notice, foro del server http://aggrometal.foroactivo.net".
+[30/11/2009 00:24:43] > Saving server...
+[30/11/2009 00:24:49] > SAVE: Complete in 5.516 seconds using relational house storage.
+[30/11/2009 00:24:49] Preparing to shutdown server..
+[30/11/2009 00:24:49] .
+[30/11/2009 00:24:49] Exiting
+[30/11/2009 13:45:05] The Forgotten Server, version 0.3.4 (Crying Damson)
+[30/11/2009 13:45:05] Sever Criado Por Alissow e Comedinha.
+[30/11/2009 13:45:06] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[30/11/2009 13:45:06] Bom Jogo!!!
+[30/11/2009 13:45:06] 
+[30/11/2009 13:45:06] >> Debugging: nothing.
+[30/11/2009 13:45:06] >> Checking software version... outdated, please consider updating!
+[30/11/2009 13:45:11] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[30/11/2009 13:45:11] > Latest version information - version: 0.3.5, patch: 1, build: 2576, timestamp: 1249584126.
+[30/11/2009 13:45:12] [Warning - ConfigManager::getBool] 62
+[30/11/2009 13:45:12] 
+[30/11/2009 13:45:12] >> Loading config (config.lua)
+[30/11/2009 13:45:12] > Using plaintext passwords
+[30/11/2009 13:45:12] >> Loading RSA key
+[30/11/2009 13:45:12] >> Starting SQL connection
+[30/11/2009 13:45:12] >> Running Database Manager
+[30/11/2009 13:45:13] > Optimized database.
+[30/11/2009 13:45:13] >> Loading items
+[30/11/2009 13:45:14] [Warning - Items::loadFromXml] Unknown key value skillDistance
+[30/11/2009 13:45:14] >> Loading groups
+[30/11/2009 13:45:14] >> Loading vocations
+[30/11/2009 13:45:14] >> Loading script systems
+[30/11/2009 13:45:15] [Warning - Actions::registerEvent] Duplicate registered item with id: 7131, in fromid: 7131 and toid: 7132
+[30/11/2009 13:45:16] [Warning - Actions::registerEvent] Duplicate registered item with id: 7132, in fromid: 7131 and toid: 7132
+[30/11/2009 13:45:20] >> Loading chat channels
+[30/11/2009 13:45:20] >> Loading outfits
+[30/11/2009 13:45:20] >> Loading experience stages
+[30/11/2009 13:45:20] >> Loading monsters
+[30/11/2009 13:45:25] >> Loading map and spawns...
+[30/11/2009 13:45:27] > Map size: 1000x1000.
+[30/11/2009 13:45:27] > Map descriptions: 
+[30/11/2009 13:45:27] Saved with Remere's Map Editor 1.1.9
+[30/11/2009 13:45:27] Remere 's Map Editor Beta
+[30/11/2009 13:45:29] Duplicate uniqueId 9911
+[30/11/2009 13:45:29] Duplicate uniqueId 9912
+[30/11/2009 13:45:29] Duplicate uniqueId 9913
+[30/11/2009 13:45:29] Duplicate uniqueId 9914
+[30/11/2009 13:45:29] Duplicate uniqueId 9915
+[30/11/2009 13:45:31] Duplicate uniqueId 2471
+[30/11/2009 13:45:35] Duplicate uniqueId 8880
+[30/11/2009 13:45:36] Duplicate uniqueId 8880
+[30/11/2009 13:45:36] Duplicate uniqueId 5006
+[30/11/2009 13:45:37] > Map loading time: 12.203 seconds.
+[30/11/2009 13:45:45] [Warning - Spawns::loadFromXml] Demonio ( 00030 / 00166 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 13:45:45] [Warning - Spawns::loadFromXml] Demonio ( 00035 / 00166 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 13:45:45] [Warning - Spawns::loadFromXml] Demonio ( 00035 / 00168 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 13:45:45] [Warning - Spawns::loadFromXml] Demonio ( 00028 / 00169 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 13:45:45] [Warning - Spawns::loadFromXml] Demonio ( 00031 / 00170 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 13:45:45] [Warning - Spawns::loadFromXml] Demonio ( 00037 / 00170 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 13:45:46] [Warning - Spawns::loadFromXml] Demonio ( 00029 / 00171 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 13:45:46] [Warning - Spawns::loadFromXml] Demonio ( 00027 / 00172 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 13:45:46] [Warning - Spawns::loadFromXml] Demonio ( 00036 / 00172 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 13:45:46] [Warning - Spawns::loadFromXml] Demonio ( 00029 / 00173 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 13:45:46] [Warning - Spawns::loadFromXml] Demonio ( 00034 / 00175 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 13:45:46] [Warning - Spawns::loadFromXml] Demonio ( 00036 / 00175 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 13:45:46] [Warning - Spawns::loadFromXml] Demonio ( 00027 / 00176 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 13:45:47] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/Catapult Manager.xml).
+[30/11/2009 13:45:47] Info: failed to load external entity "data/npc/Catapult Manager.xml"
+[30/11/2009 13:45:47] 
+[30/11/2009 13:45:47] 
+[30/11/2009 13:45:47] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/Catapult Manager.xml).
+[30/11/2009 13:45:47] Info: failed to load external entity "data/npc/Catapult Manager.xml"
+[30/11/2009 13:45:47] 
+[30/11/2009 13:45:47] 
+[30/11/2009 13:45:47] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/Catapult Manager.xml).
+[30/11/2009 13:45:47] Info: failed to load external entity "data/npc/Catapult Manager.xml"
+[30/11/2009 13:45:48] 
+[30/11/2009 13:45:48] 
+[30/11/2009 13:45:48] [Warning - Spawns::loadFromXml] Whatafuck ( 00060 / 00309 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 13:45:48] [Warning - Spawns::loadFromXml] Whatafuck ( 00053 / 00312 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 13:45:48] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00313 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 13:45:48] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00317 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 13:45:48] [Warning - Spawns::loadFromXml] Whatafuck ( 00047 / 00313 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 13:45:48] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00314 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 13:45:48] [Warning - Spawns::loadFromXml] Whatafuck ( 00045 / 00315 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 13:45:49] [Warning - Spawns::loadFromXml] Whatafuck ( 00042 / 00316 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 13:45:49] [Warning - Spawns::loadFromXml] Whatafuck ( 00048 / 00316 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 13:45:49] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00318 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 13:45:49] [Warning - Spawns::loadFromXml] Whatafuck ( 00047 / 00318 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 13:45:49] [Warning - Spawns::loadFromXml] Whatafuck ( 00043 / 00321 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 13:45:49] [Warning - Spawns::loadFromXml] Whatafuck ( 00048 / 00321 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 13:45:49] [Warning - Spawns::loadFromXml] Whatafuck ( 00055 / 00319 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 13:45:49] [Warning - Spawns::loadFromXml] Whatafuck ( 00051 / 00321 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 13:45:50] [Warning - Spawns::loadFromXml] Whatafuck ( 00058 / 00321 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 13:45:50] [Warning - Spawns::loadFromXml] Whatafuck ( 00054 / 00322 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 13:45:50] [Warning - Spawns::loadFromXml] Whatafuck ( 00052 / 00325 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 13:45:50] [Warning - Spawns::loadFromXml] Whatafuck ( 00052 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 13:45:50] [Warning - Spawns::loadFromXml] Whatafuck ( 00055 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 13:45:50] [Warning - Spawns::loadFromXml] Whatafuck ( 00038 / 00322 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 13:45:50] [Warning - Spawns::loadFromXml] Whatafuck ( 00037 / 00326 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 13:45:51] [Warning - Spawns::loadFromXml] Whatafuck ( 00038 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 13:45:51] [Warning - Spawns::loadFromXml] Rotworm ( 00065 / 00031 / 012 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 13:45:51] [Warning - Spawns::loadFromXml] Rotworm ( 00073 / 00035 / 012 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 13:45:51] [Warning - Spawns::loadFromXml] Carrion Worm ( 00046 / 00046 / 012 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 13:45:51] [Warning - Spawns::loadFromXml] Rotworm ( 00087 / 00046 / 012 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 13:45:51] [Warning - Spawns::loadFromXml] Rotworm ( 00055 / 00058 / 012 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 13:45:51] [Warning - Spawns::loadFromXml] Rotworm ( 00057 / 00058 / 012 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 13:45:52] [Warning - Spawns::loadFromXml] Rotworm ( 00057 / 00060 / 012 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 13:45:52] [Warning - Spawns::loadFromXml] Rotworm ( 00067 / 00061 / 012 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 13:45:52] [Warning - Spawns::loadFromXml] Michael Jackson ( 00051 / 00026 / 013 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 13:45:52] [Warning - Spawns::loadFromXml] Love Demon ( 00060 / 00095 / 013 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 13:45:52] [Warning - Spawns::loadFromXml] Batman ( 00064 / 00145 / 013 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 13:45:52] [Warning - Spawns::loadFromXml] Batman ( 00055 / 00156 / 013 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 13:45:53] [Warning - Spawns::loadFromXml] Batman ( 00043 / 00155 / 013 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 13:45:53] [Warning - Spawns::loadFromXml] Batman ( 00042 / 00161 / 013 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 13:45:53] [Warning - Spawns::loadFromXml] Hell Dragon ( 00038 / 00227 / 013 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 13:45:53] [Warning - Spawns::loadFromXml] Hell Dragon ( 00044 / 00229 / 013 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 13:45:53] [Warning - Spawns::loadFromXml] Hell Dragon ( 00057 / 00237 / 013 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 13:45:53] [Warning - Spawns::loadFromXml] Hell Dragon ( 00055 / 00246 / 013 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 13:45:54] > Data loading time: 16.625 seconds.
+[30/11/2009 13:46:00] > Unserialization time for houses: 6.704 seconds.
+[30/11/2009 13:46:41] > Unserialization time for map: 41 seconds.
+[30/11/2009 13:46:42] >> Checking world type... PvP
+[30/11/2009 13:46:42] >> Initializing game state modules and registering services...
+[30/11/2009 13:46:43] > Global address: 201.246.43.192
+[30/11/2009 13:46:44] > Local ports:
+[30/11/2009 13:46:44] 7171	7172	
+[30/11/2009 13:46:44] >> All modules were loaded, server starting up...
+[30/11/2009 13:46:44] >> aggrometal ot server Online!
+[30/11/2009 13:46:44] 
+[30/11/2009 13:48:12] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[30/11/2009 13:48:14] Hoster Aggresor has logged in.
+[30/11/2009 13:55:21] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !notice, foro del server http://aggrometal.foroactivo.net".
+[30/11/2009 13:55:58] > Saving server...
+[30/11/2009 13:56:12] > SAVE: Complete in 13.828 seconds using relational house storage.
+[30/11/2009 13:57:43] [Error - SingleSpawnEvent::executeEvent] Cannot spawn monster Grynch Clan Goblin
+[30/11/2009 14:00:21] > Saving server...
+[30/11/2009 14:00:29] > SAVE: Complete in 8.094 seconds using relational house storage.
+[30/11/2009 14:02:42] > Broadcasted message: "Mu invade Slayer city".
+[30/11/2009 14:04:18] Account Manager has logged in.
+[30/11/2009 14:04:34] Account Manager has logged out.
+[30/11/2009 14:05:02] Account Manager has logged in.
+[30/11/2009 14:05:22] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !notice, foro del server http://aggrometal.foroactivo.net".
+[30/11/2009 14:06:03] Account Manager has logged out.
+[30/11/2009 14:09:10] Account Manager has logged in.
+[30/11/2009 14:09:31] Account Manager has logged out.
+[30/11/2009 14:15:22] > Saving server...
+[30/11/2009 14:15:30] > SAVE: Complete in 7.484 seconds using relational house storage.
+[30/11/2009 14:15:30] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !notice, foro del server http://aggrometal.foroactivo.net".
+[30/11/2009 14:19:02] Hoster Aggresor has logged out.
+[30/11/2009 14:19:02] > Saving server...
+[30/11/2009 14:19:10] > SAVE: Complete in 8.407 seconds using relational house storage.
+[30/11/2009 14:19:10] Preparing to shutdown server.[30/11/2009 14:24:14] The Forgotten Server, version 0.3.4 (Crying Damson)
+[30/11/2009 14:24:14] Sever Criado Por Alissow e Comedinha.
+[30/11/2009 14:24:14] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[30/11/2009 14:24:14] Bom Jogo!!!
+[30/11/2009 14:24:14] 
+[30/11/2009 14:24:14] >> Debugging: nothing.
+[30/11/2009 14:24:14] >> Checking software version... outdated, please consider updating!
+[30/11/2009 14:24:16] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[30/11/2009 14:24:16] > Latest version information - version: 0.3.5, patch: 1, build: 2576, timestamp: 1249584126.
+[30/11/2009 14:24:16] [Warning - ConfigManager::getBool] 62
+[30/11/2009 14:24:16] 
+[30/11/2009 14:24:16] >> Loading config (config.lua)
+[30/11/2009 14:24:16] 
+[30/11/2009 14:24:16] > ERROR: Another instance of The Forgotten Server is already running with the same worldId.
+[30/11/2009 14:24:16] If you want to run multiple servers, please change the worldId in configuration file.
+[30/11/2009 14:24:27] The Forgotten Server, version 0.3.4 (Crying Damson)
+[30/11/2009 14:24:27] Sever Criado Por Alissow e Comedinha.
+[30/11/2009 14:24:27] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[30/11/2009 14:24:27] Bom Jogo!!!
+[30/11/2009 14:24:27] 
+[30/11/2009 14:24:27] >> Debugging: nothing.
+[30/11/2009 14:24:27] >> Checking software version... outdated, please consider updating!
+[30/11/2009 14:24:28] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[30/11/2009 14:24:28] > Latest version information - version: 0.3.5, patch: 1, build: 2576, timestamp: 1249584126.
+[30/11/2009 14:24:28] [Warning - ConfigManager::getBool] 62
+[30/11/2009 14:24:28] 
+[30/11/2009 14:24:28] >> Loading config (config.lua)
+[30/11/2009 14:24:28] 
+[30/11/2009 14:24:28] > ERROR: Another instance of The Forgotten Server is already running with the same worldId.
+[30/11/2009 14:24:29] If you want to run multiple servers, please change the worldId in configuration file.
+[30/11/2009 14:24:40] The Forgotten Server, version 0.3.4 (Crying Damson)
+[30/11/2009 14:24:40] Sever Criado Por Alissow e Comedinha.
+[30/11/2009 14:24:40] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[30/11/2009 14:24:40] Bom Jogo!!!
+[30/11/2009 14:24:40] 
+[30/11/2009 14:24:40] >> Debugging: nothing.
+[30/11/2009 14:24:40] >> Checking software version... outdated, please consider updating!
+[30/11/2009 14:24:41] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[30/11/2009 14:24:41] > Latest version information - version: 0.3.5, patch: 1, build: 2576, timestamp: 1249584126.
+[30/11/2009 14:24:41] [Warning - ConfigManager::getBool] 62
+[30/11/2009 14:24:41] 
+[30/11/2009 14:24:41] >> Loading config (config.lua)
+[30/11/2009 14:24:41] > Using plaintext passwords
+[30/11/2009 14:24:41] >> Loading RSA key
+[30/11/2009 14:24:42] >> Starting SQL connection
+[30/11/2009 14:24:42] >> Running Database Manager
+[30/11/2009 14:24:43] > Optimized database.
+[30/11/2009 14:24:43] >> Loading items
+[30/11/2009 14:24:44] [Warning - Items::loadFromXml] Unknown key value skillDistance
+[30/11/2009 14:24:44] >> Loading groups
+[30/11/2009 14:24:44] >> Loading vocations
+[30/11/2009 14:24:44] >> Loading script systems
+[30/11/2009 14:24:45] [Warning - Actions::registerEvent] Duplicate registered item with id: 7131, in fromid: 7131 and toid: 7132
+[30/11/2009 14:24:45] [Warning - Actions::registerEvent] Duplicate registered item with id: 7132, in fromid: 7131 and toid: 7132
+[30/11/2009 14:24:49] >> Loading chat channels
+[30/11/2009 14:24:49] >> Loading outfits
+[30/11/2009 14:24:49] >> Loading experience stages
+[30/11/2009 14:24:49] >> Loading monsters
+[30/11/2009 14:24:55] >> Loading map and spawns...
+[30/11/2009 14:24:56] > Map size: 1000x1000.
+[30/11/2009 14:24:56] > Map descriptions: 
+[30/11/2009 14:24:56] Saved with Remere's Map Editor 1.1.9
+[30/11/2009 14:24:56] Remere 's Map Editor Beta
+[30/11/2009 14:24:58] Duplicate uniqueId 9911
+[30/11/2009 14:24:59] Duplicate uniqueId 9912
+[30/11/2009 14:24:59] Duplicate uniqueId 9913
+[30/11/2009 14:24:59] Duplicate uniqueId 9914
+[30/11/2009 14:24:59] Duplicate uniqueId 9915
+[30/11/2009 14:25:00] Duplicate uniqueId 2471
+[30/11/2009 14:25:19] Duplicate uniqueId 8880
+[30/11/2009 14:25:25] Duplicate uniqueId 8880
+[30/11/2009 14:25:28] Duplicate uniqueId 5006
+[30/11/2009 14:25:29] > Map loading time: 34.625 seconds.
+[30/11/2009 14:25:44] [Warning - Spawns::loadFromXml] Demonio ( 00030 / 00166 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:25:44] [Warning - Spawns::loadFromXml] Demonio ( 00035 / 00166 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:25:45] [Warning - Spawns::loadFromXml] Demonio ( 00035 / 00168 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:25:45] [Warning - Spawns::loadFromXml] Demonio ( 00028 / 00169 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:25:45] [Warning - Spawns::loadFromXml] Demonio ( 00031 / 00170 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:25:45] [Warning - Spawns::loadFromXml] Demonio ( 00037 / 00170 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:25:45] [Warning - Spawns::loadFromXml] Demonio ( 00029 / 00171 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:25:46] [Warning - Spawns::loadFromXml] Demonio ( 00027 / 00172 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:25:46] [Warning - Spawns::loadFromXml] Demonio ( 00036 / 00172 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:25:46] [Warning - Spawns::loadFromXml] Demonio ( 00029 / 00173 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:25:46] [Warning - Spawns::loadFromXml] Demonio ( 00034 / 00175 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:25:46] [Warning - Spawns::loadFromXml] Demonio ( 00036 / 00175 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:25:46] [Warning - Spawns::loadFromXml] Demonio ( 00027 / 00176 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:25:47] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/Catapult Manager.xml).
+[30/11/2009 14:25:47] Info: failed to load external entity "data/npc/Catapult Manager.xml"
+[30/11/2009 14:25:47] 
+[30/11/2009 14:25:47] 
+[30/11/2009 14:25:48] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/Catapult Manager.xml).
+[30/11/2009 14:25:48] Info: failed to load external entity "data/npc/Catapult Manager.xml"
+[30/11/2009 14:25:48] 
+[30/11/2009 14:25:48] 
+[30/11/2009 14:25:48] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/Catapult Manager.xml).
+[30/11/2009 14:25:48] Info: failed to load external entity "data/npc/Catapult Manager.xml"
+[30/11/2009 14:25:48] 
+[30/11/2009 14:25:48] 
+[30/11/2009 14:25:51] [Warning - Spawns::loadFromXml] Whatafuck ( 00060 / 00309 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:25:51] [Warning - Spawns::loadFromXml] Whatafuck ( 00053 / 00312 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:25:51] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00313 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:25:51] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00317 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:25:51] [Warning - Spawns::loadFromXml] Whatafuck ( 00047 / 00313 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:25:52] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00314 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:25:52] [Warning - Spawns::loadFromXml] Whatafuck ( 00045 / 00315 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:25:52] [Warning - Spawns::loadFromXml] Whatafuck ( 00042 / 00316 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:25:52] [Warning - Spawns::loadFromXml] Whatafuck ( 00048 / 00316 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:25:52] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00318 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:25:53] [Warning - Spawns::loadFromXml] Whatafuck ( 00047 / 00318 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:25:53] [Warning - Spawns::loadFromXml] Whatafuck ( 00043 / 00321 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:25:53] [Warning - Spawns::loadFromXml] Whatafuck ( 00048 / 00321 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:25:54] [Warning - Spawns::loadFromXml] Whatafuck ( 00055 / 00319 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:25:54] [Warning - Spawns::loadFromXml] Whatafuck ( 00051 / 00321 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:25:54] [Warning - Spawns::loadFromXml] Whatafuck ( 00058 / 00321 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:25:54] [Warning - Spawns::loadFromXml] Whatafuck ( 00054 / 00322 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:25:55] [Warning - Spawns::loadFromXml] Whatafuck ( 00052 / 00325 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:25:55] [Warning - Spawns::loadFromXml] Whatafuck ( 00052 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:25:55] [Warning - Spawns::loadFromXml] Whatafuck ( 00055 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:25:55] [Warning - Spawns::loadFromXml] Whatafuck ( 00038 / 00322 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:25:55] [Warning - Spawns::loadFromXml] Whatafuck ( 00037 / 00326 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:25:56] [Warning - Spawns::loadFromXml] Whatafuck ( 00038 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:25:57] [Warning - Spawns::loadFromXml] Rotworm ( 00065 / 00031 / 012 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:25:57] [Warning - Spawns::loadFromXml] Rotworm ( 00073 / 00035 / 012 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:25:57] [Warning - Spawns::loadFromXml] Carrion Worm ( 00046 / 00046 / 012 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:25:57] [Warning - Spawns::loadFromXml] Rotworm ( 00087 / 00046 / 012 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:25:57] [Warning - Spawns::loadFromXml] Rotworm ( 00055 / 00058 / 012 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:25:57] [Warning - Spawns::loadFromXml] Rotworm ( 00057 / 00058 / 012 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:25:58] [Warning - Spawns::loadFromXml] Rotworm ( 00057 / 00060 / 012 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:25:58] [Warning - Spawns::loadFromXml] Rotworm ( 00067 / 00061 / 012 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:25:58] [Warning - Spawns::loadFromXml] Michael Jackson ( 00051 / 00026 / 013 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:25:58] [Warning - Spawns::loadFromXml] Love Demon ( 00060 / 00095 / 013 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:25:58] [Warning - Spawns::loadFromXml] Batman ( 00064 / 00145 / 013 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:25:59] [Warning - Spawns::loadFromXml] Batman ( 00055 / 00156 / 013 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:25:59] [Warning - Spawns::loadFromXml] Batman ( 00043 / 00155 / 013 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:25:59] [Warning - Spawns::loadFromXml] Batman ( 00042 / 00161 / 013 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:25:59] [Warning - Spawns::loadFromXml] Hell Dragon ( 00038 / 00227 / 013 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:26:00] [Warning - Spawns::loadFromXml] Hell Dragon ( 00044 / 00229 / 013 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:26:00] [Warning - Spawns::loadFromXml] Hell Dragon ( 00057 / 00237 / 013 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:26:00] [Warning - Spawns::loadFromXml] Hell Dragon ( 00055 / 00246 / 013 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:26:05] > Data loading time: 35.375 seconds.
+[30/11/2009 14:26:08] > Unserialization time for houses: 2.672 seconds.
+[30/11/2009 14:26:53] > Unserialization time for map: 44.766 seconds.
+[30/11/2009 14:26:53] >> Checking world type... PvP
+[30/11/2009 14:26:53] >> Initializing game state modules and registering services...
+[30/11/2009 14:27:00] > Global address: 201.246.43.192
+[30/11/2009 14:27:00] > Local ports:
+[30/11/2009 14:27:00] 7171	7172	
+[30/11/2009 14:27:00] >> All modules were loaded, server starting up...
+[30/11/2009 14:27:00] >> aggrometal ot server Online!
+[30/11/2009 14:27:00] 
+[30/11/2009 14:33:38] > Saving server...
+[30/11/2009 14:33:46] > SAVE: Complete in 7.562 seconds using relational house storage.
+[30/11/2009 14:33:46] Preparing to shutdown server..
+[30/11/2009 14:33:46] .
+[30/11/2009 14:33:46] Exiting
+[30/11/2009 14:39:26] The Forgotten Server, version 0.3.4 (Crying Damson)
+[30/11/2009 14:39:26] Sever Criado Por Alissow e Comedinha.
+[30/11/2009 14:39:26] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[30/11/2009 14:39:26] Bom Jogo!!!
+[30/11/2009 14:39:26] 
+[30/11/2009 14:39:26] >> Debugging: nothing.
+[30/11/2009 14:39:26] >> Checking software version... outdated, please consider updating!
+[30/11/2009 14:39:27] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[30/11/2009 14:39:28] > Latest version information - version: 0.3.5, patch: 1, build: 2576, timestamp: 1249584126.
+[30/11/2009 14:39:28] [Warning - ConfigManager::getBool] 62
+[30/11/2009 14:39:28] 
+[30/11/2009 14:39:28] >> Loading config (config.lua)
+[30/11/2009 14:39:28] > Using plaintext passwords
+[30/11/2009 14:39:28] >> Loading RSA key
+[30/11/2009 14:39:28] >> Starting SQL connection
+[30/11/2009 14:39:28] >> Running Database Manager
+[30/11/2009 14:39:29] > Optimized database.
+[30/11/2009 14:39:29] >> Loading items
+[30/11/2009 14:39:30] [Warning - Items::loadFromXml] Unknown key value skillDistance
+[30/11/2009 14:39:30] >> Loading groups
+[30/11/2009 14:39:31] >> Loading vocations
+[30/11/2009 14:39:31] >> Loading script systems
+[30/11/2009 14:39:34] [Warning - Actions::registerEvent] Duplicate registered item with id: 7131, in fromid: 7131 and toid: 7132
+[30/11/2009 14:39:34] [Warning - Actions::registerEvent] Duplicate registered item with id: 7132, in fromid: 7131 and toid: 7132
+[30/11/2009 14:39:37] >> Loading chat channels
+[30/11/2009 14:39:37] >> Loading outfits
+[30/11/2009 14:39:37] >> Loading experience stages
+[30/11/2009 14:39:37] >> Loading monsters
+[30/11/2009 14:39:43] >> Loading map and spawns...
+[30/11/2009 14:39:45] > Map size: 1000x1000.
+[30/11/2009 14:39:45] > Map descriptions: 
+[30/11/2009 14:39:45] Saved with Remere's Map Editor 1.1.9
+[30/11/2009 14:39:45] Remere 's Map Editor Beta
+[30/11/2009 14:39:47] Duplicate uniqueId 9911
+[30/11/2009 14:39:47] Duplicate uniqueId 9912
+[30/11/2009 14:39:47] Duplicate uniqueId 9913
+[30/11/2009 14:39:47] Duplicate uniqueId 9914
+[30/11/2009 14:39:47] Duplicate uniqueId 9915
+[30/11/2009 14:39:48] Duplicate uniqueId 2471
+[30/11/2009 14:39:58] Duplicate uniqueId 8880
+[30/11/2009 14:39:59] Duplicate uniqueId 8880
+[30/11/2009 14:40:00] Duplicate uniqueId 5006
+[30/11/2009 14:40:00] > Map loading time: 17.578 seconds.
+[30/11/2009 14:40:03] [Warning - Spawns::loadFromXml] Demonio ( 00030 / 00166 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:40:03] [Warning - Spawns::loadFromXml] Demonio ( 00035 / 00166 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:40:03] [Warning - Spawns::loadFromXml] Demonio ( 00035 / 00168 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:40:04] [Warning - Spawns::loadFromXml] Demonio ( 00028 / 00169 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:40:04] [Warning - Spawns::loadFromXml] Demonio ( 00031 / 00170 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:40:04] [Warning - Spawns::loadFromXml] Demonio ( 00037 / 00170 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:40:04] [Warning - Spawns::loadFromXml] Demonio ( 00029 / 00171 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:40:04] [Warning - Spawns::loadFromXml] Demonio ( 00027 / 00172 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:40:04] [Warning - Spawns::loadFromXml] Demonio ( 00036 / 00172 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:40:04] [Warning - Spawns::loadFromXml] Demonio ( 00029 / 00173 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:40:04] [Warning - Spawns::loadFromXml] Demonio ( 00034 / 00175 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:40:04] [Warning - Spawns::loadFromXml] Demonio ( 00036 / 00175 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:40:05] [Warning - Spawns::loadFromXml] Demonio ( 00027 / 00176 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:40:05] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/Catapult Manager.xml).
+[30/11/2009 14:40:05] Info: failed to load external entity "data/npc/Catapult Manager.xml"
+[30/11/2009 14:40:05] 
+[30/11/2009 14:40:05] 
+[30/11/2009 14:40:05] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/Catapult Manager.xml).
+[30/11/2009 14:40:05] Info: failed to load external entity "data/npc/Catapult Manager.xml"
+[30/11/2009 14:40:05] 
+[30/11/2009 14:40:05] 
+[30/11/2009 14:40:05] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/Catapult Manager.xml).
+[30/11/2009 14:40:05] Info: failed to load external entity "data/npc/Catapult Manager.xml"
+[30/11/2009 14:40:05] 
+[30/11/2009 14:40:05] 
+[30/11/2009 14:40:05] [Warning - Spawns::loadFromXml] Whatafuck ( 00060 / 00309 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:40:06] [Warning - Spawns::loadFromXml] Whatafuck ( 00053 / 00312 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:40:06] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00313 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:40:06] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00317 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:40:06] [Warning - Spawns::loadFromXml] Whatafuck ( 00047 / 00313 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:40:06] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00314 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:40:06] [Warning - Spawns::loadFromXml] Whatafuck ( 00045 / 00315 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:40:06] [Warning - Spawns::loadFromXml] Whatafuck ( 00042 / 00316 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:40:06] [Warning - Spawns::loadFromXml] Whatafuck ( 00048 / 00316 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:40:06] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00318 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:40:06] [Warning - Spawns::loadFromXml] Whatafuck ( 00047 / 00318 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:40:07] [Warning - Spawns::loadFromXml] Whatafuck ( 00043 / 00321 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:40:07] [Warning - Spawns::loadFromXml] Whatafuck ( 00048 / 00321 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:40:07] [Warning - Spawns::loadFromXml] Whatafuck ( 00055 / 00319 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:40:07] [Warning - Spawns::loadFromXml] Whatafuck ( 00051 / 00321 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:40:07] [Warning - Spawns::loadFromXml] Whatafuck ( 00058 / 00321 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:40:07] [Warning - Spawns::loadFromXml] Whatafuck ( 00054 / 00322 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:40:07] [Warning - Spawns::loadFromXml] Whatafuck ( 00052 / 00325 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:40:07] [Warning - Spawns::loadFromXml] Whatafuck ( 00052 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:40:07] [Warning - Spawns::loadFromXml] Whatafuck ( 00055 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:40:08] [Warning - Spawns::loadFromXml] Whatafuck ( 00038 / 00322 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:40:08] [Warning - Spawns::loadFromXml] Whatafuck ( 00037 / 00326 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:40:08] [Warning - Spawns::loadFromXml] Whatafuck ( 00038 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:40:08] [Warning - Spawns::loadFromXml] Rotworm ( 00065 / 00031 / 012 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:40:08] [Warning - Spawns::loadFromXml] Rotworm ( 00073 / 00035 / 012 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:40:08] [Warning - Spawns::loadFromXml] Carrion Worm ( 00046 / 00046 / 012 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:40:08] [Warning - Spawns::loadFromXml] Rotworm ( 00087 / 00046 / 012 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:40:08] [Warning - Spawns::loadFromXml] Rotworm ( 00055 / 00058 / 012 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:40:09] [Warning - Spawns::loadFromXml] Rotworm ( 00057 / 00058 / 012 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:40:09] [Warning - Spawns::loadFromXml] Rotworm ( 00057 / 00060 / 012 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:40:09] [Warning - Spawns::loadFromXml] Rotworm ( 00067 / 00061 / 012 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:40:09] [Warning - Spawns::loadFromXml] Michael Jackson ( 00051 / 00026 / 013 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:40:09] [Warning - Spawns::loadFromXml] Love Demon ( 00060 / 00095 / 013 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:40:09] [Warning - Spawns::loadFromXml] Batman ( 00064 / 00145 / 013 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:40:09] [Warning - Spawns::loadFromXml] Batman ( 00055 / 00156 / 013 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:40:09] [Warning - Spawns::loadFromXml] Batman ( 00043 / 00155 / 013 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:40:09] [Warning - Spawns::loadFromXml] Batman ( 00042 / 00161 / 013 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:40:10] [Warning - Spawns::loadFromXml] Hell Dragon ( 00038 / 00227 / 013 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:40:10] [Warning - Spawns::loadFromXml] Hell Dragon ( 00044 / 00229 / 013 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:40:10] [Warning - Spawns::loadFromXml] Hell Dragon ( 00057 / 00237 / 013 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:40:10] [Warning - Spawns::loadFromXml] Hell Dragon ( 00055 / 00246 / 013 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 14:40:10] > Data loading time: 9.547 seconds.
+[30/11/2009 14:40:11] > Unserialization time for houses: 1.031 seconds.
+[30/11/2009 14:40:48] > Unserialization time for map: 36.797 seconds.
+[30/11/2009 14:40:48] >> Checking world type... PvP
+[30/11/2009 14:40:48] >> Initializing game state modules and registering services...
+[30/11/2009 14:40:52] > Global address: 201.246.43.192
+[30/11/2009 14:40:52] > Local ports:
+[30/11/2009 14:40:52] 7171	7172	
+[30/11/2009 14:40:52] >> All modules were loaded, server starting up...
+[30/11/2009 14:40:52] >> aggrometal ot server Online!
+[30/11/2009 14:40:52] 
+[30/11/2009 14:49:38] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !notice, foro del server http://aggrometal.foroactivo.net".
+[30/11/2009 14:54:38] > Saving server...
+[30/11/2009 14:54:53] > SAVE: Complete in 15.407 seconds using relational house storage.
+[30/11/2009 14:59:39] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !notice, foro del server http://aggrometal.foroactivo.net".
+[30/11/2009 15:09:39] > Saving server...
+[30/11/2009 15:09:46] > SAVE: Complete in 6.844 seconds using relational house storage.
+[30/11/2009 15:09:46] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !notice, foro del server http://aggrometal.foroactivo.net".
+[30/11/2009 15:11:54] [Error - SingleSpawnEvent::executeEvent] Cannot spawn monster Grynch Clan Goblin
+[30/11/2009 15:19:47] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !notice, foro del server http://aggrometal.foroactivo.net".
+[30/11/2009 15:24:40] > Saving server...
+[30/11/2009 15:24:47] > SAVE: Complete in 7.109 seconds using relational house storage.
+[30/11/2009 15:29:48] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !notice, foro del server http://aggrometal.foroactivo.net".
+[30/11/2009 15:39:41] > Saving server...
+[30/11/2009 15:39:52] > SAVE: Complete in 10.875 seconds using relational house storage.
+[30/11/2009 15:39:52] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !notice, foro del server http://aggrometal.foroactivo.net".
+[30/11/2009 15:40:37] > Saving server...
+[30/11/2009 15:40:45] > SAVE: Complete in 7.547 seconds using relational house storage.
+[30/11/2009 15:40:45] Preparing to shutdown server..
+[30/11/2009 15:40:46] .
+[30/11/2009 15:40:46] Exiting
+[30/11/2009 20:58:38] The Forgotten Server, version 0.3.4 (Crying Damson)
+[30/11/2009 20:58:38] Sever Criado Por Alissow e Comedinha.
+[30/11/2009 20:58:38] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[30/11/2009 20:58:38] Bom Jogo!!!
+[30/11/2009 20:58:38] 
+[30/11/2009 20:58:38] >> Debugging: nothing.
+[30/11/2009 20:58:38] >> Checking software version... outdated, please consider updating!
+[30/11/2009 20:58:39] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[30/11/2009 20:58:39] > Latest version information - version: 0.3.5, patch: 1, build: 2576, timestamp: 1249584126.
+[30/11/2009 20:58:39] [Warning - ConfigManager::getBool] 62
+[30/11/2009 20:58:39] 
+[30/11/2009 20:58:39] >> Loading config (config.lua)
+[30/11/2009 20:58:39] > Using plaintext passwords
+[30/11/2009 20:58:39] >> Loading RSA key
+[30/11/2009 20:58:39] >> Starting SQL connection
+[30/11/2009 20:58:39] >> Running Database Manager
+[30/11/2009 20:58:42] > Optimized database.
+[30/11/2009 20:58:42] >> Loading items
+[30/11/2009 20:58:42] [Warning - Items::loadFromXml] Unknown key value skillDistance
+[30/11/2009 20:58:43] >> Loading groups
+[30/11/2009 20:58:43] >> Loading vocations
+[30/11/2009 20:58:43] >> Loading script systems
+[30/11/2009 20:58:44] [Warning - Actions::registerEvent] Duplicate registered item with id: 7131, in fromid: 7131 and toid: 7132
+[30/11/2009 20:58:44] [Warning - Actions::registerEvent] Duplicate registered item with id: 7132, in fromid: 7131 and toid: 7132
+[30/11/2009 20:58:48] >> Loading chat channels
+[30/11/2009 20:58:48] >> Loading outfits
+[30/11/2009 20:58:48] >> Loading experience stages
+[30/11/2009 20:58:48] >> Loading monsters
+[30/11/2009 20:58:55] >> Loading map and spawns...
+[30/11/2009 20:59:00] > Map size: 1000x1000.
+[30/11/2009 20:59:00] > Map descriptions: 
+[30/11/2009 20:59:00] Saved with Remere's Map Editor 1.1.9
+[30/11/2009 20:59:00] Remere 's Map Editor Beta
+[30/11/2009 20:59:03] Duplicate uniqueId 9911
+[30/11/2009 20:59:04] Duplicate uniqueId 9912
+[30/11/2009 20:59:04] Duplicate uniqueId 9913
+[30/11/2009 20:59:04] Duplicate uniqueId 9914
+[30/11/2009 20:59:04] Duplicate uniqueId 9915
+[30/11/2009 20:59:11] Duplicate uniqueId 2471
+[30/11/2009 20:59:21] Duplicate uniqueId 8880
+[30/11/2009 20:59:25] Duplicate uniqueId 8880
+[30/11/2009 20:59:25] Duplicate uniqueId 5006
+[30/11/2009 20:59:26] > Map loading time: 31.406 seconds.
+[30/11/2009 20:59:35] [Warning - Spawns::loadFromXml] Demonio ( 00030 / 00166 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 20:59:36] [Warning - Spawns::loadFromXml] Demonio ( 00035 / 00166 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 20:59:36] [Warning - Spawns::loadFromXml] Demonio ( 00035 / 00168 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 20:59:36] [Warning - Spawns::loadFromXml] Demonio ( 00028 / 00169 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 20:59:36] [Warning - Spawns::loadFromXml] Demonio ( 00031 / 00170 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 20:59:36] [Warning - Spawns::loadFromXml] Demonio ( 00037 / 00170 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 20:59:36] [Warning - Spawns::loadFromXml] Demonio ( 00029 / 00171 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 20:59:37] [Warning - Spawns::loadFromXml] Demonio ( 00027 / 00172 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 20:59:37] [Warning - Spawns::loadFromXml] Demonio ( 00036 / 00172 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 20:59:37] [Warning - Spawns::loadFromXml] Demonio ( 00029 / 00173 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 20:59:37] [Warning - Spawns::loadFromXml] Demonio ( 00034 / 00175 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 20:59:37] [Warning - Spawns::loadFromXml] Demonio ( 00036 / 00175 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 20:59:37] [Warning - Spawns::loadFromXml] Demonio ( 00027 / 00176 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 20:59:38] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/Catapult Manager.xml).
+[30/11/2009 20:59:38] Info: failed to load external entity "data/npc/Catapult Manager.xml"
+[30/11/2009 20:59:38] 
+[30/11/2009 20:59:38] 
+[30/11/2009 20:59:38] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/Catapult Manager.xml).
+[30/11/2009 20:59:38] Info: failed to load external entity "data/npc/Catapult Manager.xml"
+[30/11/2009 20:59:39] 
+[30/11/2009 20:59:39] 
+[30/11/2009 20:59:39] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/Catapult Manager.xml).
+[30/11/2009 20:59:39] Info: failed to load external entity "data/npc/Catapult Manager.xml"
+[30/11/2009 20:59:39] 
+[30/11/2009 20:59:39] 
+[30/11/2009 20:59:39] [Warning - Spawns::loadFromXml] Whatafuck ( 00060 / 00309 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 20:59:39] [Warning - Spawns::loadFromXml] Whatafuck ( 00053 / 00312 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 20:59:39] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00313 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 20:59:39] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00317 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 20:59:39] [Warning - Spawns::loadFromXml] Whatafuck ( 00047 / 00313 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 20:59:40] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00314 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 20:59:40] [Warning - Spawns::loadFromXml] Whatafuck ( 00045 / 00315 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 20:59:40] [Warning - Spawns::loadFromXml] Whatafuck ( 00042 / 00316 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 20:59:40] [Warning - Spawns::loadFromXml] Whatafuck ( 00048 / 00316 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 20:59:40] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00318 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 20:59:40] [Warning - Spawns::loadFromXml] Whatafuck ( 00047 / 00318 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 20:59:40] [Warning - Spawns::loadFromXml] Whatafuck ( 00043 / 00321 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 20:59:41] [Warning - Spawns::loadFromXml] Whatafuck ( 00048 / 00321 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 20:59:41] [Warning - Spawns::loadFromXml] Whatafuck ( 00055 / 00319 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 20:59:41] [Warning - Spawns::loadFromXml] Whatafuck ( 00051 / 00321 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 20:59:41] [Warning - Spawns::loadFromXml] Whatafuck ( 00058 / 00321 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 20:59:42] [Warning - Spawns::loadFromXml] Whatafuck ( 00054 / 00322 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 20:59:42] [Warning - Spawns::loadFromXml] Whatafuck ( 00052 / 00325 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 20:59:42] [Warning - Spawns::loadFromXml] Whatafuck ( 00052 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 20:59:42] [Warning - Spawns::loadFromXml] Whatafuck ( 00055 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 20:59:42] [Warning - Spawns::loadFromXml] Whatafuck ( 00038 / 00322 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 20:59:42] [Warning - Spawns::loadFromXml] Whatafuck ( 00037 / 00326 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 20:59:42] [Warning - Spawns::loadFromXml] Whatafuck ( 00038 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 20:59:43] [Warning - Spawns::loadFromXml] Rotworm ( 00065 / 00031 / 012 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 20:59:43] [Warning - Spawns::loadFromXml] Rotworm ( 00073 / 00035 / 012 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 20:59:43] [Warning - Spawns::loadFromXml] Carrion Worm ( 00046 / 00046 / 012 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 20:59:43] [Warning - Spawns::loadFromXml] Rotworm ( 00087 / 00046 / 012 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 20:59:43] [Warning - Spawns::loadFromXml] Rotworm ( 00055 / 00058 / 012 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 20:59:43] [Warning - Spawns::loadFromXml] Rotworm ( 00057 / 00058 / 012 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 20:59:44] [Warning - Spawns::loadFromXml] Rotworm ( 00057 / 00060 / 012 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 20:59:44] [Warning - Spawns::loadFromXml] Rotworm ( 00067 / 00061 / 012 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 20:59:44] [Warning - Spawns::loadFromXml] Michael Jackson ( 00051 / 00026 / 013 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 20:59:44] [Warning - Spawns::loadFromXml] Love Demon ( 00060 / 00095 / 013 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 20:59:44] [Warning - Spawns::loadFromXml] Batman ( 00064 / 00145 / 013 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 20:59:44] [Warning - Spawns::loadFromXml] Batman ( 00055 / 00156 / 013 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 20:59:45] [Warning - Spawns::loadFromXml] Batman ( 00043 / 00155 / 013 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 20:59:45] [Warning - Spawns::loadFromXml] Batman ( 00042 / 00161 / 013 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 20:59:45] [Warning - Spawns::loadFromXml] Hell Dragon ( 00038 / 00227 / 013 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 20:59:45] [Warning - Spawns::loadFromXml] Hell Dragon ( 00044 / 00229 / 013 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 20:59:45] [Warning - Spawns::loadFromXml] Hell Dragon ( 00057 / 00237 / 013 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 20:59:45] [Warning - Spawns::loadFromXml] Hell Dragon ( 00055 / 00246 / 013 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 20:59:46] > Data loading time: 19.235 seconds.
+[30/11/2009 20:59:47] > Unserialization time for houses: 1.125 seconds.
+[30/11/2009 21:00:38] > Unserialization time for map: 50.688 seconds.
+[30/11/2009 21:00:38] >> Checking world type... PvP
+[30/11/2009 21:00:38] >> Initializing game state modules and registering services...
+[30/11/2009 21:00:43] > Global address: 201.246.43.192
+[30/11/2009 21:00:43] > Local ports:
+[30/11/2009 21:00:43] 7171	7172	
+[30/11/2009 21:00:43] >> All modules were loaded, server starting up...
+[30/11/2009 21:00:43] >> aggrometal ot server Online!
+[30/11/2009 21:00:43] 
+[30/11/2009 21:03:08] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[30/11/2009 21:04:42] Alex God has logged in.
+[30/11/2009 21:05:06] Hoster Aggresor has logged in.
+[30/11/2009 21:08:48] Alex God has logged out.
+[30/11/2009 21:08:49] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !notice, foro del server http://aggrometal.foroactivo.net".
+[30/11/2009 21:15:27] Hoster Aggresor has logged out.
+[30/11/2009 21:15:29] Zerox has logged in.
+[30/11/2009 21:16:22] Zerox has logged out.
+[30/11/2009 21:16:24] Hoster Aggresor has logged in.
+[30/11/2009 21:20:31] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !notice, foro del server http://aggrometal.foroactivo.net".
+[30/11/2009 21:23:11] Hoster Aggresor has logged out.
+[30/11/2009 21:23:12] > Saving server...
+[30/11/2009 21:23:33] > SAVE: Complete in 20.141 seconds using relational house storage.
+[30/11/2009 21:23:33] Preparing to shutdown server..
+[30/11/2009 21:23:33] .
+[30/11/2009 21:23:33] Exiting
+[30/11/2009 21:24:29] The Forgotten Server, version 0.3.4 (Crying Damson)
+[30/11/2009 21:24:29] Sever Criado Por Alissow e Comedinha.
+[30/11/2009 21:24:29] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[30/11/2009 21:24:29] Bom Jogo!!!
+[30/11/2009 21:24:29] 
+[30/11/2009 21:24:29] >> Debugging: nothing.
+[30/11/2009 21:24:29] >> Checking software version... outdated, please consider updating!
+[30/11/2009 21:24:30] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[30/11/2009 21:24:30] > Latest version information - version: 0.3.5, patch: 1, build: 2576, timestamp: 1249584126.
+[30/11/2009 21:24:30] [Warning - ConfigManager::getBool] 62
+[30/11/2009 21:24:30] 
+[30/11/2009 21:24:30] >> Loading config (config.lua)
+[30/11/2009 21:24:30] 
+[30/11/2009 21:24:30] > ERROR: Another instance of The Forgotten Server is already running with the same worldId.
+[30/11/2009 21:24:30] If you want to run multiple servers, please change the worldId in configuration file.
+[30/11/2009 21:26:04] The Forgotten Server, version 0.3.4 (Crying Damson)
+[30/11/2009 21:26:05] Sever Criado Por Alissow e Comedinha.
+[30/11/2009 21:26:05] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[30/11/2009 21:26:05] Bom Jogo!!!
+[30/11/2009 21:26:05] 
+[30/11/2009 21:26:05] >> Debugging: nothing.
+[30/11/2009 21:26:05] >> Checking software version... outdated, please consider updating!
+[30/11/2009 21:26:05] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[30/11/2009 21:26:06] > Latest version information - version: 0.3.5, patch: 1, build: 2576, timestamp: 1249584126.
+[30/11/2009 21:26:06] [Warning - ConfigManager::getBool] 62
+[30/11/2009 21:26:06] 
+[30/11/2009 21:26:06] >> Loading config (config.lua)
+[30/11/2009 21:26:06] > Using plaintext passwords
+[30/11/2009 21:26:06] >> Loading RSA key
+[30/11/2009 21:26:06] >> Starting SQL connection
+[30/11/2009 21:26:06] >> Running Database Manager
+[30/11/2009 21:26:08] > Optimized database.
+[30/11/2009 21:26:08] >> Loading items
+[30/11/2009 21:26:08] [Warning - Items::loadFromXml] Unknown key value skillDistance
+[30/11/2009 21:26:09] >> Loading groups
+[30/11/2009 21:26:09] >> Loading vocations
+[30/11/2009 21:26:09] >> Loading script systems
+[30/11/2009 21:26:10] [Warning - Actions::registerEvent] Duplicate registered item with id: 7131, in fromid: 7131 and toid: 7132
+[30/11/2009 21:26:10] [Warning - Actions::registerEvent] Duplicate registered item with id: 7132, in fromid: 7131 and toid: 7132
+[30/11/2009 21:26:13] >> Loading chat channels
+[30/11/2009 21:26:13] >> Loading outfits
+[30/11/2009 21:26:13] >> Loading experience stages
+[30/11/2009 21:26:14] >> Loading monsters
+[30/11/2009 21:26:17] >> Loading map and spawns...
+[30/11/2009 21:26:18] > Map size: 1000x1000.
+[30/11/2009 21:26:18] > Map descriptions: 
+[30/11/2009 21:26:18] Saved with Remere's Map Editor 1.1.9
+[30/11/2009 21:26:19] Remere 's Map Editor Beta
+[30/11/2009 21:26:20] Duplicate uniqueId 9911
+[30/11/2009 21:26:20] Duplicate uniqueId 9912
+[30/11/2009 21:26:20] Duplicate uniqueId 9913
+[30/11/2009 21:26:20] Duplicate uniqueId 9914
+[30/11/2009 21:26:20] Duplicate uniqueId 9915
+[30/11/2009 21:26:22] Duplicate uniqueId 2471
+[30/11/2009 21:26:24] Duplicate uniqueId 8880
+[30/11/2009 21:26:24] Duplicate uniqueId 8880
+[30/11/2009 21:26:24] Duplicate uniqueId 5006
+[30/11/2009 21:26:25] > Map loading time: 8.609 seconds.
+[30/11/2009 21:26:26] [Warning - Spawns::loadFromXml] Demonio ( 00030 / 00166 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:26:27] [Warning - Spawns::loadFromXml] Demonio ( 00035 / 00166 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:26:27] [Warning - Spawns::loadFromXml] Demonio ( 00035 / 00168 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:26:27] [Warning - Spawns::loadFromXml] Demonio ( 00028 / 00169 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:26:27] [Warning - Spawns::loadFromXml] Demonio ( 00031 / 00170 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:26:27] [Warning - Spawns::loadFromXml] Demonio ( 00037 / 00170 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:26:27] [Warning - Spawns::loadFromXml] Demonio ( 00029 / 00171 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:26:27] [Warning - Spawns::loadFromXml] Demonio ( 00027 / 00172 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:26:27] [Warning - Spawns::loadFromXml] Demonio ( 00036 / 00172 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:26:28] [Warning - Spawns::loadFromXml] Demonio ( 00029 / 00173 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:26:28] [Warning - Spawns::loadFromXml] Demonio ( 00034 / 00175 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:26:28] [Warning - Spawns::loadFromXml] Demonio ( 00036 / 00175 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:26:28] [Warning - Spawns::loadFromXml] Demonio ( 00027 / 00176 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:26:28] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/Catapult Manager.xml).
+[30/11/2009 21:26:28] Info: failed to load external entity "data/npc/Catapult Manager.xml"
+[30/11/2009 21:26:28] 
+[30/11/2009 21:26:28] 
+[30/11/2009 21:26:28] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/Catapult Manager.xml).
+[30/11/2009 21:26:29] Info: failed to load external entity "data/npc/Catapult Manager.xml"
+[30/11/2009 21:26:29] 
+[30/11/2009 21:26:29] 
+[30/11/2009 21:26:29] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/Catapult Manager.xml).
+[30/11/2009 21:26:29] Info: failed to load external entity "data/npc/Catapult Manager.xml"
+[30/11/2009 21:26:29] 
+[30/11/2009 21:26:29] 
+[30/11/2009 21:26:29] [Warning - Spawns::loadFromXml] Whatafuck ( 00060 / 00309 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:26:29] [Warning - Spawns::loadFromXml] Whatafuck ( 00053 / 00312 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:26:29] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00313 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:26:29] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00317 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:26:29] [Warning - Spawns::loadFromXml] Whatafuck ( 00047 / 00313 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:26:30] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00314 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:26:30] [Warning - Spawns::loadFromXml] Whatafuck ( 00045 / 00315 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:26:30] [Warning - Spawns::loadFromXml] Whatafuck ( 00042 / 00316 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:26:30] [Warning - Spawns::loadFromXml] Whatafuck ( 00048 / 00316 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:26:30] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00318 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:26:30] [Warning - Spawns::loadFromXml] Whatafuck ( 00047 / 00318 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:26:30] [Warning - Spawns::loadFromXml] Whatafuck ( 00043 / 00321 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:26:31] [Warning - Spawns::loadFromXml] Whatafuck ( 00048 / 00321 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:26:31] [Warning - Spawns::loadFromXml] Whatafuck ( 00055 / 00319 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:26:31] [Warning - Spawns::loadFromXml] Whatafuck ( 00051 / 00321 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:26:31] [Warning - Spawns::loadFromXml] Whatafuck ( 00058 / 00321 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:26:31] [Warning - Spawns::loadFromXml] Whatafuck ( 00054 / 00322 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:26:31] [Warning - Spawns::loadFromXml] Whatafuck ( 00052 / 00325 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:26:31] [Warning - Spawns::loadFromXml] Whatafuck ( 00052 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:26:31] [Warning - Spawns::loadFromXml] Whatafuck ( 00055 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:26:32] [Warning - Spawns::loadFromXml] Whatafuck ( 00038 / 00322 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:26:32] [Warning - Spawns::loadFromXml] Whatafuck ( 00037 / 00326 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:26:32] [Warning - Spawns::loadFromXml] Whatafuck ( 00038 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:26:32] [Warning - Spawns::loadFromXml] Rotworm ( 00065 / 00031 / 012 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:26:32] [Warning - Spawns::loadFromXml] Rotworm ( 00073 / 00035 / 012 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:26:32] [Warning - Spawns::loadFromXml] Carrion Worm ( 00046 / 00046 / 012 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:26:32] [Warning - Spawns::loadFromXml] Rotworm ( 00087 / 00046 / 012 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:26:33] [Warning - Spawns::loadFromXml] Rotworm ( 00055 / 00058 / 012 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:26:33] [Warning - Spawns::loadFromXml] Rotworm ( 00057 / 00058 / 012 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:26:33] [Warning - Spawns::loadFromXml] Rotworm ( 00057 / 00060 / 012 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:26:33] [Warning - Spawns::loadFromXml] Rotworm ( 00067 / 00061 / 012 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:26:33] [Warning - Spawns::loadFromXml] Michael Jackson ( 00051 / 00026 / 013 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:26:33] [Warning - Spawns::loadFromXml] Love Demon ( 00060 / 00095 / 013 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:26:33] [Warning - Spawns::loadFromXml] Batman ( 00064 / 00145 / 013 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:26:34] [Warning - Spawns::loadFromXml] Batman ( 00055 / 00156 / 013 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:26:34] [Warning - Spawns::loadFromXml] Batman ( 00043 / 00155 / 013 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:26:34] [Warning - Spawns::loadFromXml] Batman ( 00042 / 00161 / 013 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:26:34] [Warning - Spawns::loadFromXml] Hell Dragon ( 00038 / 00227 / 013 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:26:34] [Warning - Spawns::loadFromXml] Hell Dragon ( 00044 / 00229 / 013 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:26:34] [Warning - Spawns::loadFromXml] Hell Dragon ( 00057 / 00237 / 013 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:26:34] [Warning - Spawns::loadFromXml] Hell Dragon ( 00055 / 00246 / 013 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:26:35] > Data loading time: 9.359 seconds.
+[30/11/2009 21:26:36] > Unserialization time for houses: 1.078 seconds.
+[30/11/2009 21:27:21] > Unserialization time for map: 45.484 seconds.
+[30/11/2009 21:27:21] >> Checking world type... PvP
+[30/11/2009 21:27:22] >> Initializing game state modules and registering services...
+[30/11/2009 21:27:25] > Global address: 201.246.43.192
+[30/11/2009 21:27:26] > Local ports:
+[30/11/2009 21:27:26] 7171	7172	
+[30/11/2009 21:27:26] >> All modules were loaded, server starting up...
+[30/11/2009 21:27:26] >> aggrometal ot server Online!
+[30/11/2009 21:27:26] 
+[30/11/2009 21:32:38] > Saving server...
+[30/11/2009 21:32:56] The Forgotten Server, version 0.3.4 (Crying Damson)
+[30/11/2009 21:32:57] Sever Criado Por Alissow e Comedinha.
+[30/11/2009 21:32:57] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[30/11/2009 21:32:57] Bom Jogo!!!
+[30/11/2009 21:32:57] 
+[30/11/2009 21:32:57] >> Debugging: nothing.
+[30/11/2009 21:32:57] >> Checking software version... outdated, please consider updating!
+[30/11/2009 21:32:58] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[30/11/2009 21:32:58] > Latest version information - version: 0.3.5, patch: 1, build: 2576, timestamp: 1249584126.
+[30/11/2009 21:32:58] [Warning - ConfigManager::getBool] 62
+[30/11/2009 21:32:58] 
+[30/11/2009 21:32:58] >> Loading config (config.lua)
+[30/11/2009 21:32:58] 
+[30/11/2009 21:32:58] > ERROR: Another instance of The Forgotten Server is already running with the same worldId.
+[30/11/2009 21:32:58] If you want to run multiple servers, please change the worldId in configuration file.
+[30/11/2009 21:33:01] > SAVE: Complete in 21.484 seconds using relational house storage.
+[30/11/2009 21:33:01] Preparing to shutdown server..
+[30/11/2009 21:33:01] .
+[30/11/2009 21:33:01] Exiting
+[30/11/2009 21:38:28] The Forgotten Server, version 0.3.4 (Crying Damson)
+[30/11/2009 21:38:28] Sever Criado Por Alissow e Comedinha.
+[30/11/2009 21:38:28] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[30/11/2009 21:38:28] Bom Jogo!!!
+[30/11/2009 21:38:28] 
+[30/11/2009 21:38:28] >> Debugging: nothing.
+[30/11/2009 21:38:28] >> Checking software version... outdated, please consider updating!
+[30/11/2009 21:38:29] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[30/11/2009 21:38:29] > Latest version information - version: 0.3.5, patch: 1, build: 2576, timestamp: 1249584126.
+[30/11/2009 21:38:29] [Warning - ConfigManager::getBool] 62
+[30/11/2009 21:38:30] 
+[30/11/2009 21:38:30] >> Loading config (config.lua)
+[30/11/2009 21:38:30] 
+[30/11/2009 21:38:30] > ERROR: Another instance of The Forgotten Server is already running with the same worldId.
+[30/11/2009 21:38:30] If you want to run multiple servers, please change the worldId in configuration file.
+[30/11/2009 21:38:53] The Forgotten Server, version 0.3.4 (Crying Damson)
+[30/11/2009 21:38:53] Sever Criado Por Alissow e Comedinha.
+[30/11/2009 21:38:53] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[30/11/2009 21:38:53] Bom Jogo!!!
+[30/11/2009 21:38:53] 
+[30/11/2009 21:38:53] >> Debugging: nothing.
+[30/11/2009 21:38:53] >> Checking software version... outdated, please consider updating!
+[30/11/2009 21:38:54] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[30/11/2009 21:38:54] > Latest version information - version: 0.3.5, patch: 1, build: 2576, timestamp: 1249584126.
+[30/11/2009 21:38:54] [Warning - ConfigManager::getBool] 62
+[30/11/2009 21:38:54] 
+[30/11/2009 21:38:54] >> Loading config (config.lua)
+[30/11/2009 21:38:54] > Using plaintext passwords
+[30/11/2009 21:38:54] >> Loading RSA key
+[30/11/2009 21:38:55] >> Starting SQL connection
+[30/11/2009 21:38:55] >> Running Database Manager
+[30/11/2009 21:38:57] > Optimized database.
+[30/11/2009 21:38:57] >> Loading items
+[30/11/2009 21:38:57] [Warning - Items::loadFromXml] Unknown key value skillDistance
+[30/11/2009 21:38:58] >> Loading groups
+[30/11/2009 21:38:58] >> Loading vocations
+[30/11/2009 21:38:58] >> Loading script systems
+[30/11/2009 21:38:59] [Warning - Actions::registerEvent] Duplicate registered item with id: 7131, in fromid: 7131 and toid: 7132
+[30/11/2009 21:39:00] [Warning - Actions::registerEvent] Duplicate registered item with id: 7132, in fromid: 7131 and toid: 7132
+[30/11/2009 21:39:04] >> Loading chat channels
+[30/11/2009 21:39:04] >> Loading outfits
+[30/11/2009 21:39:04] >> Loading experience stages
+[30/11/2009 21:39:04] >> Loading monsters
+[30/11/2009 21:39:09] >> Loading map and spawns...
+[30/11/2009 21:39:11] > Map size: 1000x1000.
+[30/11/2009 21:39:11] > Map descriptions: 
+[30/11/2009 21:39:11] Saved with Remere's Map Editor 1.1.9
+[30/11/2009 21:39:11] Remere 's Map Editor Beta
+[30/11/2009 21:39:14] Duplicate uniqueId 9911
+[30/11/2009 21:39:14] Duplicate uniqueId 9912
+[30/11/2009 21:39:14] Duplicate uniqueId 9913
+[30/11/2009 21:39:14] Duplicate uniqueId 9914
+[30/11/2009 21:39:14] Duplicate uniqueId 9915
+[30/11/2009 21:39:15] Duplicate uniqueId 2471
+[30/11/2009 21:39:17] Duplicate uniqueId 8880
+[30/11/2009 21:39:18] Duplicate uniqueId 8880
+[30/11/2009 21:39:18] Duplicate uniqueId 5006
+[30/11/2009 21:39:19] > Map loading time: 9.844 seconds.
+[30/11/2009 21:39:22] [Warning - Spawns::loadFromXml] Demonio ( 00030 / 00166 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:39:22] [Warning - Spawns::loadFromXml] Demonio ( 00035 / 00166 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:39:22] [Warning - Spawns::loadFromXml] Demonio ( 00035 / 00168 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:39:22] [Warning - Spawns::loadFromXml] Demonio ( 00028 / 00169 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:39:22] [Warning - Spawns::loadFromXml] Demonio ( 00031 / 00170 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:39:23] [Warning - Spawns::loadFromXml] Demonio ( 00037 / 00170 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:39:23] [Warning - Spawns::loadFromXml] Demonio ( 00029 / 00171 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:39:23] [Warning - Spawns::loadFromXml] Demonio ( 00027 / 00172 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:39:23] [Warning - Spawns::loadFromXml] Demonio ( 00036 / 00172 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:39:23] [Warning - Spawns::loadFromXml] Demonio ( 00029 / 00173 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:39:23] [Warning - Spawns::loadFromXml] Demonio ( 00034 / 00175 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:39:23] [Warning - Spawns::loadFromXml] Demonio ( 00036 / 00175 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:39:24] [Warning - Spawns::loadFromXml] Demonio ( 00027 / 00176 / 007 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:39:25] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/Catapult Manager.xml).
+[30/11/2009 21:39:25] Info: failed to load external entity "data/npc/Catapult Manager.xml"
+[30/11/2009 21:39:25] 
+[30/11/2009 21:39:25] 
+[30/11/2009 21:39:25] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/Catapult Manager.xml).
+[30/11/2009 21:39:26] Info: failed to load external entity "data/npc/Catapult Manager.xml"
+[30/11/2009 21:39:26] 
+[30/11/2009 21:39:26] 
+[30/11/2009 21:39:26] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/Catapult Manager.xml).
+[30/11/2009 21:39:26] Info: failed to load external entity "data/npc/Catapult Manager.xml"
+[30/11/2009 21:39:26] 
+[30/11/2009 21:39:26] 
+[30/11/2009 21:39:26] [Warning - Spawns::loadFromXml] Whatafuck ( 00060 / 00309 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:39:26] [Warning - Spawns::loadFromXml] Whatafuck ( 00053 / 00312 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:39:26] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00313 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:39:27] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00317 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:39:27] [Warning - Spawns::loadFromXml] Whatafuck ( 00047 / 00313 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:39:27] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00314 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:39:27] [Warning - Spawns::loadFromXml] Whatafuck ( 00045 / 00315 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:39:27] [Warning - Spawns::loadFromXml] Whatafuck ( 00042 / 00316 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:39:27] [Warning - Spawns::loadFromXml] Whatafuck ( 00048 / 00316 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:39:28] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00318 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:39:28] [Warning - Spawns::loadFromXml] Whatafuck ( 00047 / 00318 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:39:28] [Warning - Spawns::loadFromXml] Whatafuck ( 00043 / 00321 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:39:28] [Warning - Spawns::loadFromXml] Whatafuck ( 00048 / 00321 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:39:28] [Warning - Spawns::loadFromXml] Whatafuck ( 00055 / 00319 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:39:28] [Warning - Spawns::loadFromXml] Whatafuck ( 00051 / 00321 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:39:29] [Warning - Spawns::loadFromXml] Whatafuck ( 00058 / 00321 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:39:29] [Warning - Spawns::loadFromXml] Whatafuck ( 00054 / 00322 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:39:29] [Warning - Spawns::loadFromXml] Whatafuck ( 00052 / 00325 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:39:29] [Warning - Spawns::loadFromXml] Whatafuck ( 00052 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:39:29] [Warning - Spawns::loadFromXml] Whatafuck ( 00055 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:39:29] [Warning - Spawns::loadFromXml] Whatafuck ( 00038 / 00322 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:39:30] [Warning - Spawns::loadFromXml] Whatafuck ( 00037 / 00326 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:39:30] [Warning - Spawns::loadFromXml] Whatafuck ( 00038 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:39:30] [Warning - Spawns::loadFromXml] Rotworm ( 00065 / 00031 / 012 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:39:30] [Warning - Spawns::loadFromXml] Rotworm ( 00073 / 00035 / 012 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:39:30] [Warning - Spawns::loadFromXml] Carrion Worm ( 00046 / 00046 / 012 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:39:30] [Warning - Spawns::loadFromXml] Rotworm ( 00087 / 00046 / 012 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:39:31] [Warning - Spawns::loadFromXml] Rotworm ( 00055 / 00058 / 012 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:39:31] [Warning - Spawns::loadFromXml] Rotworm ( 00057 / 00058 / 012 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:39:31] [Warning - Spawns::loadFromXml] Rotworm ( 00057 / 00060 / 012 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:39:31] [Warning - Spawns::loadFromXml] Rotworm ( 00067 / 00061 / 012 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:39:31] [Warning - Spawns::loadFromXml] Michael Jackson ( 00051 / 00026 / 013 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:39:32] [Warning - Spawns::loadFromXml] Love Demon ( 00060 / 00095 / 013 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:39:32] [Warning - Spawns::loadFromXml] Batman ( 00064 / 00145 / 013 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:39:32] [Warning - Spawns::loadFromXml] Batman ( 00055 / 00156 / 013 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:39:32] [Warning - Spawns::loadFromXml] Batman ( 00043 / 00155 / 013 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:39:32] [Warning - Spawns::loadFromXml] Batman ( 00042 / 00161 / 013 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:39:33] [Warning - Spawns::loadFromXml] Hell Dragon ( 00038 / 00227 / 013 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:39:33] [Warning - Spawns::loadFromXml] Hell Dragon ( 00044 / 00229 / 013 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:39:33] [Warning - Spawns::loadFromXml] Hell Dragon ( 00057 / 00237 / 013 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:39:33] [Warning - Spawns::loadFromXml] Hell Dragon ( 00055 / 00246 / 013 ) spawntime cannot be less than 1 seconds.
+[30/11/2009 21:39:34] > Data loading time: 14.829 seconds.
+[30/11/2009 21:39:36] > Unserialization time for houses: 2.25 seconds.
+[30/11/2009 21:40:27] > Unserialization time for map: 51.281 seconds.
+[30/11/2009 21:40:28] >> Checking world type... PvP
+[30/11/2009 21:40:28] >> Initializing game state modules and registering services...
+[30/11/2009 21:40:37] > Global address: 201.246.43.192
+[30/11/2009 21:40:39] > Local ports:
+[30/11/2009 21:40:39] 7171	7172	
+[30/11/2009 21:40:39] >> All modules were loaded, server starting up...
+[30/11/2009 21:40:39] >> aggrometal ot server Online!
+[30/11/2009 21:40:39] 
+[30/11/2009 21:41:55] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[30/11/2009 21:42:04] Hoster Aggresor has logged in.
+[30/11/2009 21:45:52] Hoster Aggresor has logged out.
+[30/11/2009 21:45:52] > Saving server...
+[30/11/2009 21:46:05] > SAVE: Complete in 12.687 seconds using relational house storage.
+[30/11/2009 21:46:08] Preparing to shutdown server.

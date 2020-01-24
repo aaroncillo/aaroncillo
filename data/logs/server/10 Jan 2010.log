@@ -1,0 +1,67 @@
+[10/01/2010 03:44:50] The Forgotten Server, version 0.3.4 (Crying Damson)
+[10/01/2010 03:44:50] Sever Criado Por Alissow e Comedinha.
+[10/01/2010 03:44:50] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[10/01/2010 03:44:50] Bom Jogo!!!
+[10/01/2010 03:44:50] 
+[10/01/2010 03:44:50] >> Debugging: nothing.
+[10/01/2010 03:44:50] >> Checking software version... outdated, please consider updating!
+[10/01/2010 03:44:51] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[10/01/2010 03:44:51] > Latest version information - version: 0.3.6, patch: 0, build: 3293, timestamp: 1260652199.
+[10/01/2010 03:44:51] [Warning - ConfigManager::getBool] 62
+[10/01/2010 03:44:51] 
+[10/01/2010 03:44:51] >> Loading config (config.lua)
+[10/01/2010 03:44:51] > Using plaintext passwords
+[10/01/2010 03:44:51] >> Loading RSA key
+[10/01/2010 03:44:51] >> Starting SQL connection
+[10/01/2010 03:44:51] >> Running Database Manager
+[10/01/2010 03:44:53] > Optimized database.
+[10/01/2010 03:44:53] >> Loading items
+[10/01/2010 03:44:53] >> Loading groups
+[10/01/2010 03:44:54] >> Loading vocations
+[10/01/2010 03:44:54] >> Loading script systems
+[10/01/2010 03:44:59] [Warning - Event::loadScript] Cannot load script (data/movements/scripts/Exp Ring.lua)
+[10/01/2010 03:44:59] data/movements/scripts/Exp Ring.lua:1: unexpected symbol near '<'
+[10/01/2010 03:44:59] [Warning - Event::loadScript] Cannot load script (data/movements/scripts/Exp Ring.lua)
+[10/01/2010 03:44:59] data/movements/scripts/Exp Ring.lua:1: unexpected symbol near '<'
+[10/01/2010 03:45:00] >> Loading chat channels
+[10/01/2010 03:45:00] >> Loading outfits
+[10/01/2010 03:45:00] >> Loading experience stages
+[10/01/2010 03:45:00] >> Loading monsters
+[10/01/2010 03:45:04] >> Loading map and spawns...
+[10/01/2010 03:45:05] > Map size: 1100x1100.
+[10/01/2010 03:45:05] > Map descriptions: 
+[10/01/2010 03:45:05] Saved with Remere's Map Editor 1.1.10
+[10/01/2010 03:45:05] Remere 's Map Editor Beta
+[10/01/2010 03:45:07] Duplicate uniqueId 9911
+[10/01/2010 03:45:07] Duplicate uniqueId 9912
+[10/01/2010 03:45:07] Duplicate uniqueId 9913
+[10/01/2010 03:45:07] Duplicate uniqueId 9914
+[10/01/2010 03:45:07] Duplicate uniqueId 9915
+[10/01/2010 03:45:08] Duplicate uniqueId 2471
+[10/01/2010 03:45:08] Duplicate uniqueId 2471
+[10/01/2010 03:45:10] Duplicate uniqueId 8880
+[10/01/2010 03:45:12] Duplicate uniqueId 5006
+[10/01/2010 03:45:13] > Map loading time: 8.672 seconds.
+[10/01/2010 03:45:20] > Data loading time: 6.875 seconds.
+[10/01/2010 03:45:23] > Unserialization time for houses: 3.171 seconds.
+[10/01/2010 03:46:43] > Unserialization time for map: 80.422 seconds.
+[10/01/2010 03:46:44] >> Checking world type... PvP
+[10/01/2010 03:46:44] >> Initializing game state modules and registering services...
+[10/01/2010 03:47:12] > Global address: 201.246.36.209
+[10/01/2010 03:47:12] > Local ports:
+[10/01/2010 03:47:13] 7171	7172	
+[10/01/2010 03:47:13] >> All modules were loaded, server starting up...
+[10/01/2010 03:47:13] >> Aggrox metal server Online!
+[10/01/2010 03:47:13] 
+[10/01/2010 03:47:27] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[10/01/2010 03:47:29] Hoster Aggresor has logged in.
+[10/01/2010 03:47:29] > Broadcasted message: "Hoster Aggresor se conecto (el es: rei aggresor)".
+[10/01/2010 03:50:52] Hoster Aggresor has logged out.
+[10/01/2010 03:51:02] Zorra Zorrienta has logged in.
+[10/01/2010 03:51:36] Zorra Zorrienta has logged out.
+[10/01/2010 03:51:38] Hoster Aggresor has logged in.
+[10/01/2010 03:51:38] > Broadcasted message: "Hoster Aggresor se conecto (el es: rei aggresor)".
+[10/01/2010 03:53:41] Hoster Aggresor has logged out.
+[10/01/2010 03:53:43] > Saving server...
+[10/01/2010 03:54:19] > SAVE: Complete in 35.75 seconds using relational house storage.
+[10/01/2010 03:54:19] Preparing to shutdown server.

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Narco traficante" script="data/npc/scripts/default.lua" walkinterval="2000" floorchange="0">
+	<health now="100" max="100"/>
+	<look type="128" head="114" body="114" legs="114" feet="114" addons="1"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="Ola |PLAYERNAME|. wn yo tengo en mi mochila cigarros y cocaina di {trade}."/>
+		<parameter key="shop_buyable" value="cigarros,7499,100;cocaina,2692,100"/>
+	</parameters>
+</npc>

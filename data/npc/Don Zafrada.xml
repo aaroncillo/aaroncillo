@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Don Zafrada" script="data/npc/scripts/default.lua" walkinterval="2000" floorchange="0">
+	<health now="100" max="100"/>
+	<look type="266" head="0" body="114" legs="94" feet="0" addons="3"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="Ola |PLAYERNAME|. yo vendo fichas para que juegues di {trade} para comprar."/>
+		<parameter key="shop_buyable" value="Ficha,10581,10000"/>
+	</parameters>
+</npc>

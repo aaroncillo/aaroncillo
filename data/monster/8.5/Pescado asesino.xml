@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<monster name="Pescado asesino" nameDescription="an Pescado asesino" race="VENOM" experience="800000" speed="0" manacost="0"> 
+<health now="3000000" max="3000000"/> 
+<look typeex="2667" corpse="2240"/> 
+<targetchange interval="5000" chance="0"/> 
+<strategy attack="100" defense="0"/> 
+<flags> 
+<flag summonable="0"/> 
+<flag attackable="1"/> 
+<flag hostile="1"/> 
+<flag illusionable="1"/> 
+<flag convinceable="0"/> 
+<flag pushable="0"/> 
+<flag canpushitems="1"/> 
+<flag canpushcreatures="0"/> 
+<flag targetdistance="10"/> 
+<flag staticattack="90"/> 
+<flag runonhealth="0"/> 
+</flags> 
+<attacks> 
+<attack name="ice" interval="1000" chance="50" range="10" min="-1000" max="-2000"> 
+<attribute key="areaEffect" value="iceattack"/> 
+<attribute key="shootEffect" value="ice"/> 
+</attack> 
+<attack name="fire" interval="1000" chance="50" range="10" min="-1000" max="-2000"> 
+<attribute key="areaEffect" value="fireattack"/> 
+<attribute key="shootEffect" value="fire"/> 
+</attack> 
+</attacks> 
+<defenses armor="1999" defense="1999"/> 
+<immunities> 
+<immunity physical="0"/> 
+<immunity holy="0"/> 
+<immunity energy="0"/> 
+<immunity fire="1"/> 
+<immunity death="0"/> 
+<immunity earth="0"/> 
+<immunity ice="0"/> 
+<immunity poison="0"/> 
+<immunity lifedrain="0"/> 
+<immunity invisible="0"/> 
+</immunities> 
+</monster> 

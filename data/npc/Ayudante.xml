@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Ayudante" script="data/npc/scripts/Ayudante.lua" walkinterval="5000" floorchange="0" speed="900">
+    <health now="100" max="100"/>
+    <look type="133" head="78" body="114" legs="77" feet="0" addons="3"/>
+    <parameters>
+		<parameter key="message_greet" value="Hola bienvenido |PLAYERNAME|! lo puedo ayudar en algo? Di {ayuda}" />
+        <parameter key="module_keywords" value="1" />
+        <parameter key="keywords" value="hi;ayuda;mapa;monstruos;magias;bye;addons;comandos;mas;more" />
+        <parameter key="keyword_reply1" value="Hola bienvenido |PLAYERNAME|! yo te puedo ayudar en varias cosas 1313. Di {ayuda}" />
+        <parameter key="keyword_reply2" value="Quieres saber sobre el {mapa}, {monstruos}, {magias}, {addons} o {comandos}?" />
+        <parameter key="keyword_reply3" value="Mmmm en el mapa teni varias cidades. Esta ciudad se llama Slayer city, luego ay otras que estan en el portal como Ice city (hay muchas casas grandes), Fire fortres un lugar mas que nada de hunts pero hay artas casas, non pvp city un lugar tranquilo y con artos npc, Jungle city, y unas ciudades vip etc etc ." />
+        <parameter key="keyword_reply4" value="Existen mas de 400 (cuatro cientos) tipos de monstruos a lo largo de todo el mapa y los monster 8.54,ademas de algunos monstruos editados que le facilitaran subir de nivel." />
+        <parameter key="keyword_reply5" value="En el server existen muchas magias, tanto las originales como las nuevas, de ataque, defensa, para recuperarse, party, etc. Usted puede saber mas de esto diciendo el comando !spells." />
+        <parameter key="keyword_reply6" value="xao ctm!." />
+        <parameter key="keyword_reply7" value="Los addons se obtienen haciendo una quest te dirijes hacia el addoner quest con 3 mas de tu team o solo si quieres para hacer una aniquileitor quest luego q vensan a los monster llegaras a un cofre abrelo y obtendras tus lindos addons :Z ." />
+        <parameter key="keyword_reply8" value="existen muchos comandos como: !buyhouse !sellhouse createguild !joinguild !frags !buypremium !leavehouse !online !serverinfo !masturbar !aol (compra aol a 10 cc) !bp (para comprar bp) !spells (para ver las spells) !sexo (te ganas enfrente de una mujer y le haces el sexo xD) !rank (para ver los ranks de level etc !rank level !rank magic etc) !all (para ver info del server) !participar (para cuando aiga algun evento) !afk on o !afk off (para cuando no estes) !votepoll (para votar encuestas) di {mas}." />
+        <parameter key="keyword_reply9" value="!changesex (cambiar de sexo - 3 dias de premmy) /uptime /deathlist /pvp !q !party (para teletransportar los jugadores hacia 1 solo jugador ej: !party aggresor) love (sirve para cuando estes casado y usas el comando cerca de el o ella) /guild (sirve para enviar un mensaje a todos los jugadores de tu guild ej: /guild marakos) car (sirve para controlar un carro en los eventos ej: car arriba car abajo car izquierda car para car velocidadalta car velocidadalta) di {more}." /> 
+        <parameter key="keyword_reply10" value="!vip (informa sobre veneficios de vip) !buyvip (sirve para comprar vip) !buypromotion (sirve para comprar promotion) !balance(Te muestra el balance de tu cuenta) !deposit(Deposita dinero en tu cuenta(Ej: !deposit 15000) !depositall(Deposita todo tu dinero en tu cuenta) !withdraw(Saca dinero de tu cuenta. (Ej: !withdraw 15000) !withdrawall(Saca todo tu dinero de tu cuenta) !transfer(Transfiere dinero a otro player(Ej:!transfer Piko, 15000) !transferall(Transfiere todo el dinero de tu cuenta a otro player)." /> 
+        
+        <parameter key="module_shop" value="1"/>
+        <parameter key="shop_sellable" value="chain helmet,2458,52;" />
+        <parameter key="shop_buyable" value="brass armor,2465,150;" />
+    </parameters>
+</npc>

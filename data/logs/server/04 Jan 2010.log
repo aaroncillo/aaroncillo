@@ -1,0 +1,1122 @@
+[04/01/2010 05:38:20] The Forgotten Server, version 0.3.4 (Crying Damson)
+[04/01/2010 05:38:21] Sever Criado Por Alissow e Comedinha.
+[04/01/2010 05:38:21] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[04/01/2010 05:38:22] Bom Jogo!!!
+[04/01/2010 05:38:22] 
+[04/01/2010 05:38:22] >> Debugging: nothing.
+[04/01/2010 05:38:22] >> Checking software version... outdated, please consider updating!
+[04/01/2010 05:38:23] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[04/01/2010 05:38:24] > Latest version information - version: 0.3.6, patch: 0, build: 3293, timestamp: 1260652199.
+[04/01/2010 05:38:24] [Warning - ConfigManager::getBool] 62
+[04/01/2010 05:38:24] 
+[04/01/2010 05:38:24] >> Loading config (config.lua)
+[04/01/2010 05:38:24] > Using plaintext passwords
+[04/01/2010 05:38:24] >> Loading RSA key
+[04/01/2010 05:38:24] >> Starting SQL connection
+[04/01/2010 05:38:24] >> Running Database Manager
+[04/01/2010 05:38:25] > Optimized database.
+[04/01/2010 05:38:25] >> Loading items
+[04/01/2010 05:38:26] >> Loading groups
+[04/01/2010 05:38:26] >> Loading vocations
+[04/01/2010 05:38:26] >> Loading script systems
+[04/01/2010 05:38:33] >> Loading chat channels
+[04/01/2010 05:38:33] >> Loading outfits
+[04/01/2010 05:38:33] >> Loading experience stages
+[04/01/2010 05:38:33] >> Loading monsters
+[04/01/2010 05:38:37] >> Loading map and spawns...
+[04/01/2010 05:38:38] > Map size: 1100x1100.
+[04/01/2010 05:38:38] > Map descriptions: 
+[04/01/2010 05:38:38] Saved with Remere's Map Editor 1.1.10
+[04/01/2010 05:38:38] Remere 's Map Editor Beta
+[04/01/2010 05:38:39] Duplicate uniqueId 9911
+[04/01/2010 05:38:39] Duplicate uniqueId 9912
+[04/01/2010 05:38:39] Duplicate uniqueId 9913
+[04/01/2010 05:38:39] Duplicate uniqueId 9914
+[04/01/2010 05:38:39] Duplicate uniqueId 9915
+[04/01/2010 05:38:40] Duplicate uniqueId 2471
+[04/01/2010 05:38:40] Duplicate uniqueId 2471
+[04/01/2010 05:38:41] Duplicate uniqueId 8880
+[04/01/2010 05:38:42] Duplicate uniqueId 5006
+[04/01/2010 05:38:42] > Map loading time: 5.344 seconds.
+[04/01/2010 05:38:44] > Data loading time: 2.141 seconds.
+[04/01/2010 05:38:44] > Unserialization time for houses: 0.094 seconds.
+[04/01/2010 05:39:24] > Unserialization time for map: 39.344 seconds.
+[04/01/2010 05:39:24] >> Checking world type... PvP
+[04/01/2010 05:39:24] >> Initializing game state modules and registering services...
+[04/01/2010 05:39:25] > Global address: 201.246.36.209
+[04/01/2010 05:39:25] > Local ports:
+[04/01/2010 05:39:25] 7171	7172	
+[04/01/2010 05:39:25] >> All modules were loaded, server starting up...
+[04/01/2010 05:39:25] >> Aggrox metal server Online!
+[04/01/2010 05:39:25] 
+[04/01/2010 05:39:55] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[04/01/2010 05:39:57] Hoster Aggresor has logged in.
+[04/01/2010 05:39:57] > Broadcasted message: "Hoster Aggresor se conecto (el es: rei aggresor)".
+[04/01/2010 05:45:55] 
+[04/01/2010 05:45:55] Lua Script Error: [Action Interface] 
+[04/01/2010 05:45:55] data/actions/scripts/rwitems.lua:onUse
+[04/01/2010 05:45:55] 
+[04/01/2010 05:45:55] data/actions/scripts/rwitems.lua:7: attempt to call global 'doShowTextWindow' (a nil value)
+[04/01/2010 05:45:55] stack traceback:
+[04/01/2010 05:45:55] 	data/actions/scripts/rwitems.lua:7: in function <data/actions/scripts/rwitems.lua:3>
+[04/01/2010 05:48:34] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[04/01/2010 05:52:28] [Notice - Game::reloadInfo] Reload type does not work.
+[04/01/2010 05:53:34] > Saving server...
+[04/01/2010 05:53:43] > SAVE: Complete in 9.093 seconds using relational house storage.
+[04/01/2010 05:56:17] Hoster Aggresor has logged out.
+[04/01/2010 05:56:39] > Saving server...
+[04/01/2010 05:56:45] > SAVE: Complete in 6.344 seconds using relational house storage.
+[04/01/2010 05:56:45] Preparing to shutdown server..
+[04/01/2010 05:56:45] .
+[04/01/2010 05:56:45] Exiting
+[04/01/2010 05:56:56] The Forgotten Server, version 0.3.4 (Crying Damson)
+[04/01/2010 05:56:56] Sever Criado Por Alissow e Comedinha.
+[04/01/2010 05:56:56] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[04/01/2010 05:56:56] Bom Jogo!!!
+[04/01/2010 05:56:56] 
+[04/01/2010 05:56:56] >> Debugging: nothing.
+[04/01/2010 05:56:56] >> Checking software version... outdated, please consider updating!
+[04/01/2010 05:56:57] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[04/01/2010 05:56:57] > Latest version information - version: 0.3.6, patch: 0, build: 3293, timestamp: 1260652199.
+[04/01/2010 05:56:57] [Warning - ConfigManager::getBool] 62
+[04/01/2010 05:56:57] 
+[04/01/2010 05:56:57] >> Loading config (config.lua)
+[04/01/2010 05:56:57] > Using plaintext passwords
+[04/01/2010 05:56:57] >> Loading RSA key
+[04/01/2010 05:56:57] >> Starting SQL connection
+[04/01/2010 05:56:57] >> Running Database Manager
+[04/01/2010 05:56:59] > Optimized database.
+[04/01/2010 05:56:59] >> Loading items
+[04/01/2010 05:57:00] >> Loading groups
+[04/01/2010 05:57:00] >> Loading vocations
+[04/01/2010 05:57:00] >> Loading script systems
+[04/01/2010 05:57:04] >> Loading chat channels
+[04/01/2010 05:57:04] >> Loading outfits
+[04/01/2010 05:57:04] >> Loading experience stages
+[04/01/2010 05:57:04] >> Loading monsters
+[04/01/2010 05:57:06] >> Loading map and spawns...
+[04/01/2010 05:57:08] > Map size: 1100x1100.
+[04/01/2010 05:57:08] > Map descriptions: 
+[04/01/2010 05:57:08] Saved with Remere's Map Editor 1.1.10
+[04/01/2010 05:57:08] Remere 's Map Editor Beta
+[04/01/2010 05:57:10] Duplicate uniqueId 9911
+[04/01/2010 05:57:10] Duplicate uniqueId 9912
+[04/01/2010 05:57:10] Duplicate uniqueId 9913
+[04/01/2010 05:57:10] Duplicate uniqueId 9914
+[04/01/2010 05:57:10] Duplicate uniqueId 9915
+[04/01/2010 05:57:11] Duplicate uniqueId 2471
+[04/01/2010 05:57:12] Duplicate uniqueId 2471
+[04/01/2010 05:57:13] Duplicate uniqueId 8880
+[04/01/2010 05:57:14] Duplicate uniqueId 5006
+[04/01/2010 05:57:14] > Map loading time: 8.031 seconds.
+[04/01/2010 05:57:16] > Data loading time: 1.141 seconds.
+[04/01/2010 05:57:16] > Unserialization time for houses: 0.078 seconds.
+[04/01/2010 05:58:13] > Unserialization time for map: 57.562 seconds.
+[04/01/2010 05:58:14] >> Checking world type... PvP
+[04/01/2010 05:58:14] >> Initializing game state modules and registering services...
+[04/01/2010 05:58:15] > Global address: 201.246.36.209
+[04/01/2010 05:58:15] > Local ports:
+[04/01/2010 05:58:15] 7171	7172	
+[04/01/2010 05:58:15] >> All modules were loaded, server starting up...
+[04/01/2010 05:58:15] >> Aggrox metal server Online!
+[04/01/2010 05:58:15] 
+[04/01/2010 05:58:17] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[04/01/2010 05:58:18] Hoster Aggresor has logged in.
+[04/01/2010 05:58:18] > Broadcasted message: "Hoster Aggresor se conecto (el es: rei aggresor)".
+[04/01/2010 06:05:14] > Broadcasted message: "Mu invade Slayer city".
+[04/01/2010 06:06:55] 
+[04/01/2010 06:06:55] Lua Script Error: [TalkAction Interface] 
+[04/01/2010 06:06:55] data/talkactions/scripts/createitem.lua:onSay
+[04/01/2010 06:06:55] 
+[04/01/2010 06:06:55] luaDoCreateItemEx(). Item not found
+[04/01/2010 06:06:55] 
+[04/01/2010 06:06:55] Lua Script Error: [TalkAction Interface] 
+[04/01/2010 06:06:55] data/talkactions/scripts/createitem.lua:onSay
+[04/01/2010 06:06:55] 
+[04/01/2010 06:06:55] luaDoPlayerAddItemEx(). Item not found
+[04/01/2010 06:07:05] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[04/01/2010 06:12:05] > Saving server...
+[04/01/2010 06:12:12] > SAVE: Complete in 7.344 seconds using relational house storage.
+[04/01/2010 06:12:42] Hoster Aggresor has logged out.
+[04/01/2010 06:12:46] > Saving server...
+[04/01/2010 06:12:53] > SAVE: Complete in 6.703 seconds using relational house storage.
+[04/01/2010 06:12:53] Preparing to shutdown server..
+[04/01/2010 06:12:53] .
+[04/01/2010 06:12:54] Exiting
+[04/01/2010 16:15:52] The Forgotten Server, version 0.3.4 (Crying Damson)
+[04/01/2010 16:15:52] Sever Criado Por Alissow e Comedinha.
+[04/01/2010 16:15:52] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[04/01/2010 16:15:52] Bom Jogo!!!
+[04/01/2010 16:15:52] 
+[04/01/2010 16:15:52] >> Debugging: nothing.
+[04/01/2010 16:15:52] >> Checking software version... outdated, please consider updating!
+[04/01/2010 16:15:54] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[04/01/2010 16:15:54] > Latest version information - version: 0.3.6, patch: 0, build: 3293, timestamp: 1260652199.
+[04/01/2010 16:15:54] [Warning - ConfigManager::getBool] 62
+[04/01/2010 16:15:54] 
+[04/01/2010 16:15:54] >> Loading config (config.lua)
+[04/01/2010 16:15:54] > Using plaintext passwords
+[04/01/2010 16:15:54] >> Loading RSA key
+[04/01/2010 16:15:54] >> Starting SQL connection
+[04/01/2010 16:15:55] >> Running Database Manager
+[04/01/2010 16:16:03] > Optimized database.
+[04/01/2010 16:16:03] >> Loading items
+[04/01/2010 16:16:04] >> Loading groups
+[04/01/2010 16:16:04] >> Loading vocations
+[04/01/2010 16:16:04] >> Loading script systems
+[04/01/2010 16:16:16] >> Loading chat channels
+[04/01/2010 16:16:16] >> Loading outfits
+[04/01/2010 16:16:16] >> Loading experience stages
+[04/01/2010 16:16:16] >> Loading monsters
+[04/01/2010 16:16:19] >> Loading map and spawns...
+[04/01/2010 16:16:21] > Map size: 1100x1100.
+[04/01/2010 16:16:21] > Map descriptions: 
+[04/01/2010 16:16:21] Saved with Remere's Map Editor 1.1.10
+[04/01/2010 16:16:21] Remere 's Map Editor Beta
+[04/01/2010 16:16:22] Duplicate uniqueId 9911
+[04/01/2010 16:16:22] Duplicate uniqueId 9912
+[04/01/2010 16:16:22] Duplicate uniqueId 9913
+[04/01/2010 16:16:22] Duplicate uniqueId 9914
+[04/01/2010 16:16:22] Duplicate uniqueId 9915
+[04/01/2010 16:16:24] Duplicate uniqueId 2471
+[04/01/2010 16:16:24] Duplicate uniqueId 2471
+[04/01/2010 16:16:27] Duplicate uniqueId 8880
+[04/01/2010 16:16:28] Duplicate uniqueId 5006
+[04/01/2010 16:16:29] > Map loading time: 9.72 seconds.
+[04/01/2010 16:16:33] > Data loading time: 4.063 seconds.
+[04/01/2010 16:16:37] > Unserialization time for houses: 3.282 seconds.
+[04/01/2010 16:17:29] > Unserialization time for map: 51.834 seconds.
+[04/01/2010 16:17:29] >> Checking world type... PvP
+[04/01/2010 16:17:29] >> Initializing game state modules and registering services...
+[04/01/2010 16:17:36] > Global address: 201.246.36.209
+[04/01/2010 16:17:37] > Local ports:
+[04/01/2010 16:17:37] 7171	7172	
+[04/01/2010 16:17:37] >> All modules were loaded, server starting up...
+[04/01/2010 16:17:37] >> Aggrox metal server Online!
+[04/01/2010 16:17:37] 
+[04/01/2010 16:26:17] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[04/01/2010 16:26:39] > Broadcasted message: "whatafuck csm invaden Slayer city".
+[04/01/2010 16:27:04] [Error - SingleSpawnEvent::executeEvent] Cannot spawn monster Diblis The Fair
+[04/01/2010 16:28:05] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[04/01/2010 16:28:11] Hoster Aggresor has logged in.
+[04/01/2010 16:28:11] > Broadcasted message: "Hoster Aggresor se conecto (el es: rei aggresor)".
+[04/01/2010 16:30:43] 
+[04/01/2010 16:30:43] Lua Script Error: [Action Interface] 
+[04/01/2010 16:30:43] data/actions/scripts/rwitems.lua:onUse
+[04/01/2010 16:30:43] 
+[04/01/2010 16:30:43] data/actions/scripts/rwitems.lua:7: attempt to call global 'doShowTextWindow' (a nil value)
+[04/01/2010 16:30:44] stack traceback:
+[04/01/2010 16:30:44] 	data/actions/scripts/rwitems.lua:7: in function <data/actions/scripts/rwitems.lua:3>
+[04/01/2010 16:31:16] > Saving server...
+[04/01/2010 16:31:30] > SAVE: Complete in 14.58 seconds using relational house storage.
+[04/01/2010 16:36:17] > Broadcasted message: "[SYSTEMA DE LOTERIA] ganador: Hoster Aggresor, recompensa: 100k! - felicitaciones! (siguiente Loteria en media Hora)".
+[04/01/2010 16:36:18] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[04/01/2010 16:46:17] > Saving server...
+[04/01/2010 16:46:30] > SAVE: Complete in 12.204 seconds using relational house storage.
+[04/01/2010 16:46:30] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[04/01/2010 16:56:18] > Broadcasted message: "[SYSTEMA DE LOTERIA] ganador: Hoster Aggresor, recompensa: 100k! - felicitaciones! (siguiente Loteria en media Hora)".
+[04/01/2010 16:56:31] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[04/01/2010 16:59:36] 
+[04/01/2010 16:59:36] Lua Script Error: [Action Interface] 
+[04/01/2010 16:59:36] data/actions/scripts/liquids/mana_potion.lua:onUse
+[04/01/2010 16:59:36] 
+[04/01/2010 16:59:36] luaDoCreatureAddMana(). Creature not found
+[04/01/2010 16:59:38] 
+[04/01/2010 16:59:38] Lua Script Error: [Action Interface] 
+[04/01/2010 16:59:39] data/actions/scripts/liquids/mana_potion.lua:onUse
+[04/01/2010 16:59:39] 
+[04/01/2010 16:59:39] luaDoCreatureAddMana(). Creature not found
+[04/01/2010 16:59:50] 
+[04/01/2010 16:59:51] Lua Script Error: [Action Interface] 
+[04/01/2010 16:59:51] data/actions/scripts/liquids/mana_potion.lua:onUse
+[04/01/2010 16:59:51] 
+[04/01/2010 16:59:51] luaDoCreatureAddMana(). Creature not found
+[04/01/2010 17:00:10] 
+[04/01/2010 17:00:10] Lua Script Error: [Action Interface] 
+[04/01/2010 17:00:10] data/actions/scripts/liquids/health_potion.lua:onUse
+[04/01/2010 17:00:10] 
+[04/01/2010 17:00:10] luaDoCreatureAddHealth(). Creature not found
+[04/01/2010 17:00:47] 
+[04/01/2010 17:00:47] Lua Script Error: [Action Interface] 
+[04/01/2010 17:00:47] data/actions/scripts/liquids/health_potion.lua:onUse
+[04/01/2010 17:00:47] 
+[04/01/2010 17:00:47] luaDoCreatureAddHealth(). Creature not found
+[04/01/2010 17:00:58] 
+[04/01/2010 17:00:58] Lua Script Error: [Action Interface] 
+[04/01/2010 17:00:58] data/actions/scripts/liquids/great_mana.lua:onUse
+[04/01/2010 17:00:59] 
+[04/01/2010 17:00:59] luaGetPlayerCustomFlagValue(). Player not found
+[04/01/2010 17:00:59] 
+[04/01/2010 17:00:59] Lua Script Error: [Action Interface] 
+[04/01/2010 17:00:59] data/actions/scripts/liquids/great_mana.lua:onUse
+[04/01/2010 17:00:59] 
+[04/01/2010 17:00:59] luaDoCreatureAddMana(). Creature not found
+[04/01/2010 17:01:00] 
+[04/01/2010 17:01:00] Lua Script Error: [Action Interface] 
+[04/01/2010 17:01:00] data/actions/scripts/liquids/great_mana.lua:onUse
+[04/01/2010 17:01:01] 
+[04/01/2010 17:01:01] luaGetPlayerCustomFlagValue(). Player not found
+[04/01/2010 17:01:01] 
+[04/01/2010 17:01:01] Lua Script Error: [Action Interface] 
+[04/01/2010 17:01:01] data/actions/scripts/liquids/great_mana.lua:onUse
+[04/01/2010 17:01:01] 
+[04/01/2010 17:01:01] luaDoCreatureAddMana(). Creature not found
+[04/01/2010 17:01:18] > Saving server...
+[04/01/2010 17:01:44] > SAVE: Complete in 26.361 seconds using relational house storage.
+[04/01/2010 17:02:00] 
+[04/01/2010 17:02:00] Lua Script Error: [Action Interface] 
+[04/01/2010 17:02:00] data/actions/scripts/liquids/mana_potion.lua:onUse
+[04/01/2010 17:02:00] 
+[04/01/2010 17:02:00] luaDoCreatureAddMana(). Creature not found
+[04/01/2010 17:04:10] 
+[04/01/2010 17:04:10] Lua Script Error: [Action Interface] 
+[04/01/2010 17:04:10] data/actions/scripts/liquids/mana_potion.lua:onUse
+[04/01/2010 17:04:10] 
+[04/01/2010 17:04:10] luaDoCreatureAddMana(). Creature not found
+[04/01/2010 17:06:32] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[04/01/2010 17:09:53] Hoster Aggresor has logged out.
+[04/01/2010 17:09:55] > Saving server...
+[04/01/2010 17:14:18] The Forgotten Server, version 0.3.4 (Crying Damson)
+[04/01/2010 17:14:18] Sever Criado Por Alissow e Comedinha.
+[04/01/2010 17:14:18] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[04/01/2010 17:14:19] Bom Jogo!!!
+[04/01/2010 17:14:19] 
+[04/01/2010 17:14:19] >> Debugging: nothing.
+[04/01/2010 17:14:19] >> Checking software version... outdated, please consider updating!
+[04/01/2010 17:14:19] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[04/01/2010 17:14:20] > Latest version information - version: 0.3.6, patch: 0, build: 3293, timestamp: 1260652199.
+[04/01/2010 17:14:20] [Warning - ConfigManager::getBool] 62
+[04/01/2010 17:14:20] 
+[04/01/2010 17:14:20] >> Loading config (config.lua)
+[04/01/2010 17:14:20] > Using plaintext passwords
+[04/01/2010 17:14:20] >> Loading RSA key
+[04/01/2010 17:14:20] >> Starting SQL connection
+[04/01/2010 17:14:20] >> Running Database Manager
+[04/01/2010 17:14:22] > Optimized database.
+[04/01/2010 17:14:22] >> Loading items
+[04/01/2010 17:14:23] >> Loading groups
+[04/01/2010 17:14:23] >> Loading vocations
+[04/01/2010 17:14:23] >> Loading script systems
+[04/01/2010 17:14:29] >> Loading chat channels
+[04/01/2010 17:14:29] >> Loading outfits
+[04/01/2010 17:14:29] >> Loading experience stages
+[04/01/2010 17:14:29] >> Loading monsters
+[04/01/2010 17:14:32] >> Loading map and spawns...
+[04/01/2010 17:14:33] > Map size: 1100x1100.
+[04/01/2010 17:14:33] > Map descriptions: 
+[04/01/2010 17:14:33] Saved with Remere's Map Editor 1.1.10
+[04/01/2010 17:14:33] Remere 's Map Editor Beta
+[04/01/2010 17:14:35] Duplicate uniqueId 9911
+[04/01/2010 17:14:35] Duplicate uniqueId 9912
+[04/01/2010 17:14:35] Duplicate uniqueId 9913
+[04/01/2010 17:14:35] Duplicate uniqueId 9914
+[04/01/2010 17:14:35] Duplicate uniqueId 9915
+[04/01/2010 17:14:37] Duplicate uniqueId 2471
+[04/01/2010 17:14:38] Duplicate uniqueId 2471
+[04/01/2010 17:14:43] Duplicate uniqueId 8880
+[04/01/2010 17:14:45] Duplicate uniqueId 5006
+[04/01/2010 17:14:46] > Map loading time: 14.063 seconds.
+[04/01/2010 17:15:00] > Data loading time: 14.032 seconds.
+[04/01/2010 17:15:05] > Unserialization time for houses: 5.141 seconds.
+[04/01/2010 17:16:06] > Unserialization time for map: 60.503 seconds.
+[04/01/2010 17:16:06] >> Checking world type... PvP
+[04/01/2010 17:16:06] >> Initializing game state modules and registering services...
+[04/01/2010 17:16:15] > Global address: 201.246.36.209
+[04/01/2010 17:16:16] > Local ports:
+[04/01/2010 17:16:16] 7171	7172	
+[04/01/2010 17:16:16] >> All modules were loaded, server starting up...
+[04/01/2010 17:16:16] >> Aggrox metal server Online!
+[04/01/2010 17:16:16] 
+[04/01/2010 17:16:26] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[04/01/2010 17:16:28] Hoster Aggresor has logged in.
+[04/01/2010 17:16:28] > Broadcasted message: "Hoster Aggresor se conecto (el es: rei aggresor)".
+[04/01/2010 17:18:18] > Broadcasted message: "Demonios csm invaden Slayer city".
+[04/01/2010 17:21:28] 
+[04/01/2010 17:21:28] Lua Script Error: [Action Interface] 
+[04/01/2010 17:21:28] data/actions/scripts/liquids/mana_potion.lua:onUse
+[04/01/2010 17:21:29] 
+[04/01/2010 17:21:29] luaDoCreatureAddMana(). Creature not found
+[04/01/2010 17:24:30] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[04/01/2010 17:27:55] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/cigar.lua)
+[04/01/2010 17:27:55] data/actions/scripts/cigar.lua:6: 'end' expected (to close 'if' at line 2) near 'setConditionParam'
+[04/01/2010 17:29:30] > Saving server...
+[04/01/2010 17:29:39] > SAVE: Complete in 8.891 seconds using relational house storage.
+[04/01/2010 17:30:32] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/cigar.lua)
+[04/01/2010 17:30:32] data/actions/scripts/cigar.lua:9: 'end' expected (to close 'if' at line 5) near 'setConditionParam'
+[04/01/2010 17:32:38] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/cigar.lua)
+[04/01/2010 17:32:38] data/actions/scripts/cigar.lua:6: 'end' expected (to close 'if' at line 2) near 'local'
+[04/01/2010 17:34:30] > Broadcasted message: "[SYSTEMA DE LOTERIA] ganador: Hoster Aggresor, recompensa: 100k! - felicitaciones! (siguiente Loteria en media Hora)".
+[04/01/2010 17:34:31] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[04/01/2010 17:34:51] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/cigar.lua)
+[04/01/2010 17:34:51] data/actions/scripts/cigar.lua:6: 'end' expected (to close 'if' at line 2) near 'doAddCondition'
+[04/01/2010 17:36:17] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/cigar.lua)
+[04/01/2010 17:36:17] data/actions/scripts/cigar.lua:6: 'end' expected (to close 'if' at line 2) near 'local'
+[04/01/2010 17:36:40] 
+[04/01/2010 17:36:40] Lua Script Error: [Action Interface] 
+[04/01/2010 17:36:40] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:36:40] 
+[04/01/2010 17:36:40] luaCreateConditionObject(). This function can only be used while loading the script.
+[04/01/2010 17:36:40] 
+[04/01/2010 17:36:40] Lua Script Error: [Action Interface] 
+[04/01/2010 17:36:40] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:36:40] 
+[04/01/2010 17:36:40] luaSetConditionParam(). This function can only be used while loading the script.
+[04/01/2010 17:36:40] 
+[04/01/2010 17:36:40] Lua Script Error: [Action Interface] 
+[04/01/2010 17:36:40] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:36:40] 
+[04/01/2010 17:36:40] luaSetCombatCondition(). This function can only be used while loading the script.
+[04/01/2010 17:36:41] 
+[04/01/2010 17:36:41] Lua Script Error: [Action Interface] 
+[04/01/2010 17:36:41] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:36:41] 
+[04/01/2010 17:36:41] luaCreateConditionObject(). This function can only be used while loading the script.
+[04/01/2010 17:36:41] 
+[04/01/2010 17:36:41] Lua Script Error: [Action Interface] 
+[04/01/2010 17:36:41] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:36:41] 
+[04/01/2010 17:36:41] luaSetConditionParam(). This function can only be used while loading the script.
+[04/01/2010 17:36:41] 
+[04/01/2010 17:36:41] Lua Script Error: [Action Interface] 
+[04/01/2010 17:36:41] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:36:41] 
+[04/01/2010 17:36:41] luaSetCombatCondition(). This function can only be used while loading the script.
+[04/01/2010 17:36:42] 
+[04/01/2010 17:36:42] Lua Script Error: [Action Interface] 
+[04/01/2010 17:36:42] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:36:42] 
+[04/01/2010 17:36:42] luaCreateConditionObject(). This function can only be used while loading the script.
+[04/01/2010 17:36:42] 
+[04/01/2010 17:36:42] Lua Script Error: [Action Interface] 
+[04/01/2010 17:36:42] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:36:42] 
+[04/01/2010 17:36:42] luaSetConditionParam(). This function can only be used while loading the script.
+[04/01/2010 17:36:42] 
+[04/01/2010 17:36:42] Lua Script Error: [Action Interface] 
+[04/01/2010 17:36:42] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:36:42] 
+[04/01/2010 17:36:42] luaSetCombatCondition(). This function can only be used while loading the script.
+[04/01/2010 17:36:42] 
+[04/01/2010 17:36:42] Lua Script Error: [Action Interface] 
+[04/01/2010 17:36:43] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:36:43] 
+[04/01/2010 17:36:43] luaCreateConditionObject(). This function can only be used while loading the script.
+[04/01/2010 17:36:43] 
+[04/01/2010 17:36:43] Lua Script Error: [Action Interface] 
+[04/01/2010 17:36:43] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:36:43] 
+[04/01/2010 17:36:43] luaSetConditionParam(). This function can only be used while loading the script.
+[04/01/2010 17:36:43] 
+[04/01/2010 17:36:43] Lua Script Error: [Action Interface] 
+[04/01/2010 17:36:43] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:36:43] 
+[04/01/2010 17:36:43] luaSetCombatCondition(). This function can only be used while loading the script.
+[04/01/2010 17:36:43] 
+[04/01/2010 17:36:43] Lua Script Error: [Action Interface] 
+[04/01/2010 17:36:43] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:36:43] 
+[04/01/2010 17:36:43] luaCreateConditionObject(). This function can only be used while loading the script.
+[04/01/2010 17:36:44] 
+[04/01/2010 17:36:44] Lua Script Error: [Action Interface] 
+[04/01/2010 17:36:44] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:36:44] 
+[04/01/2010 17:36:44] luaSetConditionParam(). This function can only be used while loading the script.
+[04/01/2010 17:36:44] 
+[04/01/2010 17:36:44] Lua Script Error: [Action Interface] 
+[04/01/2010 17:36:44] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:36:44] 
+[04/01/2010 17:36:44] luaSetCombatCondition(). This function can only be used while loading the script.
+[04/01/2010 17:36:44] 
+[04/01/2010 17:36:44] Lua Script Error: [Action Interface] 
+[04/01/2010 17:36:44] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:36:44] 
+[04/01/2010 17:36:44] luaCreateConditionObject(). This function can only be used while loading the script.
+[04/01/2010 17:36:44] 
+[04/01/2010 17:36:44] Lua Script Error: [Action Interface] 
+[04/01/2010 17:36:44] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:36:44] 
+[04/01/2010 17:36:45] luaSetConditionParam(). This function can only be used while loading the script.
+[04/01/2010 17:36:45] 
+[04/01/2010 17:36:45] Lua Script Error: [Action Interface] 
+[04/01/2010 17:36:45] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:36:45] 
+[04/01/2010 17:36:45] luaSetCombatCondition(). This function can only be used while loading the script.
+[04/01/2010 17:36:52] 
+[04/01/2010 17:36:52] Lua Script Error: [Action Interface] 
+[04/01/2010 17:36:52] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:36:52] 
+[04/01/2010 17:36:52] luaCreateConditionObject(). This function can only be used while loading the script.
+[04/01/2010 17:36:52] 
+[04/01/2010 17:36:52] Lua Script Error: [Action Interface] 
+[04/01/2010 17:36:52] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:36:52] 
+[04/01/2010 17:36:52] luaSetConditionParam(). This function can only be used while loading the script.
+[04/01/2010 17:36:52] 
+[04/01/2010 17:36:52] Lua Script Error: [Action Interface] 
+[04/01/2010 17:36:53] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:36:53] 
+[04/01/2010 17:36:53] luaSetCombatCondition(). This function can only be used while loading the script.
+[04/01/2010 17:36:53] 
+[04/01/2010 17:36:53] Lua Script Error: [Action Interface] 
+[04/01/2010 17:36:53] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:36:53] 
+[04/01/2010 17:36:53] luaCreateConditionObject(). This function can only be used while loading the script.
+[04/01/2010 17:36:53] 
+[04/01/2010 17:36:53] Lua Script Error: [Action Interface] 
+[04/01/2010 17:36:53] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:36:53] 
+[04/01/2010 17:36:53] luaSetConditionParam(). This function can only be used while loading the script.
+[04/01/2010 17:36:53] 
+[04/01/2010 17:36:53] Lua Script Error: [Action Interface] 
+[04/01/2010 17:36:53] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:36:53] 
+[04/01/2010 17:36:53] luaSetCombatCondition(). This function can only be used while loading the script.
+[04/01/2010 17:36:54] 
+[04/01/2010 17:36:54] Lua Script Error: [Action Interface] 
+[04/01/2010 17:36:54] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:36:54] 
+[04/01/2010 17:36:54] luaCreateConditionObject(). This function can only be used while loading the script.
+[04/01/2010 17:36:54] 
+[04/01/2010 17:36:54] Lua Script Error: [Action Interface] 
+[04/01/2010 17:36:54] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:36:54] 
+[04/01/2010 17:36:54] luaSetConditionParam(). This function can only be used while loading the script.
+[04/01/2010 17:36:54] 
+[04/01/2010 17:36:54] Lua Script Error: [Action Interface] 
+[04/01/2010 17:36:54] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:36:54] 
+[04/01/2010 17:36:54] luaSetCombatCondition(). This function can only be used while loading the script.
+[04/01/2010 17:36:55] 
+[04/01/2010 17:36:55] Lua Script Error: [Action Interface] 
+[04/01/2010 17:36:55] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:36:55] 
+[04/01/2010 17:36:55] luaCreateConditionObject(). This function can only be used while loading the script.
+[04/01/2010 17:36:55] 
+[04/01/2010 17:36:55] Lua Script Error: [Action Interface] 
+[04/01/2010 17:36:55] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:36:55] 
+[04/01/2010 17:36:55] luaSetConditionParam(). This function can only be used while loading the script.
+[04/01/2010 17:36:55] 
+[04/01/2010 17:36:55] Lua Script Error: [Action Interface] 
+[04/01/2010 17:36:55] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:36:55] 
+[04/01/2010 17:36:55] luaSetCombatCondition(). This function can only be used while loading the script.
+[04/01/2010 17:36:55] 
+[04/01/2010 17:36:55] Lua Script Error: [Action Interface] 
+[04/01/2010 17:36:55] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:36:55] 
+[04/01/2010 17:36:55] luaCreateConditionObject(). This function can only be used while loading the script.
+[04/01/2010 17:36:56] 
+[04/01/2010 17:36:56] Lua Script Error: [Action Interface] 
+[04/01/2010 17:36:56] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:36:56] 
+[04/01/2010 17:36:56] luaSetConditionParam(). This function can only be used while loading the script.
+[04/01/2010 17:36:56] 
+[04/01/2010 17:36:56] Lua Script Error: [Action Interface] 
+[04/01/2010 17:36:56] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:36:56] 
+[04/01/2010 17:36:56] luaSetCombatCondition(). This function can only be used while loading the script.
+[04/01/2010 17:36:56] 
+[04/01/2010 17:36:56] Lua Script Error: [Action Interface] 
+[04/01/2010 17:36:56] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:36:56] 
+[04/01/2010 17:36:56] luaCreateConditionObject(). This function can only be used while loading the script.
+[04/01/2010 17:36:56] 
+[04/01/2010 17:36:56] Lua Script Error: [Action Interface] 
+[04/01/2010 17:36:57] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:36:57] 
+[04/01/2010 17:36:57] luaSetConditionParam(). This function can only be used while loading the script.
+[04/01/2010 17:36:57] 
+[04/01/2010 17:36:57] Lua Script Error: [Action Interface] 
+[04/01/2010 17:36:57] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:36:57] 
+[04/01/2010 17:36:57] luaSetCombatCondition(). This function can only be used while loading the script.
+[04/01/2010 17:39:14] 
+[04/01/2010 17:39:14] Lua Script Error: [Action Interface] 
+[04/01/2010 17:39:14] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:39:14] 
+[04/01/2010 17:39:14] luaCreateConditionObject(). This function can only be used while loading the script.
+[04/01/2010 17:39:14] 
+[04/01/2010 17:39:14] Lua Script Error: [Action Interface] 
+[04/01/2010 17:39:14] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:39:14] 
+[04/01/2010 17:39:14] luaCreateConditionObject(). This function can only be used while loading the script.
+[04/01/2010 17:39:14] 
+[04/01/2010 17:39:14] Lua Script Error: [Action Interface] 
+[04/01/2010 17:39:14] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:39:14] 
+[04/01/2010 17:39:14] luaCreateConditionObject(). This function can only be used while loading the script.
+[04/01/2010 17:39:15] 
+[04/01/2010 17:39:15] Lua Script Error: [Action Interface] 
+[04/01/2010 17:39:15] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:39:15] 
+[04/01/2010 17:39:15] luaCreateConditionObject(). This function can only be used while loading the script.
+[04/01/2010 17:39:15] 
+[04/01/2010 17:39:15] Lua Script Error: [Action Interface] 
+[04/01/2010 17:39:15] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:39:15] 
+[04/01/2010 17:39:15] luaCreateConditionObject(). This function can only be used while loading the script.
+[04/01/2010 17:39:16] 
+[04/01/2010 17:39:16] Lua Script Error: [Action Interface] 
+[04/01/2010 17:39:16] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:39:16] 
+[04/01/2010 17:39:16] luaCreateConditionObject(). This function can only be used while loading the script.
+[04/01/2010 17:39:20] 
+[04/01/2010 17:39:20] Lua Script Error: [Action Interface] 
+[04/01/2010 17:39:21] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:39:21] 
+[04/01/2010 17:39:21] luaCreateConditionObject(). This function can only be used while loading the script.
+[04/01/2010 17:39:21] 
+[04/01/2010 17:39:21] Lua Script Error: [Action Interface] 
+[04/01/2010 17:39:21] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:39:21] 
+[04/01/2010 17:39:21] luaCreateConditionObject(). This function can only be used while loading the script.
+[04/01/2010 17:39:21] 
+[04/01/2010 17:39:21] Lua Script Error: [Action Interface] 
+[04/01/2010 17:39:21] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:39:21] 
+[04/01/2010 17:39:21] luaCreateConditionObject(). This function can only be used while loading the script.
+[04/01/2010 17:39:22] 
+[04/01/2010 17:39:22] Lua Script Error: [Action Interface] 
+[04/01/2010 17:39:22] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:39:22] 
+[04/01/2010 17:39:22] luaCreateConditionObject(). This function can only be used while loading the script.
+[04/01/2010 17:39:22] 
+[04/01/2010 17:39:22] Lua Script Error: [Action Interface] 
+[04/01/2010 17:39:22] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:39:22] 
+[04/01/2010 17:39:22] luaCreateConditionObject(). This function can only be used while loading the script.
+[04/01/2010 17:40:43] 
+[04/01/2010 17:40:43] Lua Script Error: [Action Interface] 
+[04/01/2010 17:40:44] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:40:44] 
+[04/01/2010 17:40:44] luaCreateConditionObject(). This function can only be used while loading the script.
+[04/01/2010 17:40:44] 
+[04/01/2010 17:40:44] Lua Script Error: [Action Interface] 
+[04/01/2010 17:40:44] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:40:44] 
+[04/01/2010 17:40:44] luaSetConditionParam(). This function can only be used while loading the script.
+[04/01/2010 17:40:44] 
+[04/01/2010 17:40:44] Lua Script Error: [Action Interface] 
+[04/01/2010 17:40:44] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:40:44] 
+[04/01/2010 17:40:44] luaCreateConditionObject(). This function can only be used while loading the script.
+[04/01/2010 17:40:44] 
+[04/01/2010 17:40:44] Lua Script Error: [Action Interface] 
+[04/01/2010 17:40:44] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:40:44] 
+[04/01/2010 17:40:44] luaSetConditionParam(). This function can only be used while loading the script.
+[04/01/2010 17:40:45] 
+[04/01/2010 17:40:45] Lua Script Error: [Action Interface] 
+[04/01/2010 17:40:45] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:40:45] 
+[04/01/2010 17:40:45] luaCreateConditionObject(). This function can only be used while loading the script.
+[04/01/2010 17:40:45] 
+[04/01/2010 17:40:45] Lua Script Error: [Action Interface] 
+[04/01/2010 17:40:45] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:40:45] 
+[04/01/2010 17:40:45] luaSetConditionParam(). This function can only be used while loading the script.
+[04/01/2010 17:40:45] 
+[04/01/2010 17:40:45] Lua Script Error: [Action Interface] 
+[04/01/2010 17:40:45] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:40:45] 
+[04/01/2010 17:40:45] luaCreateConditionObject(). This function can only be used while loading the script.
+[04/01/2010 17:40:46] 
+[04/01/2010 17:40:46] Lua Script Error: [Action Interface] 
+[04/01/2010 17:40:46] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:40:46] 
+[04/01/2010 17:40:46] luaSetConditionParam(). This function can only be used while loading the script.
+[04/01/2010 17:40:46] 
+[04/01/2010 17:40:46] Lua Script Error: [Action Interface] 
+[04/01/2010 17:40:46] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:40:46] 
+[04/01/2010 17:40:46] luaCreateConditionObject(). This function can only be used while loading the script.
+[04/01/2010 17:40:46] 
+[04/01/2010 17:40:46] Lua Script Error: [Action Interface] 
+[04/01/2010 17:40:46] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:40:46] 
+[04/01/2010 17:40:46] luaSetConditionParam(). This function can only be used while loading the script.
+[04/01/2010 17:40:52] 
+[04/01/2010 17:40:52] Lua Script Error: [Action Interface] 
+[04/01/2010 17:40:52] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:40:52] 
+[04/01/2010 17:40:52] luaCreateConditionObject(). This function can only be used while loading the script.
+[04/01/2010 17:40:52] 
+[04/01/2010 17:40:52] Lua Script Error: [Action Interface] 
+[04/01/2010 17:40:53] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:40:53] 
+[04/01/2010 17:40:53] luaSetConditionParam(). This function can only be used while loading the script.
+[04/01/2010 17:40:53] 
+[04/01/2010 17:40:53] Lua Script Error: [Action Interface] 
+[04/01/2010 17:40:53] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:40:53] 
+[04/01/2010 17:40:53] luaCreateConditionObject(). This function can only be used while loading the script.
+[04/01/2010 17:40:53] 
+[04/01/2010 17:40:53] Lua Script Error: [Action Interface] 
+[04/01/2010 17:40:53] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:40:53] 
+[04/01/2010 17:40:53] luaSetConditionParam(). This function can only be used while loading the script.
+[04/01/2010 17:40:54] 
+[04/01/2010 17:40:54] Lua Script Error: [Action Interface] 
+[04/01/2010 17:40:54] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:40:54] 
+[04/01/2010 17:40:54] luaCreateConditionObject(). This function can only be used while loading the script.
+[04/01/2010 17:40:54] 
+[04/01/2010 17:40:54] Lua Script Error: [Action Interface] 
+[04/01/2010 17:40:54] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:40:54] 
+[04/01/2010 17:40:54] luaSetConditionParam(). This function can only be used while loading the script.
+[04/01/2010 17:40:54] 
+[04/01/2010 17:40:54] Lua Script Error: [Action Interface] 
+[04/01/2010 17:40:54] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:40:54] 
+[04/01/2010 17:40:54] luaCreateConditionObject(). This function can only be used while loading the script.
+[04/01/2010 17:40:54] 
+[04/01/2010 17:40:54] Lua Script Error: [Action Interface] 
+[04/01/2010 17:40:54] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:40:54] 
+[04/01/2010 17:40:54] luaSetConditionParam(). This function can only be used while loading the script.
+[04/01/2010 17:40:55] 
+[04/01/2010 17:40:55] Lua Script Error: [Action Interface] 
+[04/01/2010 17:40:55] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:40:55] 
+[04/01/2010 17:40:55] luaCreateConditionObject(). This function can only be used while loading the script.
+[04/01/2010 17:40:55] 
+[04/01/2010 17:40:55] Lua Script Error: [Action Interface] 
+[04/01/2010 17:40:55] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:40:55] 
+[04/01/2010 17:40:55] luaSetConditionParam(). This function can only be used while loading the script.
+[04/01/2010 17:40:55] 
+[04/01/2010 17:40:55] Lua Script Error: [Action Interface] 
+[04/01/2010 17:40:55] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:40:55] 
+[04/01/2010 17:40:55] luaCreateConditionObject(). This function can only be used while loading the script.
+[04/01/2010 17:40:56] 
+[04/01/2010 17:40:56] Lua Script Error: [Action Interface] 
+[04/01/2010 17:40:56] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:40:56] 
+[04/01/2010 17:40:56] luaSetConditionParam(). This function can only be used while loading the script.
+[04/01/2010 17:40:56] 
+[04/01/2010 17:40:56] Lua Script Error: [Action Interface] 
+[04/01/2010 17:40:56] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:40:56] 
+[04/01/2010 17:40:56] luaCreateConditionObject(). This function can only be used while loading the script.
+[04/01/2010 17:40:56] 
+[04/01/2010 17:40:56] Lua Script Error: [Action Interface] 
+[04/01/2010 17:40:56] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:40:56] 
+[04/01/2010 17:40:56] luaSetConditionParam(). This function can only be used while loading the script.
+[04/01/2010 17:40:57] 
+[04/01/2010 17:40:57] Lua Script Error: [Action Interface] 
+[04/01/2010 17:40:57] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:40:57] 
+[04/01/2010 17:40:57] luaCreateConditionObject(). This function can only be used while loading the script.
+[04/01/2010 17:40:57] 
+[04/01/2010 17:40:57] Lua Script Error: [Action Interface] 
+[04/01/2010 17:40:57] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:40:57] 
+[04/01/2010 17:40:57] luaSetConditionParam(). This function can only be used while loading the script.
+[04/01/2010 17:40:57] 
+[04/01/2010 17:40:57] Lua Script Error: [Action Interface] 
+[04/01/2010 17:40:57] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:40:57] 
+[04/01/2010 17:40:57] luaCreateConditionObject(). This function can only be used while loading the script.
+[04/01/2010 17:40:57] 
+[04/01/2010 17:40:57] Lua Script Error: [Action Interface] 
+[04/01/2010 17:40:58] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:40:58] 
+[04/01/2010 17:40:58] luaSetConditionParam(). This function can only be used while loading the script.
+[04/01/2010 17:42:00] Hoster Aggresor has logged out.
+[04/01/2010 17:42:02] Jack Dee has logged in.
+[04/01/2010 17:42:05] Jack Dee has logged out.
+[04/01/2010 17:42:06] Kina Zarprite has logged in.
+[04/01/2010 17:42:08] Kina Zarprite has logged out.
+[04/01/2010 17:42:09] Kina Zarprite has logged in.
+[04/01/2010 17:42:11] Kina Zarprite has logged out.
+[04/01/2010 17:42:12] Mono Pirata has logged in.
+[04/01/2010 17:42:17] 
+[04/01/2010 17:42:17] Lua Script Error: [Action Interface] 
+[04/01/2010 17:42:17] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:42:17] 
+[04/01/2010 17:42:17] luaCreateConditionObject(). This function can only be used while loading the script.
+[04/01/2010 17:42:17] 
+[04/01/2010 17:42:17] Lua Script Error: [Action Interface] 
+[04/01/2010 17:42:17] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:42:17] 
+[04/01/2010 17:42:17] luaSetConditionParam(). This function can only be used while loading the script.
+[04/01/2010 17:42:18] 
+[04/01/2010 17:42:18] Lua Script Error: [Action Interface] 
+[04/01/2010 17:42:18] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:42:18] 
+[04/01/2010 17:42:18] luaCreateConditionObject(). This function can only be used while loading the script.
+[04/01/2010 17:42:18] 
+[04/01/2010 17:42:18] Lua Script Error: [Action Interface] 
+[04/01/2010 17:42:18] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:42:18] 
+[04/01/2010 17:42:18] luaSetConditionParam(). This function can only be used while loading the script.
+[04/01/2010 17:42:18] 
+[04/01/2010 17:42:18] Lua Script Error: [Action Interface] 
+[04/01/2010 17:42:18] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:42:18] 
+[04/01/2010 17:42:18] luaCreateConditionObject(). This function can only be used while loading the script.
+[04/01/2010 17:42:19] 
+[04/01/2010 17:42:19] Lua Script Error: [Action Interface] 
+[04/01/2010 17:42:19] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:42:19] 
+[04/01/2010 17:42:19] luaSetConditionParam(). This function can only be used while loading the script.
+[04/01/2010 17:42:19] 
+[04/01/2010 17:42:19] Lua Script Error: [Action Interface] 
+[04/01/2010 17:42:19] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:42:19] 
+[04/01/2010 17:42:19] luaCreateConditionObject(). This function can only be used while loading the script.
+[04/01/2010 17:42:19] 
+[04/01/2010 17:42:19] Lua Script Error: [Action Interface] 
+[04/01/2010 17:42:19] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:42:19] 
+[04/01/2010 17:42:19] luaSetConditionParam(). This function can only be used while loading the script.
+[04/01/2010 17:42:24] 
+[04/01/2010 17:42:24] Lua Script Error: [Action Interface] 
+[04/01/2010 17:42:24] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:42:24] 
+[04/01/2010 17:42:24] luaCreateConditionObject(). This function can only be used while loading the script.
+[04/01/2010 17:42:24] 
+[04/01/2010 17:42:24] Lua Script Error: [Action Interface] 
+[04/01/2010 17:42:24] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:42:24] 
+[04/01/2010 17:42:24] luaSetConditionParam(). This function can only be used while loading the script.
+[04/01/2010 17:42:25] 
+[04/01/2010 17:42:25] Lua Script Error: [Action Interface] 
+[04/01/2010 17:42:25] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:42:25] 
+[04/01/2010 17:42:25] luaCreateConditionObject(). This function can only be used while loading the script.
+[04/01/2010 17:42:25] 
+[04/01/2010 17:42:25] Lua Script Error: [Action Interface] 
+[04/01/2010 17:42:25] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:42:25] 
+[04/01/2010 17:42:25] luaSetConditionParam(). This function can only be used while loading the script.
+[04/01/2010 17:42:25] 
+[04/01/2010 17:42:25] Lua Script Error: [Action Interface] 
+[04/01/2010 17:42:25] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:42:25] 
+[04/01/2010 17:42:25] luaCreateConditionObject(). This function can only be used while loading the script.
+[04/01/2010 17:42:25] 
+[04/01/2010 17:42:25] Lua Script Error: [Action Interface] 
+[04/01/2010 17:42:25] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:42:25] 
+[04/01/2010 17:42:25] luaSetConditionParam(). This function can only be used while loading the script.
+[04/01/2010 17:42:26] 
+[04/01/2010 17:42:26] Lua Script Error: [Action Interface] 
+[04/01/2010 17:42:26] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:42:26] 
+[04/01/2010 17:42:26] luaCreateConditionObject(). This function can only be used while loading the script.
+[04/01/2010 17:42:26] 
+[04/01/2010 17:42:26] Lua Script Error: [Action Interface] 
+[04/01/2010 17:42:26] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:42:26] 
+[04/01/2010 17:42:26] luaSetConditionParam(). This function can only be used while loading the script.
+[04/01/2010 17:42:26] 
+[04/01/2010 17:42:26] Lua Script Error: [Action Interface] 
+[04/01/2010 17:42:26] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:42:27] 
+[04/01/2010 17:42:27] luaCreateConditionObject(). This function can only be used while loading the script.
+[04/01/2010 17:42:27] 
+[04/01/2010 17:42:27] Lua Script Error: [Action Interface] 
+[04/01/2010 17:42:27] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:42:27] 
+[04/01/2010 17:42:27] luaSetConditionParam(). This function can only be used while loading the script.
+[04/01/2010 17:42:27] 
+[04/01/2010 17:42:27] Lua Script Error: [Action Interface] 
+[04/01/2010 17:42:27] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:42:27] 
+[04/01/2010 17:42:27] luaCreateConditionObject(). This function can only be used while loading the script.
+[04/01/2010 17:42:27] 
+[04/01/2010 17:42:27] Lua Script Error: [Action Interface] 
+[04/01/2010 17:42:27] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:42:27] 
+[04/01/2010 17:42:27] luaSetConditionParam(). This function can only be used while loading the script.
+[04/01/2010 17:42:28] 
+[04/01/2010 17:42:28] Lua Script Error: [Action Interface] 
+[04/01/2010 17:42:28] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:42:28] 
+[04/01/2010 17:42:28] luaCreateConditionObject(). This function can only be used while loading the script.
+[04/01/2010 17:42:28] 
+[04/01/2010 17:42:28] Lua Script Error: [Action Interface] 
+[04/01/2010 17:42:28] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:42:28] 
+[04/01/2010 17:42:28] luaSetConditionParam(). This function can only be used while loading the script.
+[04/01/2010 17:42:28] 
+[04/01/2010 17:42:28] Lua Script Error: [Action Interface] 
+[04/01/2010 17:42:28] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:42:28] 
+[04/01/2010 17:42:28] luaCreateConditionObject(). This function can only be used while loading the script.
+[04/01/2010 17:42:29] 
+[04/01/2010 17:42:29] Lua Script Error: [Action Interface] 
+[04/01/2010 17:42:29] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:42:29] 
+[04/01/2010 17:42:29] luaSetConditionParam(). This function can only be used while loading the script.
+[04/01/2010 17:42:29] 
+[04/01/2010 17:42:29] Lua Script Error: [Action Interface] 
+[04/01/2010 17:42:29] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:42:29] 
+[04/01/2010 17:42:29] luaCreateConditionObject(). This function can only be used while loading the script.
+[04/01/2010 17:42:29] 
+[04/01/2010 17:42:29] Lua Script Error: [Action Interface] 
+[04/01/2010 17:42:29] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:42:29] 
+[04/01/2010 17:42:29] luaSetConditionParam(). This function can only be used while loading the script.
+[04/01/2010 17:42:37] 
+[04/01/2010 17:42:37] Lua Script Error: [Action Interface] 
+[04/01/2010 17:42:38] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:42:38] 
+[04/01/2010 17:42:38] luaCreateConditionObject(). This function can only be used while loading the script.
+[04/01/2010 17:42:38] 
+[04/01/2010 17:42:38] Lua Script Error: [Action Interface] 
+[04/01/2010 17:42:38] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:42:38] 
+[04/01/2010 17:42:38] luaSetConditionParam(). This function can only be used while loading the script.
+[04/01/2010 17:42:38] 
+[04/01/2010 17:42:38] Lua Script Error: [Action Interface] 
+[04/01/2010 17:42:38] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:42:38] 
+[04/01/2010 17:42:38] luaCreateConditionObject(). This function can only be used while loading the script.
+[04/01/2010 17:42:38] 
+[04/01/2010 17:42:38] Lua Script Error: [Action Interface] 
+[04/01/2010 17:42:38] data/actions/scripts/cigar.lua:onUse
+[04/01/2010 17:42:38] 
+[04/01/2010 17:42:38] luaSetConditionParam(). This function can only be used while loading the script.
+[04/01/2010 17:44:31] > Saving server...
+[04/01/2010 17:44:38] > SAVE: Complete in 7 seconds using relational house storage.
+[04/01/2010 17:44:38] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[04/01/2010 17:46:34] Mono Pirata has logged out.
+[04/01/2010 17:46:36] Hoster Aggresor has logged in.
+[04/01/2010 17:46:36] > Broadcasted message: "Hoster Aggresor se conecto (el es: rei aggresor)".
+[04/01/2010 17:46:57] Hoster Aggresor has logged out.
+[04/01/2010 17:46:58] Mono Pirata has logged in.
+[04/01/2010 17:47:11] Mono Pirata has logged out.
+[04/01/2010 17:47:12] Pro Pro has logged in.
+[04/01/2010 17:47:18] Pro Pro has logged out.
+[04/01/2010 17:47:19] Zorra Zorrienta has logged in.
+[04/01/2010 17:50:16] Zorra Zorrienta has logged out.
+[04/01/2010 17:50:18] Hoster Aggresor has logged in.
+[04/01/2010 17:50:18] > Broadcasted message: "Hoster Aggresor se conecto (el es: rei aggresor)".
+[04/01/2010 17:50:37] Hoster Aggresor has logged out.
+[04/01/2010 17:50:39] Zorra Zorrienta has logged in.
+[04/01/2010 17:50:50] Zorra Zorrienta has logged out.
+[04/01/2010 17:54:31] 
+[04/01/2010 17:54:31] Lua Script Error: [GlobalEvent Interface] 
+[04/01/2010 17:54:31] data/globalevents/scripts/lottery.lua:onThink
+[04/01/2010 17:54:31] 
+[04/01/2010 17:54:31] data/globalevents/scripts/lottery.lua:12: bad argument #2 to 'random' (interval is empty)
+[04/01/2010 17:54:32] stack traceback:
+[04/01/2010 17:54:32] 	[C]: in function 'random'
+[04/01/2010 17:54:32] 	data/globalevents/scripts/lottery.lua:12: in function <data/globalevents/scripts/lottery.lua:6>
+[04/01/2010 17:54:32] [Error - GlobalEvents::onThink] Couldn't execute event: lottery
+[04/01/2010 17:54:39] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[04/01/2010 17:58:48] Hoster Aggresor has logged in.
+[04/01/2010 17:58:48] > Broadcasted message: "Hoster Aggresor se conecto (el es: rei aggresor)".
+[04/01/2010 17:59:20] 
+[04/01/2010 17:59:20] Lua Script Error: [Action Interface] 
+[04/01/2010 17:59:20] data/actions/scripts/liquids/mastermind_potion.lua:onUse
+[04/01/2010 17:59:20] 
+[04/01/2010 17:59:20] attempt to index a number value
+[04/01/2010 17:59:20] stack traceback:
+[04/01/2010 17:59:20] 	[C]: in function 'doCreatureSay'
+[04/01/2010 17:59:21] 	data/actions/scripts/liquids/mastermind_potion.lua:8: in function <data/actions/scripts/liquids/mastermind_potion.lua:6>
+[04/01/2010 17:59:21] 
+[04/01/2010 17:59:21] Lua Script Error: [Action Interface] 
+[04/01/2010 17:59:21] data/actions/scripts/liquids/mastermind_potion.lua:onUse
+[04/01/2010 17:59:21] 
+[04/01/2010 17:59:21] attempt to index a number value
+[04/01/2010 17:59:21] stack traceback:
+[04/01/2010 17:59:21] 	[C]: in function 'doCreatureSay'
+[04/01/2010 17:59:21] 	data/actions/scripts/liquids/mastermind_potion.lua:8: in function <data/actions/scripts/liquids/mastermind_potion.lua:6>
+[04/01/2010 17:59:22] 
+[04/01/2010 17:59:22] Lua Script Error: [Action Interface] 
+[04/01/2010 17:59:22] data/actions/scripts/liquids/mastermind_potion.lua:onUse
+[04/01/2010 17:59:22] 
+[04/01/2010 17:59:22] attempt to index a number value
+[04/01/2010 17:59:22] stack traceback:
+[04/01/2010 17:59:22] 	[C]: in function 'doCreatureSay'
+[04/01/2010 17:59:22] 	data/actions/scripts/liquids/mastermind_potion.lua:8: in function <data/actions/scripts/liquids/mastermind_potion.lua:6>
+[04/01/2010 17:59:23] 
+[04/01/2010 17:59:23] Lua Script Error: [Action Interface] 
+[04/01/2010 17:59:23] data/actions/scripts/liquids/mastermind_potion.lua:onUse
+[04/01/2010 17:59:23] 
+[04/01/2010 17:59:23] attempt to index a number value
+[04/01/2010 17:59:23] stack traceback:
+[04/01/2010 17:59:23] 	[C]: in function 'doCreatureSay'
+[04/01/2010 17:59:24] 	data/actions/scripts/liquids/mastermind_potion.lua:8: in function <data/actions/scripts/liquids/mastermind_potion.lua:6>
+[04/01/2010 17:59:24] 
+[04/01/2010 17:59:24] Lua Script Error: [Action Interface] 
+[04/01/2010 17:59:24] data/actions/scripts/liquids/mastermind_potion.lua:onUse
+[04/01/2010 17:59:24] 
+[04/01/2010 17:59:24] attempt to index a number value
+[04/01/2010 17:59:24] stack traceback:
+[04/01/2010 17:59:24] 	[C]: in function 'doCreatureSay'
+[04/01/2010 17:59:24] 	data/actions/scripts/liquids/mastermind_potion.lua:8: in function <data/actions/scripts/liquids/mastermind_potion.lua:6>
+[04/01/2010 17:59:26] 
+[04/01/2010 17:59:26] Lua Script Error: [Action Interface] 
+[04/01/2010 17:59:26] data/actions/scripts/liquids/mastermind_potion.lua:onUse
+[04/01/2010 17:59:26] 
+[04/01/2010 17:59:26] attempt to index a number value
+[04/01/2010 17:59:26] stack traceback:
+[04/01/2010 17:59:26] 	[C]: in function 'doCreatureSay'
+[04/01/2010 17:59:26] 	data/actions/scripts/liquids/mastermind_potion.lua:8: in function <data/actions/scripts/liquids/mastermind_potion.lua:6>
+[04/01/2010 17:59:26] 
+[04/01/2010 17:59:26] Lua Script Error: [Action Interface] 
+[04/01/2010 17:59:26] data/actions/scripts/liquids/mastermind_potion.lua:onUse
+[04/01/2010 17:59:26] 
+[04/01/2010 17:59:26] attempt to index a number value
+[04/01/2010 17:59:26] stack traceback:
+[04/01/2010 17:59:26] 	[C]: in function 'doCreatureSay'
+[04/01/2010 17:59:27] 	data/actions/scripts/liquids/mastermind_potion.lua:8: in function <data/actions/scripts/liquids/mastermind_potion.lua:6>
+[04/01/2010 17:59:28] 
+[04/01/2010 17:59:28] Lua Script Error: [Action Interface] 
+[04/01/2010 17:59:28] data/actions/scripts/liquids/mastermind_potion.lua:onUse
+[04/01/2010 17:59:29] 
+[04/01/2010 17:59:29] attempt to index a number value
+[04/01/2010 17:59:29] stack traceback:
+[04/01/2010 17:59:29] 	[C]: in function 'doCreatureSay'
+[04/01/2010 17:59:29] 	data/actions/scripts/liquids/mastermind_potion.lua:8: in function <data/actions/scripts/liquids/mastermind_potion.lua:6>
+[04/01/2010 17:59:29] 
+[04/01/2010 17:59:29] Lua Script Error: [Action Interface] 
+[04/01/2010 17:59:29] data/actions/scripts/liquids/mastermind_potion.lua:onUse
+[04/01/2010 17:59:29] 
+[04/01/2010 17:59:29] attempt to index a number value
+[04/01/2010 17:59:29] stack traceback:
+[04/01/2010 17:59:29] 	[C]: in function 'doCreatureSay'
+[04/01/2010 17:59:29] 	data/actions/scripts/liquids/mastermind_potion.lua:8: in function <data/actions/scripts/liquids/mastermind_potion.lua:6>
+[04/01/2010 17:59:30] 
+[04/01/2010 17:59:30] Lua Script Error: [Action Interface] 
+[04/01/2010 17:59:30] data/actions/scripts/liquids/mastermind_potion.lua:onUse
+[04/01/2010 17:59:30] 
+[04/01/2010 17:59:30] attempt to index a number value
+[04/01/2010 17:59:30] stack traceback:
+[04/01/2010 17:59:30] 	[C]: in function 'doCreatureSay'
+[04/01/2010 17:59:30] 	data/actions/scripts/liquids/mastermind_potion.lua:8: in function <data/actions/scripts/liquids/mastermind_potion.lua:6>
+[04/01/2010 17:59:32] 
+[04/01/2010 17:59:32] Lua Script Error: [Action Interface] 
+[04/01/2010 17:59:32] data/actions/scripts/liquids/mastermind_potion.lua:onUse
+[04/01/2010 17:59:32] 
+[04/01/2010 17:59:32] attempt to index a number value
+[04/01/2010 17:59:32] stack traceback:
+[04/01/2010 17:59:32] 	[C]: in function 'doCreatureSay'
+[04/01/2010 17:59:32] 	data/actions/scripts/liquids/mastermind_potion.lua:8: in function <data/actions/scripts/liquids/mastermind_potion.lua:6>
+[04/01/2010 17:59:32] > Saving server...
+[04/01/2010 17:59:41] > SAVE: Complete in 8.735 seconds using relational house storage.
+[04/01/2010 17:59:41] 
+[04/01/2010 17:59:41] Lua Script Error: [Action Interface] 
+[04/01/2010 17:59:41] data/actions/scripts/liquids/mastermind_potion.lua:onUse
+[04/01/2010 17:59:41] 
+[04/01/2010 17:59:41] attempt to index a number value
+[04/01/2010 17:59:41] stack traceback:
+[04/01/2010 17:59:41] 	[C]: in function 'doCreatureSay'
+[04/01/2010 17:59:41] 	data/actions/scripts/liquids/mastermind_potion.lua:8: in function <data/actions/scripts/liquids/mastermind_potion.lua:6>
+[04/01/2010 18:00:25] 
+[04/01/2010 18:00:26] Lua Script Error: [Action Interface] 
+[04/01/2010 18:00:26] data/actions/scripts/liquids/mastermind_potion.lua:onUse
+[04/01/2010 18:00:26] 
+[04/01/2010 18:00:26] attempt to index a number value
+[04/01/2010 18:00:26] stack traceback:
+[04/01/2010 18:00:26] 	[C]: in function 'doCreatureSay'
+[04/01/2010 18:00:26] 	data/actions/scripts/liquids/mastermind_potion.lua:8: in function <data/actions/scripts/liquids/mastermind_potion.lua:6>
+[04/01/2010 18:00:26] 
+[04/01/2010 18:00:26] Lua Script Error: [Action Interface] 
+[04/01/2010 18:00:26] data/actions/scripts/liquids/mastermind_potion.lua:onUse
+[04/01/2010 18:00:26] 
+[04/01/2010 18:00:26] attempt to index a number value
+[04/01/2010 18:00:26] stack traceback:
+[04/01/2010 18:00:26] 	[C]: in function 'doCreatureSay'
+[04/01/2010 18:00:26] 	data/actions/scripts/liquids/mastermind_potion.lua:8: in function <data/actions/scripts/liquids/mastermind_potion.lua:6>
+[04/01/2010 18:00:36] 
+[04/01/2010 18:00:36] Lua Script Error: [Action Interface] 
+[04/01/2010 18:00:36] data/actions/scripts/liquids/mastermind_potion.lua:onUse
+[04/01/2010 18:00:36] 
+[04/01/2010 18:00:36] attempt to index a number value
+[04/01/2010 18:00:36] stack traceback:
+[04/01/2010 18:00:36] 	[C]: in function 'doCreatureSay'
+[04/01/2010 18:00:36] 	data/actions/scripts/liquids/mastermind_potion.lua:8: in function <data/actions/scripts/liquids/mastermind_potion.lua:6>
+[04/01/2010 18:01:38] Hoster Aggresor has logged out.
+[04/01/2010 18:01:47] Pro Pro has logged in.
+[04/01/2010 18:02:02] 
+[04/01/2010 18:02:02] Lua Script Error: [Action Interface] 
+[04/01/2010 18:02:02] data/actions/scripts/liquids/mastermind_potion.lua:onUse
+[04/01/2010 18:02:02] 
+[04/01/2010 18:02:02] attempt to index a number value
+[04/01/2010 18:02:02] stack traceback:
+[04/01/2010 18:02:02] 	[C]: in function 'doCreatureSay'
+[04/01/2010 18:02:02] 	data/actions/scripts/liquids/mastermind_potion.lua:8: in function <data/actions/scripts/liquids/mastermind_potion.lua:6>
+[04/01/2010 18:04:40] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[04/01/2010 18:12:37] Pro Pro has logged out.
+[04/01/2010 18:12:41] Hoster Aggresor has logged in.
+[04/01/2010 18:12:41] > Broadcasted message: "Hoster Aggresor se conecto (el es: rei aggresor)".
+[04/01/2010 18:13:02] Hoster Aggresor has logged out.
+[04/01/2010 18:13:04] Zorra Zorrienta has logged in.
+[04/01/2010 18:13:11] Zorra Zorrienta has logged out.
+[04/01/2010 18:13:13] Jack Dee has logged in.
+[04/01/2010 18:13:27] Jack Dee has logged out.
+[04/01/2010 18:13:29] Zorra Zorrienta has logged in.
+[04/01/2010 18:14:09] Teste dois has logged in.
+[04/01/2010 18:14:32] > Broadcasted message: "[SYSTEMA DE LOTERIA] ganador: Zorra Zorrienta, recompensa: 100k! - felicitaciones! (siguiente Loteria en media Hora)".
+[04/01/2010 18:14:33] > Saving server...
+[04/01/2010 18:14:50] > SAVE: Complete in 16.673 seconds using relational house storage.
+[04/01/2010 18:14:50] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[04/01/2010 18:18:15] Zorra Zorrienta has logged out.
+[04/01/2010 18:18:17] Hoster Aggresor has logged in.
+[04/01/2010 18:18:17] > Broadcasted message: "Hoster Aggresor se conecto (el es: rei aggresor)".
+[04/01/2010 18:24:51] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[04/01/2010 18:29:34] > Saving server...
+[04/01/2010 18:29:41] > SAVE: Complete in 7.313 seconds using relational house storage.
+[04/01/2010 18:34:33] > Broadcasted message: "[SYSTEMA DE LOTERIA] ganador: Teste dois, recompensa: 100k! - felicitaciones! (siguiente Loteria en media Hora)".
+[04/01/2010 18:34:52] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[04/01/2010 18:40:08] [Warning - Event::loadScript] Cannot load script (data/movements/scripts/chaosbangle.lua)
+[04/01/2010 18:40:08] data/movements/scripts/chaosbangle.lua:141: '=' expected near 'dice'
+[04/01/2010 18:40:08] [Warning - Event::loadScript] Cannot load script (data/movements/scripts/chaosbangle.lua)
+[04/01/2010 18:40:08] data/movements/scripts/chaosbangle.lua:141: '=' expected near 'dice'
+[04/01/2010 18:44:35] > Saving server...
+[04/01/2010 18:44:46] > SAVE: Complete in 10.422 seconds using relational house storage.
+[04/01/2010 18:44:53] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[04/01/2010 18:50:19] > Broadcasted message: "whatafuck csm invaden Slayer city".
+[04/01/2010 18:54:34] > Broadcasted message: "[SYSTEMA DE LOTERIA] ganador: Teste dois, recompensa: 100k! - felicitaciones! (siguiente Loteria en media Hora)".
+[04/01/2010 18:54:54] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[04/01/2010 18:59:36] > Saving server...
+[04/01/2010 19:00:17] > SAVE: Complete in 40.422 seconds using relational house storage.
+[04/01/2010 19:04:55] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[04/01/2010 19:05:29] Teste dois has logged out.
+[04/01/2010 19:14:30] > Broadcasted message: "la limpieza del mapa empieza en 30 segundos, por favor wn recoje tus items!".
+[04/01/2010 19:14:35] > Broadcasted message: "[SYSTEMA DE LOTERIA] ganador: Hoster Aggresor, recompensa: 100k! - felicitaciones! (siguiente Loteria en media Hora)".
+[04/01/2010 19:14:38] > Saving server...
+[04/01/2010 19:14:54] > SAVE: Complete in 16.719 seconds using relational house storage.
+[04/01/2010 19:14:56] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[04/01/2010 19:15:02] > CLEAN: Removed 20 items from 146 tiles in 0.703 seconds.
+[04/01/2010 19:15:02] > Broadcasted message: "el mapa se limpio :P, siguiente limpieza en 2 horas.".
+[04/01/2010 19:24:57] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[04/01/2010 19:29:38] > Saving server...
+[04/01/2010 19:29:45] > SAVE: Complete in 7.266 seconds using relational house storage.
+[04/01/2010 19:34:36] > Broadcasted message: "[SYSTEMA DE LOTERIA] ganador: Hoster Aggresor, recompensa: 100k! - felicitaciones! (siguiente Loteria en media Hora)".
+[04/01/2010 19:34:58] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[04/01/2010 19:44:39] > Saving server...
+[04/01/2010 19:45:03] > SAVE: Complete in 23.688 seconds using relational house storage.
+[04/01/2010 19:45:04] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[04/01/2010 19:54:37] > Broadcasted message: "[SYSTEMA DE LOTERIA] ganador: Hoster Aggresor, recompensa: 100k! - felicitaciones! (siguiente Loteria en media Hora)".
+[04/01/2010 19:55:05] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[04/01/2010 19:59:41] > Saving server...
+[04/01/2010 20:01:50] > SAVE: Complete in 127.016 seconds using relational house storage.
+[04/01/2010 20:03:55] > Broadcasted message: "whatafuck csm invaden Slayer city".
+[04/01/2010 20:04:30] [Error - SingleSpawnEvent::executeEvent] Cannot spawn monster whatafuck
+[04/01/2010 20:05:06] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[04/01/2010 20:14:38] > Broadcasted message: "[SYSTEMA DE LOTERIA] ganador: Hoster Aggresor, recompensa: 100k! - felicitaciones! (siguiente Loteria en media Hora)".
+[04/01/2010 20:14:41] > Saving server...
+[04/01/2010 20:15:00] > SAVE: Complete in 18.891 seconds using relational house storage.
+[04/01/2010 20:15:07] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[04/01/2010 20:25:08] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[04/01/2010 20:27:05] > Broadcasted message: "Demonios csm invaden Slayer city".
+[04/01/2010 20:27:12] [Error - SingleSpawnEvent::executeEvent] Cannot spawn monster Demonio
+[04/01/2010 20:29:42] > Saving server...
+[04/01/2010 20:29:52] > SAVE: Complete in 9.985 seconds using relational house storage.
+[04/01/2010 20:34:39] > Broadcasted message: "[SYSTEMA DE LOTERIA] ganador: Hoster Aggresor, recompensa: 100k! - felicitaciones! (siguiente Loteria en media Hora)".
+[04/01/2010 20:35:09] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[04/01/2010 20:44:43] > Saving server...
+[04/01/2010 20:45:23] > SAVE: Complete in 35.235 seconds using relational house storage.
+[04/01/2010 20:45:30] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[04/01/2010 20:54:40] >

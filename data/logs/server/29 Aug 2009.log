@@ -1,0 +1,448 @@
+[29/08/2009 11:52:19] The Forgotten Server, version 0.3.4 (Crying Damson)
+[29/08/2009 11:52:19] Sever Criado Por Alissow e Comedinha.
+[29/08/2009 11:52:19] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[29/08/2009 11:52:19] Bom Jogo!!!
+[29/08/2009 11:52:19] 
+[29/08/2009 11:52:19] >> Debugging: nothing.
+[29/08/2009 11:52:19] >> Checking software version... outdated, please consider updating!
+[29/08/2009 11:52:22] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[29/08/2009 11:52:22] > Latest version information - version: 0.3.5, patch: 1, build: 2576, timestamp: 1249584126.
+[29/08/2009 11:52:22] [Warning - ConfigManager::getBool] 62
+[29/08/2009 11:52:22] 
+[29/08/2009 11:52:22] >> Loading config (config.lua)
+[29/08/2009 11:52:22] > Using plaintext passwords
+[29/08/2009 11:52:22] >> Loading RSA key
+[29/08/2009 11:52:22] >> Starting SQL connection
+[29/08/2009 11:52:22] >> Running Database Manager
+[29/08/2009 11:52:24] > Optimized database.
+[29/08/2009 11:52:24] >> Loading items
+[29/08/2009 11:52:24] >> Loading groups
+[29/08/2009 11:52:24] >> Loading vocations
+[29/08/2009 11:52:24] >> Loading script systems
+[29/08/2009 11:52:27] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/backpack2.lua)
+[29/08/2009 11:52:27] data/actions/scripts/backpack2.lua:5: unexpected symbol near ')'
+[29/08/2009 11:52:27] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/backpack1.lua)
+[29/08/2009 11:52:27] data/actions/scripts/backpack1.lua:5: unexpected symbol near ')'
+[29/08/2009 11:52:27] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/razgos1.lua)
+[29/08/2009 11:52:27] data/actions/scripts/razgos1.lua:5: unexpected symbol near ')'
+[29/08/2009 11:52:27] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/boots.lua)
+[29/08/2009 11:52:27] data/actions/scripts/boots.lua:5: unexpected symbol near ')'
+[29/08/2009 11:52:27] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/darknessarmor.lua)
+[29/08/2009 11:52:27] cannot open data/actions/scripts/darknessarmor.lua: No such file or directory
+[29/08/2009 11:52:27] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/darknessshield.lua)
+[29/08/2009 11:52:27] cannot open data/actions/scripts/darknessshield.lua: No such file or directory
+[29/08/2009 11:52:27] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/darknesslegs.lua)
+[29/08/2009 11:52:28] cannot open data/actions/scripts/darknesslegs.lua: No such file or directory
+[29/08/2009 11:52:29] >> Loading chat channels
+[29/08/2009 11:52:29] >> Loading outfits
+[29/08/2009 11:52:29] >> Loading experience stages
+[29/08/2009 11:52:29] >> Loading monsters
+[29/08/2009 11:52:38] >> Loading map and spawns...
+[29/08/2009 11:52:39] > Map size: 512x512.
+[29/08/2009 11:52:39] > Map descriptions: 
+[29/08/2009 11:52:39] Saved with Remere's Map Editor 1.1.7 BETA
+[29/08/2009 11:52:39] SimOne MapEditor 0.5.5
+[29/08/2009 11:52:41] > Map loading time: 3.547 seconds.
+[29/08/2009 11:52:42] [Spawn::addMonster] NULL tile at spawn position (( 00589 / 00148 / 007 ))
+[29/08/2009 11:52:42] [Spawn::addMonster] NULL tile at spawn position (( 00618 / 00150 / 007 ))
+[29/08/2009 11:52:42] [Spawn::addMonster] NULL tile at spawn position (( 00617 / 00169 / 007 ))
+[29/08/2009 11:52:42] [Spawn::addMonster] NULL tile at spawn position (( 00582 / 00183 / 007 ))
+[29/08/2009 11:52:42] [Spawn::addMonster] NULL tile at spawn position (( 00576 / 00191 / 007 ))
+[29/08/2009 11:52:42] [Spawn::addMonster] NULL tile at spawn position (( 00628 / 00197 / 007 ))
+[29/08/2009 11:52:42] [Spawn::addMonster] NULL tile at spawn position (( 00601 / 00206 / 007 ))
+[29/08/2009 11:52:42] [Spawn::addMonster] NULL tile at spawn position (( 00571 / 00209 / 007 ))
+[29/08/2009 11:52:42] [Spawn::addMonster] NULL tile at spawn position (( 00594 / 00213 / 007 ))
+[29/08/2009 11:52:42] [Spawn::addMonster] NULL tile at spawn position (( 00618 / 00221 / 007 ))
+[29/08/2009 11:52:42] [Spawn::addMonster] NULL tile at spawn position (( 00595 / 00228 / 007 ))
+[29/08/2009 11:52:43] [Spawn::addMonster] NULL tile at spawn position (( 00554 / 00229 / 007 ))
+[29/08/2009 11:52:43] [Warning - Houses::loadFromXml] House entry not set for:  (158)
+[29/08/2009 11:52:43] > Data loading time: 1.438 seconds.
+[29/08/2009 11:52:43] > Unserialization time for houses: 0.047 seconds.
+[29/08/2009 11:52:54] > Unserialization time for map: 10.938 seconds.
+[29/08/2009 11:52:54] >> Checking world type... PvP
+[29/08/2009 11:52:54] >> Initializing game state modules and registering services...
+[29/08/2009 11:52:55] > Global address: razgosserver.no-ip.info
+[29/08/2009 11:52:56] > Local ports:
+[29/08/2009 11:52:56] 7171	7172	
+[29/08/2009 11:52:56] >> All modules were loaded, server starting up...
+[29/08/2009 11:52:56] >> Snowz OTs server Online!
+[29/08/2009 11:52:56] 
+[29/08/2009 11:53:34] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[29/08/2009 11:53:37] [Hoster] Dee has logged in.
+[29/08/2009 11:55:32] [Hoster] Dee has logged out.
+[29/08/2009 11:55:36] > Saving server...
+[29/08/2009 11:55:38] > SAVE: Complete in 1.672 seconds using relational house storage.
+[29/08/2009 11:55:38] Preparing to shutdown server..
+[29/08/2009 11:55:38] .
+[29/08/2009 11:55:38] Exiting
+[29/08/2009 12:01:19] The Forgotten Server, version 0.3.4 (Crying Damson)
+[29/08/2009 12:01:19] Sever Criado Por Alissow e Comedinha.
+[29/08/2009 12:01:19] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[29/08/2009 12:01:19] Bom Jogo!!!
+[29/08/2009 12:01:19] 
+[29/08/2009 12:01:19] >> Debugging: nothing.
+[29/08/2009 12:01:19] >> Checking software version... outdated, please consider updating!
+[29/08/2009 12:01:20] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[29/08/2009 12:01:20] > Latest version information - version: 0.3.5, patch: 1, build: 2576, timestamp: 1249584126.
+[29/08/2009 12:01:20] [Warning - ConfigManager::getBool] 62
+[29/08/2009 12:01:20] 
+[29/08/2009 12:01:20] >> Loading config (config.lua)
+[29/08/2009 12:01:20] > Using plaintext passwords
+[29/08/2009 12:01:20] >> Loading RSA key
+[29/08/2009 12:01:20] >> Starting SQL connection
+[29/08/2009 12:01:20] >> Running Database Manager
+[29/08/2009 12:01:21] > Optimized database.
+[29/08/2009 12:01:21] >> Loading items
+[29/08/2009 12:01:22] >> Loading groups
+[29/08/2009 12:01:22] >> Loading vocations
+[29/08/2009 12:01:22] >> Loading script systems
+[29/08/2009 12:01:22] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/backpack2.lua)
+[29/08/2009 12:01:22] data/actions/scripts/backpack2.lua:5: unexpected symbol near ')'
+[29/08/2009 12:01:22] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/backpack1.lua)
+[29/08/2009 12:01:22] data/actions/scripts/backpack1.lua:5: unexpected symbol near ')'
+[29/08/2009 12:01:22] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/razgos1.lua)
+[29/08/2009 12:01:22] data/actions/scripts/razgos1.lua:5: unexpected symbol near ')'
+[29/08/2009 12:01:22] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/boots.lua)
+[29/08/2009 12:01:22] data/actions/scripts/boots.lua:5: unexpected symbol near ')'
+[29/08/2009 12:01:22] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/darknessarmor.lua)
+[29/08/2009 12:01:22] cannot open data/actions/scripts/darknessarmor.lua: No such file or directory
+[29/08/2009 12:01:22] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/darknessshield.lua)
+[29/08/2009 12:01:22] cannot open data/actions/scripts/darknessshield.lua: No such file or directory
+[29/08/2009 12:01:22] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/darknesslegs.lua)
+[29/08/2009 12:01:23] cannot open data/actions/scripts/darknesslegs.lua: No such file or directory
+[29/08/2009 12:01:23] >> Loading chat channels
+[29/08/2009 12:01:23] >> Loading outfits
+[29/08/2009 12:01:23] >> Loading experience stages
+[29/08/2009 12:01:23] >> Loading monsters
+[29/08/2009 12:01:23] >> Loading map and spawns...
+[29/08/2009 12:01:24] > Map size: 512x512.
+[29/08/2009 12:01:24] > Map descriptions: 
+[29/08/2009 12:01:24] Saved with Remere's Map Editor 1.1.7 BETA
+[29/08/2009 12:01:24] SimOne MapEditor 0.5.5
+[29/08/2009 12:01:26] > Map loading time: 3.203 seconds.
+[29/08/2009 12:01:27] [Spawn::addMonster] NULL tile at spawn position (( 00589 / 00148 / 007 ))
+[29/08/2009 12:01:27] [Spawn::addMonster] NULL tile at spawn position (( 00618 / 00150 / 007 ))
+[29/08/2009 12:01:27] [Spawn::addMonster] NULL tile at spawn position (( 00617 / 00169 / 007 ))
+[29/08/2009 12:01:27] [Spawn::addMonster] NULL tile at spawn position (( 00582 / 00183 / 007 ))
+[29/08/2009 12:01:27] [Spawn::addMonster] NULL tile at spawn position (( 00576 / 00191 / 007 ))
+[29/08/2009 12:01:27] [Spawn::addMonster] NULL tile at spawn position (( 00628 / 00197 / 007 ))
+[29/08/2009 12:01:27] [Spawn::addMonster] NULL tile at spawn position (( 00601 / 00206 / 007 ))
+[29/08/2009 12:01:27] [Spawn::addMonster] NULL tile at spawn position (( 00571 / 00209 / 007 ))
+[29/08/2009 12:01:27] [Spawn::addMonster] NULL tile at spawn position (( 00594 / 00213 / 007 ))
+[29/08/2009 12:01:27] [Spawn::addMonster] NULL tile at spawn position (( 00618 / 00221 / 007 ))
+[29/08/2009 12:01:27] [Spawn::addMonster] NULL tile at spawn position (( 00595 / 00228 / 007 ))
+[29/08/2009 12:01:27] [Spawn::addMonster] NULL tile at spawn position (( 00554 / 00229 / 007 ))
+[29/08/2009 12:01:27] [Warning - Houses::loadFromXml] House entry not set for:  (158)
+[29/08/2009 12:01:28] > Data loading time: 1.047 seconds.
+[29/08/2009 12:01:28] > Unserialization time for houses: 0.031 seconds.
+[29/08/2009 12:01:38] > Unserialization time for map: 10.844 seconds.
+[29/08/2009 12:01:39] >> Checking world type... PvP
+[29/08/2009 12:01:39] >> Initializing game state modules and registering services...
+[29/08/2009 12:01:39] > Global address: razgosserver.no-ip.info
+[29/08/2009 12:01:40] > Local ports:
+[29/08/2009 12:01:40] 7171	7172	
+[29/08/2009 12:01:40] >> All modules were loaded, server starting up...
+[29/08/2009 12:01:40] >> Snowz OTs server Online!
+[29/08/2009 12:01:40] 
+[29/08/2009 12:01:51] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[29/08/2009 12:01:53] [Hoster] Dee has logged in.
+[29/08/2009 12:03:42] [Hoster] Dee has logged out.
+[29/08/2009 12:04:26] [Admin] Kogotero Lanza has logged in.
+[29/08/2009 12:04:31] > [Admin] Kogotero Lanza broadcasted: "ALGEN OE???".
+[29/08/2009 12:05:16] Akross has logged in.
+[29/08/2009 12:06:01] [Admin] Kogotero Lanza has logged out.
+[29/08/2009 12:06:03] Barrendero has logged in.
+[29/08/2009 12:08:19] Akross has logged out.
+[29/08/2009 12:08:20] Akross has logged in.
+[29/08/2009 12:08:30] [Hoster] Dee has logged in.
+[29/08/2009 12:08:38] Barrendero has logged out.
+[29/08/2009 12:08:50] Akross has logged out.
+[29/08/2009 12:08:51] Akross has logged in.
+[29/08/2009 12:09:20] Barrendero has logged in.
+[29/08/2009 12:10:16] Barrendero has logged out.
+[29/08/2009 12:10:18] Barrendero has logged in.
+[29/08/2009 12:10:39] [Hoster] Dee has logged out.
+[29/08/2009 12:12:08] Account Manager has logged in.
+[29/08/2009 12:12:12] Account Manager has logged in.
+[29/08/2009 12:12:23] Barrendero has logged out.
+[29/08/2009 12:12:25] Account Manager has logged out.
+[29/08/2009 12:12:27] Account Manager has logged out.
+[29/08/2009 12:12:28] [Admin] Kogotero Lanza has logged in.
+[29/08/2009 12:12:31] > [Admin] Kogotero Lanza broadcasted: ":O".
+[29/08/2009 12:12:32] Account Manager has logged in.
+[29/08/2009 12:12:32] Account Manager has logged in.
+[29/08/2009 12:12:43] Account Manager has logged out.
+[29/08/2009 12:12:44] Account Manager has logged in.
+[29/08/2009 12:12:45] Account Manager has logged out.
+[29/08/2009 12:12:49] > [Admin] Kogotero Lanza broadcasted: "WUENA CABROS INVITEWN GENTEEE".
+[29/08/2009 12:12:53] Paco has logged in.
+[29/08/2009 12:13:09] Account Manager has logged out.
+[29/08/2009 12:13:15] Jony Viper has logged in.
+[29/08/2009 12:15:30] > [Admin] Kogotero Lanza broadcasted: "EL HOSTER ES EL MARICON DEE".
+[29/08/2009 12:15:33] > [Admin] Kogotero Lanza broadcasted: ":P".
+[29/08/2009 12:16:11] > CLEAN: Removed 183 items from 347 tiles in 0.14 seconds.
+[29/08/2009 12:16:24] > Saving server...
+[29/08/2009 12:16:27] > SAVE: Complete in 2.422 seconds using relational house storage.
+[29/08/2009 12:17:09] > CLEAN: Removed 8 items from 38 tiles in 0.094 seconds.
+[29/08/2009 12:17:35] Akross has logged out.
+[29/08/2009 12:17:37] Akross has logged in.
+[29/08/2009 12:19:56] > [Admin] Kogotero Lanza broadcasted: "para las magias .!spells".
+[29/08/2009 12:20:06] > CLEAN: Removed 18 items from 118 tiles in 0.109 seconds.
+[29/08/2009 12:20:46] [Hoster] Dee has logged in.
+[29/08/2009 12:21:01] [Hoster] Dee has logged out.
+[29/08/2009 12:21:39] > CLEAN: Removed 29 items from 109 tiles in 0.032 seconds.
+[29/08/2009 12:22:24] [Admin] Kogotero Lanza has logged out.
+[29/08/2009 12:22:26] Barrendero has logged in.
+[29/08/2009 12:23:00] Akross has logged out.
+[29/08/2009 12:23:02] Akross has logged in.
+[29/08/2009 12:23:25] Barrendero has logged out.
+[29/08/2009 12:23:27] Barrendero has logged in.
+[29/08/2009 12:23:59] Akross has logged out.
+[29/08/2009 12:24:01] Akross has logged in.
+[29/08/2009 12:24:34] Paco has logged out.
+[29/08/2009 12:26:11] Barrendero has logged out.
+[29/08/2009 12:26:13] Barrendero has logged in.
+[29/08/2009 12:26:48] Akross has logged out.
+[29/08/2009 12:26:49] Akross has logged in.
+[29/08/2009 12:27:34] Jony Viper has logged out.
+[29/08/2009 12:27:40] Jony Viper has logged in.
+[29/08/2009 12:28:12] Mono Pirata has logged in.
+[29/08/2009 12:28:35] Account Manager has logged in.
+[29/08/2009 12:28:45] Mono Pirata has logged out.
+[29/08/2009 12:28:48] Mono Pirata has logged in.
+[29/08/2009 12:29:09] Mono Pirata has logged out.
+[29/08/2009 12:29:58] Jony Viper has logged out.
+[29/08/2009 12:30:01] Jony Viper has logged in.
+[29/08/2009 12:30:59] Barrendero has logged out.
+[29/08/2009 12:31:00] Akross has logged out.
+[29/08/2009 12:31:00] Account Manager has logged out.
+[29/08/2009 12:31:00] Jony Viper has logged out.
+[29/08/2009 12:31:00] > Saving server...
+[29/08/2009 12:31:02] > SAVE: Complete in 1.812 seconds using relational house storage.
+[29/08/2009 12:31:02] Preparing to shutdown server..
+[29/08/2009 12:31:02] .
+[29/08/2009 12:31:02] Exiting
+[29/08/2009 15:27:53] The Forgotten Server, version 0.3.4 (Crying Damson)
+[29/08/2009 15:27:54] Sever Criado Por Alissow e Comedinha.
+[29/08/2009 15:27:54] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[29/08/2009 15:27:54] Bom Jogo!!!
+[29/08/2009 15:27:54] 
+[29/08/2009 15:27:54] >> Debugging: nothing.
+[29/08/2009 15:27:54] >> Checking software version... outdated, please consider updating!
+[29/08/2009 15:27:54] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[29/08/2009 15:27:54] > Latest version information - version: 0.3.5, patch: 1, build: 2576, timestamp: 1249584126.
+[29/08/2009 15:27:54] [Warning - ConfigManager::getBool] 62
+[29/08/2009 15:27:54] 
+[29/08/2009 15:27:54] >> Loading config (config.lua)
+[29/08/2009 15:27:54] > Using plaintext passwords
+[29/08/2009 15:27:54] >> Loading RSA key
+[29/08/2009 15:27:54] >> Starting SQL connection
+[29/08/2009 15:27:54] >> Running Database Manager
+[29/08/2009 15:27:56] > Optimized database.
+[29/08/2009 15:27:56] >> Loading items
+[29/08/2009 15:27:56] >> Loading groups
+[29/08/2009 15:27:56] >> Loading vocations
+[29/08/2009 15:27:56] >> Loading script systems
+[29/08/2009 15:27:58] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/backpack2.lua)
+[29/08/2009 15:27:59] data/actions/scripts/backpack2.lua:5: unexpected symbol near ')'
+[29/08/2009 15:27:59] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/backpack1.lua)
+[29/08/2009 15:27:59] data/actions/scripts/backpack1.lua:5: unexpected symbol near ')'
+[29/08/2009 15:27:59] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/razgos1.lua)
+[29/08/2009 15:27:59] data/actions/scripts/razgos1.lua:5: unexpected symbol near ')'
+[29/08/2009 15:27:59] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/boots.lua)
+[29/08/2009 15:27:59] data/actions/scripts/boots.lua:5: unexpected symbol near ')'
+[29/08/2009 15:28:00] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/darknessarmor.lua)
+[29/08/2009 15:28:00] cannot open data/actions/scripts/darknessarmor.lua: No such file or directory
+[29/08/2009 15:28:00] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/darknessshield.lua)
+[29/08/2009 15:28:00] cannot open data/actions/scripts/darknessshield.lua: No such file or directory
+[29/08/2009 15:28:00] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/darknesslegs.lua)
+[29/08/2009 15:28:00] cannot open data/actions/scripts/darknesslegs.lua: No such file or directory
+[29/08/2009 15:28:01] >> Loading chat channels
+[29/08/2009 15:28:01] >> Loading outfits
+[29/08/2009 15:28:01] >> Loading experience stages
+[29/08/2009 15:28:01] >> Loading monsters
+[29/08/2009 15:28:05] >> Loading map and spawns...
+[29/08/2009 15:28:06] > Map size: 512x512.
+[29/08/2009 15:28:06] > Map descriptions: 
+[29/08/2009 15:28:07] Saved with Remere's Map Editor 1.1.7 BETA
+[29/08/2009 15:28:07] SimOne MapEditor 0.5.5
+[29/08/2009 15:28:09] > Map loading time: 4.219 seconds.
+[29/08/2009 15:28:10] [Spawn::addMonster] NULL tile at spawn position (( 00589 / 00148 / 007 ))
+[29/08/2009 15:28:10] [Spawn::addMonster] NULL tile at spawn position (( 00618 / 00150 / 007 ))
+[29/08/2009 15:28:10] [Spawn::addMonster] NULL tile at spawn position (( 00617 / 00169 / 007 ))
+[29/08/2009 15:28:10] [Spawn::addMonster] NULL tile at spawn position (( 00582 / 00183 / 007 ))
+[29/08/2009 15:28:10] [Spawn::addMonster] NULL tile at spawn position (( 00576 / 00191 / 007 ))
+[29/08/2009 15:28:10] [Spawn::addMonster] NULL tile at spawn position (( 00628 / 00197 / 007 ))
+[29/08/2009 15:28:10] [Spawn::addMonster] NULL tile at spawn position (( 00601 / 00206 / 007 ))
+[29/08/2009 15:28:10] [Spawn::addMonster] NULL tile at spawn position (( 00571 / 00209 / 007 ))
+[29/08/2009 15:28:10] [Spawn::addMonster] NULL tile at spawn position (( 00594 / 00213 / 007 ))
+[29/08/2009 15:28:10] [Spawn::addMonster] NULL tile at spawn position (( 00618 / 00221 / 007 ))
+[29/08/2009 15:28:10] [Spawn::addMonster] NULL tile at spawn position (( 00595 / 00228 / 007 ))
+[29/08/2009 15:28:10] [Spawn::addMonster] NULL tile at spawn position (( 00554 / 00229 / 007 ))
+[29/08/2009 15:28:10] [Warning - Houses::loadFromXml] House entry not set for:  (158)
+[29/08/2009 15:28:10] > Data loading time: 1.329 seconds.
+[29/08/2009 15:28:10] > Unserialization time for houses: 0.031 seconds.
+[29/08/2009 15:28:21] > Unserialization time for map: 10.938 seconds.
+[29/08/2009 15:28:21] >> Checking world type... PvP
+[29/08/2009 15:28:22] >> Initializing game state modules and registering services...
+[29/08/2009 15:28:22] > Global address: razgosserver.no-ip.info
+[29/08/2009 15:28:24] > Local ports:
+[29/08/2009 15:28:24] 7171	7172	
+[29/08/2009 15:28:24] >> All modules were loaded, server starting up...
+[29/08/2009 15:28:24] >> Snowz OTs server Online!
+[29/08/2009 15:28:24] 
+[29/08/2009 15:29:34] > Saving server...
+[29/08/2009 15:29:36] > SAVE: Complete in 1.625 seconds using relational house storage.
+[29/08/2009 15:29:36] Preparing to shutdown server..
+[29/08/2009 15:29:36] .
+[29/08/2009 15:29:36] Exiting
+[29/08/2009 16:41:53] The Forgotten Server, version 0.3.4 (Crying Damson)
+[29/08/2009 16:41:53] Sever Criado Por Alissow e Comedinha.
+[29/08/2009 16:41:53] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[29/08/2009 16:41:54] Bom Jogo!!!
+[29/08/2009 16:41:54] 
+[29/08/2009 16:41:54] >> Debugging: nothing.
+[29/08/2009 16:41:54] >> Checking software version... outdated, please consider updating!
+[29/08/2009 16:41:56] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[29/08/2009 16:41:56] > Latest version information - version: 0.3.5, patch: 1, build: 2576, timestamp: 1249584126.
+[29/08/2009 16:41:57] [Warning - ConfigManager::getBool] 62
+[29/08/2009 16:41:57] 
+[29/08/2009 16:41:57] >> Loading config (config.lua)
+[29/08/2009 16:41:57] > Using plaintext passwords
+[29/08/2009 16:41:57] >> Loading RSA key
+[29/08/2009 16:41:57] >> Starting SQL connection
+[29/08/2009 16:41:57] >> Running Database Manager
+[29/08/2009 16:41:58] > Optimized database.
+[29/08/2009 16:41:58] >> Loading items
+[29/08/2009 16:41:58] >> Loading groups
+[29/08/2009 16:41:58] >> Loading vocations
+[29/08/2009 16:41:58] >> Loading script systems
+[29/08/2009 16:42:01] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/backpack2.lua)
+[29/08/2009 16:42:01] data/actions/scripts/backpack2.lua:5: unexpected symbol near ')'
+[29/08/2009 16:42:01] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/backpack1.lua)
+[29/08/2009 16:42:01] data/actions/scripts/backpack1.lua:5: unexpected symbol near ')'
+[29/08/2009 16:42:01] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/razgos1.lua)
+[29/08/2009 16:42:01] data/actions/scripts/razgos1.lua:5: unexpected symbol near ')'
+[29/08/2009 16:42:01] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/boots.lua)
+[29/08/2009 16:42:01] data/actions/scripts/boots.lua:5: unexpected symbol near ')'
+[29/08/2009 16:42:02] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/darknessarmor.lua)
+[29/08/2009 16:42:02] cannot open data/actions/scripts/darknessarmor.lua: No such file or directory
+[29/08/2009 16:42:02] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/darknessshield.lua)
+[29/08/2009 16:42:02] cannot open data/actions/scripts/darknessshield.lua: No such file or directory
+[29/08/2009 16:42:02] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/darknesslegs.lua)
+[29/08/2009 16:42:02] cannot open data/actions/scripts/darknesslegs.lua: No such file or directory
+[29/08/2009 16:42:03] >> Loading chat channels
+[29/08/2009 16:42:03] >> Loading outfits
+[29/08/2009 16:42:03] >> Loading experience stages
+[29/08/2009 16:42:03] >> Loading monsters
+[29/08/2009 16:42:09] >> Loading map and spawns...
+[29/08/2009 16:42:10] > Map size: 512x512.
+[29/08/2009 16:42:10] > Map descriptions: 
+[29/08/2009 16:42:10] Saved with Remere's Map Editor 1.1.7 BETA
+[29/08/2009 16:42:11] SimOne MapEditor 0.5.5
+[29/08/2009 16:42:13] > Map loading time: 4.109 seconds.
+[29/08/2009 16:42:14] [Spawn::addMonster] NULL tile at spawn position (( 00589 / 00148 / 007 ))
+[29/08/2009 16:42:14] [Spawn::addMonster] NULL tile at spawn position (( 00618 / 00150 / 007 ))
+[29/08/2009 16:42:14] [Spawn::addMonster] NULL tile at spawn position (( 00617 / 00169 / 007 ))
+[29/08/2009 16:42:14] [Spawn::addMonster] NULL tile at spawn position (( 00582 / 00183 / 007 ))
+[29/08/2009 16:42:14] [Spawn::addMonster] NULL tile at spawn position (( 00576 / 00191 / 007 ))
+[29/08/2009 16:42:14] [Spawn::addMonster] NULL tile at spawn position (( 00628 / 00197 / 007 ))
+[29/08/2009 16:42:14] [Spawn::addMonster] NULL tile at spawn position (( 00601 / 00206 / 007 ))
+[29/08/2009 16:42:14] [Spawn::addMonster] NULL tile at spawn position (( 00571 / 00209 / 007 ))
+[29/08/2009 16:42:14] [Spawn::addMonster] NULL tile at spawn position (( 00594 / 00213 / 007 ))
+[29/08/2009 16:42:14] [Spawn::addMonster] NULL tile at spawn position (( 00618 / 00221 / 007 ))
+[29/08/2009 16:42:14] [Spawn::addMonster] NULL tile at spawn position (( 00595 / 00228 / 007 ))
+[29/08/2009 16:42:14] [Spawn::addMonster] NULL tile at spawn position (( 00554 / 00229 / 007 ))
+[29/08/2009 16:42:14] [Warning - Houses::loadFromXml] House entry not set for:  (158)
+[29/08/2009 16:42:14] > Data loading time: 1.391 seconds.
+[29/08/2009 16:42:15] > Unserialization time for houses: 0.031 seconds.
+[29/08/2009 16:42:26] > Unserialization time for map: 11.172 seconds.
+[29/08/2009 16:42:26] >> Checking world type... PvP
+[29/08/2009 16:42:26] >> Initializing game state modules and registering services...
+[29/08/2009 16:42:27] > Global address: razgosserver.no-ip.info
+[29/08/2009 16:42:28] > Local ports:
+[29/08/2009 16:42:28] 7171	7172	
+[29/08/2009 16:42:28] >> All modules were loaded, server starting up...
+[29/08/2009 16:42:28] >> Snowz OTs server Online!
+[29/08/2009 16:42:28] 
+[29/08/2009 16:42:56] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[29/08/2009 16:42:58] [Hoster] Dee has logged in.
+[29/08/2009 16:46:04] [Hoster] Dee has logged out.
+[29/08/2009 16:47:25] > Saving server...
+[29/08/2009 16:47:26] > SAVE: Complete in 1.64 seconds using relational house storage.
+[29/08/2009 16:47:26] Preparing to shutdown[29/08/2009 18:28:45] The Forgotten Server, version 0.3.4 (Crying Damson)
+[29/08/2009 18:28:45] Sever Criado Por Alissow e Comedinha.
+[29/08/2009 18:28:45] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[29/08/2009 18:28:45] Bom Jogo!!!
+[29/08/2009 18:28:45] 
+[29/08/2009 18:28:45] >> Debugging: nothing.
+[29/08/2009 18:28:45] >> Checking software version... outdated, please consider updating!
+[29/08/2009 18:28:47] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[29/08/2009 18:28:48] > Latest version information - version: 0.3.5, patch: 1, build: 2576, timestamp: 1249584126.
+[29/08/2009 18:28:48] [Warning - ConfigManager::getBool] 62
+[29/08/2009 18:28:48] 
+[29/08/2009 18:28:48] >> Loading config (config.lua)
+[29/08/2009 18:28:48] > Using plaintext passwords
+[29/08/2009 18:28:48] >> Loading RSA key
+[29/08/2009 18:28:48] >> Starting SQL connection
+[29/08/2009 18:28:48] >> Running Database Manager
+[29/08/2009 18:28:49] > Optimized database.
+[29/08/2009 18:28:49] >> Loading items
+[29/08/2009 18:28:50] >> Loading groups
+[29/08/2009 18:28:50] >> Loading vocations
+[29/08/2009 18:28:50] >> Loading script systems
+[29/08/2009 18:28:52] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/backpack2.lua)
+[29/08/2009 18:28:53] data/actions/scripts/backpack2.lua:5: unexpected symbol near ')'
+[29/08/2009 18:28:53] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/backpack1.lua)
+[29/08/2009 18:28:53] data/actions/scripts/backpack1.lua:5: unexpected symbol near ')'
+[29/08/2009 18:28:53] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/razgos1.lua)
+[29/08/2009 18:28:53] data/actions/scripts/razgos1.lua:5: unexpected symbol near ')'
+[29/08/2009 18:28:53] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/boots.lua)
+[29/08/2009 18:28:53] data/actions/scripts/boots.lua:5: unexpected symbol near ')'
+[29/08/2009 18:28:53] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/darknessarmor.lua)
+[29/08/2009 18:28:53] cannot open data/actions/scripts/darknessarmor.lua: No such file or directory
+[29/08/2009 18:28:53] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/darknessshield.lua)
+[29/08/2009 18:28:53] cannot open data/actions/scripts/darknessshield.lua: No such file or directory
+[29/08/2009 18:28:53] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/darknesslegs.lua)
+[29/08/2009 18:28:53] cannot open data/actions/scripts/darknesslegs.lua: No such file or directory
+[29/08/2009 18:28:55] >> Loading chat channels
+[29/08/2009 18:28:55] >> Loading outfits
+[29/08/2009 18:28:55] >> Loading experience stages
+[29/08/2009 18:28:55] >> Loading monsters
+[29/08/2009 18:29:00] >> Loading map and spawns...
+[29/08/2009 18:29:01] > Map size: 512x512.
+[29/08/2009 18:29:01] > Map descriptions: 
+[29/08/2009 18:29:01] Saved with Remere's Map Editor 1.1.7 BETA
+[29/08/2009 18:29:01] SimOne MapEditor 0.5.5
+[29/08/2009 18:29:04] > Map loading time: 3.234 seconds.
+[29/08/2009 18:29:04] [Spawn::addMonster] NULL tile at spawn position (( 00589 / 00148 / 007 ))
+[29/08/2009 18:29:04] [Spawn::addMonster] NULL tile at spawn position (( 00618 / 00150 / 007 ))
+[29/08/2009 18:29:04] [Spawn::addMonster] NULL tile at spawn position (( 00617 / 00169 / 007 ))
+[29/08/2009 18:29:04] [Spawn::addMonster] NULL tile at spawn position (( 00582 / 00183 / 007 ))
+[29/08/2009 18:29:04] [Spawn::addMonster] NULL tile at spawn position (( 00576 / 00191 / 007 ))
+[29/08/2009 18:29:04] [Spawn::addMonster] NULL tile at spawn position (( 00628 / 00197 / 007 ))
+[29/08/2009 18:29:05] [Spawn::addMonster] NULL tile at spawn position (( 00601 / 00206 / 007 ))
+[29/08/2009 18:29:05] [Spawn::addMonster] NULL tile at spawn position (( 00571 / 00209 / 007 ))
+[29/08/2009 18:29:05] [Spawn::addMonster] NULL tile at spawn position (( 00594 / 00213 / 007 ))
+[29/08/2009 18:29:05] [Spawn::addMonster] NULL tile at spawn position (( 00618 / 00221 / 007 ))
+[29/08/2009 18:29:05] [Spawn::addMonster] NULL tile at spawn position (( 00595 / 00228 / 007 ))
+[29/08/2009 18:29:05] [Spawn::addMonster] NULL tile at spawn position (( 00554 / 00229 / 007 ))
+[29/08/2009 18:29:05] [Error - Houses::loadFromXml] Unknown house with id: 29
+[29/08/2009 18:29:05] > WARNING: Could not load house data.
+[29/08/2009 18:29:05] > Data loading time: 1.359 seconds.
+[29/08/2009 18:29:05] > Unserialization time for houses: 0.047 seconds.
+[29/08/2009 18:29:17] > Unserialization time for map: 11.531 seconds.
+[29/08/2009 18:29:17] >> Checking world type... PvP
+[29/08/2009 18:29:17] >> Initializing game state modules and registering services...
+[29/08/2009 18:29:17] > Global address: razgosserver.no-ip.info
+[29/08/2009 18:29:19] > Local ports:
+[29/08/2009 18:29:19] 7171	7172	
+[29/08/2009 18:29:19] >> All modules were loaded, server starting up...
+[29/08/2009 18:29:19] >> Snowz OTs server Online!
+[29/08/2009 18:29:19] 
+[29/08/2009 18:29:31] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[29/08/2009 18:29:33] [Hoster] Dee has logged in.
+[29/08/2009 18:30:56] [Hoster] Dee has logged out.
+[29/08/2009 18:31:01] > Saving server...
+[29/08/2009 18:31:03] > SAVE: Complete in 1.641 seconds using relational house storage.
+[29/08/2009 18:31:03] Preparing to shutdown

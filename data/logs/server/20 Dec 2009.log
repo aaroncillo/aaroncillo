@@ -1,0 +1,917 @@
+[20/12/2009 17:51:48] The Forgotten Server, version 0.3.4 (Crying Damson)
+[20/12/2009 17:51:48] Sever Criado Por Alissow e Comedinha.
+[20/12/2009 17:51:48] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[20/12/2009 17:51:48] Bom Jogo!!!
+[20/12/2009 17:51:48] 
+[20/12/2009 17:51:48] >> Debugging: nothing.
+[20/12/2009 17:51:48] >> Checking software version... outdated, please consider updating!
+[20/12/2009 17:51:50] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[20/12/2009 17:51:50] > Latest version information - version: 0.3.6, patch: 0, build: 3293, timestamp: 1260652199.
+[20/12/2009 17:51:50] [Warning - ConfigManager::getBool] 62
+[20/12/2009 17:51:50] 
+[20/12/2009 17:51:50] >> Loading config (config.lua)
+[20/12/2009 17:51:50] > Using plaintext passwords
+[20/12/2009 17:51:50] >> Loading RSA key
+[20/12/2009 17:51:51] >> Starting SQL connection
+[20/12/2009 17:51:51] >> Running Database Manager
+[20/12/2009 17:51:54] > Optimized database.
+[20/12/2009 17:51:54] >> Loading items
+[20/12/2009 17:51:55] [Warning - Items::loadFromXml] Unknown key value skillDistance
+[20/12/2009 17:51:55] >> Loading groups
+[20/12/2009 17:51:55] >> Loading vocations
+[20/12/2009 17:51:55] >> Loading script systems
+[20/12/2009 17:51:57] [Warning - Actions::registerEvent] Duplicate registered item with id: 7131, in fromid: 7131 and toid: 7132
+[20/12/2009 17:51:57] [Warning - Actions::registerEvent] Duplicate registered item with id: 7132, in fromid: 7131 and toid: 7132
+[20/12/2009 17:52:06] >> Loading chat channels
+[20/12/2009 17:52:06] >> Loading outfits
+[20/12/2009 17:52:06] >> Loading experience stages
+[20/12/2009 17:52:06] >> Loading monsters
+[20/12/2009 17:52:16] >> Loading map and spawns...
+[20/12/2009 17:52:18] > Map size: 1100x1100.
+[20/12/2009 17:52:18] > Map descriptions: 
+[20/12/2009 17:52:18] Saved with Remere's Map Editor 1.1.9
+[20/12/2009 17:52:18] Remere 's Map Editor Beta
+[20/12/2009 17:52:20] Duplicate uniqueId 9911
+[20/12/2009 17:52:20] Duplicate uniqueId 9912
+[20/12/2009 17:52:20] Duplicate uniqueId 9913
+[20/12/2009 17:52:20] Duplicate uniqueId 9914
+[20/12/2009 17:52:20] Duplicate uniqueId 9915
+[20/12/2009 17:52:22] Duplicate uniqueId 2471
+[20/12/2009 17:52:31] Duplicate uniqueId 8880
+[20/12/2009 17:52:34] Duplicate uniqueId 8880
+[20/12/2009 17:52:36] Duplicate uniqueId 5006
+[20/12/2009 17:52:37] > Map loading time: 20.937 seconds.
+[20/12/2009 17:52:39] [Notice - Npc::Npc] NPC Name: Blesser - autowalk has been deprecated, use walkinterval.
+[20/12/2009 17:52:39] [Warning - NpcScript::NpcScript] Cannot load script: data/npc/scripts/bless.lua
+[20/12/2009 17:52:39] data/npc/scripts/bless.lua:39: unfinished string near ''Yo vendo todas'
+[20/12/2009 17:52:43] > Data loading time: 5.687 seconds.
+[20/12/2009 17:52:43] > Unserialization time for houses: 0.578 seconds.
+[20/12/2009 17:53:33] > Unserialization time for map: 49.203 seconds.
+[20/12/2009 17:53:33] >> Checking world type... PvP
+[20/12/2009 17:53:33] >> Initializing game state modules and registering services...
+[20/12/2009 17:54:44] > Global address: 201.246.44.66
+[20/12/2009 17:54:46] > Local ports:
+[20/12/2009 17:54:46] 7171	7172	
+[20/12/2009 17:54:46] >> All modules were loaded, server starting up...
+[20/12/2009 17:54:46] >> Aggrox metal server Online!
+[20/12/2009 17:54:47] 
+[20/12/2009 18:02:07] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 100cc y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[20/12/2009 18:05:00] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[20/12/2009 18:05:11] Account Manager has logged in.
+[20/12/2009 18:05:16] Account Manager has logged in.
+[20/12/2009 18:05:30] Account Manager has logged out.
+[20/12/2009 18:05:38] Account Manager has logged in.
+[20/12/2009 18:05:50] Account Manager has logged out.
+[20/12/2009 18:05:57] Gloram has logged in.
+[20/12/2009 18:06:13] Account Manager has logged out.
+[20/12/2009 18:06:44] Account Manager has logged in.
+[20/12/2009 18:07:06] > Saving server...
+[20/12/2009 18:07:22] > SAVE: Complete in 16.015 seconds using relational house storage.
+[20/12/2009 18:07:28] Account Manager has logged in.
+[20/12/2009 18:07:52] Account Manager has logged out.
+[20/12/2009 18:07:52] Account Manager has logged out.
+[20/12/2009 18:08:21] Voltio has logged in.
+[20/12/2009 18:08:45] Account Manager has logged in.
+[20/12/2009 18:09:08] Account Manager has logged out.
+[20/12/2009 18:09:19] Jimmy has logged in.
+[20/12/2009 18:09:40] Account Manager has logged in.
+[20/12/2009 18:09:47] Account Manager has logged out.
+[20/12/2009 18:12:07] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 100cc y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[20/12/2009 18:13:14] Hoster Aggresor has logged in.
+[20/12/2009 18:14:31] 
+[20/12/2009 18:14:31] Lua Script Error: [Action Interface] 
+[20/12/2009 18:14:31] data/actions/scripts/cigar.lua:onUse
+[20/12/2009 18:14:31] 
+[20/12/2009 18:14:31] luaGetThingPos(). Thing not found
+[20/12/2009 18:14:31] 
+[20/12/2009 18:14:31] Lua Script Error: [Action Interface] 
+[20/12/2009 18:14:31] data/actions/scripts/cigar.lua:onUse
+[20/12/2009 18:14:31] 
+[20/12/2009 18:14:31] luaGetThingPos(). Thing not found
+[20/12/2009 18:14:32] 
+[20/12/2009 18:14:32] Lua Script Error: [Action Interface] 
+[20/12/2009 18:14:32] data/actions/scripts/cigar.lua:onUse
+[20/12/2009 18:14:32] 
+[20/12/2009 18:14:32] luaGetThingPos(). Thing not found
+[20/12/2009 18:14:32] 
+[20/12/2009 18:14:32] Lua Script Error: [Action Interface] 
+[20/12/2009 18:14:32] data/actions/scripts/cigar.lua:onUse
+[20/12/2009 18:14:32] 
+[20/12/2009 18:14:32] luaGetThingPos(). Thing not found
+[20/12/2009 18:14:33] 
+[20/12/2009 18:14:33] Lua Script Error: [Action Interface] 
+[20/12/2009 18:14:33] data/actions/scripts/cigar.lua:onUse
+[20/12/2009 18:14:33] 
+[20/12/2009 18:14:33] luaGetThingPos(). Thing not found
+[20/12/2009 18:14:33] 
+[20/12/2009 18:14:33] Lua Script Error: [Action Interface] 
+[20/12/2009 18:14:33] data/actions/scripts/cigar.lua:onUse
+[20/12/2009 18:14:33] 
+[20/12/2009 18:14:33] luaGetThingPos(). Thing not found
+[20/12/2009 18:14:33] 
+[20/12/2009 18:14:33] Lua Script Error: [Action Interface] 
+[20/12/2009 18:14:33] data/actions/scripts/cigar.lua:onUse
+[20/12/2009 18:14:33] 
+[20/12/2009 18:14:33] luaGetThingPos(). Thing not found
+[20/12/2009 18:14:34] 
+[20/12/2009 18:14:34] Lua Script Error: [Action Interface] 
+[20/12/2009 18:14:34] data/actions/scripts/cigar.lua:onUse
+[20/12/2009 18:14:34] 
+[20/12/2009 18:14:34] luaGetThingPos(). Thing not found
+[20/12/2009 18:14:34] 
+[20/12/2009 18:14:34] Lua Script Error: [Action Interface] 
+[20/12/2009 18:14:34] data/actions/scripts/cigar.lua:onUse
+[20/12/2009 18:14:34] 
+[20/12/2009 18:14:34] luaGetThingPos(). Thing not found
+[20/12/2009 18:15:09] > Broadcasted message: "whatafuck csm invaden Slayer city".
+[20/12/2009 18:15:23] > Broadcasted message: "Jimmy [118] Murio por Whatafuck!!".
+[20/12/2009 18:15:23] > Broadcasted message: "Jimmy [118] Murio por Whatafuck!!".
+[20/12/2009 18:15:23] Jimmy has logged out.
+[20/12/2009 18:15:32] [Error - SingleSpawnEvent::executeEvent] Cannot spawn monster Diblis The Fair
+[20/12/2009 18:15:35] Jimmy has logged in.
+[20/12/2009 18:15:48] > Broadcasted message: "Jimmy [117] Murio por Whatafuck!!".
+[20/12/2009 18:15:49] > Broadcasted message: "Jimmy [117] Murio por Whatafuck!!".
+[20/12/2009 18:15:49] Jimmy has logged out.
+[20/12/2009 18:15:49] 
+[20/12/2009 18:15:49] Lua Script Error: [Spell Interface] 
+[20/12/2009 18:15:49] in a timer event called from: 
+[20/12/2009 18:15:49] data/spells/scripts/attack/fierce berserk.lua:onCastSpell
+[20/12/2009 18:15:49] 
+[20/12/2009 18:15:49] luaDoCombat(). Creature not found
+[20/12/2009 18:15:49] 
+[20/12/2009 18:15:49] Lua Script Error: [Spell Interface] 
+[20/12/2009 18:15:49] in a timer event called from: 
+[20/12/2009 18:15:49] data/spells/scripts/attack/fierce berserk.lua:onCastSpell
+[20/12/2009 18:15:49] 
+[20/12/2009 18:15:49] luaDoCombat(). Creature not found
+[20/12/2009 18:15:49] 
+[20/12/2009 18:15:49] Lua Script Error: [Spell Interface] 
+[20/12/2009 18:15:50] in a timer event called from: 
+[20/12/2009 18:15:50] data/spells/scripts/attack/fierce berserk.lua:onCastSpell
+[20/12/2009 18:15:50] 
+[20/12/2009 18:15:50] luaDoCombat(). Creature not found
+[20/12/2009 18:15:50] 
+[20/12/2009 18:15:50] Lua Script Error: [Spell Interface] 
+[20/12/2009 18:15:50] in a timer event called from: 
+[20/12/2009 18:15:50] data/spells/scripts/attack/fierce berserk.lua:onCastSpell
+[20/12/2009 18:15:50] 
+[20/12/2009 18:15:50] luaDoCombat(). Creature not found
+[20/12/2009 18:15:50] 
+[20/12/2009 18:15:50] Lua Script Error: [Spell Interface] 
+[20/12/2009 18:15:50] in a timer event called from: 
+[20/12/2009 18:15:50] data/spells/scripts/attack/fierce berserk.lua:onCastSpell
+[20/12/2009 18:15:50] 
+[20/12/2009 18:15:50] luaDoCombat(). Creature not found
+[20/12/2009 18:15:50] 
+[20/12/2009 18:15:50] Lua Script Error: [Spell Interface] 
+[20/12/2009 18:15:50] in a timer event called from: 
+[20/12/2009 18:15:50] data/spells/scripts/attack/fierce berserk.lua:onCastSpell
+[20/12/2009 18:15:50] 
+[20/12/2009 18:15:50] luaDoCombat(). Creature not found
+[20/12/2009 18:15:50] 
+[20/12/2009 18:15:50] Lua Script Error: [Spell Interface] 
+[20/12/2009 18:15:50] in a timer event called from: 
+[20/12/2009 18:15:50] data/spells/scripts/attack/fierce berserk.lua:onCastSpell
+[20/12/2009 18:15:51] 
+[20/12/2009 18:15:51] luaDoCombat(). Creature not found
+[20/12/2009 18:15:53] Jimmy has logged in.
+[20/12/2009 18:16:31] Rorowx has logged in.
+[20/12/2009 18:17:11] 
+[20/12/2009 18:17:11] Lua Script Error: [Action Interface] 
+[20/12/2009 18:17:11] data/actions/scripts/cigar.lua:onUse
+[20/12/2009 18:17:11] 
+[20/12/2009 18:17:11] luaGetThingPos(). Thing not found
+[20/12/2009 18:17:12] 
+[20/12/2009 18:17:12] Lua Script Error: [Action Interface] 
+[20/12/2009 18:17:12] data/actions/scripts/cigar.lua:onUse
+[20/12/2009 18:17:12] 
+[20/12/2009 18:17:12] luaGetThingPos(). Thing not found
+[20/12/2009 18:17:12] 
+[20/12/2009 18:17:12] Lua Script Error: [Action Interface] 
+[20/12/2009 18:17:12] data/actions/scripts/cigar.lua:onUse
+[20/12/2009 18:17:12] 
+[20/12/2009 18:17:12] luaGetThingPos(). Thing not found
+[20/12/2009 18:17:12] 
+[20/12/2009 18:17:12] Lua Script Error: [Action Interface] 
+[20/12/2009 18:17:12] data/actions/scripts/cigar.lua:onUse
+[20/12/2009 18:17:12] 
+[20/12/2009 18:17:12] luaGetThingPos(). Thing not found
+[20/12/2009 18:17:13] 
+[20/12/2009 18:17:13] Lua Script Error: [Action Interface] 
+[20/12/2009 18:17:13] data/actions/scripts/cigar.lua:onUse
+[20/12/2009 18:17:13] 
+[20/12/2009 18:17:13] luaGetThingPos(). Thing not found
+[20/12/2009 18:17:29] 
+[20/12/2009 18:17:29] Lua Script Error: [Action Interface] 
+[20/12/2009 18:17:29] data/actions/scripts/cigar.lua:onUse
+[20/12/2009 18:17:29] 
+[20/12/2009 18:17:29] luaGetThingPos(). Thing not found
+[20/12/2009 18:17:37] 
+[20/12/2009 18:17:37] Lua Script Error: [Spell Interface] 
+[20/12/2009 18:17:37] in a timer event called from: 
+[20/12/2009 18:17:37] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[20/12/2009 18:17:37] 
+[20/12/2009 18:17:37] luaDoCombat(). Creature not found
+[20/12/2009 18:17:44] > Broadcasted message: "Voltio [319] Murio por Whatafuck!!".
+[20/12/2009 18:17:44] > Broadcasted message: "Voltio [319] Murio por Whatafuck!!".
+[20/12/2009 18:17:44] Voltio has logged out.
+[20/12/2009 18:17:47] Voltio has logged in.
+[20/12/2009 18:18:28] > Broadcasted message: "Gloram [177] Murio por Warlock!!".
+[20/12/2009 18:18:28] > Broadcasted message: "Gloram [177] Murio por Warlock!!".
+[20/12/2009 18:18:28] Gloram has logged out.
+[20/12/2009 18:18:28] 
+[20/12/2009 18:18:28] Lua Script Error: [Spell Interface] 
+[20/12/2009 18:18:28] in a timer event called from: 
+[20/12/2009 18:18:28] data/spells/scripts/attack/divine caldera.lua:onCastSpell
+[20/12/2009 18:18:29] 
+[20/12/2009 18:18:29] luaDoCombat(). Creature not found
+[20/12/2009 18:18:29] 
+[20/12/2009 18:18:29] Lua Script Error: [Spell Interface] 
+[20/12/2009 18:18:29] in a timer event called from: 
+[20/12/2009 18:18:29] data/spells/scripts/attack/divine caldera.lua:onCastSpell
+[20/12/2009 18:18:29] 
+[20/12/2009 18:18:29] luaDoCombat(). Creature not found
+[20/12/2009 18:18:29] 
+[20/12/2009 18:18:29] Lua Script Error: [Spell Interface] 
+[20/12/2009 18:18:29] in a timer event called from: 
+[20/12/2009 18:18:29] data/spells/scripts/attack/divine caldera.lua:onCastSpell
+[20/12/2009 18:18:29] 
+[20/12/2009 18:18:29] luaDoCombat(). Creature not found
+[20/12/2009 18:18:29] 
+[20/12/2009 18:18:29] Lua Script Error: [Spell Interface] 
+[20/12/2009 18:18:29] in a timer event called from: 
+[20/12/2009 18:18:29] data/spells/scripts/attack/divine caldera.lua:onCastSpell
+[20/12/2009 18:18:29] 
+[20/12/2009 18:18:29] luaDoCombat(). Creature not found
+[20/12/2009 18:18:29] 
+[20/12/2009 18:18:29] Lua Script Error: [Spell Interface] 
+[20/12/2009 18:18:29] in a timer event called from: 
+[20/12/2009 18:18:29] data/spells/scripts/attack/divine caldera.lua:onCastSpell
+[20/12/2009 18:18:29] 
+[20/12/2009 18:18:29] luaDoCombat(). Creature not found
+[20/12/2009 18:18:30] 
+[20/12/2009 18:18:30] Lua Script Error: [Spell Interface] 
+[20/12/2009 18:18:30] in a timer event called from: 
+[20/12/2009 18:18:30] data/spells/scripts/attack/divine caldera.lua:onCastSpell
+[20/12/2009 18:18:30] 
+[20/12/2009 18:18:30] luaDoCombat(). Creature not found
+[20/12/2009 18:18:30] 
+[20/12/2009 18:18:30] Lua Script Error: [Spell Interface] 
+[20/12/2009 18:18:30] in a timer event called from: 
+[20/12/2009 18:18:30] data/spells/scripts/attack/divine caldera.lua:onCastSpell
+[20/12/2009 18:18:30] 
+[20/12/2009 18:18:30] luaDoCombat(). Creature not found
+[20/12/2009 18:18:30] 
+[20/12/2009 18:18:30] Lua Script Error: [Spell Interface] 
+[20/12/2009 18:18:30] in a timer event called from: 
+[20/12/2009 18:18:30] data/spells/scripts/attack/divine caldera.lua:onCastSpell
+[20/12/2009 18:18:30] 
+[20/12/2009 18:18:30] luaDoCombat(). Creature not found
+[20/12/2009 18:18:30] 
+[20/12/2009 18:18:30] Lua Script Error: [Spell Interface] 
+[20/12/2009 18:18:30] in a timer event called from: 
+[20/12/2009 18:18:30] data/spells/scripts/attack/divine caldera.lua:onCastSpell
+[20/12/2009 18:18:30] 
+[20/12/2009 18:18:30] luaDoCombat(). Creature not found
+[20/12/2009 18:18:31] Gloram has logged in.
+[20/12/2009 18:18:38] > Broadcasted message: "Voltio [319] Murio por Whatafuck!!".
+[20/12/2009 18:18:38] > Broadcasted message: "Voltio [319] Murio por Whatafuck!!".
+[20/12/2009 18:18:38] Voltio has logged out.
+[20/12/2009 18:18:40] Voltio has logged in.
+[20/12/2009 18:22:08] > Saving server...
+[20/12/2009 18:22:19] > SAVE: Complete in 11.531 seconds using relational house storage.
+[20/12/2009 18:22:19] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 100cc y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[20/12/2009 18:22:55] > Hoster Aggresor broadcasted: "cambio este server po cuenta de tibia rl buen lvl caracteristicas".
+[20/12/2009 18:23:11] 
+[20/12/2009 18:23:11] Lua Script Error: [Spell Interface] 
+[20/12/2009 18:23:12] in a timer event called from: 
+[20/12/2009 18:23:12] data/spells/scripts/attack/hells core.lua:onCastSpell
+[20/12/2009 18:23:12] 
+[20/12/2009 18:23:12] luaDoCombat(). Creature not found
+[20/12/2009 18:23:12] 
+[20/12/2009 18:23:12] Lua Script Error: [Spell Interface] 
+[20/12/2009 18:23:12] in a timer event called from: 
+[20/12/2009 18:23:12] data/spells/scripts/attack/hells core.lua:onCastSpell
+[20/12/2009 18:23:12] 
+[20/12/2009 18:23:12] luaDoCombat(). Creature not found
+[20/12/2009 18:23:12] 
+[20/12/2009 18:23:12] Lua Script Error: [Spell Interface] 
+[20/12/2009 18:23:12] in a timer event called from: 
+[20/12/2009 18:23:12] data/spells/scripts/attack/hells core.lua:onCastSpell
+[20/12/2009 18:23:12] 
+[20/12/2009 18:23:12] luaDoCombat(). Creature not found
+[20/12/2009 18:23:12] 
+[20/12/2009 18:23:12] Lua Script Error: [Spell Interface] 
+[20/12/2009 18:23:12] in a timer event called from: 
+[20/12/2009 18:23:12] data/spells/scripts/attack/hells core.lua:onCastSpell
+[20/12/2009 18:23:12] 
+[20/12/2009 18:23:12] luaDoCombat(). Creature not found
+[20/12/2009 18:23:12] 
+[20/12/2009 18:23:12] Lua Script Error: [Spell Interface] 
+[20/12/2009 18:23:12] in a timer event called from: 
+[20/12/2009 18:23:12] data/spells/scripts/attack/hells core.lua:onCastSpell
+[20/12/2009 18:23:12] 
+[20/12/2009 18:23:12] luaDoCombat(). Creature not found
+[20/12/2009 18:24:32] Hoster Aggresor has logged out.
+[20/12/2009 18:26:21] > Broadcasted message: "Rorowx [179] Murio por Batman!!".
+[20/12/2009 18:26:21] > Broadcasted message: "Rorowx [179] Murio por Batman!!".
+[20/12/2009 18:26:21] Rorowx has logged out.
+[20/12/2009 18:26:38] > Broadcasted message: "Voltio [576] Murio por Mago merlin!!".
+[20/12/2009 18:26:38] > Broadcasted message: "Voltio [576] Murio por Mago merlin!!".
+[20/12/2009 18:26:38] Voltio has logged out.
+[20/12/2009 18:30:27] Voltio has logged in.
+[20/12/2009 18:32:20] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 100cc y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[20/12/2009 18:34:38] > Broadcasted message: "Voltio [770] Murio por Devil Flamebeast!!".
+[20/12/2009 18:34:38] > Broadcasted message: "Voltio [770] Murio por Devil Flamebeast!!".
+[20/12/2009 18:34:39] Voltio has logged out.
+[20/12/2009 18:34:41] Voltio has logged in.
+[20/12/2009 18:35:21] > Broadcasted message: "Jimmy [538] Murio por Demonio!!".
+[20/12/2009 18:35:21] > Broadcasted message: "Jimmy [538] Murio por Demonio!!".
+[20/12/2009 18:35:21] Jimmy has logged out.
+[20/12/2009 18:35:24] Jimmy has logged in.
+[20/12/2009 18:35:31] Jimmy has logged out.
+[20/12/2009 18:35:52] > Broadcasted message: "Voltio [769] Murio por Mago merlin!!".
+[20/12/2009 18:35:53] > Broadcasted message: "Voltio [769] Murio por Mago merlin!!".
+[20/12/2009 18:35:53] Voltio has logged out.
+[20/12/2009 18:35:59] Voltio has logged in.
+[20/12/2009 18:36:16] Account Manager has logged in.
+[20/12/2009 18:36:36] Account Manager has logged out.
+[20/12/2009 18:36:43] Account Manager has logged in.
+[20/12/2009 18:37:02] > Broadcasted message: "Voltio [768] Murio por Devil Flamebeast!!".
+[20/12/2009 18:37:03] > Broadcasted message: "Voltio [768] Murio por Devil Flamebeast!!".
+[20/12/2009 18:37:03] Voltio has logged out.
+[20/12/2009 18:37:06] Voltio has logged in.
+[20/12/2009 18:37:08] > Saving server...
+[20/12/2009 18:37:19] > SAVE: Complete in 10.968 seconds using relational house storage.
+[20/12/2009 18:37:41] Account Manager has logged out.
+[20/12/2009 18:37:49] Matigolazoo has logged in.
+[20/12/2009 18:37:49] 
+[20/12/2009 18:37:49] Lua Script Error: [Spell Interface] 
+[20/12/2009 18:37:49] in a timer event called from: 
+[20/12/2009 18:37:50] data/spells/scripts/attack/KINADOIS.lua:onCastSpell
+[20/12/2009 18:37:50] 
+[20/12/2009 18:37:50] luaDoCombat(). Creature not found
+[20/12/2009 18:37:50] 
+[20/12/2009 18:37:50] Lua Script Error: [Spell Interface] 
+[20/12/2009 18:37:50] in a timer event called from: 
+[20/12/2009 18:37:50] data/spells/scripts/attack/KINADOIS.lua:onCastSpell
+[20/12/2009 18:37:50] 
+[20/12/2009 18:37:50] luaDoCombat(). Creature not found
+[20/12/2009 18:37:50] 
+[20/12/2009 18:37:50] Lua Script Error: [Spell Interface] 
+[20/12/2009 18:37:50] in a timer event called from: 
+[20/12/2009 18:37:50] data/spells/scripts/attack/KINADOIS.lua:onCastSpell
+[20/12/2009 18:37:50] 
+[20/12/2009 18:37:50] luaDoCombat(). Creature not found
+[20/12/2009 18:38:22] 
+[20/12/2009 18:38:22] Lua Script Error: [Spell Interface] 
+[20/12/2009 18:38:22] in a timer event called from: 
+[20/12/2009 18:38:22] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[20/12/2009 18:38:22] 
+[20/12/2009 18:38:22] luaDoCombat(). Creature not found
+[20/12/2009 18:38:22] 
+[20/12/2009 18:38:22] Lua Script Error: [Spell Interface] 
+[20/12/2009 18:38:22] in a timer event called from: 
+[20/12/2009 18:38:23] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[20/12/2009 18:38:23] 
+[20/12/2009 18:38:23] luaDoCombat(). Creature not found
+[20/12/2009 18:38:23] 
+[20/12/2009 18:38:23] Lua Script Error: [Spell Interface] 
+[20/12/2009 18:38:23] in a timer event called from: 
+[20/12/2009 18:38:23] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[20/12/2009 18:38:23] 
+[20/12/2009 18:38:23] luaDoCombat(). Creature not found
+[20/12/2009 18:40:21] 
+[20/12/2009 18:40:21] Lua Script Error: [Spell Interface] 
+[20/12/2009 18:40:21] in a timer event called from: 
+[20/12/2009 18:40:21] data/spells/scripts/attack/wrath of nature.lua:onCastSpell
+[20/12/2009 18:40:21] 
+[20/12/2009 18:40:21] luaDoCombat(). Creature not found
+[20/12/2009 18:40:21] 
+[20/12/2009 18:40:21] Lua Script Error: [Spell Interface] 
+[20/12/2009 18:40:21] in a timer event called from: 
+[20/12/2009 18:40:21] data/spells/scripts/attack/wrath of nature.lua:onCastSpell
+[20/12/2009 18:40:21] 
+[20/12/2009 18:40:21] luaDoCombat(). Creature not found
+[20/12/2009 18:40:34] 
+[20/12/2009 18:40:34] Lua Script Error: [Spell Interface] 
+[20/12/2009 18:40:34] in a timer event called from: 
+[20/12/2009 18:40:34] data/spells/scripts/attack/wrath of nature.lua:onCastSpell
+[20/12/2009 18:40:34] 
+[20/12/2009 18:40:34] luaDoCombat(). Creature not found
+[20/12/2009 18:40:34] 
+[20/12/2009 18:40:34] Lua Script Error: [Spell Interface] 
+[20/12/2009 18:40:34] in a timer event called from: 
+[20/12/2009 18:40:34] data/spells/scripts/attack/wrath of nature.lua:onCastSpell
+[20/12/2009 18:40:34] 
+[20/12/2009 18:40:34] luaDoCombat(). Creature not found
+[20/12/2009 18:40:34] 
+[20/12/2009 18:40:34] Lua Script Error: [Spell Interface] 
+[20/12/2009 18:40:34] in a timer event called from: 
+[20/12/2009 18:40:34] data/spells/scripts/attack/wrath of nature.lua:onCastSpell
+[20/12/2009 18:40:34] 
+[20/12/2009 18:40:34] luaDoCombat(). Creature not found
+[20/12/2009 18:40:34] 
+[20/12/2009 18:40:34] Lua Script Error: [Spell Interface] 
+[20/12/2009 18:40:34] in a timer event called from: 
+[20/12/2009 18:40:34] data/spells/scripts/attack/wrath of nature.lua:onCastSpell
+[20/12/2009 18:40:34] 
+[20/12/2009 18:40:34] luaDoCombat(). Creature not found
+[20/12/2009 18:40:34] 
+[20/12/2009 18:40:35] Lua Script Error: [Spell Interface] 
+[20/12/2009 18:40:35] in a timer event called from: 
+[20/12/2009 18:40:35] data/spells/scripts/attack/wrath of nature.lua:onCastSpell
+[20/12/2009 18:40:35] 
+[20/12/2009 18:40:35] luaDoCombat(). Creature not found
+[20/12/2009 18:41:13] Matigolazoo has logged out.
+[20/12/2009 18:41:58] Gloram has logged out.
+[20/12/2009 18:42:21] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 100cc y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[20/12/2009 18:44:35] Account Manager has logged in.
+[20/12/2009 18:44:53] Account Manager has logged out.
+[20/12/2009 18:44:54] Account Manager has logged in.
+[20/12/2009 18:45:11] Account Manager has logged out.
+[20/12/2009 18:45:21] Account Manager has logged in.
+[20/12/2009 18:45:42] Account Manager has logged out.
+[20/12/2009 18:45:49] Angelo has logged in.
+[20/12/2009 18:48:20] Maik walk has logged in.
+[20/12/2009 18:49:25] > Broadcasted message: "Angelo [73] Murio por Saddam Hussein!!".
+[20/12/2009 18:49:25] > Broadcasted message: "Angelo [73] Murio por Saddam Hussein!!".
+[20/12/2009 18:49:26] Angelo has logged out.
+[20/12/2009 18:49:27] Angelo has logged in.
+[20/12/2009 18:49:30] Angelo has logged out.
+[20/12/2009 18:49:31] Angelo has logged in.
+[20/12/2009 18:50:23] > Broadcasted message: "Voltio [1413] Murio por Will Smith!!".
+[20/12/2009 18:50:23] > Broadcasted message: "Voltio [1413] Murio por Will Smith!!".
+[20/12/2009 18:50:24] Voltio has logged out.
+[20/12/2009 18:50:26] Voltio has logged in.
+[20/12/2009 18:52:09] > Saving server...
+[20/12/2009 18:52:21] > SAVE: Complete in 11.719 seconds using relational house storage.
+[20/12/2009 18:52:22] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 100cc y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[20/12/2009 18:57:28] > Broadcasted message: "Angelo [239] Murio por Whatafuck!!".
+[20/12/2009 18:57:28] > Broadcasted message: "Angelo [239] Murio por Whatafuck!!".
+[20/12/2009 18:57:29] Angelo has logged out.
+[20/12/2009 18:58:23] > Broadcasted message: "Maik walk [472] Murio por Whatafuck!!".
+[20/12/2009 18:58:24] > Broadcasted message: "Maik walk [472] Murio por Whatafuck!!".
+[20/12/2009 18:58:24] Maik walk has logged out.
+[20/12/2009 19:01:03] Maik walk has logged in.
+[20/12/2009 19:01:52] 
+[20/12/2009 19:01:52] Lua Script Error: [Spell Interface] 
+[20/12/2009 19:01:52] in a timer event called from: 
+[20/12/2009 19:01:52] data/spells/scripts/attack/wrath of nature.lua:onCastSpell
+[20/12/2009 19:01:52] 
+[20/12/2009 19:01:52] luaDoCombat(). Creature not found
+[20/12/2009 19:01:52] 
+[20/12/2009 19:01:52] Lua Script Error: [Spell Interface] 
+[20/12/2009 19:01:52] in a timer event called from: 
+[20/12/2009 19:01:52] data/spells/scripts/attack/wrath of nature.lua:onCastSpell
+[20/12/2009 19:01:52] 
+[20/12/2009 19:01:52] luaDoCombat(). Creature not found
+[20/12/2009 19:01:52] 
+[20/12/2009 19:01:52] Lua Script Error: [Spell Interface] 
+[20/12/2009 19:01:52] in a timer event called from: 
+[20/12/2009 19:01:52] data/spells/scripts/attack/wrath of nature.lua:onCastSpell
+[20/12/2009 19:01:52] 
+[20/12/2009 19:01:52] luaDoCombat(). Creature not found
+[20/12/2009 19:01:52] 
+[20/12/2009 19:01:52] Lua Script Error: [Spell Interface] 
+[20/12/2009 19:01:52] in a timer event called from: 
+[20/12/2009 19:01:53] data/spells/scripts/attack/wrath of nature.lua:onCastSpell
+[20/12/2009 19:01:53] 
+[20/12/2009 19:01:53] luaDoCombat(). Creature not found
+[20/12/2009 19:01:53] 
+[20/12/2009 19:01:53] Lua Script Error: [Spell Interface] 
+[20/12/2009 19:01:53] in a timer event called from: 
+[20/12/2009 19:01:53] data/spells/scripts/attack/wrath of nature.lua:onCastSpell
+[20/12/2009 19:01:53] 
+[20/12/2009 19:01:53] luaDoCombat(). Creature not found
+[20/12/2009 19:02:23] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 100cc y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[20/12/2009 19:02:50] Account Manager has logged in.
+[20/12/2009 19:03:04] Account Manager has logged out.
+[20/12/2009 19:03:56] Account Manager has logged in.
+[20/12/2009 19:04:35] Account Manager has logged out.
+[20/12/2009 19:04:36] Account Manager has logged in.
+[20/12/2009 19:04:37] Account Manager has logged out.
+[20/12/2009 19:04:54] Account Manager has logged in.
+[20/12/2009 19:04:55] Angelo has logged in.
+[20/12/2009 19:05:09] Account Manager has logged out.
+[20/12/2009 19:05:18] > Broadcasted message: "Angelo [238] Murio por Hitler!!".
+[20/12/2009 19:05:19] > Broadcasted message: "Angelo [238] Murio por Hitler!!".
+[20/12/2009 19:05:19] Angelo has logged out.
+[20/12/2009 19:05:20] Angelo has logged in.
+[20/12/2009 19:05:21] Account Manager has logged in.
+[20/12/2009 19:05:34] Account Manager has logged out.
+[20/12/2009 19:05:41] Druid Of Darkness has logged in.
+[20/12/2009 19:06:10] > Broadcasted message: "Maik walk [923] Murio por yalaharian!!".
+[20/12/2009 19:06:10] > Broadcasted message: "Maik walk [923] Murio por yalaharian!!".
+[20/12/2009 19:06:11] Maik walk has logged out.
+[20/12/2009 19:06:12] Maik walk has logged in.
+[20/12/2009 19:06:22] > Broadcasted message: "Angelo [238] Murio por The Punisher!!".
+[20/12/2009 19:06:22] > Broadcasted message: "Angelo [238] Murio por The Punisher!!".
+[20/12/2009 19:06:23] Angelo has logged out.
+[20/12/2009 19:06:24] Angelo has logged in.
+[20/12/2009 19:07:10] > Saving server...
+[20/12/2009 19:07:19] > SAVE: Complete in 8.469 seconds using relational house storage.
+[20/12/2009 19:08:06] Account Manager has logged in.
+[20/12/2009 19:08:39] Account Manager has logged out.
+[20/12/2009 19:08:51] Account Manager has logged in.
+[20/12/2009 19:09:36] Account Manager has logged out.
+[20/12/2009 19:10:00] > Broadcasted message: "Angelo [238] Murio por Whatafuck!!".
+[20/12/2009 19:10:00] > Broadcasted message: "Angelo [238] Murio por Whatafuck!!".
+[20/12/2009 19:10:00] Angelo has logged out.
+[20/12/2009 19:11:28] Maik walk has logged out.
+[20/12/2009 19:12:24] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 100cc y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[20/12/2009 19:13:42] Maik walk has logged in.
+[20/12/2009 19:13:56] Account Manager has logged in.
+[20/12/2009 19:14:10] Account Manager has logged out.
+[20/12/2009 19:14:13] Account Manager has logged in.
+[20/12/2009 19:14:15] Account Manager has logged out.
+[20/12/2009 19:14:21] Angelo has logged in.
+[20/12/2009 19:14:24] Metalero has logged in.
+[20/12/2009 19:14:32] The Malo has logged in.
+[20/12/2009 19:14:57] > Broadcasted message: "Angelo [238] Murio por Whatafuck!!".
+[20/12/2009 19:14:58] > Broadcasted message: "Angelo [238] Murio por Whatafuck!!".
+[20/12/2009 19:14:58] Angelo has logged out.
+[20/12/2009 19:14:59] Angelo has logged in.
+[20/12/2009 19:15:35] Account Manager has logged in.
+[20/12/2009 19:15:39] Account Manager has logged out.
+[20/12/2009 19:15:43] > Broadcasted message: "Maik walk [2378] Murio por yalaharian!!".
+[20/12/2009 19:15:43] > Broadcasted message: "Maik walk [2378] Murio por yalaharian!!".
+[20/12/2009 19:15:45] Maik walk has logged out.
+[20/12/2009 19:15:45] Account Manager has logged in.
+[20/12/2009 19:15:47] Maik walk has logged in.
+[20/12/2009 19:16:01] Account Manager has logged out.
+[20/12/2009 19:16:14] Sir Macabro has logged in.
+[20/12/2009 19:16:31] > Broadcasted message: "Angelo [237] Murio por Mu!!".
+[20/12/2009 19:16:31] > Broadcasted message: "Angelo [237] Murio por Mu!!".
+[20/12/2009 19:16:31] Angelo has logged out.
+[20/12/2009 19:16:33] Angelo has logged in.
+[20/12/2009 19:16:43] > Metalero broadcasted: "despues vuelvo".
+[20/12/2009 19:16:58] > Broadcasted message: "Angelo [237] Murio por Mago merlin!!".
+[20/12/2009 19:16:58] > Broadcasted message: "Angelo [237] Murio por Mago merlin!!".
+[20/12/2009 19:16:58] Angelo has logged out.
+[20/12/2009 19:16:59] Angelo has logged in.
+[20/12/2009 19:18:34] Account Manager has logged in.
+[20/12/2009 19:18:41] 
+[20/12/2009 19:18:41] Lua Script Error: [Action Interface] 
+[20/12/2009 19:18:41] data/actions/scripts/gate.lua:onUse
+[20/12/2009 19:18:41] 
+[20/12/2009 19:18:41] attempt to index a number value
+[20/12/2009 19:18:41] stack traceback:
+[20/12/2009 19:18:41] 	[C]: in function 'doSendMagicEffect'
+[20/12/2009 19:18:41] 	data/actions/scripts/gate.lua:7: in function <data/actions/scripts/gate.lua:1>
+[20/12/2009 19:18:47] Account Manager has logged out.
+[20/12/2009 19:19:21] Zeus Elite has logged in.
+[20/12/2009 19:19:52] > CLEAN: Removed 444 items from 1490 tiles in 3.016 seconds.
+[20/12/2009 19:20:23] 
+[20/12/2009 19:20:23] Lua Script Error: [Action Interface] 
+[20/12/2009 19:20:23] data/actions/scripts/gate2.lua:onUse
+[20/12/2009 19:20:23] 
+[20/12/2009 19:20:23] attempt to index a number value
+[20/12/2009 19:20:23] stack traceback:
+[20/12/2009 19:20:23] 	[C]: in function 'doSendMagicEffect'
+[20/12/2009 19:20:23] 	data/actions/scripts/gate2.lua:7: in function <data/actions/scripts/gate2.lua:1>
+[20/12/2009 19:20:26] Metalero has logged out.
+[20/12/2009 19:20:36] Hoster Aggresor has logged in.
+[20/12/2009 19:20:39] Metalero has logged in.
+[20/12/2009 19:20:41] > Broadcasted message: "Sir Macabro [131] Murio por Saddam Hussein!!".
+[20/12/2009 19:20:41] > Broadcasted message: "Sir Macabro [131] Murio por Saddam Hussein!!".
+[20/12/2009 19:20:41] Sir Macabro has logged out.
+[20/12/2009 19:20:42] Sir Macabro has logged in.
+[20/12/2009 19:20:53] Account Manager has logged in.
+[20/12/2009 19:21:05] Account Manager has logged out.
+[20/12/2009 19:21:06] > Hoster Aggresor broadcasted: "cambio mi ot completo por cuenta de tibia rl".
+[20/12/2009 19:21:14] Account Manager has logged in.
+[20/12/2009 19:21:30] Account Manager has logged out.
+[20/12/2009 19:21:33] > Broadcasted message: "Zeus Elite [883] Murio por Bolita!!".
+[20/12/2009 19:21:34] > Broadcasted message: "Zeus Elite [883] Murio por Bolita!!".
+[20/12/2009 19:21:34] Zeus Elite has logged out.
+[20/12/2009 19:21:35] > Broadcasted message: "Angelo [336] Murio por Demonio!!".
+[20/12/2009 19:21:35] > Broadcasted message: "Angelo [336] Murio por Demonio!!".
+[20/12/2009 19:21:36] Angelo has logged out.
+[20/12/2009 19:21:37] Account Manager has logged in.
+[20/12/2009 19:21:37] Zeus Elite has logged in.
+[20/12/2009 19:21:37] Angelo has logged in.
+[20/12/2009 19:21:54] > Hoster Aggresor broadcasted: "cambio mi ot completo con version navidad por cuenta de tibia rl".
+[20/12/2009 19:22:00] Account Manager has logged out.
+[20/12/2009 19:22:11] > Saving server...
+[20/12/2009 19:22:22] > SAVE: Complete in 11.609 seconds using relational house storage.
+[20/12/2009 19:22:25] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 100cc y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[20/12/2009 19:22:28] > Broadcasted message: "Sir Macabro [289] Murio por Hitler!!".
+[20/12/2009 19:22:28] > Broadcasted message: "Sir Macabro [289] Murio por Hitler!!".
+[20/12/2009 19:22:29] Sir Macabro has logged out.
+[20/12/2009 19:22:29] Account Manager has logged in.
+[20/12/2009 19:22:30] Sir Macabro has logged in.
+[20/12/2009 19:22:31] Account Manager has logged out.
+[20/12/2009 19:22:39] Shamanes has logged in.
+[20/12/2009 19:22:48] > Broadcasted message: "Sir Macabro [289] Murio por The Punisher!!".
+[20/12/2009 19:22:48] > Broadcasted message: "Sir Macabro [289] Murio por The Punisher!!".
+[20/12/2009 19:22:48] Sir Macabro has logged out.
+[20/12/2009 19:22:49] > Hoster Aggresor broadcasted: "cambio mi ot completo con version navidad por cuenta de tibia rl".
+[20/12/2009 19:22:50] Sir Macabro has logged in.
+[20/12/2009 19:22:58] > Hoster Aggresor broadcasted: "cambio mi ot completo con version navidad por cuenta de tibia rl".
+[20/12/2009 19:22:59] > Hoster Aggresor broadcasted: "cambio mi ot completo con version navidad por cuenta de tibia rl".
+[20/12/2009 19:22:59] > Hoster Aggresor broadcasted: "cambio mi ot completo con version navidad por cuenta de tibia rl".
+[20/12/2009 19:23:11] > Broadcasted message: "Sir Macabro [288] Murio por Demonio!!".
+[20/12/2009 19:23:11] > Broadcasted message: "Sir Macabro [288] Murio por Demonio!!".
+[20/12/2009 19:23:11] Sir Macabro has logged out.
+[20/12/2009 19:23:15] > Hoster Aggresor broadcasted: "cambio mi ot completo con version navidad por cuenta de tibia rl".
+[20/12/2009 19:23:16] > Hoster Aggresor broadcasted: "cambio mi ot completo con version navidad por cuenta de tibia rl".
+[20/12/2009 19:23:16] > Hoster Aggresor broadcasted: "cambio mi ot completo con version navidad por cuenta de tibia rl".
+[20/12/2009 19:23:17] > Hoster Aggresor broadcasted: "cambio mi ot completo con version navidad por cuenta de tibia rl".
+[20/12/2009 19:23:17] > Hoster Aggresor broadcasted: "cambio mi ot completo con version navidad por cuenta de tibia rl".
+[20/12/2009 19:23:17] > Hoster Aggresor broadcasted: "cambio mi ot completo con version navidad por cuenta de tibia rl".
+[20/12/2009 19:23:18] > Hoster Aggresor broadcasted: "cambio mi ot completo con version navidad por cuenta de tibia rl".
+[20/12/2009 19:23:18] > Hoster Aggresor broadcasted: "cambio mi ot completo con version navidad por cuenta de tibia rl".
+[20/12/2009 19:23:19] > Hoster Aggresor broadcasted: "cambio mi ot completo con version navidad por cuenta de tibia rl".
+[20/12/2009 19:23:19] > Metalero broadcasted: "pero dejan a los mismos staff".
+[20/12/2009 19:23:19] > Hoster Aggresor broadcasted: "cambio mi ot completo con version navidad por cuenta de tibia rl".
+[20/12/2009 19:23:20] > Hoster Aggresor broadcasted: "cambio mi ot completo con version navidad por cuenta de tibia rl".
+[20/12/2009 19:23:20] > Hoster Aggresor broadcasted: "cambio mi ot completo con version navidad por cuenta de tibia rl".
+[20/12/2009 19:23:23] > Metalero broadcasted: "pero dejan a los mismos staff".
+[20/12/2009 19:23:25] > Broadcasted message: "Angelo [336] Murio por Dedos!!".
+[20/12/2009 19:23:25] > Broadcasted message: "Angelo [336] Murio por Dedos!!".
+[20/12/2009 19:23:25] Angelo has logged out.
+[20/12/2009 19:23:29] > Broadcasted message: "Voltio [2972] Murio por Love Demon!!".
+[20/12/2009 19:23:29] > Broadcasted message: "Voltio [2972] Murio por Love Demon!!".
+[20/12/2009 19:23:30] Voltio has logged out.
+[20/12/2009 19:23:30] > Metalero broadcasted: "pero dejan a los mismos staff".
+[20/12/2009 19:23:32] > Metalero broadcasted: "pero dejan a los mismos staff".
+[20/12/2009 19:23:37] > Hoster Aggresor broadcasted: "cambio mi ot completo con version navidad por cuenta de tibia rl".
+[20/12/2009 19:23:41] > Hoster Aggresor broadcasted: "cambio mi ot completo con version navidad por cuenta de tibia rl".
+[20/12/2009 19:23:41] > Metalero broadcasted: "pero dejan a los mismos staff".
+[20/12/2009 19:23:42] > Hoster Aggresor broadcasted: "cambio mi ot completo con version navidad por cuenta de tibia rl".
+[20/12/2009 19:23:43] > Hoster Aggresor broadcasted: "cambio mi ot completo con version navidad por cuenta de tibia rl".
+[20/12/2009 19:23:43] > Hoster Aggresor broadcasted: "cambio mi ot completo con version navidad por cuenta de tibia rl".
+[20/12/2009 19:23:43] > Hoster Aggresor broadcasted: "cambio mi ot completo con version navidad por cuenta de tibia rl".
+[20/12/2009 19:23:44] > Hoster Aggresor broadcasted: "cambio mi ot completo con version navidad por cuenta de tibia rl".
+[20/12/2009 19:23:45] > Metalero broadcasted: "pero dejan a los mismos staff".
+[20/12/2009 19:23:46] > Metalero broadcasted: "pero dejan a los mismos staff".
+[20/12/2009 19:23:47] > Hoster Aggresor broadcasted: "cambio mi ot completo con version navidad por cuenta de tibia rl".
+[20/12/2009 19:23:47] > Metalero broadcasted: "pero dejan a los mismos staff".
+[20/12/2009 19:23:49] > Metalero broadcasted: "pero dejan a los mismos staff".
+[20/12/2009 19:23:50] > Metalero broadcasted: "pero dejan a los mismos staff".
+[20/12/2009 19:23:51] > Metalero broadcasted: "pero dejan a los mismos staff".
+[20/12/2009 19:23:53] > Metalero broadcasted: "pero dejan a los mismos staff".
+[20/12/2009 19:24:08] > Metalero broadcasted: "pero dejan a los mismos staff".
+[20/12/2009 19:25:25] Druid Of Darkness has logged out.
+[20/12/2009 19:25:33] Hoster Aggresor has logged out.
+[20/12/2009 19:25:34] Hoster Aggresor has logged in.
+[20/12/2009 19:26:24] > Hoster Aggresor broadcasted: "cambio este mapa pero en version navidad con black skull y too por cuenta de tibia rl".
+[20/12/2009 19:26:36] > Hoster Aggresor broadcasted: "cambio este mapa pero en version navidad con black skull y too por cuenta de tibia rl".
+[20/12/2009 19:26:37] > Hoster Aggresor broadcasted: "cambio este mapa pero en version navidad con black skull y too por cuenta de tibia rl".
+[20/12/2009 19:26:37] > Hoster Aggresor broadcasted: "cambio este mapa pero en version navidad con black skull y too por cuenta de tibia rl".
+[20/12/2009 19:26:38] > Hoster Aggresor broadcasted: "cambio este mapa pero en version navidad con black skull y too por cuenta de tibia rl".
+[20/12/2009 19:26:38] > Hoster Aggresor broadcasted: "cambio este mapa pero en version navidad con black skull y too por cuenta de tibia rl".
+[20/12/2009 19:26:41] > Hoster Aggresor broadcasted: "cambio este mapa pero en version navidad con black skull y too por cuenta de tibia rl".
+[20/12/2009 19:26:41] > Hoster Aggresor broadcasted: "cambio este mapa pero en version navidad con black skull y too por cuenta de tibia rl".
+[20/12/2009 19:26:42] > Hoster Aggresor broadcasted: "cambio este mapa pero en version navidad con black skull y too por cuenta de tibia rl".
+[20/12/2009 19:27:14] Voltio has logged in.
+[20/12/2009 19:27:19] > Broadcasted message: "The Malo [240] Murio por Devil Flamebeast!!".
+[20/12/2009 19:27:20] > Broadcasted message: "The Malo [240] Murio por Devil Flamebeast!!".
+[20/12/2009 19:27:20] The Malo has logged out.
+[20/12/2009 19:27:21] The Malo has logged in.
+[20/12/2009 19:27:40] Hoster Aggresor has logged out.
+[20/12/2009 19:29:15] Account Manager has logged in.
+[20/12/2009 19:29:43] Zeus Elite has logged out.
+[20/12/2009 19:29:44] Zeus Elite has logged in.
+[20/12/2009 19:30:00] Angelo has logged in.
+[20/12/2009 19:30:27] Account Manager has logged out.
+[20/12/2009 19:30:40] > Metalero broadcasted: "qn qerevenir a la quest de los addons?".
+[20/12/2009 19:30:51] > Metalero broadcasted: "(pa level 1000 en adelante)".
+[20/12/2009 19:32:26] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 100cc y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[20/12/2009 19:32:44] > Metalero broadcasted: "todos los q qieran addon me avisan".
+[20/12/2009 19:33:07] 
+[20/12/2009 19:33:07] Lua Script Error: [Action Interface] 
+[20/12/2009 19:33:08] data/actions/scripts/holyx.lua:onUse
+[20/12/2009 19:33:08] 
+[20/12/2009 19:33:08] luaGetTileInfo(). Tile not found
+[20/12/2009 19:33:08] 
+[20/12/2009 19:33:08] Lua Script Error: [Action Interface] 
+[20/12/2009 19:33:08] data/actions/scripts/holyx.lua:onUse
+[20/12/2009 19:33:08] 
+[20/12/2009 19:33:08] data/lib/function.lua:334: attempt to index a boolean value
+[20/12/2009 19:33:08] stack traceback:
+[20/12/2009 19:33:08] 	data/lib/function.lua:334: in function 'getTilePzInfo'
+[20/12/2009 19:33:08] 	data/actions/scripts/holyx.lua:3: in function <data/actions/scripts/holyx.lua:1>
+[20/12/2009 19:33:18] > Broadcasted message: "Shamanes [36] Murio por Undead Dragon!!".
+[20/12/2009 19:33:19] > Broadcasted message: "Shamanes [36] Murio por Undead Dragon!!".
+[20/12/2009 19:33:20] Shamanes has logged out.
+[20/12/2009 19:33:23] Shamanes has logged in.
+[20/12/2009 19:33:28] Account Manager has logged in.
+[20/12/2009 19:33:35] Metalero has logged out.
+[20/12/2009 19:33:39] Account Manager has logged out.
+[20/12/2009 19:33:47] Account Manager has logged in.
+[20/12/2009 19:34:04] Account Manager has logged out.
+[20/12/2009 19:34:10] > Broadcasted message: "Shamanes [36] Murio por Saddam Hussein!!".
+[20/12/2009 19:34:10] > Broadcasted message: "Shamanes [36] Murio por Saddam Hussein!!".
+[20/12/2009 19:34:10] Shamanes has logged out.
+[20/12/2009 19:34:13] Shamanes has logged in.
+[20/12/2009 19:34:31] Mono Man has logged in.
+[20/12/2009 19:35:39] > Broadcasted message: "Angelo [338] Murio por Gorg Bosh!!".
+[20/12/2009 19:35:39] > Broadcasted message: "Angelo [338] Murio por Gorg Bosh!!".
+[20/12/2009 19:35:40] Angelo has logged out.
+[20/12/2009 19:35:41] Angelo has logged in.
+[20/12/2009 19:36:06] > Broadcasted message: "The Malo [879] Murio por Demonio!!".
+[20/12/2009 19:36:07] > Broadcasted message: "The Malo [879] Murio por Demonio!!".
+[20/12/2009 19:36:07] The Malo has logged out.
+[20/12/2009 19:36:09] The Malo has logged in.
+[20/12/2009 19:36:36] Metalero has logged in.
+[20/12/2009 19:37:12] > Saving server...
+[20/12/2009 19:37:23] > SAVE: Complete in 10.187 seconds using relational house storage.
+[20/12/2009 19:38:47] Zeus Elite has logged out.
+[20/12/2009 19:42:01] > Broadcasted message: "The Malo [1859] Murio por Batman!!".
+[20/12/2009 19:42:01] > Broadcasted message: "The Malo [1859] Murio por Batman!!".
+[20/12/2009 19:42:02] The Malo has logged out.
+[20/12/2009 19:42:04] > Broadcasted message: "Mu invade Slayer city".
+[20/12/2009 19:42:27] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 100cc y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[20/12/2009 19:44:17] Account Manager has logged in.
+[20/12/2009 19:44:35] Account Manager has logged out.
+[20/12/2009 19:44:43] 
+[20/12/2009 19:44:43] Lua Script Error: [CreatureScript Interface] 
+[20/12/2009 19:44:44] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[20/12/2009 19:44:44] 
+[20/12/2009 19:44:44] luaGetCreatureName(). Creature not found
+[20/12/2009 19:44:44] 
+[20/12/2009 19:44:44] Lua Script Error: [CreatureScript Interface] 
+[20/12/2009 19:44:44] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[20/12/2009 19:44:44] 
+[20/12/2009 19:44:44] luaGetCreatureName(). Creature not found
+[20/12/2009 19:44:44] 
+[20/12/2009 19:44:44] Lua Script Error: [CreatureScript Interface] 
+[20/12/2009 19:44:44] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[20/12/2009 19:44:44] 
+[20/12/2009 19:44:44] data/creaturescripts/scripts/playerdeath.lua:41: attempt to concatenate a boolean value
+[20/12/2009 19:44:44] stack traceback:
+[20/12/2009 19:44:44] 	data/creaturescripts/scripts/playerdeath.lua:41: in function <data/creaturescripts/scripts/playerdeath.lua:9>
+[20/12/2009 19:44:44] 
+[20/12/2009 19:44:44] Lua Script Error: [CreatureScript Interface] 
+[20/12/2009 19:44:44] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[20/12/2009 19:44:44] 
+[20/12/2009 19:44:44] luaGetCreatureName(). Creature not found
+[20/12/2009 19:44:45] 
+[20/12/2009 19:44:45] Lua Script Error: [CreatureScript Interface] 
+[20/12/2009 19:44:45] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[20/12/2009 19:44:45] 
+[20/12/2009 19:44:45] luaGetCreatureName(). Creature not found
+[20/12/2009 19:44:45] 
+[20/12/2009 19:44:45] Lua Script Error: [CreatureScript Interface] 
+[20/12/2009 19:44:45] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[20/12/2009 19:44:45] 
+[20/12/2009 19:44:45] data/creaturescripts/scripts/playerdeath.lua:41: attempt to concatenate a boolean value
+[20/12/2009 19:44:45] stack traceback:
+[20/12/2009 19:44:45] 	data/creaturescripts/scripts/playerdeath.lua:41: in function <data/creaturescripts/scripts/playerdeath.lua:9>
+[20/12/2009 19:44:45] Mono Man has logged out.
+[20/12/2009 19:44:46] The Malo has logged in.
+[20/12/2009 19:44:46] Account Manager has logged in.
+[20/12/2009 19:44:46] 
+[20/12/2009 19:44:46] Lua Script Error: [TalkAction Interface] 
+[20/12/2009 19:44:46] data/talkactions/scripts/raid.lua:onSay
+[20/12/2009 19:44:46] 
+[20/12/2009 19:44:46] luaDoExecuteRaid(). Raid with name demonios does not exists.
+[20/12/2009 19:44:48] Mono Man has logged in.
+[20/12/2009 19:44:58] > Broadcasted message: "Mu invade Slayer city".
+[20/12/2009 19:45:05] 
+[20/12/2009 19:45:05] Lua Script Error: [CreatureScript Interface] 
+[20/12/2009 19:45:05] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[20/12/2009 19:45:05] 
+[20/12/2009 19:45:05] luaGetCreatureName(). Creature not found
+[20/12/2009 19:45:05] 
+[20/12/2009 19:45:05] Lua Script Error: [CreatureScript Interface] 
+[20/12/2009 19:45:05] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[20/12/2009 19:45:05] 
+[20/12/2009 19:45:05] luaGetCreatureName(). Creature not found
+[20/12/2009 19:45:05] 
+[20/12/2009 19:45:05] Lua Script Error: [CreatureScript Interface] 
+[20/12/2009 19:45:05] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[20/12/2009 19:45:05] 
+[20/12/2009 19:45:05] data/creaturescripts/scripts/playerdeath.lua:41: attempt to concatenate a boolean value
+[20/12/2009 19:45:06] stack traceback:
+[20/12/2009 19:45:06] 	data/creaturescripts/scripts/playerdeath.lua:41: in function <data/creaturescripts/scripts/playerdeath.lua:9>
+[20/12/2009 19:45:06] 
+[20/12/2009 19:45:06] Lua Script Error: [CreatureScript Interface] 
+[20/12/2009 19:45:06] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[20/12/2009 19:45:06] 
+[20/12/2009 19:45:06] luaGetCreatureName(). Creature not found
+[20/12/2009 19:45:06] 
+[20/12/2009 19:45:06] Lua Script Error: [CreatureScript Interface] 
+[20/12/2009 19:45:06] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[20/12/2009 19:45:06] 
+[20/12/2009 19:45:06] luaGetCreatureName(). Creature not found
+[20/12/2009 19:45:06] 
+[20/12/2009 19:45:06] Lua Script Error: [CreatureScript Interface] 
+[20/12/2009 19:45:06] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[20/12/2009 19:45:06] 
+[20/12/2009 19:45:06] data/creaturescripts/scripts/playerdeath.lua:41: attempt to concatenate a boolean value
+[20/12/2009 19:45:07] stack traceback:
+[20/12/2009 19:45:07] 	data/creaturescripts/scripts/playerdeath.lua:41: in function <data/creaturescripts/scripts/playerdeath.lua:9>
+[20/12/2009 19:45:07] Mono Man has logged out.
+[20/12/2009 19:45:09] Mono Man has logged in.
+[20/12/2009 19:45:15] Account Manager has logged out.
+[20/12/2009 19:45:22] La Luly has logged in.
+[20/12/2009 19:45:29] Metalero has logged out.
+[20/12/2009 19:45:34] > Broadcasted message: "La Luly [8] Murio por Mu!!".
+[20/12/2009 19:45:35] > Broadcasted message: "La Luly [8] Murio por Mu!!".
+[20/12/2009 19:45:35] La Luly has logged out.
+[20/12/2009 19:45:37] La Luly has logged in.
+[20/12/2009 19:46:53] Account Manager has logged in.
+[20/12/2009 19:47:04] Account Manager has logged out.
+[20/12/2009 19:47:05] Account Manager has logged in.
+[20/12/2009 19:47:05] Account Manager has logged out.
+[20/12/2009 19:47:09] Account Manager has logged in.
+[20/12/2009 19:47:23] Account Manager has logged out.
+[20/12/2009 19:47:50] Znever has logged in.
+[20/12/2009 19:48:32] > Broadcasted message: "La Luly [81] Murio por Whatafuck!!".
+[20/12/2009 19:48:32] > Broadcasted message: "La Luly [81] Murio por Whatafuck!!".
+[20/12/2009 19:48:32] La Luly has logged out.
+[20/12/2009 19:48:34] La Luly has logged in.
+[20/12/2009 19:49:06] > Broadcasted message: "The Malo [2648] Murio por Batman!!".
+[20/12/2009 19:49:06] > Broadcasted message: "The Malo [2648] Murio por Batman!!".
+[20/12/2009 19:49:07] The Malo has logged out.
+[20/12/2009 19:49:08] The Malo has logged in.
+[20/12/2009 19:49:12] Maik walk has logged out.
+[20/12/2009 19:49:22] Maik walk has logged in.
+[20/12/2009 19:49:25] Maik walk has logged out.
+[20/12/2009 19:49:30] Maik walk has logged in.
+[20/12/2009 19:49:32] Maik walk has logged out.
+[20/12/2009 19:49:47] Rorowx has logged in.
+[20/12/2009 19:49:52] Znever has logged out.
+[20/12/2009 19:52:06] > Broadcasted message: "la limpieza del mapa empieza en 30 segundos, por favor wn recoje tus items!".
+[20/12/2009 19:52:13] > Saving server...
+[20/12/2009 19:52:27] > SAVE: Complete in 13.985 seconds using relational house storage.
+[20/12/2009 19:52:28] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 100cc y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[20/12/2009 19:52:38] > CLEAN: Removed 464 items from 814 tiles in 1.109 seconds.
+[20/12/2009 19:52:38] > Broadcasted message: "el mapa se limpio :P, siguiente limpieza en 2 horas.".
+[20/12/2009 19:53:00] Mono Man has logged out.
+[20/12/2009 19:53:02] Account Manager has logged in.
+[20/12/2009 19:53:34] Account Manager has logged out.
+[20/12/2009 19:54:04] Shamanes has logged out.
+[20/12/2009 19:54:48] Angelo has logged out.
+[20/12/2009 19:54:51] 
+[20/12/2009 19:54:51] Lua Script Error: [Spell Interface] 
+[20/12/2009 19:54:51] in a timer event called from: 
+[20/12/2009 19:54:51] data/spells/scripts/attack/hells core.lua:onCastSpell
+[20/12/2009 19:54:51] 
+[20/12/2009 19:54:51] luaDoCombat(). Creature not found
+[20/12/2009 19:54:51] 
+[20/12/2009 19:54:51] Lua Script Error: [Spell Interface] 
+[20/12/2009 19:54:51] in a timer event called from: 
+[20/12/2009 19:54:51] data/spells/scripts/attack/hells core.lua:onCastSpell
+[20/12/2009 19:54:51] 
+[20/12/2009 19:54:51] luaDoCombat(). Creature not found
+[20/12/2009 19:54:51] 
+[20/12/2009 19:54:51] Lua Script Error: [Spell Interface] 
+[20/12/2009 19:54:51] in a timer event called from: 
+[20/12/2009 19:54:51] data/spells/scripts/attack/hells core.lua:onCastSpell
+[20/12/2009 19:54:51] 
+[20/12/2009 19:54:51] luaDoCombat(). Creature not found
+[20/12/2009 19:54:52] 
+[20/12/2009 19:54:52] Lua Script Error: [Spell Interface] 
+[20/12/2009 19:54:52] in a timer event called from: 
+[20/12/2009 19:54:52] data/spells/scripts/attack/hells core.lua:onCastSpell
+[20/12/2009 19:54:52] 
+[20/12/2009 19:54:52] luaDoCombat(). Creature not found
+[20/12/2009 19:54:52] 
+[20/12/2009 19:54:52] Lua Script Error: [Spell Interface] 
+[20/12/2009 19:54:52] in a timer event called from: 
+[20/12/2009 19:54:52] data/spells/scripts/attack/hells core.lua:onCastSpell
+[20/12/2009 19:54:52] 
+[20/12/2009 19:54:52] luaDoCombat(). Creature not found
+[20/12/2009 19:54:53] > Broadcasted message: "Voltio [3314] Murio por satanico!!".
+[20/12/2009 19:54:53] > Broadcasted message: "Voltio [3314] Murio por satanico!!".
+[20/12/2009 19:54:54] Voltio has logged out.
+[20/12/2009 19:55:09] 
+[20/12/2009 19:55:09] Lua Script Error: [Spell Interface] 
+[20/12/2009 19:55:09] in a timer event called from: 
+[20/12/2009 19:55:09] data/spells/scripts/attack/hells core.lua:onCastSpell
+[20/12/2009 19:55:09] 
+[20/12/2009 19:55:09] luaDoCombat(). Creature not found
+[20/12/2009 19:55:09] 
+[20/12/2009 19:55:09] Lua Script Error: [Spell Interface] 
+[20/12/2009 19:55:09] in a timer event called from: 
+[20/12/2009 19:55:09] data/spells/scripts/attack/hells core.lua:onCastSpell
+[20/12/2009 19:55:09] 
+[20/12/2009 19:55:09] luaDoCombat(). Creature not found
+[20/12/2009 19:55:09] 
+[20/12/2009 19:55:09] Lua Script Error: [Spell Interface] 
+[20/12/2009 19:55:09] in a timer event called from: 
+[20/12/2009 19:55:09] data/spells/scripts/attack/hells core.lua:onCastSpell
+[20/12/2009 19:55:09] 
+[20/12/2009 19:55:09] luaDoCombat(). Creature not found
+[20/12/2009 19:55:09] 
+[20/12/2009 19:55:09] Lua Script Error: [Spell Interface] 
+[20/12/2009 19:55:10] in a timer event called from: 
+[20/12/2009 19:55:10] data/spells/scripts/attack/hells core.lua:onCastSpell
+[20/12/2009 19:55:10] 
+[20/12/2009 19:55:10] luaDoCombat(). Creature not found
+[20/12/2009 19:55:10] 
+[20/12/2009 19:55:10] Lua Script Error: [Spell Interface] 
+[20/12/2009 19:55:10] in a timer event called from: 
+[20/12/2009 19:55:10] data/spells/scripts/attack/hells core.lua:onCastSpell
+[20/12/2009 19:55:10] 
+[20/12/2009 19:55:10] luaDoCombat(). Creature not found
+[20/12/2009 19:56:55] La Luly has logged out.
+[20/12/2009 19:56:56] The Malo has logged out.
+[20/12/2009 19:56:57] Rorowx has logged out.
+[20/12/2009 19:56:57] > Saving server...
+[20/12/2009 19:57:12] > SAVE: Complete in 15.266 seconds using relational house storage.
+[20/12/2009 19:57:12] Preparing to shutdown server.

@@ -1,0 +1,971 @@
+[31/12/2009 00:06:45] The Forgotten Server, version 0.3.4 (Crying Damson)
+[31/12/2009 00:06:45] Sever Criado Por Alissow e Comedinha.
+[31/12/2009 00:06:45] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[31/12/2009 00:06:45] Bom Jogo!!!
+[31/12/2009 00:06:45] 
+[31/12/2009 00:06:45] >> Debugging: nothing.
+[31/12/2009 00:06:45] >> Checking software version... outdated, please consider updating!
+[31/12/2009 00:06:47] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[31/12/2009 00:06:47] > Latest version information - version: 0.3.6, patch: 0, build: 3293, timestamp: 1260652199.
+[31/12/2009 00:06:47] [Warning - ConfigManager::getBool] 62
+[31/12/2009 00:06:47] 
+[31/12/2009 00:06:47] >> Loading config (config.lua)
+[31/12/2009 00:06:47] > Using plaintext passwords
+[31/12/2009 00:06:47] >> Loading RSA key
+[31/12/2009 00:06:47] >> Starting SQL connection
+[31/12/2009 00:06:47] >> Running Database Manager
+[31/12/2009 00:06:48] > Optimized database.
+[31/12/2009 00:06:48] >> Loading items
+[31/12/2009 00:06:49] >> Loading groups
+[31/12/2009 00:06:49] >> Loading vocations
+[31/12/2009 00:06:49] >> Loading script systems
+[31/12/2009 00:06:56] >> Loading chat channels
+[31/12/2009 00:06:56] >> Loading outfits
+[31/12/2009 00:06:56] >> Loading experience stages
+[31/12/2009 00:06:56] >> Loading monsters
+[31/12/2009 00:07:00] >> Loading map and spawns...
+[31/12/2009 00:07:01] > Map size: 1100x1100.
+[31/12/2009 00:07:01] > Map descriptions: 
+[31/12/2009 00:07:01] Saved with Remere's Map Editor 1.1.10
+[31/12/2009 00:07:01] Remere 's Map Editor Beta
+[31/12/2009 00:07:03] Duplicate uniqueId 9911
+[31/12/2009 00:07:03] Duplicate uniqueId 9912
+[31/12/2009 00:07:03] Duplicate uniqueId 9913
+[31/12/2009 00:07:03] Duplicate uniqueId 9914
+[31/12/2009 00:07:03] Duplicate uniqueId 9915
+[31/12/2009 00:07:04] Duplicate uniqueId 2471
+[31/12/2009 00:07:05] Duplicate uniqueId 2471
+[31/12/2009 00:07:07] Duplicate uniqueId 8880
+[31/12/2009 00:07:07] Duplicate uniqueId 8880
+[31/12/2009 00:07:07] Duplicate uniqueId 5006
+[31/12/2009 00:07:08] > Map loading time: 8.063 seconds.
+[31/12/2009 00:07:15] > Data loading time: 6.578 seconds.
+[31/12/2009 00:07:32] > Unserialization time for houses: 17.219 seconds.
+[31/12/2009 00:08:36] > Unserialization time for map: 63.328 seconds.
+[31/12/2009 00:08:36] >> Checking world type... PvP
+[31/12/2009 00:08:36] >> Initializing game state modules and registering services...
+[31/12/2009 00:08:41] > Global address: 201.246.36.209
+[31/12/2009 00:08:42] > Local ports:
+[31/12/2009 00:08:42] 7171	7172	
+[31/12/2009 00:08:42] >> All modules were loaded, server starting up...
+[31/12/2009 00:08:42] >> Aggrox metal server Online!
+[31/12/2009 00:08:42] 
+[31/12/2009 00:08:52] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[31/12/2009 00:08:54] Hoster Aggresor has logged in.
+[31/12/2009 00:09:22] 
+[31/12/2009 00:09:22] Lua Script Error: [Action Interface] 
+[31/12/2009 00:09:22] data/actions/scripts/gate2.lua:onUse
+[31/12/2009 00:09:22] 
+[31/12/2009 00:09:22] attempt to index a number value
+[31/12/2009 00:09:22] stack traceback:
+[31/12/2009 00:09:22] 	[C]: in function 'doSendMagicEffect'
+[31/12/2009 00:09:23] 	data/actions/scripts/gate2.lua:7: in function <data/actions/scripts/gate2.lua:1>
+[31/12/2009 00:26:37] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[31/12/2009 00:31:37] > Saving server...
+[31/12/2009 00:31:48] > SAVE: Complete in 10.859 seconds using relational house storage.
+[31/12/2009 00:36:38] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[31/12/2009 00:46:38] > Saving server...
+[31/12/2009 00:46:47] > SAVE: Complete in 7.875 seconds using relational house storage.
+[31/12/2009 00:46:47] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[31/12/2009 00:56:48] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[31/12/2009 00:56:58] 
+[31/12/2009 00:56:58] Lua Script Error: [CreatureScript Interface] 
+[31/12/2009 00:56:58] data/creaturescripts/scripts/logout.lua
+[31/12/2009 00:56:58] 
+[31/12/2009 00:56:58] cannot open ../../talkactions/scripts/petConfig.lua: No such file or directory
+[31/12/2009 00:56:58] [Warning - Event::loadScript] Cannot load script (data/creaturescripts/scripts/logout.lua)
+[31/12/2009 00:56:58] 
+[31/12/2009 00:57:37] [Warning - Event::loadScript] Cannot load script (data/creaturescripts/scripts/logout.lua)
+[31/12/2009 00:57:37] data/creaturescripts/scripts/logout.lua:5: 'end' expected (to close 'function' at line 1) near 'dofile'
+[31/12/2009 00:57:57] 
+[31/12/2009 00:57:57] Lua Script Error: [CreatureScript Interface] 
+[31/12/2009 00:57:57] data/creaturescripts/scripts/logout.lua
+[31/12/2009 00:57:57] 
+[31/12/2009 00:57:57] cannot open ../../talkactions/scripts/petConfig.lua: No such file or directory
+[31/12/2009 00:57:57] [Warning - Event::loadScript] Cannot load script (data/creaturescripts/scripts/logout.lua)
+[31/12/2009 00:57:57] data/creaturescripts/scripts/logout.lua:5: 'end' expected (to close 'function' at line 1) near 'dofile'
+[31/12/2009 01:01:39] > Saving server...
+[31/12/2009 01:01:46] > SAVE: Complete in 7.375 seconds using relational house storage.
+[31/12/2009 01:04:45] The Forgotten Server, version 0.3.4 (Crying Damson)
+[31/12/2009 01:04:45] Sever Criado Por Alissow e Comedinha.
+[31/12/2009 01:04:45] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[31/12/2009 01:04:45] Bom Jogo!!!
+[31/12/2009 01:04:45] 
+[31/12/2009 01:04:45] >> Debugging: nothing.
+[31/12/2009 01:04:45] >> Checking software version... outdated, please consider updating!
+[31/12/2009 01:04:46] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[31/12/2009 01:04:46] > Latest version information - version: 0.3.6, patch: 0, build: 3293, timestamp: 1260652199.
+[31/12/2009 01:04:46] [Warning - ConfigManager::getBool] 62
+[31/12/2009 01:04:46] 
+[31/12/2009 01:04:46] >> Loading config (config.lua)
+[31/12/2009 01:04:46] > Using plaintext passwords
+[31/12/2009 01:04:46] >> Loading RSA key
+[31/12/2009 01:04:46] >> Starting SQL connection
+[31/12/2009 01:04:46] >> Running Database Manager
+[31/12/2009 01:04:48] > Optimized database.
+[31/12/2009 01:04:48] >> Loading items
+[31/12/2009 01:04:49] >> Loading groups
+[31/12/2009 01:04:49] >> Loading vocations
+[31/12/2009 01:04:49] >> Loading script systems
+[31/12/2009 01:04:55] >> Loading chat channels
+[31/12/2009 01:04:55] >> Loading outfits
+[31/12/2009 01:04:55] >> Loading experience stages
+[31/12/2009 01:04:55] >> Loading monsters
+[31/12/2009 01:04:58] >> Loading map and spawns...
+[31/12/2009 01:04:59] > Map size: 1100x1100.
+[31/12/2009 01:04:59] > Map descriptions: 
+[31/12/2009 01:04:59] Saved with Remere's Map Editor 1.1.10
+[31/12/2009 01:04:59] Remere 's Map Editor Beta
+[31/12/2009 01:05:01] Duplicate uniqueId 9911
+[31/12/2009 01:05:02] Duplicate uniqueId 9912
+[31/12/2009 01:05:02] Duplicate uniqueId 9913
+[31/12/2009 01:05:02] Duplicate uniqueId 9914
+[31/12/2009 01:05:02] Duplicate uniqueId 9915
+[31/12/2009 01:05:03] Duplicate uniqueId 2471
+[31/12/2009 01:05:03] Duplicate uniqueId 2471
+[31/12/2009 01:05:05] Duplicate uniqueId 8880
+[31/12/2009 01:05:06] Duplicate uniqueId 8880
+[31/12/2009 01:05:06] Duplicate uniqueId 5006
+[31/12/2009 01:05:07] > Map loading time: 8.609 seconds.
+[31/12/2009 01:05:09] > Data loading time: 2.015 seconds.
+[31/12/2009 01:05:09] > Unserialization time for houses: 0.281 seconds.
+[31/12/2009 01:06:01] > Unserialization time for map: 51.359 seconds.
+[31/12/2009 01:06:01] >> Checking world type... PvP
+[31/12/2009 01:06:01] >> Initializing game state modules and registering services...
+[31/12/2009 01:06:04] > Global address: 201.246.36.209
+[31/12/2009 01:06:05] > Local ports:
+[31/12/2009 01:06:05] 7171	7172	
+[31/12/2009 01:06:05] >> All modules were loaded, server starting up...
+[31/12/2009 01:06:05] >> Aggrox metal server Online!
+[31/12/2009 01:06:05] 
+[31/12/2009 01:06:29] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[31/12/2009 01:06:32] Aggresor has logged in.
+[31/12/2009 01:06:48] Aggresor has logged out.
+[31/12/2009 01:06:50] Aggresor has logged in.
+[31/12/2009 01:06:52] Aggresor has logged out.
+[31/12/2009 01:06:54] Aggresor has logged in.
+[31/12/2009 01:06:56] Aggresor has logged out.
+[31/12/2009 01:07:02] Hoster Aggresor has logged in.
+[31/12/2009 01:07:12] Hoster Aggresor has logged out.
+[31/12/2009 01:07:17] Zorra Zorrienta has logged in.
+[31/12/2009 01:08:48] > Broadcasted message: "Zorra Zorrienta [166] Murio por Banshee!!".
+[31/12/2009 01:08:48] > Broadcasted message: "Zorra Zorrienta [166] Murio por Banshee!!".
+[31/12/2009 01:08:49] Zorra Zorrienta has logged out.
+[31/12/2009 01:08:49] 
+[31/12/2009 01:08:49] Lua Script Error: [Spell Interface] 
+[31/12/2009 01:08:49] in a timer event called from: 
+[31/12/2009 01:08:49] data/spells/scripts/attack/rage of the skies.lua:onCastSpell
+[31/12/2009 01:08:49] 
+[31/12/2009 01:08:49] luaDoCombat(). Creature not found
+[31/12/2009 01:08:49] 
+[31/12/2009 01:08:49] Lua Script Error: [Spell Interface] 
+[31/12/2009 01:08:49] in a timer event called from: 
+[31/12/2009 01:08:49] data/spells/scripts/attack/rage of the skies.lua:onCastSpell
+[31/12/2009 01:08:49] 
+[31/12/2009 01:08:49] luaDoCombat(). Creature not found
+[31/12/2009 01:08:49] 
+[31/12/2009 01:08:49] Lua Script Error: [Spell Interface] 
+[31/12/2009 01:08:50] in a timer event called from: 
+[31/12/2009 01:08:50] data/spells/scripts/attack/rage of the skies.lua:onCastSpell
+[31/12/2009 01:08:50] 
+[31/12/2009 01:08:50] luaDoCombat(). Creature not found
+[31/12/2009 01:08:50] 
+[31/12/2009 01:08:50] Lua Script Error: [Spell Interface] 
+[31/12/2009 01:08:50] in a timer event called from: 
+[31/12/2009 01:08:50] data/spells/scripts/attack/rage of the skies.lua:onCastSpell
+[31/12/2009 01:08:50] 
+[31/12/2009 01:08:50] luaDoCombat(). Creature not found
+[31/12/2009 01:08:50] 
+[31/12/2009 01:08:50] Lua Script Error: [Spell Interface] 
+[31/12/2009 01:08:50] in a timer event called from: 
+[31/12/2009 01:08:50] data/spells/scripts/attack/rage of the skies.lua:onCastSpell
+[31/12/2009 01:08:50] 
+[31/12/2009 01:08:50] luaDoCombat(). Creature not found
+[31/12/2009 01:08:50] 
+[31/12/2009 01:08:50] Lua Script Error: [Spell Interface] 
+[31/12/2009 01:08:50] in a timer event called from: 
+[31/12/2009 01:08:50] data/spells/scripts/attack/rage of the skies.lua:onCastSpell
+[31/12/2009 01:08:50] 
+[31/12/2009 01:08:50] luaDoCombat(). Creature not found
+[31/12/2009 01:08:50] 
+[31/12/2009 01:08:50] Lua Script Error: [Spell Interface] 
+[31/12/2009 01:08:50] in a timer event called from: 
+[31/12/2009 01:08:50] data/spells/scripts/attack/rage of the skies.lua:onCastSpell
+[31/12/2009 01:08:50] 
+[31/12/2009 01:08:50] luaDoCombat(). Creature not found
+[31/12/2009 01:08:52] Zorra Zorrienta has logged in.
+[31/12/2009 01:09:34] Zorra Zorrienta has logged out.
+[31/12/2009 01:09:36] Hoster Aggresor has logged in.
+[31/12/2009 01:11:19] > Broadcasted message: "[LOTTERY SYSTEM] ganador: Hoster Aggresor, recompensa: 100k! - felicitaciones! (siguiente Loteria en 1 Hours)".
+[31/12/2009 01:12:20] > Broadcasted message: "[LOTTERY SYSTEM] ganador: Hoster Aggresor, recompensa: 100k! - felicitaciones! (siguiente Loteria en 1 Hours)".
+[31/12/2009 01:13:21] > Broadcasted message: "[LOTTERY SYSTEM] ganador: Hoster Aggresor, recompensa: 100k! - felicitaciones! (siguiente Loteria en 1 Hours)".
+[31/12/2009 01:14:22] > Broadcasted message: "[LOTTERY SYSTEM] ganador: Hoster Aggresor, recompensa: 100k! - felicitaciones! (siguiente Loteria en 1 Hours)".
+[31/12/2009 01:14:57] Hoster Aggresor has logged out.
+[31/12/2009 01:14:59] Zorra Zorrienta has logged in.
+[31/12/2009 01:15:10] Zorra Zorrienta has logged out.
+[31/12/2009 01:15:12] Hoster Aggresor has logged in.
+[31/12/2009 01:15:20] Hoster Aggresor has logged out.
+[31/12/2009 01:15:22] Zorra Zorrienta has logged in.
+[31/12/2009 01:15:23] > Broadcasted message: "[LOTTERY SYSTEM] ganador: Zorra Zorrienta, recompensa: 100k! - felicitaciones! (siguiente Loteria en 1 Hours)".
+[31/12/2009 01:16:24] > Broadcasted message: "[LOTTERY SYSTEM] ganador: Zorra Zorrienta, recompensa: 100k! - felicitaciones! (siguiente Loteria en 1 Hours)".
+[31/12/2009 01:17:25] > Broadcasted message: "[LOTTERY SYSTEM] ganador: Zorra Zorrienta, recompensa: 100k! - felicitaciones! (siguiente Loteria en 1 Hours)".
+[31/12/2009 01:18:26] > Broadcasted message: "[LOTTERY SYSTEM] ganador: Zorra Zorrienta, recompensa: 100k! - felicitaciones! (siguiente Loteria en 1 Hours)".
+[31/12/2009 01:19:27] > Broadcasted message: "[LOTTERY SYSTEM] ganador: Zorra Zorrienta, recompensa: 100k! - felicitaciones! (siguiente Loteria en 1 Hours)".
+[31/12/2009 01:20:19] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[31/12/2009 01:20:28] > Broadcasted message: "[LOTTERY SYSTEM] ganador: Zorra Zorrienta, recompensa: 100k! - felicitaciones! (siguiente Loteria en 1 Hours)".
+[31/12/2009 01:21:29] > Broadcasted message: "[LOTTERY SYSTEM] ganador: Zorra Zorrienta, recompensa: 100k! - felicitaciones! (siguiente Loteria en 1 Hours)".
+[31/12/2009 01:22:30] > Broadcasted message: "[LOTTERY SYSTEM] ganador: Zorra Zorrienta, recompensa: 100k! - felicitaciones! (siguiente Loteria en 1 Hours)".
+[31/12/2009 01:23:31] > Broadcasted message: "[LOTTERY SYSTEM] ganador: Zorra Zorrienta, recompensa: 100k! - felicitaciones! (siguiente Loteria en 1 Hours)".
+[31/12/2009 01:24:32] > Broadcasted message: "[LOTTERY SYSTEM] ganador: Zorra Zorrienta, recompensa: 100k! - felicitaciones! (siguiente Loteria en 1 Hours)".
+[31/12/2009 01:25:10] Zorra Zorrienta has logged out.
+[31/12/2009 01:25:12] Hoster Aggresor has logged in.
+[31/12/2009 01:25:19] > Saving server...
+[31/12/2009 01:25:29] > SAVE: Complete in 9.203 seconds using relational house storage.
+[31/12/2009 01:25:33] > Broadcasted message: "[LOTTERY SYSTEM] ganador: Hoster Aggresor, recompensa: 100k! - felicitaciones! (siguiente Loteria en 1 Hours)".
+[31/12/2009 01:26:34] > Broadcasted message: "[LOTTERY SYSTEM] ganador: Hoster Aggresor, recompensa: 100k! - felicitaciones! (siguiente Loteria en 1 Hours)".
+[31/12/2009 01:27:35] > Broadcasted message: "[LOTTERY SYSTEM] ganador: Hoster Aggresor, recompensa: 100k! - felicitaciones! (siguiente Loteria en 1 Hours)".
+[31/12/2009 01:28:36] > Broadcasted message: "[LOTTERY SYSTEM] ganador: Hoster Aggresor, recompensa: 100k! - felicitaciones! (siguiente Loteria en 1 Hours)".
+[31/12/2009 01:29:37] > Broadcasted message: "[LOTTERY SYSTEM] ganador: Hoster Aggresor, recompensa: 100k! - felicitaciones! (siguiente Loteria en 1 Hours)".
+[31/12/2009 01:30:20] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[31/12/2009 01:30:38] > Broadcasted message: "[LOTTERY SYSTEM] ganador: Hoster Aggresor, recompensa: 100k! - felicitaciones! (siguiente Loteria en 1 Hours)".
+[31/12/2009 01:31:39] > Broadcasted message: "[LOTTERY SYSTEM] ganador: Hoster Aggresor, recompensa: 100k! - felicitaciones! (siguiente Loteria en 1 Hours)".
+[31/12/2009 01:32:40] > Broadcasted message: "[LOTTERY SYSTEM] ganador: Hoster Aggresor, recompensa: 100k! - felicitaciones! (siguiente Loteria en 1 Hours)".
+[31/12/2009 01:33:41] > Broadcasted message: "[LOTTERY SYSTEM] ganador: Hoster Aggresor, recompensa: 100k! - felicitaciones! (siguiente Loteria en 1 Hours)".
+[31/12/2009 01:34:42] > Broadcasted message: "[LOTTERY SYSTEM] ganador: Hoster Aggresor, recompensa: 100k! - felicitaciones! (siguiente Loteria en 1 Hours)".
+[31/12/2009 01:35:43] > Broadcasted message: "[LOTTERY SYSTEM] ganador: Hoster Aggresor, recompensa: 100k! - felicitaciones! (siguiente Loteria en 1 Hours)".
+[31/12/2009 01:36:44] > Broadcasted message: "[LOTTERY SYSTEM] ganador: Hoster Aggresor, recompensa: 100k! - felicitaciones! (siguiente Loteria en 1 Hours)".
+[31/12/2009 01:37:45] > Broadcasted message: "[LOTTERY SYSTEM] ganador: Hoster Aggresor, recompensa: 100k! - felicitaciones! (siguiente Loteria en 1 Hours)".
+[31/12/2009 01:38:46] > Broadcasted message: "[LOTTERY SYSTEM] ganador: Hoster Aggresor, recompensa: 100k! - felicitaciones! (siguiente Loteria en 1 Hours)".
+[31/12/2009 01:56:34] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[31/12/2009 02:01:34] > Saving server...
+[31/12/2009 02:01:55] > SAVE: Complete in 20.969 seconds using relational house storage.
+[31/12/2009 02:06:34] 
+[31/12/2009 02:06:34] Lua Script Error: [GlobalEvent Interface] 
+[31/12/2009 02:06:34] data/globalevents/scripts/lottery.lua:onThink
+[31/12/2009 02:06:34] 
+[31/12/2009 02:06:34] data/globalevents/scripts/lottery.lua:16: attempt to concatenate field 'lottery_horas' (a nil value)
+[31/12/2009 02:06:34] stack traceback:
+[31/12/2009 02:06:34] 	data/globalevents/scripts/lottery.lua:16: in function <data/globalevents/scripts/lottery.lua:6>
+[31/12/2009 02:06:34] [Error - GlobalEvents::onThink] Couldn't execute event: lottery
+[31/12/2009 02:06:36] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[31/12/2009 02:16:35] > Saving server...
+[31/12/2009 02:16:43] > SAVE: Complete in 7.25 seconds using relational house storage.
+[31/12/2009 02:16:43] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[31/12/2009 02:18:38] [Warning - Event::loadScript] Cannot load script (data/talkactions/scripts/addvip.lua)
+[31/12/2009 02:18:38] data/talkactions/scripts/addvip.lua:26: ')' expected near 'acceso'
+[31/12/2009 02:19:15] [Warning - Event::loadScript] Cannot load script (data/talkactions/scripts/addvip.lua)
+[31/12/2009 02:19:16] data/talkactions/scripts/addvip.lua:26: ')' expected near 'access'
+[31/12/2009 02:19:22] [Warning - Event::loadScript] Cannot load script (data/talkactions/scripts/addvip.lua)
+[31/12/2009 02:19:22] data/talkactions/scripts/addvip.lua:26: ')' expected near 'access'
+[31/12/2009 02:21:11] Hoster Aggresor has logged out.
+[31/12/2009 02:21:14] Zorra Zorrienta has logged in.
+[31/12/2009 02:21:30] 
+[31/12/2009 02:21:30] Lua Script Error: [TalkAction Interface] 
+[31/12/2009 02:21:30] data/talkactions/scripts/addvip.lua:onSay
+[31/12/2009 02:21:30] 
+[31/12/2009 02:21:30] luaGetPlayerStorageValue(). Player not found
+[31/12/2009 02:21:30] 
+[31/12/2009 02:21:30] Lua Script Error: [TalkAction Interface] 
+[31/12/2009 02:21:30] data/talkactions/scripts/addvip.lua:onSay
+[31/12/2009 02:21:30] 
+[31/12/2009 02:21:30] data/talkactions/scripts/addvip.lua:15: attempt to perform arithmetic on global 'storageplayer' (a boolean value)
+[31/12/2009 02:21:31] stack traceback:
+[31/12/2009 02:21:31] 	data/talkactions/scripts/addvip.lua:15: in function <data/talkactions/scripts/addvip.lua:1>
+[31/12/2009 02:21:45] 
+[31/12/2009 02:21:45] Lua Script Error: [TalkAction Interface] 
+[31/12/2009 02:21:45] data/talkactions/scripts/addvip.lua:onSay
+[31/12/2009 02:21:46] 
+[31/12/2009 02:21:46] luaGetPlayerStorageValue(). Player not found
+[31/12/2009 02:21:46] 
+[31/12/2009 02:21:46] Lua Script Error: [TalkAction Interface] 
+[31/12/2009 02:21:46] data/talkactions/scripts/addvip.lua:onSay
+[31/12/2009 02:21:46] 
+[31/12/2009 02:21:46] data/talkactions/scripts/addvip.lua:15: attempt to perform arithmetic on global 'storageplayer' (a boolean value)
+[31/12/2009 02:21:46] stack traceback:
+[31/12/2009 02:21:46] 	data/talkactions/scripts/addvip.lua:15: in function <data/talkactions/scripts/addvip.lua:1>
+[31/12/2009 02:21:51] 
+[31/12/2009 02:21:51] Lua Script Error: [TalkAction Interface] 
+[31/12/2009 02:21:51] data/talkactions/scripts/addvip.lua:onSay
+[31/12/2009 02:21:51] 
+[31/12/2009 02:21:51] luaGetPlayerStorageValue(). Player not found
+[31/12/2009 02:21:51] 
+[31/12/2009 02:21:51] Lua Script Error: [TalkAction Interface] 
+[31/12/2009 02:21:51] data/talkactions/scripts/addvip.lua:onSay
+[31/12/2009 02:21:52] 
+[31/12/2009 02:21:52] data/talkactions/scripts/addvip.lua:15: attempt to perform arithmetic on global 'storageplayer' (a boolean value)
+[31/12/2009 02:21:52] stack traceback:
+[31/12/2009 02:21:52] 	data/talkactions/scripts/addvip.lua:15: in function <data/talkactions/scripts/addvip.lua:1>
+[31/12/2009 02:22:19] Zorra Zorrienta has logged out.
+[31/12/2009 02:22:20] Hoster Aggresor has logged in.
+[31/12/2009 02:22:31] Hoster Aggresor has logged out.
+[31/12/2009 02:22:34] Zorra Zorrienta has logged in.
+[31/12/2009 02:22:40] 
+[31/12/2009 02:22:40] Lua Script Error: [TalkAction Interface] 
+[31/12/2009 02:22:40] data/talkactions/scripts/addvip.lua:onSay
+[31/12/2009 02:22:40] 
+[31/12/2009 02:22:40] luaGetPlayerStorageValue(). Player not found
+[31/12/2009 02:22:40] 
+[31/12/2009 02:22:40] Lua Script Error: [TalkAction Interface] 
+[31/12/2009 02:22:40] data/talkactions/scripts/addvip.lua:onSay
+[31/12/2009 02:22:40] 
+[31/12/2009 02:22:40] data/talkactions/scripts/addvip.lua:15: attempt to perform arithmetic on global 'storageplayer' (a boolean value)
+[31/12/2009 02:22:40] stack traceback:
+[31/12/2009 02:22:40] 	data/talkactions/scripts/addvip.lua:15: in function <data/talkactions/scripts/addvip.lua:1>
+[31/12/2009 02:22:50] 
+[31/12/2009 02:22:50] Lua Script Error: [TalkAction Interface] 
+[31/12/2009 02:22:50] data/talkactions/scripts/addvip.lua:onSay
+[31/12/2009 02:22:50] 
+[31/12/2009 02:22:50] luaGetPlayerStorageValue(). Player not found
+[31/12/2009 02:22:50] 
+[31/12/2009 02:22:50] Lua Script Error: [TalkAction Interface] 
+[31/12/2009 02:22:50] data/talkactions/scripts/addvip.lua:onSay
+[31/12/2009 02:22:50] 
+[31/12/2009 02:22:50] data/talkactions/scripts/addvip.lua:15: attempt to perform arithmetic on global 'storageplayer' (a boolean value)
+[31/12/2009 02:22:50] stack traceback:
+[31/12/2009 02:22:50] 	data/talkactions/scripts/addvip.lua:15: in function <data/talkactions/scripts/addvip.lua:1>
+[31/12/2009 02:22:57] 
+[31/12/2009 02:22:57] Lua Script Error: [TalkAction Interface] 
+[31/12/2009 02:22:57] data/talkactions/scripts/addvip.lua:onSay
+[31/12/2009 02:22:57] 
+[31/12/2009 02:22:57] luaGetPlayerStorageValue(). Player not found
+[31/12/2009 02:22:57] 
+[31/12/2009 02:22:57] Lua Script Error: [TalkAction Interface] 
+[31/12/2009 02:22:57] data/talkactions/scripts/addvip.lua:onSay
+[31/12/2009 02:22:57] 
+[31/12/2009 02:22:57] data/talkactions/scripts/addvip.lua:15: attempt to perform arithmetic on global 'storageplayer' (a boolean value)
+[31/12/2009 02:22:58] stack traceback:
+[31/12/2009 02:22:58] 	data/talkactions/scripts/addvip.lua:15: in function <data/talkactions/scripts/addvip.lua:1>
+[31/12/2009 02:22:59] 
+[31/12/2009 02:22:59] Lua Script Error: [TalkAction Interface] 
+[31/12/2009 02:22:59] data/talkactions/scripts/addvip.lua:onSay
+[31/12/2009 02:22:59] 
+[31/12/2009 02:22:59] luaGetPlayerStorageValue(). Player not found
+[31/12/2009 02:22:59] 
+[31/12/2009 02:22:59] Lua Script Error: [TalkAction Interface] 
+[31/12/2009 02:22:59] data/talkactions/scripts/addvip.lua:onSay
+[31/12/2009 02:22:59] 
+[31/12/2009 02:22:59] data/talkactions/scripts/addvip.lua:15: attempt to perform arithmetic on global 'storageplayer' (a boolean value)
+[31/12/2009 02:22:59] stack traceback:
+[31/12/2009 02:22:59] 	data/talkactions/scripts/addvip.lua:15: in function <data/talkactions/scripts/addvip.lua:1>
+[31/12/2009 02:22:59] 
+[31/12/2009 02:22:59] Lua Script Error: [TalkAction Interface] 
+[31/12/2009 02:22:59] data/talkactions/scripts/addvip.lua:onSay
+[31/12/2009 02:22:59] 
+[31/12/2009 02:22:59] luaGetPlayerStorageValue(). Player not found
+[31/12/2009 02:22:59] 
+[31/12/2009 02:22:59] Lua Script Error: [TalkAction Interface] 
+[31/12/2009 02:23:00] data/talkactions/scripts/addvip.lua:onSay
+[31/12/2009 02:23:00] 
+[31/12/2009 02:23:00] data/talkactions/scripts/addvip.lua:15: attempt to perform arithmetic on global 'storageplayer' (a boolean value)
+[31/12/2009 02:23:00] stack traceback:
+[31/12/2009 02:23:00] 	data/talkactions/scripts/addvip.lua:15: in function <data/talkactions/scripts/addvip.lua:1>
+[31/12/2009 02:24:04] Zorra Zorrienta has logged out.
+[31/12/2009 02:24:06] Hoster Aggresor has logged in.
+[31/12/2009 02:24:09] 
+[31/12/2009 02:24:09] Lua Script Error: [TalkAction Interface] 
+[31/12/2009 02:24:09] data/talkactions/scripts/teleporthere.lua:onSay
+[31/12/2009 02:24:09] 
+[31/12/2009 02:24:09] luaGetClosestFreeTile(). Creature not found
+[31/12/2009 02:24:14] > Hoster Aggresor broadcasted: "ctm".
+[31/12/2009 02:24:16] Hoster Aggresor has logged out.
+[31/12/2009 02:24:18] Zorra Zorrienta has logged in.
+[31/12/2009 02:24:22] 
+[31/12/2009 02:24:22] Lua Script Error: [TalkAction Interface] 
+[31/12/2009 02:24:23] data/talkactions/scripts/addvip.lua:onSay
+[31/12/2009 02:24:23] 
+[31/12/2009 02:24:23] luaGetPlayerStorageValue(). Player not found
+[31/12/2009 02:24:23] 
+[31/12/2009 02:24:23] Lua Script Error: [TalkAction Interface] 
+[31/12/2009 02:24:23] data/talkactions/scripts/addvip.lua:onSay
+[31/12/2009 02:24:23] 
+[31/12/2009 02:24:23] data/talkactions/scripts/addvip.lua:15: attempt to perform arithmetic on global 'storageplayer' (a boolean value)
+[31/12/2009 02:24:23] stack traceback:
+[31/12/2009 02:24:23] 	data/talkactions/scripts/addvip.lua:15: in function <data/talkactions/scripts/addvip.lua:1>
+[31/12/2009 02:26:10] Zorra Zorrienta has logged out.
+[31/12/2009 02:26:11] Hoster Aggresor has logged in.
+[31/12/2009 02:26:27] 
+[31/12/2009 02:26:27] Lua Script Error: [TalkAction Interface] 
+[31/12/2009 02:26:27] data/talkactions/scripts/addvip.lua:onSay
+[31/12/2009 02:26:27] 
+[31/12/2009 02:26:27] luaGetPlayerStorageValue(). Player not found
+[31/12/2009 02:26:27] 
+[31/12/2009 02:26:27] Lua Script Error: [TalkAction Interface] 
+[31/12/2009 02:26:27] data/talkactions/scripts/addvip.lua:onSay
+[31/12/2009 02:26:27] 
+[31/12/2009 02:26:27] data/talkactions/scripts/addvip.lua:15: attempt to perform arithmetic on global 'storageplayer' (a boolean value)
+[31/12/2009 02:26:27] stack traceback:
+[31/12/2009 02:26:27] 	data/talkactions/scripts/addvip.lua:15: in function <data/talkactions/scripts/addvip.lua:1>
+[31/12/2009 02:27:25] 
+[31/12/2009 02:27:25] Lua Script Error: [TalkAction Interface] 
+[31/12/2009 02:27:25] data/talkactions/scripts/addvip.lua:onSay
+[31/12/2009 02:27:25] 
+[31/12/2009 02:27:25] luaGetPlayerStorageValue(). Player not found
+[31/12/2009 02:27:25] 
+[31/12/2009 02:27:25] Lua Script Error: [TalkAction Interface] 
+[31/12/2009 02:27:25] data/talkactions/scripts/addvip.lua:onSay
+[31/12/2009 02:27:25] 
+[31/12/2009 02:27:25] data/talkactions/scripts/addvip.lua:15: attempt to perform arithmetic on global 'storageplayer' (a boolean value)
+[31/12/2009 02:27:25] stack traceback:
+[31/12/2009 02:27:25] 	data/talkactions/scripts/addvip.lua:15: in function <data/talkactions/scripts/addvip.lua:1>
+[31/12/2009 02:27:31] > Hoster Aggresor broadcasted: "ctm".
+[31/12/2009 02:27:35] 
+[31/12/2009 02:27:35] Lua Script Error: [TalkAction Interface] 
+[31/12/2009 02:27:35] data/talkactions/scripts/addvip.lua:onSay
+[31/12/2009 02:27:35] 
+[31/12/2009 02:27:35] luaGetPlayerStorageValue(). Player not found
+[31/12/2009 02:27:36] 
+[31/12/2009 02:27:36] Lua Script Error: [TalkAction Interface] 
+[31/12/2009 02:27:36] data/talkactions/scripts/addvip.lua:onSay
+[31/12/2009 02:27:36] 
+[31/12/2009 02:27:36] data/talkactions/scripts/addvip.lua:15: attempt to perform arithmetic on global 'storageplayer' (a boolean value)
+[31/12/2009 02:27:36] stack traceback:
+[31/12/2009 02:27:36] 	data/talkactions/scripts/addvip.lua:15: in function <data/talkactions/scripts/addvip.lua:1>
+[31/12/2009 02:28:35] > Hoster Aggresor broadcasted: "ctm".
+[31/12/2009 02:28:40] 
+[31/12/2009 02:28:40] Lua Script Error: [TalkAction Interface] 
+[31/12/2009 02:28:40] data/talkactions/scripts/addvip.lua:onSay
+[31/12/2009 02:28:40] 
+[31/12/2009 02:28:40] luaGetPlayerStorageValue(). Player not found
+[31/12/2009 02:28:40] 
+[31/12/2009 02:28:40] Lua Script Error: [TalkAction Interface] 
+[31/12/2009 02:28:40] data/talkactions/scripts/addvip.lua:onSay
+[31/12/2009 02:28:40] 
+[31/12/2009 02:28:40] data/talkactions/scripts/addvip.lua:15: attempt to perform arithmetic on global 'storageplayer' (a boolean value)
+[31/12/2009 02:28:40] stack traceback:
+[31/12/2009 02:28:40] 	data/talkactions/scripts/addvip.lua:15: in function <data/talkactions/scripts/addvip.lua:1>
+[31/12/2009 02:33:47] > Hoster Aggresor broadcasted: "ctm".
+[31/12/2009 02:33:52] 
+[31/12/2009 02:33:52] Lua Script Error: [TalkAction Interface] 
+[31/12/2009 02:33:52] data/talkactions/scripts/addvip.lua:onSay
+[31/12/2009 02:33:52] 
+[31/12/2009 02:33:52] luaGetPlayerStorageValue(). Player not found
+[31/12/2009 02:33:52] 
+[31/12/2009 02:33:52] Lua Script Error: [TalkAction Interface] 
+[31/12/2009 02:33:52] data/talkactions/scripts/addvip.lua:onSay
+[31/12/2009 02:33:52] 
+[31/12/2009 02:33:52] data/talkactions/scripts/addvip.lua:15: attempt to perform arithmetic on global 'storageplayer' (a boolean value)
+[31/12/2009 02:33:52] stack traceback:
+[31/12/2009 02:33:52] 	data/talkactions/scripts/addvip.lua:15: in function <data/talkactions/scripts/addvip.lua:1>
+[31/12/2009 02:37:35] [Warning - Event::loadScript] Cannot load script (data/talkactions/scripts/addvip.lua)
+[31/12/2009 02:37:36] data/talkactions/scripts/addvip.lua:2: '=' expected near 'function'
+[31/12/2009 02:38:23] 
+[31/12/2009 02:38:23] Lua Script Error: [TalkAction Interface] 
+[31/12/2009 02:38:23] data/talkactions/scripts/addvip.lua:onSay
+[31/12/2009 02:38:23] 
+[31/12/2009 02:38:23] luaGetPlayerStorageValue(). Player not found
+[31/12/2009 02:38:23] 
+[31/12/2009 02:38:23] Lua Script Error: [TalkAction Interface] 
+[31/12/2009 02:38:23] data/talkactions/scripts/addvip.lua:onSay
+[31/12/2009 02:38:23] 
+[31/12/2009 02:38:23] data/talkactions/scripts/addvip.lua:15: attempt to perform arithmetic on global 'storageplayer' (a boolean value)
+[31/12/2009 02:38:23] stack traceback:
+[31/12/2009 02:38:23] 	data/talkactions/scripts/addvip.lua:15: in function <data/talkactions/scripts/addvip.lua:1>
+[31/12/2009 02:38:26] 
+[31/12/2009 02:38:26] Lua Script Error: [TalkAction Interface] 
+[31/12/2009 02:38:26] data/talkactions/scripts/addvip.lua:onSay
+[31/12/2009 02:38:26] 
+[31/12/2009 02:38:26] luaGetPlayerStorageValue(). Player not found
+[31/12/2009 02:38:26] 
+[31/12/2009 02:38:26] Lua Script Error: [TalkAction Interface] 
+[31/12/2009 02:38:26] data/talkactions/scripts/addvip.lua:onSay
+[31/12/2009 02:38:26] 
+[31/12/2009 02:38:26] data/talkactions/scripts/addvip.lua:15: attempt to perform arithmetic on global 'storageplayer' (a boolean value)
+[31/12/2009 02:38:26] stack traceback:
+[31/12/2009 02:38:26] 	data/talkactions/scripts/addvip.lua:15: in function <data/talkactions/scripts/addvip.lua:1>
+[31/12/2009 02:38:27] 
+[31/12/2009 02:38:27] Lua Script Error: [TalkAction Interface] 
+[31/12/2009 02:38:27] data/talkactions/scripts/addvip.lua:onSay
+[31/12/2009 02:38:27] 
+[31/12/2009 02:38:27] luaGetPlayerStorageValue(). Player not found
+[31/12/2009 02:38:27] 
+[31/12/2009 02:38:27] Lua Script Error: [TalkAction Interface] 
+[31/12/2009 02:38:27] data/talkactions/scripts/addvip.lua:onSay
+[31/12/2009 02:38:27] 
+[31/12/2009 02:38:27] data/talkactions/scripts/addvip.lua:15: attempt to perform arithmetic on global 'storageplayer' (a boolean value)
+[31/12/2009 02:38:27] stack traceback:
+[31/12/2009 02:38:27] 	data/talkactions/scripts/addvip.lua:15: in function <data/talkactions/scripts/addvip.lua:1>
+[31/12/2009 02:38:35] Hoster Aggresor has logged out.
+[31/12/2009 02:38:44] Zorra Zorrienta has logged in.
+[31/12/2009 02:38:56] 
+[31/12/2009 02:38:56] Lua Script Error: [TalkAction Interface] 
+[31/12/2009 02:38:56] data/talkactions/scripts/addvip.lua:onSay
+[31/12/2009 02:38:56] 
+[31/12/2009 02:38:56] luaGetPlayerStorageValue(). Player not found
+[31/12/2009 02:38:56] 
+[31/12/2009 02:38:56] Lua Script Error: [TalkAction Interface] 
+[31/12/2009 02:38:56] data/talkactions/scripts/addvip.lua:onSay
+[31/12/2009 02:38:56] 
+[31/12/2009 02:38:56] data/talkactions/scripts/addvip.lua:15: attempt to perform arithmetic on global 'storageplayer' (a boolean value)
+[31/12/2009 02:38:56] stack traceback:
+[31/12/2009 02:38:56] 	data/talkactions/scripts/addvip.lua:15: in function <data/talkactions/scripts/addvip.lua:1>
+[31/12/2009 02:38:57] 
+[31/12/2009 02:38:57] Lua Script Error: [TalkAction Interface] 
+[31/12/2009 02:38:57] data/talkactions/scripts/addvip.lua:onSay
+[31/12/2009 02:38:57] 
+[31/12/2009 02:38:57] luaGetPlayerStorageValue(). Player not found
+[31/12/2009 02:38:58] 
+[31/12/2009 02:38:58] Lua Script Error: [TalkAction Interface] 
+[31/12/2009 02:38:58] data/talkactions/scripts/addvip.lua:onSay
+[31/12/2009 02:38:58] 
+[31/12/2009 02:38:58] data/talkactions/scripts/addvip.lua:15: attempt to perform arithmetic on global 'storageplayer' (a boolean value)
+[31/12/2009 02:38:58] stack traceback:
+[31/12/2009 02:38:58] 	data/talkactions/scripts/addvip.lua:15: in function <data/talkactions/scripts/addvip.lua:1>
+[31/12/2009 02:38:58] 
+[31/12/2009 02:38:58] Lua Script Error: [TalkAction Interface] 
+[31/12/2009 02:38:58] data/talkactions/scripts/addvip.lua:onSay
+[31/12/2009 02:38:58] 
+[31/12/2009 02:38:58] luaGetPlayerStorageValue(). Player not found
+[31/12/2009 02:38:58] 
+[31/12/2009 02:38:58] Lua Script Error: [TalkAction Interface] 
+[31/12/2009 02:38:58] data/talkactions/scripts/addvip.lua:onSay
+[31/12/2009 02:38:58] 
+[31/12/2009 02:38:58] data/talkactions/scripts/addvip.lua:15: attempt to perform arithmetic on global 'storageplayer' (a boolean value)
+[31/12/2009 02:38:58] stack traceback:
+[31/12/2009 02:38:58] 	data/talkactions/scripts/addvip.lua:15: in function <data/talkactions/scripts/addvip.lua:1>
+[31/12/2009 02:38:59] 
+[31/12/2009 02:38:59] Lua Script Error: [TalkAction Interface] 
+[31/12/2009 02:38:59] data/talkactions/scripts/addvip.lua:onSay
+[31/12/2009 02:38:59] 
+[31/12/2009 02:38:59] luaGetPlayerStorageValue(). Player not found
+[31/12/2009 02:38:59] 
+[31/12/2009 02:38:59] Lua Script Error: [TalkAction Interface] 
+[31/12/2009 02:38:59] data/talkactions/scripts/addvip.lua:onSay
+[31/12/2009 02:38:59] 
+[31/12/2009 02:38:59] data/talkactions/scripts/addvip.lua:15: attempt to perform arithmetic on global 'storageplayer' (a boolean value)
+[31/12/2009 02:38:59] stack traceback:
+[31/12/2009 02:38:59] 	data/talkactions/scripts/addvip.lua:15: in function <data/talkactions/scripts/addvip.lua:1>
+[31/12/2009 02:39:01] Zorra Zorrienta has logged out.
+[31/12/2009 02:39:04] Hoster Aggresor has logged in.
+[31/12/2009 02:43:43] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[31/12/2009 02:48:43] > Saving server...
+[31/12/2009 02:49:05] > SAVE: Complete in 20.984 seconds using relational house storage.
+[31/12/2009 02:53:43] 
+[31/12/2009 02:53:44] Lua Script Error: [GlobalEvent Interface] 
+[31/12/2009 02:53:44] data/globalevents/scripts/lottery.lua:onThink
+[31/12/2009 02:53:44] 
+[31/12/2009 02:53:44] data/globalevents/scripts/lottery.lua:16: attempt to concatenate field 'lottery_horas' (a nil value)
+[31/12/2009 02:53:44] stack traceback:
+[31/12/2009 02:53:44] 	data/globalevents/scripts/lottery.lua:16: in function <data/globalevents/scripts/lottery.lua:6>
+[31/12/2009 02:53:44] [Error - GlobalEvents::onThink] Couldn't execute event: lottery
+[31/12/2009 02:53:45] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[31/12/2009 02:59:55] 
+[31/12/2009 02:59:55] Lua Script Error: [GlobalEvent Interface] 
+[31/12/2009 02:59:55] data/globalevents/scripts/lottery.lua:onThink
+[31/12/2009 02:59:56] 
+[31/12/2009 02:59:56] data/globalevents/scripts/lottery.lua:16: attempt to concatenate field 'lottery_horas' (a nil value)
+[31/12/2009 02:59:56] stack traceback:
+[31/12/2009 02:59:56] 	data/globalevents/scripts/lottery.lua:16: in function <data/globalevents/scripts/lottery.lua:6>
+[31/12/2009 02:59:56] [Error - GlobalEvents::onThink] Couldn't execute event: lottery
+[31/12/2009 03:00:08] 
+[31/12/2009 03:00:08] Lua Script Error: [GlobalEvent Interface] 
+[31/12/2009 03:00:08] data/globalevents/scripts/lottery.lua:onThink
+[31/12/2009 03:00:08] 
+[31/12/2009 03:00:08] data/globalevents/scripts/lottery.lua:16: attempt to concatenate field 'lottery_horas' (a nil value)
+[31/12/2009 03:00:08] stack traceback:
+[31/12/2009 03:00:08] 	data/globalevents/scripts/lottery.lua:16: in function <data/globalevents/scripts/lottery.lua:6>
+[31/12/2009 03:00:08] [Error - GlobalEvents::onThink] Couldn't execute event: lottery
+[31/12/2009 03:00:30] 
+[31/12/2009 03:00:30] Lua Script Error: [GlobalEvent Interface] 
+[31/12/2009 03:00:30] data/globalevents/scripts/lottery.lua:onThink
+[31/12/2009 03:00:30] 
+[31/12/2009 03:00:30] data/globalevents/scripts/lottery.lua:16: attempt to concatenate field 'lottery_hours' (a nil value)
+[31/12/2009 03:00:30] stack traceback:
+[31/12/2009 03:00:30] 	data/globalevents/scripts/lottery.lua:16: in function <data/globalevents/scripts/lottery.lua:6>
+[31/12/2009 03:00:30] [Error - GlobalEvents::onThink] Couldn't execute event: lottery
+[31/12/2009 03:00:43] 
+[31/12/2009 03:00:43] Lua Script Error: [GlobalEvent Interface] 
+[31/12/2009 03:00:43] data/globalevents/scripts/lottery.lua:onThink
+[31/12/2009 03:00:43] 
+[31/12/2009 03:00:43] data/globalevents/scripts/lottery.lua:16: attempt to concatenate field 'lottery_hours' (a nil value)
+[31/12/2009 03:00:43] stack traceback:
+[31/12/2009 03:00:43] 	data/globalevents/scripts/lottery.lua:16: in function <data/globalevents/scripts/lottery.lua:6>
+[31/12/2009 03:00:44] [Error - GlobalEvents::onThink] Couldn't execute event: lottery
+[31/12/2009 03:00:56] 
+[31/12/2009 03:00:56] Lua Script Error: [GlobalEvent Interface] 
+[31/12/2009 03:00:56] data/globalevents/scripts/lottery.lua:onThink
+[31/12/2009 03:00:56] 
+[31/12/2009 03:00:56] data/globalevents/scripts/lottery.lua:16: attempt to concatenate field 'lottery_hours' (a nil value)
+[31/12/2009 03:00:56] stack traceback:
+[31/12/2009 03:00:56] 	data/globalevents/scripts/lottery.lua:16: in function <data/globalevents/scripts/lottery.lua:6>
+[31/12/2009 03:00:56] [Error - GlobalEvents::onThink] Couldn't execute event: lottery
+[31/12/2009 03:01:12] 
+[31/12/2009 03:01:12] Lua Script Error: [GlobalEvent Interface] 
+[31/12/2009 03:01:13] data/globalevents/scripts/lottery.lua:onThink
+[31/12/2009 03:01:13] 
+[31/12/2009 03:01:13] data/globalevents/scripts/lottery.lua:16: attempt to concatenate field 'lottery_hours' (a nil value)
+[31/12/2009 03:01:13] stack traceback:
+[31/12/2009 03:01:13] 	data/globalevents/scripts/lottery.lua:16: in function <data/globalevents/scripts/lottery.lua:6>
+[31/12/2009 03:01:13] [Error - GlobalEvents::onThink] Couldn't execute event: lottery
+[31/12/2009 03:01:25] 
+[31/12/2009 03:01:25] Lua Script Error: [GlobalEvent Interface] 
+[31/12/2009 03:01:25] data/globalevents/scripts/lottery.lua:onThink
+[31/12/2009 03:01:25] 
+[31/12/2009 03:01:25] data/globalevents/scripts/lottery.lua:16: attempt to concatenate field 'lottery_hours' (a nil value)
+[31/12/2009 03:01:25] stack traceback:
+[31/12/2009 03:01:25] 	data/globalevents/scripts/lottery.lua:16: in function <data/globalevents/scripts/lottery.lua:6>
+[31/12/2009 03:01:25] [Error - GlobalEvents::onThink] Couldn't execute event: lottery
+[31/12/2009 03:01:47] 
+[31/12/2009 03:01:47] Lua Script Error: [GlobalEvent Interface] 
+[31/12/2009 03:01:47] data/globalevents/scripts/lottery.lua:onThink
+[31/12/2009 03:01:47] 
+[31/12/2009 03:01:47] data/globalevents/scripts/lottery.lua:16: attempt to concatenate field 'lottery_hours' (a nil value)
+[31/12/2009 03:01:47] stack traceback:
+[31/12/2009 03:01:47] 	data/globalevents/scripts/lottery.lua:16: in function <data/globalevents/scripts/lottery.lua:6>
+[31/12/2009 03:01:47] [Error - GlobalEvents::onThink] Couldn't execute event: lottery
+[31/12/2009 03:02:00] 
+[31/12/2009 03:02:00] Lua Script Error: [GlobalEvent Interface] 
+[31/12/2009 03:02:00] data/globalevents/scripts/lottery.lua:onThink
+[31/12/2009 03:02:00] 
+[31/12/2009 03:02:00] data/globalevents/scripts/lottery.lua:16: attempt to concatenate field 'lottery_hours' (a nil value)
+[31/12/2009 03:02:00] stack traceback:
+[31/12/2009 03:02:01] 	data/globalevents/scripts/lottery.lua:16: in function <data/globalevents/scripts/lottery.lua:6>
+[31/12/2009 03:02:01] [Error - GlobalEvents::onThink] Couldn't execute event: lottery
+[31/12/2009 03:02:22] 
+[31/12/2009 03:02:22] Lua Script Error: [GlobalEvent Interface] 
+[31/12/2009 03:02:22] data/globalevents/scripts/lottery.lua:onThink
+[31/12/2009 03:02:22] 
+[31/12/2009 03:02:22] data/globalevents/scripts/lottery.lua:16: attempt to concatenate field 'lottery_hours' (a nil value)
+[31/12/2009 03:02:22] stack traceback:
+[31/12/2009 03:02:22] 	data/globalevents/scripts/lottery.lua:16: in function <data/globalevents/scripts/lottery.lua:6>
+[31/12/2009 03:02:22] [Error - GlobalEvents::onThink] Couldn't execute event: lottery
+[31/12/2009 03:02:35] 
+[31/12/2009 03:02:35] Lua Script Error: [GlobalEvent Interface] 
+[31/12/2009 03:02:35] data/globalevents/scripts/lottery.lua:onThink
+[31/12/2009 03:02:35] 
+[31/12/2009 03:02:36] data/globalevents/scripts/lottery.lua:16: attempt to concatenate field 'lottery_hours' (a nil value)
+[31/12/2009 03:02:36] stack traceback:
+[31/12/2009 03:02:36] 	data/globalevents/scripts/lottery.lua:16: in function <data/globalevents/scripts/lottery.lua:6>
+[31/12/2009 03:02:36] [Error - GlobalEvents::onThink] Couldn't execute event: lottery
+[31/12/2009 03:02:48] 
+[31/12/2009 03:02:48] Lua Script Error: [GlobalEvent Interface] 
+[31/12/2009 03:02:48] data/globalevents/scripts/lottery.lua:onThink
+[31/12/2009 03:02:48] 
+[31/12/2009 03:02:48] data/globalevents/scripts/lottery.lua:16: attempt to concatenate field 'lottery_hours' (a nil value)
+[31/12/2009 03:02:48] stack traceback:
+[31/12/2009 03:02:48] 	data/globalevents/scripts/lottery.lua:16: in function <data/globalevents/scripts/lottery.lua:6>
+[31/12/2009 03:02:48] [Error - GlobalEvents::onThink] Couldn't execute event: lottery
+[31/12/2009 03:03:01] 
+[31/12/2009 03:03:01] Lua Script Error: [GlobalEvent Interface] 
+[31/12/2009 03:03:02] data/globalevents/scripts/lottery.lua:onThink
+[31/12/2009 03:03:02] 
+[31/12/2009 03:03:02] data/globalevents/scripts/lottery.lua:16: attempt to concatenate field 'lottery_hours' (a nil value)
+[31/12/2009 03:03:02] stack traceback:
+[31/12/2009 03:03:02] 	data/globalevents/scripts/lottery.lua:16: in function <data/globalevents/scripts/lottery.lua:6>
+[31/12/2009 03:03:02] [Error - GlobalEvents::onThink] Couldn't execute event: lottery
+[31/12/2009 03:03:14] 
+[31/12/2009 03:03:14] Lua Script Error: [GlobalEvent Interface] 
+[31/12/2009 03:03:14] data/globalevents/scripts/lottery.lua:onThink
+[31/12/2009 03:03:14] 
+[31/12/2009 03:03:14] data/globalevents/scripts/lottery.lua:16: attempt to concatenate field 'lottery_hours' (a nil value)
+[31/12/2009 03:03:15] stack traceback:
+[31/12/2009 03:03:15] 	data/globalevents/scripts/lottery.lua:16: in function <data/globalevents/scripts/lottery.lua:6>
+[31/12/2009 03:03:15] [Error - GlobalEvents::onThink] Couldn't execute event: lottery
+[31/12/2009 03:03:27] 
+[31/12/2009 03:03:27] Lua Script Error: [GlobalEvent Interface] 
+[31/12/2009 03:03:27] data/globalevents/scripts/lottery.lua:onThink
+[31/12/2009 03:03:27] 
+[31/12/2009 03:03:27] data/globalevents/scripts/lottery.lua:16: attempt to concatenate field 'lottery_hours' (a nil value)
+[31/12/2009 03:03:27] stack traceback:
+[31/12/2009 03:03:27] 	data/globalevents/scripts/lottery.lua:16: in function <data/globalevents/scripts/lottery.lua:6>
+[31/12/2009 03:03:27] [Error - GlobalEvents::onThink] Couldn't execute event: lottery
+[31/12/2009 03:03:40] 
+[31/12/2009 03:03:40] Lua Script Error: [GlobalEvent Interface] 
+[31/12/2009 03:03:40] data/globalevents/scripts/lottery.lua:onThink
+[31/12/2009 03:03:40] 
+[31/12/2009 03:03:40] data/globalevents/scripts/lottery.lua:16: attempt to concatenate field 'lottery_hours' (a nil value)
+[31/12/2009 03:03:40] stack traceback:
+[31/12/2009 03:03:40] 	data/globalevents/scripts/lottery.lua:16: in function <data/globalevents/scripts/lottery.lua:6>
+[31/12/2009 03:03:40] [Error - GlobalEvents::onThink] Couldn't execute event: lottery
+[31/12/2009 03:03:53] 
+[31/12/2009 03:03:53] Lua Script Error: [GlobalEvent Interface] 
+[31/12/2009 03:03:53] data/globalevents/scripts/lottery.lua:onThink
+[31/12/2009 03:03:53] 
+[31/12/2009 03:03:53] data/globalevents/scripts/lottery.lua:16: attempt to concatenate field 'lottery_hours' (a nil value)
+[31/12/2009 03:03:53] stack traceback:
+[31/12/2009 03:03:53] 	data/globalevents/scripts/lottery.lua:16: in function <data/globalevents/scripts/lottery.lua:6>
+[31/12/2009 03:03:54] [Error - GlobalEvents::onThink] Couldn't execute event: lottery
+[31/12/2009 03:04:06] 
+[31/12/2009 03:04:06] Lua Script Error: [GlobalEvent Interface] 
+[31/12/2009 03:04:06] data/globalevents/scripts/lottery.lua:onThink
+[31/12/2009 03:04:06] 
+[31/12/2009 03:04:06] data/globalevents/scripts/lottery.lua:16: attempt to concatenate field 'lottery_hours' (a nil value)
+[31/12/2009 03:04:06] stack traceback:
+[31/12/2009 03:04:06] 	data/globalevents/scripts/lottery.lua:16: in function <data/globalevents/scripts/lottery.lua:6>
+[31/12/2009 03:04:06] [Error - GlobalEvents::onThink] Couldn't execute event: lottery
+[31/12/2009 03:04:19] 
+[31/12/2009 03:04:19] Lua Script Error: [GlobalEvent Interface] 
+[31/12/2009 03:04:19] data/globalevents/scripts/lottery.lua:onThink
+[31/12/2009 03:04:19] 
+[31/12/2009 03:04:19] data/globalevents/scripts/lottery.lua:16: attempt to concatenate field 'lottery_hours' (a nil value)
+[31/12/2009 03:04:19] stack traceback:
+[31/12/2009 03:04:19] 	data/globalevents/scripts/lottery.lua:16: in function <data/globalevents/scripts/lottery.lua:6>
+[31/12/2009 03:04:19] [Error - GlobalEvents::onThink] Couldn't execute event: lottery
+[31/12/2009 03:04:32] 
+[31/12/2009 03:04:32] Lua Script Error: [GlobalEvent Interface] 
+[31/12/2009 03:04:32] data/globalevents/scripts/lottery.lua:onThink
+[31/12/2009 03:04:32] 
+[31/12/2009 03:04:32] data/globalevents/scripts/lottery.lua:16: attempt to concatenate field 'lottery_hours' (a nil value)
+[31/12/2009 03:04:33] stack traceback:
+[31/12/2009 03:04:33] 	data/globalevents/scripts/lottery.lua:16: in function <data/globalevents/scripts/lottery.lua:6>
+[31/12/2009 03:04:33] [Error - GlobalEvents::onThink] Couldn't execute event: lottery
+[31/12/2009 03:04:51] > Broadcasted message: "[SYSTEMA DE LOTERIA] ganador: Hoster Aggresor, recompensa: 100k! - felicitaciones! (siguiente Loteria en 1 Hours)".
+[31/12/2009 03:05:04] > Broadcasted message: "[SYSTEMA DE LOTERIA] ganador: Hoster Aggresor, recompensa: 100k! - felicitaciones! (siguiente Loteria en 1 Hours)".
+[31/12/2009 03:05:17] > Broadcasted message: "[SYSTEMA DE LOTERIA] ganador: Hoster Aggresor, recompensa: 100k! - felicitaciones! (siguiente Loteria en 1 Hours)".
+[31/12/2009 03:05:30] > Broadcasted message: "[SYSTEMA DE LOTERIA] ganador: Hoster Aggresor, recompensa: 100k! - felicitaciones! (siguiente Loteria en 1 Hours)".
+[31/12/2009 03:05:43] > Broadcasted message: "[SYSTEMA DE LOTERIA] ganador: Hoster Aggresor, recompensa: 100k! - felicitaciones! (siguiente Loteria en 1 Hours)".
+[31/12/2009 03:05:56] > Broadcasted message: "[SYSTEMA DE LOTERIA] ganador: Hoster Aggresor, recompensa: 100k! - felicitaciones! (siguiente Loteria en 1 Hours)".
+[31/12/2009 03:06:10] > Broadcasted message: "[SYSTEMA DE LOTERIA] ganador: Hoster Aggresor, recompensa: 100k! - felicitaciones! (siguiente Loteria en media Hours)".
+[31/12/2009 03:06:23] > Broadcasted message: "[SYSTEMA DE LOTERIA] ganador: Hoster Aggresor, recompensa: 100k! - felicitaciones! (siguiente Loteria en media Hours)".
+[31/12/2009 03:06:36] > Broadcasted message: "[SYSTEMA DE LOTERIA] ganador: Hoster Aggresor, recompensa: 100k! - felicitaciones! (siguiente Loteria en media Hours)".
+[31/12/2009 03:06:49] > Broadcasted message: "[SYSTEMA DE LOTERIA] ganador: Hoster Aggresor, recompensa: 100k! - felicitaciones! (siguiente Loteria en media Hours)".
+[31/12/2009 03:07:02] > Broadcasted message: "[SYSTEMA DE LOTERIA] ganador: Hoster Aggresor, recompensa: 100k! - felicitaciones! (siguiente Loteria en media Hours)".
+[31/12/2009 03:07:16] > Broadcasted message: "[SYSTEMA DE LOTERIA] ganador: Hoster Aggresor, recompensa: 100k! - felicitaciones! (siguiente Loteria en media Hora)".
+[31/12/2009 03:07:29] > Broadcasted message: "[SYSTEMA DE LOTERIA] ganador: Hoster Aggresor, recompensa: 100k! - felicitaciones! (siguiente Loteria en media Hora)".
+[31/12/2009 03:09:05] > Broadcasted message: "Mu invade Slayer city".
+[31/12/2009 03:17:39] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[31/12/2009 03:19:40] Hoster Aggresor has logged out.
+[31/12/2009 03:21:52] Hoster Aggresor has logged in.
+[31/12/2009 03:21:55] Hoster Aggresor has logged out.
+[31/12/2009 03:22:16] Hoster Aggresor has logged in.
+[31/12/2009 03:22:28] Hoster Aggresor has logged out.
+[31/12/2009 03:22:39] > Saving server...
+[31/12/2009 03:22:51] > SAVE: Complete in 11.969 seconds using relational house storage.
+[31/12/2009 03:23:19] Account Manager has logged in.
+[31/12/2009 03:23:22] Account Manager has logged out.
+[31/12/2009 03:23:23] Hoster Aggresor has logged in.
+[31/12/2009 03:27:39] > Broadcasted message: "[SYSTEMA DE LOTERIA] ganador: Hoster Aggresor, recompensa: 100k! - felicitaciones! (siguiente Loteria en media Hora)".
+[31/12/2009 03:27:41] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[31/12/2009 03:30:19] 
+[31/12/2009 03:30:19] Lua Script Error: [TalkAction Interface] 
+[31/12/2009 03:30:19] data/talkactions/scripts/addvip.lua:onSay
+[31/12/2009 03:30:19] 
+[31/12/2009 03:30:20] data/talkactions/scripts/addvip.lua:8: attempt to call global 'getPlayerVipDays' (a nil value)
+[31/12/2009 03:30:20] stack traceback:
+[31/12/2009 03:30:20] 	data/talkactions/scripts/addvip.lua:8: in function <data/talkactions/scripts/addvip.lua:7>
+[31/12/2009 03:37:40] > Saving server...
+[31/12/2009 03:37:50] > SAVE: Complete in 9.547 seconds using relational house storage.
+[31/12/2009 03:37:50] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[31/12/2009 03:47:40] > Broadcasted message: "[SYSTEMA DE LOTERIA] ganador: Hoster Aggresor, recompensa: 100k! - felicitaciones! (siguiente Loteria en media Hora)".
+[31/12/2009 03:47:51] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[31/12/2009 03:52:41] > Saving server...
+[31/12/2009 03:52:53] > SAVE: Complete in 10.906 seconds using relational house storage.
+[31/12/2009 03:57:52] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[31/12/2009 03:59:36] [Warning - Event::loadScript] Cannot load script (data/talkactions/scripts/addvip.lua)
+[31/12/2009 03:59:36] data/talkactions/scripts/addvip.lua:2: unexpected symbol near '['
+[31/12/2009 04:01:01] [Warning - Event::loadScript] Cannot load script (data/talkactions/scripts/addvip.lua)
+[31/12/2009 04:01:01] data/talkactions/scripts/addvip.lua:2: ')' expected near '='
+[31/12/2009 04:01:47] [Warning - Event::loadScript] Cannot load script (data/talkactions/scripts/addvip.lua)
+[31/12/2009 04:01:47] data/talkactions/scripts/addvip.lua:2: unexpected symbol near '['
+[31/12/2009 04:04:12] > Broadcasted message: "whatafuck csm invaden Slayer city".
+[31/12/2009 04:04:35] [Error - SingleSpawnEvent::executeEvent] Cannot spawn monster Diblis The Fair
+[31/12/2009 04:07:41] > Broadcasted message: "[SYSTEMA DE LOTERIA] ganador: Hoster Aggresor, recompensa: 100k! - felicitaciones! (siguiente Loteria en media Hora)".
+[31/12/2009 04:07:42] > Saving server...
+[31/12/2009 04:07:51] > SAVE: Complete in 9.687 seconds using relational house storage.
+[31/12/2009 04:07:53] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[31/12/2009 04:12:19] [Warning - Event::loadScript] Event onDeath not found (data/creaturescripts/scripts/pared.lua)
+[31/12/2009 04:12:24] 
+[31/12/2009 04:12:24] Lua Script Error: [Action Interface] 
+[31/12/2009 04:12:24] data/actions/scripts/gate.lua:onUse
+[31/12/2009 04:12:24] 
+[31/12/2009 04:12:24] attempt to index a number value
+[31/12/2009 04:12:24] stack traceback:
+[31/12/2009 04:12:24] 	[C]: in function 'doSendMagicEffect'
+[31/12/2009 04:12:24] 	data/actions/scripts/gate.lua:7: in function <data/actions/scripts/gate.lua:1>
+[31/12/2009 04:12:25] 
+[31/12/2009 04:12:25] Lua Script Error: [Action Interface] 
+[31/12/2009 04:12:25] data/actions/scripts/gate.lua:onUse
+[31/12/2009 04:12:25] 
+[31/12/2009 04:12:25] attempt to index a number value
+[31/12/2009 04:12:25] stack traceback:
+[31/12/2009 04:12:25] 	[C]: in function 'doSendMagicEffect'
+[31/12/2009 04:12:25] 	data/actions/scripts/gate.lua:7: in function <data/actions/scripts/gate.lua:1>
+[31/12/2009 04:17:54] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[31/12/2009 04:22:43] > Saving server...
+[31/12/2009 04:22:58] > SAVE: Complete in 14.672 seconds using relational house storage.
+[31/12/2009 04:24:07] Hoster Aggresor has logged out.
+[31/12/2009 04:24:10] Jack Dee has logged in.
+[31/12/2009 04:24:12] Jack Dee has logged out.
+[31/12/2009 04:24:14] Pro Pro has logged in.
+[31/12/2009 04:24:32] Pro Pro has logged out.
+[31/12/2009 04:24:34] Hoster Aggresor has logged in.
+[31/12/2009 04:27:43] > Broadcasted message: "[SYSTEMA DE LOTERIA] ganador: Hoster Aggresor, recompensa: 100k! - felicitaciones! (siguiente Loteria en media Hora)".
+[31/12/2009 04:27:55] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[31/12/2009 04:33:13] 
+[31/12/2009 04:33:13] Lua Script Error: [TalkAction Interface] 
+[31/12/2009 04:33:13] data/talkactions/scripts/createitem.lua:onSay
+[31/12/2009 04:33:13] 
+[31/12/2009 04:33:13] luaDoCreateItemEx(). Item not found
+[31/12/2009 04:33:13] 
+[31/12/2009 04:33:13] Lua Script Error: [TalkAction Interface] 
+[31/12/2009 04:33:13] data/talkactions/scripts/createitem.lua:onSay
+[31/12/2009 04:33:13] 
+[31/12/2009 04:33:13] luaDoPlayerAddItemEx(). Item not found
+[31/12/2009 04:37:44] > Saving server...
+[31/12/2009 04:38:08] > SAVE: Complete in 23.766 seconds using relational house storage.
+[31/12/2009 04:38:08] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[31/12/2009 04:44:45] Hoster Aggresor has logged out.
+[31/12/2009 04:44:49] Zorra Zorrienta has logged in.
+[31/12/2009 04:44:50] Zorra Zorrienta has logged out.
+[31/12/2009 04:44:53] Zorra Zorrienta has logged in.
+[31/12/2009 04:45:30] Zorra Zorrienta has logged out.
+[31/12/2009 04:45:33] Hoster Aggresor has logged in.
+[31/12/2009 04:45:45] Hoster Aggresor has logged out.
+[31/12/2009 04:45:47] Zorra Zorrienta has logged in.
+[31/12/2009 04:46:07] Zorra Zorrienta has logged out.
+[31/12/2009 04:46:08] Hoster Aggresor has logged in.
+[31/12/2009 04:47:15] Hoster Aggresor has logged out.
+[31/12/2009 04:47:18] Zorra Zorrienta has logged in.
+[31/12/2009 04:47:44] > Broadcasted message: "[SYSTEMA DE LOTERIA] ganador: Zorra Zorrienta, recompensa: 100k! - felicitaciones! (siguiente Loteria en media Hora)".
+[31/12/2009 04:48:09] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[31/12/2009 04:52:45] > Saving server...
+[31/12/2009 04:53:02] > SAVE: Complete in 16.532 seconds using relational house storage.
+[31/12/2009 04:58:10] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[31/12/2009 05:05:01] Zorra Zorrienta has logged out.
+[31/12/2009 05:05:09] Hoster Aggresor has logged in.
+[31/12/2009 05:05:09] Hoster Aggresor has logged out.
+[31/12/2009 05:05:14] Hoster Aggresor has logged in.
+[31/12/2009 05:05:14] > Broadcasted message: "Demonios csm invaden Slayer city".
+[31/12/2009 05:05:39] [Error - SingleSpawnEvent::executeEvent] Cannot spawn monster Diblis The Fair
+[31/12/2009 05:07:39] > Broadcasted message: "la limpieza del mapa empieza en 30 segundos, por favor wn recoje tus items!".
+[31/12/2009 05:07:45] > Broadcasted message: "[SYSTEMA DE LOTERIA] ganador: Hoster Aggresor, recompensa: 100k! - felicitaciones! (siguiente Loteria en media Hora)".
+[31/12/2009 05:07:46] > Saving server...
+[31/12/2009 05:07:54] > SAVE: Complete in 8.063 seconds using relational house storage.
+[31/12/2009 05:07:57] [Warning - Event::loadScript] Cannot load script (data/creaturescripts/scripts/pared.lua)
+[31/12/2009 05:07:57] cannot open data/creaturescripts/scripts/pared.lua: No such file or directory
+[31/12/2009 05:07:58] Hoster Aggresor has logged out.
+[31/12/2009 05:07:59] Hoster Aggresor has logged in.
+[31/12/2009 05:07:59] > Broadcasted message: "Hoster Aggresor se conecto (el es: rei aggresor)".
+[31/12/2009 05:08:10] > CLEAN: Removed 9 items from 129 tiles in 0.375 seconds.
+[31/12/2009 05:08:10] > Broadcasted message: "el mapa se limpio :P, siguiente limpieza en 2 horas.".
+[31/12/2009 05:08:11] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[31/12/2009 05:10:12] Hoster Aggresor has logged out.
+[31/12/2009 05:10:14] Pro Pro has logged in.
+[31/12/2009 05:10:20] Pro Pro has logged out.
+[31/12/2009 05:10:22] Hoster Aggresor has logged in.
+[31/12/2009 05:10:22] > Broadcasted message: "Hoster Aggresor se conecto (el es: rei aggresor)".
+[31/12/2009 05:18:12] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[31/12/2009 05:19:14] > Broadcasted message: "whatafuck csm invaden Slayer city".
+[31/12/2009 05:19:34] [Error - SingleSpawnEvent::executeEvent] Cannot spawn monster whatafuck
+[31/12/2009 05:22:47] > Saving server...
+[31/12/2009 05:23:04] > SAVE: Complete in 16.687 seconds using relational house storage.
+[31/12/2009 05:27:22] [Warning - Event::loadScript] Cannot load script (data/talkactions/scripts/SexSystem.lua)
+[31/12/2009 05:27:23] data/talkactions/scripts/SexSystem.lua:1: '=' expected near 'ITEM_CONDON'
+[31/12/2009 05:27:23] [Warning - Event::loadScript] Cannot load script (data/talkactions/scripts/addvip.lua)
+[31/12/2009 05:27:23] data/talkactions/scripts/addvip.lua:2: unexpected symbol near '['
+[31/12/2009 05:27:39] [Warning - Event::loadScript] Cannot load script (data/talkactions/scripts/SexSystem.lua)
+[31/12/2009 05:27:39] data/talkactions/scripts/SexSystem.lua:1: '=' expected near 'ITEM_CONDON'
+[31/12/2009 05:27:39] [Warning - Event::loadScript] Cannot load script (data/talkactions/scripts/addvip.lua)
+[31/12/2009 05:27:39] data/talkactions/scripts/addvip.lua:2: unexpected symbol near '['
+[31/12/2009 05:27:46] > Broadcasted message: "[SYSTEMA DE LOTERIA] ganador: Hoster Aggresor, recompensa: 100k! - felicitaciones! (siguiente Loteria en media Hora)".
+[31/12/2009 05:27:57] [Warning - Event::loadScript] Cannot load script (data/talkactions/scripts/SexSystem.lua)
+[31/12/2009 05:27:57] data/talkactions/scripts/SexSystem.lua:1: '=' expected near 'ITEM_CONDON'
+[31/12/2009 05:28:13] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[31/12/2009 05:31:56] [Warning - Event::loadScript] Cannot load script (data/talkactions/scripts/SexSystem.lua)
+[31/12/2009 05:31:57] data/talkactions/scripts/SexSystem.lua:71: 'end' expected (to close 'function' at line 19) near '<eof>'
+[31/12/2009 05:34:28] [Warning - Event::loadScript] Cannot load script (data/talkactions/scripts/SexSystem.lua)
+[31/12/2009 05:34:29] data/talkactions/scripts/SexSystem.lua:66: 'end' expected (to close 'function' at line 14) near '<eof>'
+[31/12/2009 05:35:20] [Warning - Event::loadScript] Cannot load script (data/talkactions/scripts/SexSystem.lua)
+[31/12/2009 05:35:21] data/talkactions/scripts/SexSystem.lua:65: 'end' expected (to close 'function' at line 14) near '<eof>'
+[31/12/2009 05:37:48] > Saving server...
+[31/12/2009 05:38:15] > SAVE: Complete in 26.625 seconds using relational house storage.
+[31/12/2009 05:38:15] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[31/12/2009 05:42:54] Hoster Aggresor has logged out.
+[31/12/2009 05:42:59] > Saving server...
+[31/12/2009 05:43:18] > SAVE: Complete in 17.844 seconds using relational house storage.
+[31/12/2009 05:43:18] Preparing to shutdown server.[31/12/2009 22:58:15] The Forgotten Server, version 0.3.4 (Crying Damson)
+[31/12/2009 22:58:16] Sever Criado Por Alissow e Comedinha.
+[31/12/2009 22:58:16] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[31/12/2009 22:58:16] Bom Jogo!!!
+[31/12/2009 22:58:16] 
+[31/12/2009 22:58:16] >> Debugging: nothing.
+[31/12/2009 22:58:16] >> Checking software version... outdated, please consider updating!
+[31/12/2009 22:58:17] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[31/12/2009 22:58:17] > Latest version information - version: 0.3.6, patch: 0, build: 3293, timestamp: 1260652199.
+[31/12/2009 22:58:17] [Warning - ConfigManager::getBool] 62
+[31/12/2009 22:58:17] 
+[31/12/2009 22:58:17] >> Loading config (config.lua)
+[31/12/2009 22:58:17] > Using plaintext passwords
+[31/12/2009 22:58:17] >> Loading RSA key
+[31/12/2009 22:58:17] >> Starting SQL connection
+[31/12/2009 22:58:18] >> Running Database Manager
+[31/12/2009 22:58:19] > Optimized database.
+[31/12/2009 22:58:19] >> Loading items
+[31/12/2009 22:58:20] >> Loading groups
+[31/12/2009 22:58:20] >> Loading vocations
+[31/12/2009 22:58:20] >> Loading script systems
+[31/12/2009 22:58:30] [Warning - Event::loadScript] Cannot load script (data/creaturescripts/scripts/pared.lua)
+[31/12/2009 22:58:30] cannot open data/creaturescripts/scripts/pared.lua: No such file or directory
+[31/12/2009 22:58:31] >> Loading chat channels
+[31/12/2009 22:58:31] >> Loading outfits
+[31/12/2009 22:58:31] >> Loading experience stages
+[31/12/2009 22:58:31] >> Loading monsters
+[31/12/2009 22:58:38] >> Loading map and spawns...
+[31/12/2009 22:58:41] > Map size: 1100x1100.
+[31/12/2009 22:58:41] > Map descriptions: 
+[31/12/2009 22:58:41] Saved with Remere's Map Editor 1.1.10
+[31/12/2009 22:58:41] Remere 's Map Editor Beta
+[31/12/2009 22:58:44] Duplicate uniqueId 9911
+[31/12/2009 22:58:45] Duplicate uniqueId 9912
+[31/12/2009 22:58:45] Duplicate uniqueId 9913
+[31/12/2009 22:58:45] Duplicate uniqueId 9914
+[31/12/2009 22:58:45] Duplicate uniqueId 9915
+[31/12/2009 22:58:47] Duplicate uniqueId 2471
+[31/12/2009 22:58:48] Duplicate uniqueId 2471
+[31/12/2009 22:58:51] Duplicate uniqueId 8880
+[31/12/2009 22:58:51] Duplicate uniqueId 8880
+[31/12/2009 22:58:51] Duplicate uniqueId 5006
+[31/12/2009 22:58:52] > Map loading time: 14.438 seconds.
+[31/12/2009 22:58:57] > Data loading time: 4.828 seconds.
+[31/12/2009 22:58:58] > Unserialization time for houses: 0.484 seconds.
+[31/12/2009 22:59:56] > Unserialization time for map: 57.828 seconds.
+[31/12/2009 22:59:56] >> Checking world type... PvP
+[31/12/2009 22:59:56] >> Initializing game state modules and registering services...
+[31/12/2009 22:59:57] > Global address: 201.246.36.209
+[31/12/2009 22:59:58] > Local ports:
+[31/12/2009 22:59:58] 7171	7172	
+[31/12/2009 22:59:58] >> All modules were loaded, server starting up...
+[31/12/2009 22:59:58] >> Aggrox metal server Online!
+[31/12/2009 22:59:58] 
+[31/12/2009 23:01:07] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[31/12/2009 23:01:09] Hoster Aggresor has logged in.
+[31/12/2009 23:01:10] > Broadcasted message: "Hoster Aggresor se conecto (el es: rei aggresor)".
+[31/12/2009 23:08:31] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[31/12/2009 23:13:31] > Saving server...
+[31/12/2009 23:13:46] > SAVE: Complete in 14.188 seconds using relational house storage.
+[31/12/2009 23:18:32] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[31/12/2009 23:18:33] > Broadcasted message: "[SYSTEMA DE LOTERIA] ganador: Hoster Aggresor, recompensa: 100k! - felicitaciones! (siguiente Loteria en media Hora)".
+[31/12/2009 23:28:32] > Saving server...
+[31/12/2009 23:28:42] > SAVE: Complete in 9.125 seconds using relational house storage.
+[31/12/2009 23:28:42] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[31/12/2009 23:38:33] > Broadcasted message: "[SYSTEMA DE LOTERIA] ganador: Hoster Aggresor, recompensa: 100k! - felicitaciones! (siguiente Loteria en media Hora)".
+[31/12/2009 23:38:43] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[31/12/2009 23:43:33] > Saving server...
+[31/12/2009 23:43:47] > SAVE: Complete in 14.375 seconds using relational house storage.
+[31/12/2009 23:48:44] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[31/12/2009 23:53:02] Hoster Aggresor has logged out.
+[31/12/2009 23:53:08] Zorra Zorrienta has logged in.
+[31/12/2009 23:55:38] Zorra Zorrienta has logged out.
+[31/12/2009 23:55:41] Pro Pro has logged in.
+[31/12/2009 23:57:07] Pro Pro has logged out.
+[31/12/2009 23:57:10] Hoster Aggresor has logged in.
+[31/12/2009 23:57:10] > Broadcasted message: "Hoster Aggresor se conecto (el es: rei aggresor)".
+[31/12/2009 23:57:30] Hoster Aggresor has logged out.
+[31/12/2009 23:57:33] Mono Pirata has logged in.
+[31/12/2009 23:58:34] > Broadcasted message: "[SYSTEMA DE LOTERIA] ganador: Mono Pirata, recompensa: 100k! - felicitaciones! (siguiente Loteria en media Hora)".
+[31/12/2009 23:58:34] > Saving server...
+[31/12/2009 23:58:50] > SAVE: Complete in 15.344 seconds using relational house storage.
+[31/12/2009 23:58:50] Mono Pirata has logged out.
+[31/12/2009 23:58:50] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[31/12/2009 23:58:53] Hoster Aggresor has logged in.
+[31/12/2009 23:58:53] > Broadcasted message: "Hoster Aggresor se conecto (el es: rei aggresor)".
+[31/12/2009 23:59:07] Hoster Aggresor has logged out.
+[31/12/2009 23:59:09] Jack Dee has logged in.
+[31/12/2009 23:59:12] Jack Dee has logged out.
+[31/12/2009 23:59:13] Hoster Aggresor has logged in.
+[31/12/2009 23:59:13] > Broadcasted message: "Hoster Aggresor se conecto (el es: rei aggresor)".
+[31/12/2009 23:59:17] Hoster Aggresor has logged out.
+[31/12/2009 23:59:19] Mono Pirata has logged in.
+[31/12/2009 23:59:26] Mono Pirata has logged out.
+[31/12/2009 23:59:28] Pro Pro has logged in.
+[31/12/2009 23:59:34] Pro Pro has logged out.
+[31/12/2009 23:59:35] Zorra Zorrienta has logged in.

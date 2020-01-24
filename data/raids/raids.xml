@@ -1,0 +1,10 @@
+<raids>
+<!-- Raids: -->
+<raid name="whatafuck" file="whatafuck.xml" chance="2" interval2="5000" margin="0" /> Each 240 minutes there is a 2% chance that the raid is executed... />
+<raid name="Demonio" file="Demonio.xml" chance="1" interval2="5000" margin="0" /> Each 480 minutes there is a 1% chance that the raid is executed... />
+/>
+<raid name="MU" file="Mu.xml" chance="2" interval2="5000" margin="0" /> Each 300 minutes there is a 2% chance that the raid is executed... />
+
+<raid name="piton" file="pitones.xml" chance="1" interval2="5000" margin="0" /> Each 480 minutes there is a 1% chance that the raid is executed... />
+<raid name="don ramon" file="don ramon.xml" chance="1" interval2="5000" margin="0" /> Each 480 minutes there is a 1% chance that the raid is executed... />
+</raids>

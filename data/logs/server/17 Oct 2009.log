@@ -1,0 +1,1482 @@
+[17/10/2009 04:39:45] The Forgotten Server, version 0.3.4 (Crying Damson)
+[17/10/2009 04:39:45] Sever Criado Por Alissow e Comedinha.
+[17/10/2009 04:39:45] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[17/10/2009 04:39:45] Bom Jogo!!!
+[17/10/2009 04:39:45] 
+[17/10/2009 04:39:45] >> Debugging: nothing.
+[17/10/2009 04:39:45] >> Checking software version... outdated, please consider updating!
+[17/10/2009 04:39:47] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[17/10/2009 04:39:47] > Latest version information - version: 0.3.5, patch: 1, build: 2576, timestamp: 1249584126.
+[17/10/2009 04:39:47] [Warning - ConfigManager::getBool] 62
+[17/10/2009 04:39:47] 
+[17/10/2009 04:39:47] >> Loading config (config.lua)
+[17/10/2009 04:39:47] > Using plaintext passwords
+[17/10/2009 04:39:47] >> Loading RSA key
+[17/10/2009 04:39:47] >> Starting SQL connection
+[17/10/2009 04:39:47] >> Running Database Manager
+[17/10/2009 04:39:49] > Optimized database.
+[17/10/2009 04:39:49] >> Loading items
+[17/10/2009 04:39:51] >> Loading groups
+[17/10/2009 04:39:51] >> Loading vocations
+[17/10/2009 04:39:51] >> Loading script systems
+[17/10/2009 04:39:53] [Warning - Weapons::registerEvent] Duplicate registered item with id: 7410
+[17/10/2009 04:40:02] >> Loading chat channels
+[17/10/2009 04:40:03] >> Loading outfits
+[17/10/2009 04:40:03] >> Loading experience stages
+[17/10/2009 04:40:03] >> Loading monsters
+[17/10/2009 04:40:14] >> Loading map and spawns...
+[17/10/2009 04:40:15] > Map size: 512x512.
+[17/10/2009 04:40:15] > Map descriptions: 
+[17/10/2009 04:40:15] Saved with Remere's Map Editor 1.1.7 BETA
+[17/10/2009 04:40:15] Remere 's Map Editor Beta
+[17/10/2009 04:40:19] Duplicate uniqueId 2471
+[17/10/2009 04:40:21] > Map loading time: 7.135 seconds.
+[17/10/2009 04:40:25] [Warning - Houses::loadFromXml] House entry not set for:  (158)
+[17/10/2009 04:40:26] > Data loading time: 4.583 seconds.
+[17/10/2009 04:40:26] > Unserialization time for houses: 0.1 seconds.
+[17/10/2009 04:40:41] > Unserialization time for map: 14.802 seconds.
+[17/10/2009 04:40:41] >> Checking world type... PvP
+[17/10/2009 04:40:41] >> Initializing game state modules and registering services...
+[17/10/2009 04:40:42] > Global address: 127.0.0.1
+[17/10/2009 04:40:42] > Local ports:
+[17/10/2009 04:40:42] 7171	7172	
+[17/10/2009 04:40:42] >> All modules were loaded, server starting up...
+[17/10/2009 04:40:43] >> Slayer Ots By Jhou server Online!
+[17/10/2009 04:40:43] 
+[17/10/2009 04:46:08] > Saving server...
+[17/10/2009 04:46:14] > SAVE: Complete in 5.8 seconds using relational house storage.
+[17/10/2009 04:46:14] Preparing to shutdown server..
+[17/10/2009 04:46:14] .
+[17/10/2009 04:46:14] Exiting
+[17/10/2009 05:29:28] The Forgotten Server, version 0.3.4 (Crying Damson)
+[17/10/2009 05:29:28] Sever Criado Por Alissow e Comedinha.
+[17/10/2009 05:29:28] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[17/10/2009 05:29:29] Bom Jogo!!!
+[17/10/2009 05:29:29] 
+[17/10/2009 05:29:29] >> Debugging: nothing.
+[17/10/2009 05:29:29] >> Checking software version... outdated, please consider updating!
+[17/10/2009 05:29:32] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[17/10/2009 05:29:32] > Latest version information - version: 0.3.5, patch: 1, build: 2576, timestamp: 1249584126.
+[17/10/2009 05:29:32] [Warning - ConfigManager::getBool] 62
+[17/10/2009 05:29:32] 
+[17/10/2009 05:29:32] >> Loading config (config.lua)
+[17/10/2009 05:29:32] > Using plaintext passwords
+[17/10/2009 05:29:32] >> Loading RSA key
+[17/10/2009 05:29:32] >> Starting SQL connection
+[17/10/2009 05:29:33] >> Running Database Manager
+[17/10/2009 05:29:35] > Optimized database.
+[17/10/2009 05:29:35] >> Loading items
+[17/10/2009 05:29:39] >> Loading groups
+[17/10/2009 05:29:40] >> Loading vocations
+[17/10/2009 05:29:40] >> Loading script systems
+[17/10/2009 05:29:43] [Warning - Weapons::registerEvent] Duplicate registered item with id: 7410
+[17/10/2009 05:30:13] >> Loading chat channels
+[17/10/2009 05:30:13] >> Loading outfits
+[17/10/2009 05:30:14] >> Loading experience stages
+[17/10/2009 05:30:14] >> Loading monsters
+[17/10/2009 05:30:32] >> Loading map and spawns...
+[17/10/2009 05:30:39] > Map size: 512x512.
+[17/10/2009 05:30:39] > Map descriptions: 
+[17/10/2009 05:30:39] Saved with Remere's Map Editor 1.1.7 BETA
+[17/10/2009 05:30:40] Remere 's Map Editor Beta
+[17/10/2009 05:30:46] Duplicate uniqueId 2471
+[17/10/2009 05:30:59] > Map loading time: 25.848 seconds.
+[17/10/2009 05:31:08] [Warning - Houses::loadFromXml] House entry not set for:  (158)
+[17/10/2009 05:31:08] > Data loading time: 8.454 seconds.
+[17/10/2009 05:31:10] > Unserialization time for houses: 2.16 seconds.
+[17/10/2009 05:31:24] > Unserialization time for map: 13.827 seconds.
+[17/10/2009 05:31:24] >> Checking world type... PvP
+[17/10/2009 05:31:24] >> Initializing game state modules and registering services...
+[17/10/2009 05:31:27] > Global address: 201.246.44.103
+[17/10/2009 05:31:30] > Local ports:
+[17/10/2009 05:31:30] 7171	7172	
+[17/10/2009 05:31:33] >> All modules were loaded, server starting up...
+[17/10/2009 05:31:33] >> Aggrometal server server Online!
+[17/10/2009 05:31:34] 
+[17/10/2009 05:34:38] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[17/10/2009 05:34:43] GOD Snowz has logged in.
+[17/10/2009 05:42:29] GOD Snowz has logged out.
+[17/10/2009 05:42:47] GOD Aggro has logged in.
+[17/10/2009 05:45:14] > Saving server...
+[17/10/2009 05:45:33] > SAVE: Complete in 14.645 seconds using relational house storage.
+[17/10/2009 05:52:48] [Warning - Event::loadScript] Cannot load script (data/spells/scripts/super peo.lua)
+[17/10/2009 05:52:49] cannot open data/spells/scripts/super peo.lua: No such file or directory
+[17/10/2009 06:00:15] > Saving server...
+[17/10/2009 06:00:30] > SAVE: Complete in 12.468 seconds using relational house storage.
+[17/10/2009 06:15:16] > Saving server...
+[17/10/2009 06:15:33] > SAVE: Complete in 15.836 seconds using relational house storage.
+[17/10/2009 06:23:12] GOD Aggro has logged out.
+[17/10/2009 06:23:33] > Saving server...
+[17/10/2009 06:23:54] > SAVE: Complete in 19.867 seconds using relational house storage.
+[17/10/2009 06:23:54] Preparing to shutdown server.[17/10/2009 07:03:11] The Forgotten Server, version 0.3.4 (Crying Damson)
+[17/10/2009 07:03:13] Sever Criado Por Alissow e Comedinha.
+[17/10/2009 07:03:13] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[17/10/2009 07:03:13] Bom Jogo!!!
+[17/10/2009 07:03:13] 
+[17/10/2009 07:03:13] >> Debugging: nothing.
+[17/10/2009 07:03:13] >> Checking software version... outdated, please consider updating!
+[17/10/2009 07:03:32] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[17/10/2009 07:03:33] > Latest version information - version: 0.3.5, patch: 1, build: 2576, timestamp: 1249584126.
+[17/10/2009 07:03:33] [Warning - ConfigManager::getBool] 62
+[17/10/2009 07:03:33] 
+[17/10/2009 07:03:33] >> Loading config (config.lua)
+[17/10/2009 07:03:34] > Using plaintext passwords
+[17/10/2009 07:03:34] >> Loading RSA key
+[17/10/2009 07:03:34] >> Starting SQL connection
+[17/10/2009 07:03:35] >> Running Database Manager
+[17/10/2009 07:03:38] > Optimized database.
+[17/10/2009 07:03:38] >> Loading items
+[17/10/2009 07:03:41] >> Loading groups
+[17/10/2009 07:03:42] >> Loading vocations
+[17/10/2009 07:03:42] >> Loading script systems
+[17/10/2009 07:03:45] [Warning - Weapons::registerEvent] Duplicate registered item with id: 7410
+[17/10/2009 07:04:15] >> Loading chat channels
+[17/10/2009 07:04:15] >> Loading outfits
+[17/10/2009 07:04:16] >> Loading experience stages
+[17/10/2009 07:04:16] >> Loading monsters
+[17/10/2009 07:04:45] >> Loading map and spawns...
+[17/10/2009 07:04:51] > Map size: 512x512.
+[17/10/2009 07:04:51] > Map descriptions: 
+[17/10/2009 07:04:51] Saved with Remere's Map Editor 1.1.7 BETA
+[17/10/2009 07:04:51] Remere 's Map Editor Beta
+[17/10/2009 07:04:56] Duplicate uniqueId 2471
+[17/10/2009 07:04:58] > Map loading time: 12.214 seconds.
+[17/10/2009 07:05:05] [Warning - Houses::loadFromXml] House entry not set for:  (158)
+[17/10/2009 07:05:07] > Data loading time: 8.96 seconds.
+[17/10/2009 07:05:09] > Unserialization time for houses: 1.984 seconds.
+[17/10/2009 07:05:22] > Unserialization time for map: 12.703 seconds.
+[17/10/2009 07:05:22] >> Checking world type... PvP
+[17/10/2009 07:05:22] >> Initializing game state modules and registering services...
+[17/10/2009 07:05:26] > Global address: 201.246.44.103
+[17/10/2009 07:05:27] > Local ports:
+[17/10/2009 07:05:27] 7171	7172	
+[17/10/2009 07:05:28] >> All modules were loaded, server starting up...
+[17/10/2009 07:05:28] >> Aggrometal server server Online!
+[17/10/2009 07:05:28] 
+[17/10/2009 07:17:32] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[17/10/2009 07:17:40] GOD Aggro has logged in.
+[17/10/2009 07:19:16] > Saving server...
+[17/10/2009 07:21:22] > SAVE: Complete in 75.622 seconds using relational house storage.
+[17/10/2009 07:34:17] > Saving server...
+[17/10/2009 07:35:08] > SAVE: Complete in 47.943 seconds using relational house storage.
+[17/10/2009 07:49:18] > Saving server...
+[17/10/2009 07:49:46] > SAVE: Complete in 27.147 seconds using relational house storage.
+[17/10/2009 08:04:19] > Saving server...
+[17/10/2009 08:04:38] > SAVE: Complete in 18.881 seconds using relational house storage.
+[17/10/2009 08:11:20] Account Manager has logged in.
+[17/10/2009 08:11:48] Account Manager has logged out.
+[17/10/2009 08:11:58] Account Manager has logged in.
+[17/10/2009 08:12:17] Account Manager has logged out.
+[17/10/2009 08:12:26] The Fenix Flow has logged in.
+[17/10/2009 08:15:49] Account Manager has logged in.
+[17/10/2009 08:15:59] Account Manager has logged out.
+[17/10/2009 08:16:06] Account Manager has logged in.
+[17/10/2009 08:16:20] Account Manager has logged out.
+[17/10/2009 08:16:26] Rebine has logged in.
+[17/10/2009 08:19:20] > Saving server...
+[17/10/2009 08:19:22] > SAVE: Complete in 2.273 seconds using relational house storage.
+[17/10/2009 08:19:33] Rebine has logged out.
+[17/10/2009 08:19:35] Rebine has logged in.
+[17/10/2009 08:22:37] GOD Aggro has logged out.
+[17/10/2009 08:22:40] The Fenix Flow has logged out.
+[17/10/2009 08:22:43] Rebine has logged out.
+[17/10/2009 08:22:45] > Saving server...
+[17/10/2009 08:22:49] > SAVE: Complete in 4.497 seconds using relational house storage.
+[17/10/2009 08:22:50] Preparing to shutdown server..
+[17/10/2009 08:22:53] .
+[17/10/2009 08:22:53] Exiting
+[17/10/2009 18:24:21] The Forgotten Server, version 0.3.4 (Crying Damson)
+[17/10/2009 18:24:22] Sever Criado Por Alissow e Comedinha.
+[17/10/2009 18:24:23] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[17/10/2009 18:24:23] Bom Jogo!!!
+[17/10/2009 18:24:23] 
+[17/10/2009 18:24:23] >> Debugging: nothing.
+[17/10/2009 18:24:23] >> Checking software version... outdated, please consider updating!
+[17/10/2009 18:24:28] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[17/10/2009 18:24:29] > Latest version information - version: 0.3.5, patch: 1, build: 2576, timestamp: 1249584126.
+[17/10/2009 18:24:29] [Warning - ConfigManager::getBool] 62
+[17/10/2009 18:24:29] 
+[17/10/2009 18:24:29] >> Loading config (config.lua)
+[17/10/2009 18:24:31] > Using plaintext passwords
+[17/10/2009 18:24:32] >> Loading RSA key
+[17/10/2009 18:24:32] >> Starting SQL connection
+[17/10/2009 18:24:33] >> Running Database Manager
+[17/10/2009 18:24:46] > Optimized database.
+[17/10/2009 18:24:47] >> Loading items
+[17/10/2009 18:24:52] >> Loading groups
+[17/10/2009 18:24:52] >> Loading vocations
+[17/10/2009 18:24:53] >> Loading script systems
+[17/10/2009 18:24:55] [Warning - Weapons::registerEvent] Duplicate registered item with id: 7410
+[17/10/2009 18:25:31] >> Loading chat channels
+[17/10/2009 18:25:31] >> Loading outfits
+[17/10/2009 18:25:31] >> Loading experience stages
+[17/10/2009 18:25:31] >> Loading monsters
+[17/10/2009 18:25:49] >> Loading map and spawns...
+[17/10/2009 18:25:50] > Map size: 512x512.
+[17/10/2009 18:25:50] > Map descriptions: 
+[17/10/2009 18:25:50] Saved with Remere's Map Editor 1.1.9
+[17/10/2009 18:25:50] Remere 's Map Editor Beta
+[17/10/2009 18:25:55] Duplicate uniqueId 2471
+[17/10/2009 18:25:57] > Map loading time: 8.047 seconds.
+[17/10/2009 18:25:59] [Warning - Houses::loadFromXml] House entry not set for:  (158)
+[17/10/2009 18:25:59] > Data loading time: 2.297 seconds.
+[17/10/2009 18:26:00] > Unserialization time for houses: 0.672 seconds.
+[17/10/2009 18:26:18] > Unserialization time for map: 17.669 seconds.
+[17/10/2009 18:26:18] >> Checking world type... PvP
+[17/10/2009 18:26:18] >> Initializing game state modules and registering services...
+[17/10/2009 18:26:19] > Global address: 201.246.44.103
+[17/10/2009 18:26:19] > Local ports:
+[17/10/2009 18:26:19] 7171	7172	
+[17/10/2009 18:26:20] >> All modules were loaded, server starting up...
+[17/10/2009 18:26:20] >> Aggrometal server server Online!
+[17/10/2009 18:26:20] 
+[17/10/2009 18:26:51] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[17/10/2009 18:26:54] GOD Aggro has logged in.
+[17/10/2009 18:40:32] > Saving server...
+[17/10/2009 18:40:37] > SAVE: Complete in 4.404 seconds using relational house storage.
+[17/10/2009 18:42:53] GOD Aggro has logged out.
+[17/10/2009 18:42:54] > Saving server...
+[17/10/2009 18:42:55] > SAVE: Complete in 1.617 seconds using relational house storage.
+[17/10/2009 18:42:56] Preparing to shutdown server..
+[17/10/2009 18:42:57] .
+[17/10/2009 18:42:57] Exiting
+[17/10/2009 18:17:38] The Forgotten Server, version 0.3.4 (Crying Damson)
+[17/10/2009 18:17:38] Sever Criado Por Alissow e Comedinha.
+[17/10/2009 18:17:39] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[17/10/2009 18:17:39] Bom Jogo!!!
+[17/10/2009 18:17:39] 
+[17/10/2009 18:17:39] >> Debugging: nothing.
+[17/10/2009 18:17:39] >> Checking software version... outdated, please consider updating!
+[17/10/2009 18:17:40] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[17/10/2009 18:17:40] > Latest version information - version: 0.3.5, patch: 1, build: 2576, timestamp: 1249584126.
+[17/10/2009 18:17:40] [Warning - ConfigManager::getBool] 62
+[17/10/2009 18:17:40] 
+[17/10/2009 18:17:40] >> Loading config (config.lua)
+[17/10/2009 18:17:40] > Using plaintext passwords
+[17/10/2009 18:17:40] >> Loading RSA key
+[17/10/2009 18:17:40] >> Starting SQL connection
+[17/10/2009 18:17:40] >> Running Database Manager
+[17/10/2009 18:17:41] > Optimized database.
+[17/10/2009 18:17:41] >> Loading items
+[17/10/2009 18:17:42] >> Loading groups
+[17/10/2009 18:17:42] >> Loading vocations
+[17/10/2009 18:17:43] >> Loading script systems
+[17/10/2009 18:17:44] [Warning - Weapons::registerEvent] Duplicate registered item with id: 7410
+[17/10/2009 18:17:53] [Warning - Event::loadScript] Cannot load script (data/talkactions/scripts/aol.lua)
+[17/10/2009 18:17:53] data/talkactions/scripts/aol.lua:11: '=' expected near 'creando'
+[17/10/2009 18:17:54] [Warning - Event::loadScript] Cannot load script (data/creaturescripts/scripts/login3.lua)
+[17/10/2009 18:17:54] data/creaturescripts/scripts/login3.lua:2: '=' expected near 'function'
+[17/10/2009 18:17:54] [Warning - Event::loadScript] Cannot load script (data/creaturescripts/scripts/logout.lua)
+[17/10/2009 18:17:54] data/creaturescripts/scripts/logout.lua:1: '=' expected near 'Ó'
+[17/10/2009 18:17:54] >> Loading chat channels
+[17/10/2009 18:17:54] >> Loading outfits
+[17/10/2009 18:17:54] >> Loading experience stages
+[17/10/2009 18:17:54] >> Loading monsters
+[17/10/2009 18:17:58] >> Loading map and spawns...
+[17/10/2009 18:17:58] > Map size: 512x512.
+[17/10/2009 18:17:58] > Map descriptions: 
+[17/10/2009 18:17:58] Saved with Remere's Map Editor 1.1.9
+[17/10/2009 18:17:58] Remere 's Map Editor Beta
+[17/10/2009 18:18:00] Duplicate uniqueId 2471
+[17/10/2009 18:18:00] > Map loading time: 2.935 seconds.
+[17/10/2009 18:18:01] [Warning - Houses::loadFromXml] House entry not set for:  (158)
+[17/10/2009 18:18:01] > Data loading time: 0.718 seconds.
+[17/10/2009 18:18:01] > Unserialization time for houses: 0.041 seconds.
+[17/10/2009 18:18:14] > Unserialization time for map: 12.276 seconds.
+[17/10/2009 18:18:14] >> Checking world type... PvP
+[17/10/2009 18:18:14] >> Initializing game state modules and registering services...
+[17/10/2009 18:18:14] > Global address: 201.246.35.251
+[17/10/2009 18:18:14] > Local ports:
+[17/10/2009 18:18:14] 7171	7172	
+[17/10/2009 18:18:15] >> All modules were loaded, server starting up...
+[17/10/2009 18:18:15] >> Aggrometal server server Online!
+[17/10/2009 18:18:15] 
+[17/10/2009 18:18:52] > Saving server...
+[17/10/2009 18:18:53] > SAVE: Complete in 1.298 seconds using relational house storage.
+[17/10/2009 18:18:53] Preparing to shutdown server..
+[17/10/2009 18:18:53] .
+[17/10/2009 18:18:53] Exiting
+[17/10/2009 18:21:14] The Forgotten Server, version 0.3.4 (Crying Damson)
+[17/10/2009 18:21:14] Sever Criado Por Alissow e Comedinha.
+[17/10/2009 18:21:14] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[17/10/2009 18:21:14] Bom Jogo!!!
+[17/10/2009 18:21:14] 
+[17/10/2009 18:21:14] >> Debugging: nothing.
+[17/10/2009 18:21:14] >> Checking software version... outdated, please consider updating!
+[17/10/2009 18:21:15] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[17/10/2009 18:21:15] > Latest version information - version: 0.3.5, patch: 1, build: 2576, timestamp: 1249584126.
+[17/10/2009 18:21:16] [Warning - ConfigManager::getBool] 62
+[17/10/2009 18:21:16] 
+[17/10/2009 18:21:16] >> Loading config (config.lua)
+[17/10/2009 18:21:16] > Using plaintext passwords
+[17/10/2009 18:21:16] >> Loading RSA key
+[17/10/2009 18:21:16] >> Starting SQL connection
+[17/10/2009 18:21:16] >> Running Database Manager
+[17/10/2009 18:21:16] > Optimized database.
+[17/10/2009 18:21:16] >> Loading items
+[17/10/2009 18:21:17] >> Loading groups
+[17/10/2009 18:21:17] >> Loading vocations
+[17/10/2009 18:21:17] >> Loading script systems
+[17/10/2009 18:21:17] [Warning - Weapons::registerEvent] Duplicate registered item with id: 7410
+[17/10/2009 18:21:19] [Warning - Event::loadScript] Cannot load script (data/talkactions/scripts/aol.lua)
+[17/10/2009 18:21:19] data/talkactions/scripts/aol.lua:11: '=' expected near 'creando'
+[17/10/2009 18:21:20] [Warning - Event::loadScript] Cannot load script (data/creaturescripts/scripts/login3.lua)
+[17/10/2009 18:21:20] data/creaturescripts/scripts/login3.lua:2: '=' expected near 'function'
+[17/10/2009 18:21:20] [Warning - Event::loadScript] Cannot load script (data/creaturescripts/scripts/logout.lua)
+[17/10/2009 18:21:20] data/creaturescripts/scripts/logout.lua:1: '=' expected near 'Ó'
+[17/10/2009 18:21:20] >> Loading chat channels
+[17/10/2009 18:21:20] >> Loading outfits
+[17/10/2009 18:21:20] >> Loading experience stages
+[17/10/2009 18:21:20] >> Loading monsters
+[17/10/2009 18:21:22] >> Loading map and spawns...
+[17/10/2009 18:21:23] > Map size: 512x512.
+[17/10/2009 18:21:23] > Map descriptions: 
+[17/10/2009 18:21:23] Saved with Remere's Map Editor 1.1.9
+[17/10/2009 18:21:23] Remere 's Map Editor Beta
+[17/10/2009 18:21:24] Duplicate uniqueId 2471
+[17/10/2009 18:21:25] > Map loading time: 2.69 seconds.
+[17/10/2009 18:21:26] [Warning - Houses::loadFromXml] House entry not set for:  (158)
+[17/10/2009 18:21:26] > Data loading time: 1.681 seconds.
+[17/10/2009 18:21:27] > Unserialization time for houses: 0.018 seconds.
+[17/10/2009 18:21:39] > Unserialization time for map: 12.042 seconds.
+[17/10/2009 18:21:39] >> Checking world type... PvP
+[17/10/2009 18:21:39] >> Initializing game state modules and registering services...
+[17/10/2009 18:21:39] > Global address: 201.246.35.251
+[17/10/2009 18:21:39] > Local ports:
+[17/10/2009 18:21:39] 7171	7172	
+[17/10/2009 18:21:39] >> All modules were loaded, server starting up...
+[17/10/2009 18:21:40] >> Aggrometal server server Online!
+[17/10/2009 18:21:40] 
+[17/10/2009 18:21:51] > Saving server...
+[17/10/2009 18:21:52] > SAVE: Complete in 1.229 seconds using relational house storage.
+[17/10/2009 18:21:52] Preparing to shutdown server..
+[17/10/2009 18:21:52] .
+[17/10/2009 18:21:52] Exiting
+[17/10/2009 18:23:59] The Forgotten Server, version 0.3.4 (Crying Damson)
+[17/10/2009 18:23:59] Sever Criado Por Alissow e Comedinha.
+[17/10/2009 18:23:59] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[17/10/2009 18:23:59] Bom Jogo!!!
+[17/10/2009 18:23:59] 
+[17/10/2009 18:23:59] >> Debugging: nothing.
+[17/10/2009 18:23:59] >> Checking software version... outdated, please consider updating!
+[17/10/2009 18:24:00] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[17/10/2009 18:24:00] > Latest version information - version: 0.3.5, patch: 1, build: 2576, timestamp: 1249584126.
+[17/10/2009 18:24:00] [Warning - ConfigManager::getBool] 62
+[17/10/2009 18:24:00] 
+[17/10/2009 18:24:00] >> Loading config (config.lua)
+[17/10/2009 18:24:00] > Using plaintext passwords
+[17/10/2009 18:24:01] >> Loading RSA key
+[17/10/2009 18:24:01] >> Starting SQL connection
+[17/10/2009 18:24:01] >> Running Database Manager
+[17/10/2009 18:24:01] > Optimized database.
+[17/10/2009 18:24:01] >> Loading items
+[17/10/2009 18:24:01] >> Loading groups
+[17/10/2009 18:24:01] >> Loading vocations
+[17/10/2009 18:24:01] >> Loading script systems
+[17/10/2009 18:24:02] [Warning - Weapons::registerEvent] Duplicate registered item with id: 7410
+[17/10/2009 18:24:04] >> Loading chat channels
+[17/10/2009 18:24:04] >> Loading outfits
+[17/10/2009 18:24:04] >> Loading experience stages
+[17/10/2009 18:24:04] >> Loading monsters
+[17/10/2009 18:24:06] >> Loading map and spawns...
+[17/10/2009 18:24:06] > Map size: 512x512.
+[17/10/2009 18:24:06] > Map descriptions: 
+[17/10/2009 18:24:06] Saved with Remere's Map Editor 1.1.9
+[17/10/2009 18:24:06] Remere 's Map Editor Beta
+[17/10/2009 18:24:08] Duplicate uniqueId 2471
+[17/10/2009 18:24:08] > Map loading time: 2.282 seconds.
+[17/10/2009 18:24:10] [Warning - Houses::loadFromXml] House entry not set for:  (158)
+[17/10/2009 18:24:10] > Data loading time: 1.908 seconds.
+[17/10/2009 18:24:10] > Unserialization time for houses: 0.024 seconds.
+[17/10/2009 18:24:22] > Unserialization time for map: 11.659 seconds.
+[17/10/2009 18:24:22] >> Checking world type... PvP
+[17/10/2009 18:24:22] >> Initializing game state modules and registering services...
+[17/10/2009 18:24:23] > Global address: 201.246.35.251
+[17/10/2009 18:24:23] > Local ports:
+[17/10/2009 18:24:23] 7171	7172	
+[17/10/2009 18:24:23] >> All modules were loaded, server starting up...
+[17/10/2009 18:24:23] >> Aggrometal server server Online!
+[17/10/2009 18:24:23] 
+[17/10/2009 18:24:26] > Saving server...
+[17/10/2009 18:24:27] > SAVE: Complete in 1.339 seconds using relational house storage.
+[17/10/2009 18:24:27] Preparing to shutdown server..
+[17/10/2009 18:24:28] .
+[17/10/2009 18:24:28] Exiting
+[17/10/2009 21:08:09] The Forgotten Server, version 0.3.4 (Crying Damson)
+[17/10/2009 21:08:09] Sever Criado Por Alissow e Comedinha.
+[17/10/2009 21:08:10] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[17/10/2009 21:08:10] Bom Jogo!!!
+[17/10/2009 21:08:10] 
+[17/10/2009 21:08:10] >> Debugging: nothing.
+[17/10/2009 21:08:10] >> Checking software version... outdated, please consider updating!
+[17/10/2009 21:08:10] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[17/10/2009 21:08:11] > Latest version information - version: 0.3.5, patch: 1, build: 2576, timestamp: 1249584126.
+[17/10/2009 21:08:11] [Warning - ConfigManager::getBool] 62
+[17/10/2009 21:08:11] 
+[17/10/2009 21:08:11] >> Loading config (config.lua)
+[17/10/2009 21:08:11] > Using plaintext passwords
+[17/10/2009 21:08:11] >> Loading RSA key
+[17/10/2009 21:08:11] >> Starting SQL connection
+[17/10/2009 21:08:11] >> Running Database Manager
+[17/10/2009 21:08:12] > Optimized database.
+[17/10/2009 21:08:12] >> Loading items
+[17/10/2009 21:08:13] >> Loading groups
+[17/10/2009 21:08:13] >> Loading vocations
+[17/10/2009 21:08:13] >> Loading script systems
+[17/10/2009 21:08:14] [Warning - Weapons::registerEvent] Duplicate registered item with id: 7410
+[17/10/2009 21:08:18] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/holy.lua)
+[17/10/2009 21:08:19] data/actions/scripts/holy.lua:22: unexpected symbol near '<'
+[17/10/2009 21:08:21] >> Loading chat channels
+[17/10/2009 21:08:21] >> Loading outfits
+[17/10/2009 21:08:21] >> Loading experience stages
+[17/10/2009 21:08:21] >> Loading monsters
+[17/10/2009 21:08:22] [Warning - Monsters::loadMonster] Cannot load monster (Death Demon) file (data/monster/Bosses/dead demon.xml).
+[17/10/2009 21:08:22] Info: failed to load external entity "data/monster/Bosses/dead demon.xml"
+[17/10/2009 21:08:22] 
+[17/10/2009 21:08:22] 
+[17/10/2009 21:08:23] >> Loading map and spawns...
+[17/10/2009 21:08:24] > Map size: 512x512.
+[17/10/2009 21:08:24] > Map descriptions: 
+[17/10/2009 21:08:24] Saved with Remere's Map Editor 1.1.9
+[17/10/2009 21:08:24] Remere 's Map Editor Beta
+[17/10/2009 21:08:27] Duplicate uniqueId 2471
+[17/10/2009 21:08:28] > Map loading time: 5.025 seconds.
+[17/10/2009 21:08:30] [Warning - Houses::loadFromXml] House entry not set for:  (158)
+[17/10/2009 21:08:30] > Data loading time: 1.811 seconds.
+[17/10/2009 21:08:30] > Unserialization time for houses: 0.027 seconds.
+[17/10/2009 21:08:44] > Unserialization time for map: 13.155 seconds.
+[17/10/2009 21:08:44] >> Checking world type... PvP
+[17/10/2009 21:08:44] >> Initializing game state modules and registering services...
+[17/10/2009 21:08:44] > Global address: 201.246.35.251
+[17/10/2009 21:08:44] > Local ports:
+[17/10/2009 21:08:44] 7171	7172	
+[17/10/2009 21:08:44] >> All modules were loaded, server starting up...
+[17/10/2009 21:08:44] >> Aggrometal server server Online!
+[17/10/2009 21:08:45] 
+[17/10/2009 21:10:41] > Saving server...
+[17/10/2009 21:10:42] > SAVE: Complete in 1.475 seconds using relational house storage.
+[17/10/2009 21:10:42] Preparing to shutdown server..
+[17/10/2009 21:10:42] .
+[17/10/2009 21:10:42] Exiting
+[17/10/2009 21:11:19] The Forgotten Server, version 0.3.4 (Crying Damson)
+[17/10/2009 21:11:19] Sever Criado Por Alissow e Comedinha.
+[17/10/2009 21:11:19] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[17/10/2009 21:11:19] Bom Jogo!!!
+[17/10/2009 21:11:19] 
+[17/10/2009 21:11:19] >> Debugging: nothing.
+[17/10/2009 21:11:19] >> Checking software version... outdated, please consider updating!
+[17/10/2009 21:11:20] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[17/10/2009 21:11:20] > Latest version information - version: 0.3.5, patch: 1, build: 2576, timestamp: 1249584126.
+[17/10/2009 21:11:20] [Warning - ConfigManager::getBool] 62
+[17/10/2009 21:11:20] 
+[17/10/2009 21:11:20] >> Loading config (config.lua)
+[17/10/2009 21:11:20] > Using plaintext passwords
+[17/10/2009 21:11:20] >> Loading RSA key
+[17/10/2009 21:11:20] >> Starting SQL connection
+[17/10/2009 21:11:20] >> Running Database Manager
+[17/10/2009 21:11:21] > Optimized database.
+[17/10/2009 21:11:21] >> Loading items
+[17/10/2009 21:11:21] >> Loading groups
+[17/10/2009 21:11:22] >> Loading vocations
+[17/10/2009 21:11:22] >> Loading script systems
+[17/10/2009 21:11:22] [Warning - Weapons::registerEvent] Duplicate registered item with id: 7410
+[17/10/2009 21:11:23] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/holy.lua)
+[17/10/2009 21:11:23] data/actions/scripts/holy.lua:23: unexpected symbol near '<'
+[17/10/2009 21:11:25] >> Loading chat channels
+[17/10/2009 21:11:25] >> Loading outfits
+[17/10/2009 21:11:25] >> Loading experience stages
+[17/10/2009 21:11:25] >> Loading monsters
+[17/10/2009 21:11:26] [Warning - Monsters::loadMonster] Cannot load monster (Death Demon) file (data/monster/Bosses/dead demon.xml).
+[17/10/2009 21:11:26] Info: failed to load external entity "data/monster/Bosses/dead demon.xml"
+[17/10/2009 21:11:26] 
+[17/10/2009 21:11:26] 
+[17/10/2009 21:11:28] >> Loading map and spawns...
+[17/10/2009 21:11:28] > Map size: 512x512.
+[17/10/2009 21:11:28] > Map descriptions: 
+[17/10/2009 21:11:28] Saved with Remere's Map Editor 1.1.9
+[17/10/2009 21:11:28] Remere 's Map Editor Beta
+[17/10/2009 21:11:29] Duplicate uniqueId 2471
+[17/10/2009 21:11:30] > Map loading time: 2.38 seconds.
+[17/10/2009 21:11:33] [Warning - Houses::loadFromXml] House entry not set for:  (158)
+[17/10/2009 21:11:33] > Data loading time: 2.414 seconds.
+[17/10/2009 21:11:33] > Unserialization time for houses: 0.092 seconds.
+[17/10/2009 21:11:46] > Unserialization time for map: 12.73 seconds.
+[17/10/2009 21:11:46] >> Checking world type... PvP
+[17/10/2009 21:11:46] >> Initializing game state modules and registering services...
+[17/10/2009 21:11:46] > Global address: 201.246.35.251
+[17/10/2009 21:11:46] > Local ports:
+[17/10/2009 21:11:46] 7171	7172	
+[17/10/2009 21:11:46] >> All modules were loaded, server starting up...
+[17/10/2009 21:11:46] >> Aggrometal server server Online!
+[17/10/2009 21:11:46] 
+[17/10/2009 21:12:04] The Forgotten Server, version 0.3.4 (Crying Damson)
+[17/10/2009 21:12:04] Sever Criado Por Alissow e Comedinha.
+[17/10/2009 21:12:04] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[17/10/2009 21:12:04] Bom Jogo!!!
+[17/10/2009 21:12:04] 
+[17/10/2009 21:12:17] > Saving server...
+[17/10/2009 21:12:19] > SAVE: Complete in 1.234 seconds using relational house storage.
+[17/10/2009 21:12:19] Preparing to shutdown server..
+[17/10/2009 21:12:19] .
+[17/10/2009 21:12:19] Exiting
+[17/10/2009 21:12:21] The Forgotten Server, version 0.3.4 (Crying Damson)
+[17/10/2009 21:12:21] Sever Criado Por Alissow e Comedinha.
+[17/10/2009 21:12:21] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[17/10/2009 21:12:21] Bom Jogo!!!
+[17/10/2009 21:12:21] 
+[17/10/2009 21:12:21] >> Debugging: nothing.
+[17/10/2009 21:12:21] >> Checking software version... outdated, please consider updating!
+[17/10/2009 21:12:28] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[17/10/2009 21:12:28] > Latest version information - version: 0.3.5, patch: 1, build: 2576, timestamp: 1249584126.
+[17/10/2009 21:12:28] [Warning - ConfigManager::getBool] 62
+[17/10/2009 21:12:28] 
+[17/10/2009 21:12:28] >> Loading config (config.lua)
+[17/10/2009 21:12:28] > Using plaintext passwords
+[17/10/2009 21:12:29] >> Loading RSA key
+[17/10/2009 21:12:29] >> Starting SQL connection
+[17/10/2009 21:12:33] >> Running Database Manager
+[17/10/2009 21:12:33] > Optimized database.
+[17/10/2009 21:12:33] >> Loading items
+[17/10/2009 21:12:34] >> Loading groups
+[17/10/2009 21:12:34] >> Loading vocations
+[17/10/2009 21:12:34] >> Loading script systems
+[17/10/2009 21:12:34] [Warning - Weapons::registerEvent] Duplicate registered item with id: 7410
+[17/10/2009 21:12:35] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/holy.lua)
+[17/10/2009 21:12:35] data/actions/scripts/holy.lua:23: unexpected symbol near '<'
+[17/10/2009 21:12:37] >> Loading chat channels
+[17/10/2009 21:12:37] >> Loading outfits
+[17/10/2009 21:12:37] >> Loading experience stages
+[17/10/2009 21:12:37] >> Loading monsters
+[17/10/2009 21:12:38] [Warning - Monsters::loadMonster] Cannot load monster (Death Demon) file (data/monster/Bosses/dead demon.xml).
+[17/10/2009 21:12:38] Info: failed to load external entity "data/monster/Bosses/dead demon.xml"
+[17/10/2009 21:12:38] 
+[17/10/2009 21:12:38] 
+[17/10/2009 21:12:39] >> Loading map and spawns...
+[17/10/2009 21:12:39] > Map size: 512x512.
+[17/10/2009 21:12:39] > Map descriptions: 
+[17/10/2009 21:12:39] Saved with Remere's Map Editor 1.1.9
+[17/10/2009 21:12:39] Remere 's Map Editor Beta
+[17/10/2009 21:12:41] Duplicate uniqueId 2471
+[17/10/2009 21:12:41] > Map loading time: 2.535 seconds.
+[17/10/2009 21:12:42] [Warning - Houses::loadFromXml] House entry not set for:  (158)
+[17/10/2009 21:12:42] > Data loading time: 0.517 seconds.
+[17/10/2009 21:12:42] > Unserialization time for houses: 0.009 seconds.
+[17/10/2009 21:12:56] > Unserialization time for map: 14.381 seconds.
+[17/10/2009 21:12:56] >> Checking world type... PvP
+[17/10/2009 21:12:56] >> Initializing game state modules and registering services...
+[17/10/2009 21:12:57] > Global address: 201.246.35.251
+[17/10/2009 21:12:57] > Local ports:
+[17/10/2009 21:12:57] 7171	7172	
+[17/10/2009 21:12:57] >> All modules were loaded, server starting up...
+[17/10/2009 21:12:57] >> Aggrometal server server Online!
+[17/10/2009 21:12:57] 
+[17/10/2009 21:13:05] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[17/10/2009 21:13:06] Account Manager has logged in.
+[17/10/2009 21:13:12] Account Manager has logged out.
+[17/10/2009 21:13:12] > Saving server...
+[17/10/2009 21:13:14] > SAVE: Complete in 1.202 seconds using relational house storage.
+[17/10/2009 21:13:14] Preparing to shutdown server..
+[17/10/2009 21:13:14] .
+[17/10/2009 21:13:14] Exiting
+[17/10/2009 21:13:24] The Forgotten Server, version 0.3.4 (Crying Damson)
+[17/10/2009 21:13:24] Sever Criado Por Alissow e Comedinha.
+[17/10/2009 21:13:24] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[17/10/2009 21:13:24] Bom Jogo!!!
+[17/10/2009 21:13:24] 
+[17/10/2009 21:13:24] >> Debugging: nothing.
+[17/10/2009 21:13:24] >> Checking software version... outdated, please consider updating!
+[17/10/2009 21:13:25] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[17/10/2009 21:13:25] > Latest version information - version: 0.3.5, patch: 1, build: 2576, timestamp: 1249584126.
+[17/10/2009 21:13:25] [Warning - ConfigManager::getBool] 62
+[17/10/2009 21:13:25] 
+[17/10/2009 21:13:25] >> Loading config (config.lua)
+[17/10/2009 21:13:25] > Using plaintext passwords
+[17/10/2009 21:13:25] >> Loading RSA key
+[17/10/2009 21:13:25] >> Starting SQL connection
+[17/10/2009 21:13:25] >> Running Database Manager
+[17/10/2009 21:13:26] > Optimized database.
+[17/10/2009 21:13:26] >> Loading items
+[17/10/2009 21:13:26] >> Loading groups
+[17/10/2009 21:13:26] >> Loading vocations
+[17/10/2009 21:13:26] >> Loading script systems
+[17/10/2009 21:13:26] [Warning - Weapons::registerEvent] Duplicate registered item with id: 7410
+[17/10/2009 21:13:28] >> Loading chat channels
+[17/10/2009 21:13:28] >> Loading outfits
+[17/10/2009 21:13:28] >> Loading experience stages
+[17/10/2009 21:13:28] >> Loading monsters
+[17/10/2009 21:13:29] [Warning - Monsters::loadMonster] Cannot load monster (Death Demon) file (data/monster/Bosses/dead demon.xml).
+[17/10/2009 21:13:29] Info: failed to load external entity "data/monster/Bosses/dead demon.xml"
+[17/10/2009 21:13:29] 
+[17/10/2009 21:13:29] 
+[17/10/2009 21:13:29] >> Loading map and spawns...
+[17/10/2009 21:13:30] > Map size: 512x512.
+[17/10/2009 21:13:30] > Map descriptions: 
+[17/10/2009 21:13:30] Saved with Remere's Map Editor 1.1.9
+[17/10/2009 21:13:30] Remere 's Map Editor Beta
+[17/10/2009 21:13:31] Duplicate uniqueId 2471
+[17/10/2009 21:13:31] > Map loading time: 2.202 seconds.
+[17/10/2009 21:13:32] [Warning - Houses::loadFromXml] House entry not set for:  (158)
+[17/10/2009 21:13:32] > Data loading time: 0.866 seconds.
+[17/10/2009 21:13:33] > Unserialization time for houses: 0.081 seconds.
+[17/10/2009 21:13:45] > Unserialization time for map: 12.696 seconds.
+[17/10/2009 21:13:45] >> Checking world type... PvP
+[17/10/2009 21:13:45] >> Initializing game state modules and registering services...
+[17/10/2009 21:13:46] > Global address: 201.246.35.251
+[17/10/2009 21:13:46] > Local ports:
+[17/10/2009 21:13:46] 7171	7172	
+[17/10/2009 21:13:46] >> All modules were loaded, server starting up...
+[17/10/2009 21:13:46] >> Aggrometal s>e rSvaer negr vesre rOvnelri.n.e.!
+
+[17/10/2009 21:13:46] 
+[17/10/2009 21:13:47] > SAVE: Complete in 1.394 seconds using relational house storage.
+[17/10/2009 21:13:47] Preparing to shutdown server..
+[17/10/2009 21:13:48] .
+[17/10/2009 21:13:48] Exiting
+[17/10/2009 21:26:35] The Forgotten Server, version 0.3.4 (Crying Damson)
+[17/10/2009 21:26:35] Sever Criado Por Alissow e Comedinha.
+[17/10/2009 21:26:35] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[17/10/2009 21:26:36] Bom Jogo!!!
+[17/10/2009 21:26:36] 
+[17/10/2009 21:26:36] >> Debugging: nothing.
+[17/10/2009 21:26:36] >> Checking software version... outdated, please consider updating!
+[17/10/2009 21:26:37] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[17/10/2009 21:26:37] > Latest version information - version: 0.3.5, patch: 1, build: 2576, timestamp: 1249584126.
+[17/10/2009 21:26:37] [Warning - ConfigManager::getBool] 62
+[17/10/2009 21:26:37] 
+[17/10/2009 21:26:37] >> Loading config (config.lua)
+[17/10/2009 21:26:37] > Using plaintext passwords
+[17/10/2009 21:26:37] >> Loading RSA key
+[17/10/2009 21:26:37] >> Starting SQL connection
+[17/10/2009 21:26:37] >> Running Database Manager
+[17/10/2009 21:26:37] > Optimized database.
+[17/10/2009 21:26:37] >> Loading items
+[17/10/2009 21:26:38] >> Loading groups
+[17/10/2009 21:26:38] >> Loading vocations
+[17/10/2009 21:26:38] >> Loading script systems
+[17/10/2009 21:26:38] [Warning - Weapons::registerEvent] Duplicate registered item with id: 7410
+[17/10/2009 21:26:41] >> Loading chat channels
+[17/10/2009 21:26:41] >> Loading outfits
+[17/10/2009 21:26:41] >> Loading experience stages
+[17/10/2009 21:26:41] >> Loading monsters
+[17/10/2009 21:26:42] [Warning - Monsters::loadMonster] Cannot load monster (Death Demon) file (data/monster/Bosses/dead demon.xml).
+[17/10/2009 21:26:42] Info: failed to load external entity "data/monster/Bosses/dead demon.xml"
+[17/10/2009 21:26:42] 
+[17/10/2009 21:26:42] 
+[17/10/2009 21:26:43] >> Loading map and spawns...
+[17/10/2009 21:26:43] > Map size: 512x512.
+[17/10/2009 21:26:43] > Map descriptions: 
+[17/10/2009 21:26:43] Saved with Remere's Map Editor 1.1.9
+[17/10/2009 21:26:43] Remere 's Map Editor Beta
+[17/10/2009 21:26:44] Duplicate uniqueId 2471
+[17/10/2009 21:26:45] > Map loading time: 2.52 seconds.
+[17/10/2009 21:26:47] [Warning - Houses::loadFromXml] House entry not set for:  (158)
+[17/10/2009 21:26:47] > Data loading time: 2.326 seconds.
+[17/10/2009 21:26:48] > Unserialization time for houses: 0.033 seconds.
+[17/10/2009 21:27:02] > Unserialization time for map: 14.259 seconds.
+[17/10/2009 21:27:02] >> Checking world type... PvP
+[17/10/2009 21:27:02] >> Initializing game state modules and registering services...
+[17/10/2009 21:27:03] > Global address: 201.246.35.251
+[17/10/2009 21:27:03] > Local ports:
+[17/10/2009 21:27:03] 7171	7172	
+[17/10/2009 21:27:03] >> All modules were loaded, server starting up...
+[17/10/2009 21:27:03] >> Aggrometal server se>rv eSr aOvnilnin es!e
+rve
+r...
+[17/10/2009 21:27:06] > SAVE: Complete in 2.718 seconds using relational house storage.
+[17/10/2009 21:27:06] Preparing to shutdown server..
+[17/10/2009 21:27:06] .
+[17/10/2009 21:27:06] Exiting
+[17/10/2009 21:27:53] The Forgotten Server, version 0.3.4 (Crying Damson)
+[17/10/2009 21:27:53] Sever Criado Por Alissow e Comedinha.
+[17/10/2009 21:27:53] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[17/10/2009 21:27:53] Bom Jogo!!!
+[17/10/2009 21:27:53] 
+[17/10/2009 21:27:53] >> Debugging: nothing.
+[17/10/2009 21:27:53] >> Checking software version... outdated, please consider updating!
+[17/10/2009 21:27:57] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[17/10/2009 21:27:57] > Latest version information - version: 0.3.5, patch: 1, build: 2576, timestamp: 1249584126.
+[17/10/2009 21:27:58] [Warning - ConfigManager::getBool] 62
+[17/10/2009 21:27:58] 
+[17/10/2009 21:27:58] >> Loading config (config.lua)
+[17/10/2009 21:27:58] > Using plaintext passwords
+[17/10/2009 21:27:58] >> Loading RSA key
+[17/10/2009 21:27:58] >> Starting SQL connection
+[17/10/2009 21:27:58] >> Running Database Manager
+[17/10/2009 21:27:58] > Optimized database.
+[17/10/2009 21:27:58] >> Loading items
+[17/10/2009 21:27:59] >> Loading groups
+[17/10/2009 21:27:59] >> Loading vocations
+[17/10/2009 21:27:59] >> Loading script systems
+[17/10/2009 21:27:59] [Warning - Weapons::registerEvent] Duplicate registered item with id: 7410
+[17/10/2009 21:28:01] >> Loading chat channels
+[17/10/2009 21:28:01] >> Loading outfits
+[17/10/2009 21:28:01] >> Loading experience stages
+[17/10/2009 21:28:01] >> Loading monsters
+[17/10/2009 21:28:02] [Warning - Monsters::loadMonster] Cannot load monster (Dead Demon) file (data/monster/Bosses/dead demon.xml).
+[17/10/2009 21:28:02] Info: failed to load external entity "data/monster/Bosses/dead demon.xml"
+[17/10/2009 21:28:02] 
+[17/10/2009 21:28:02] 
+[17/10/2009 21:28:03] >> Loading map and spawns...
+[17/10/2009 21:28:03] > Map size: 512x512.
+[17/10/2009 21:28:03] > Map descriptions: 
+[17/10/2009 21:28:03] Saved with Remere's Map Editor 1.1.9
+[17/10/2009 21:28:04] Remere 's Map Editor Beta
+[17/10/2009 21:28:05] Duplicate uniqueId 2471
+[17/10/2009 21:28:06] > Map loading time: 2.572 seconds.
+[17/10/2009 21:28:08] [Warning - Houses::loadFromXml] House entry not set for:  (158)
+[17/10/2009 21:28:08] > Data loading time: 2.071 seconds.
+[17/10/2009 21:28:08] > Unserialization time for houses: 0.081 seconds.
+[17/10/2009 21:28:23] > Unserialization time for map: 14.759 seconds.
+[17/10/2009 21:28:23] >> Checking world type... PvP
+[17/10/2009 21:28:23] >> Initializing game state modules and registering services...
+[17/10/2009 21:28:23] > Global address: 201.246.35.251
+[17/10/2009 21:28:24] > Local ports:
+[17/10/2009 21:28:24] 7171	7172	
+[17/10/2009 21:28:24] >> All modules were loaded, server starting up...
+[17/10/2009 21:28:24] >> Aggrom etSaalv isnegr vseerr vseerr.v.e.
+r Online!
+[17/10/2009 21:28:24] 
+[17/10/2009 21:28:25] > SAVE: Complete in 1.195 seconds using relational house storage.
+[17/10/2009 21:28:25] Preparing to shutdown server..
+[17/10/2009 21:28:25] .
+[17/10/2009 21:28:25] Exiting
+[17/10/2009 21:28:59] The Forgotten Server, version 0.3.4 (Crying Damson)
+[17/10/2009 21:28:59] Sever Criado Por Alissow e Comedinha.
+[17/10/2009 21:28:59] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[17/10/2009 21:28:59] Bom Jogo!!!
+[17/10/2009 21:28:59] 
+[17/10/2009 21:28:59] >> Debugging: nothing.
+[17/10/2009 21:28:59] >> Checking software version... outdated, please consider updating!
+[17/10/2009 21:29:00] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[17/10/2009 21:29:00] > Latest version information - version: 0.3.5, patch: 1, build: 2576, timestamp: 1249584126.
+[17/10/2009 21:29:00] [Warning - ConfigManager::getBool] 62
+[17/10/2009 21:29:00] 
+[17/10/2009 21:29:00] >> Loading config (config.lua)
+[17/10/2009 21:29:00] > Using plaintext passwords
+[17/10/2009 21:29:01] >> Loading RSA key
+[17/10/2009 21:29:01] >> Starting SQL connection
+[17/10/2009 21:29:01] >> Running Database Manager
+[17/10/2009 21:29:01] > Optimized database.
+[17/10/2009 21:29:01] >> Loading items
+[17/10/2009 21:29:01] >> Loading groups
+[17/10/2009 21:29:01] >> Loading vocations
+[17/10/2009 21:29:02] >> Loading script systems
+[17/10/2009 21:29:02] [Warning - Weapons::registerEvent] Duplicate registered item with id: 7410
+[17/10/2009 21:29:04] >> Loading chat channels
+[17/10/2009 21:29:04] >> Loading outfits
+[17/10/2009 21:29:04] >> Loading experience stages
+[17/10/2009 21:29:04] >> Loading monsters
+[17/10/2009 21:29:05] >> Loading map and spawns...
+[17/10/2009 21:29:06] > Map size: 512x512.
+[17/10/2009 21:29:06] > Map descriptions: 
+[17/10/2009 21:29:06] Saved with Remere's Map Editor 1.1.9
+[17/10/2009 21:29:06] Remere 's Map Editor Beta
+[17/10/2009 21:29:07] Duplicate uniqueId 2471
+[17/10/2009 21:29:08] > Map loading time: 2.376 seconds.
+[17/10/2009 21:29:09] [Warning - Houses::loadFromXml] House entry not set for:  (158)
+[17/10/2009 21:29:10] > Data loading time: 1.648 seconds.
+[17/10/2009 21:29:10] > Unserialization time for houses: 0.08 seconds.
+[17/10/2009 21:29:24] > Unserialization time for map: 13.931 seconds.
+[17/10/2009 21:29:24] >> Checking world type... PvP
+[17/10/2009 21:29:24] >> Initializing game state modules and registering services...
+[17/10/2009 21:29:24] > Global address: 201.246.35.251
+[17/10/2009 21:29:25] > Local ports:
+[17/10/2009 21:29:25] 7171	7172	
+[17/10/2009 21:29:25] >> All modules were loaded, server starting up...
+[17/10/2009 21:29:25] >> Aggrometal se>r vSearv isnegr vsere rOvnelri.n.e.!
+
+[17/10/2009 21:29:25] 
+[17/10/2009 21:29:26] > SAVE: Complete in 1.546 seconds using relational house storage.
+[17/10/2009 21:29:26] Preparing to shutdown server..
+[17/10/2009 21:29:26] .
+[17/10/2009 21:29:26] Exiting
+[17/10/2009 22:55:55] The Forgotten Server, version 0.3.4 (Crying Damson)
+[17/10/2009 22:55:55] Sever Criado Por Alissow e Comedinha.
+[17/10/2009 22:55:55] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[17/10/2009 22:55:55] Bom Jogo!!!
+[17/10/2009 22:55:55] 
+[17/10/2009 22:55:55] >> Debugging: nothing.
+[17/10/2009 22:55:55] >> Checking software version... outdated, please consider updating!
+[17/10/2009 22:55:56] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[17/10/2009 22:55:56] > Latest version information - version: 0.3.5, patch: 1, build: 2576, timestamp: 1249584126.
+[17/10/2009 22:55:56] [Warning - ConfigManager::getBool] 62
+[17/10/2009 22:55:56] 
+[17/10/2009 22:55:57] >> Loading config (config.lua)
+[17/10/2009 22:55:57] > Using plaintext passwords
+[17/10/2009 22:55:57] >> Loading RSA key
+[17/10/2009 22:55:57] >> Starting SQL connection
+[17/10/2009 22:55:57] >> Running Database Manager
+[17/10/2009 22:55:58] > Optimized database.
+[17/10/2009 22:55:58] >> Loading items
+[17/10/2009 22:55:58] >> Loading groups
+[17/10/2009 22:55:58] >> Loading vocations
+[17/10/2009 22:55:58] >> Loading script systems
+[17/10/2009 22:55:58] [Warning - Weapons::registerEvent] Duplicate registered item with id: 7410
+[17/10/2009 22:55:59] [Warning - BaseEvents::loadFromXml] Cannot open spells.xml file.
+[17/10/2009 22:55:59] Line: 975, Info: Premature end of data in tag spells line 2
+[17/10/2009 22:55:59] 
+[17/10/2009 22:55:59] 
+[17/10/2009 22:55:59] > ERROR: Unable to load Spells!
+[17/10/2009 22:57:19] The Forgotten Server, version 0.3.4 (Crying Damson)
+[17/10/2009 22:57:19] Sever Criado Por Alissow e Comedinha.
+[17/10/2009 22:57:19] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[17/10/2009 22:57:19] Bom Jogo!!!
+[17/10/2009 22:57:19] 
+[17/10/2009 22:57:19] >> Debugging: nothing.
+[17/10/2009 22:57:19] >> Checking software version... outdated, please consider updating!
+[17/10/2009 22:57:20] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[17/10/2009 22:57:20] > Latest version information - version: 0.3.5, patch: 1, build: 2576, timestamp: 1249584126.
+[17/10/2009 22:57:20] [Warning - ConfigManager::getBool] 62
+[17/10/2009 22:57:20] 
+[17/10/2009 22:57:20] >> Loading config (config.lua)
+[17/10/2009 22:57:20] > Using plaintext passwords
+[17/10/2009 22:57:20] >> Loading RSA key
+[17/10/2009 22:57:20] >> Starting SQL connection
+[17/10/2009 22:57:21] >> Running Database Manager
+[17/10/2009 22:57:21] > Optimized database.
+[17/10/2009 22:57:21] >> Loading items
+[17/10/2009 22:57:21] >> Loading groups
+[17/10/2009 22:57:21] >> Loading vocations
+[17/10/2009 22:57:21] >> Loading script systems
+[17/10/2009 22:57:21] [Warning - Weapons::registerEvent] Duplicate registered item with id: 7410
+[17/10/2009 22:57:23] [Warning - Event::loadScript] Cannot load script (data/spells/scripts/attack/small winter.lua)
+[17/10/2009 22:57:23] data/spells/scripts/attack/small winter.lua:26: '<eof>' expected near 'end'
+[17/10/2009 22:57:25] >> Loading chat channels
+[17/10/2009 22:57:25] >> Loading outfits
+[17/10/2009 22:57:25] >> Loading experience stages
+[17/10/2009 22:57:25] >> Loading monsters
+[17/10/2009 22:57:27] >> Loading map and spawns...
+[17/10/2009 22:57:28] > Map size: 512x512.
+[17/10/2009 22:57:28] > Map descriptions: 
+[17/10/2009 22:57:28] Saved with Remere's Map Editor 1.1.9
+[17/10/2009 22:57:28] Remere 's Map Editor Beta
+[17/10/2009 22:57:30] Duplicate uniqueId 2471
+[17/10/2009 22:57:30] > Map loading time: 3.063 seconds.
+[17/10/2009 22:57:32] [Warning - Houses::loadFromXml] House entry not set for:  (158)
+[17/10/2009 22:57:32] > Data loading time: 1.383 seconds.
+[17/10/2009 22:57:32] > Unserialization time for houses: 0.029 seconds.
+[17/10/2009 22:57:47] > Unserialization time for map: 15.216 seconds.
+[17/10/2009 22:57:47] >> Checking world type... PvP
+[17/10/2009 22:57:47] >> Initializing game state modules and registering services...
+[17/10/2009 22:57:48] > Global address: 201.246.35.251
+[17/10/2009 22:57:48] > Local ports:
+[17/10/2009 22:57:48] 7171	7172	
+[17/10/2009 22:57:48] >> All modules were loaded, server starting up...
+[17/10/2009 22:57:48] >> Aggrometal server server Online!
+[17/10/2009 22:57:48] 
+[17/10/2009 22:59:42] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[17/10/2009 22:59:45] GOD Aggro has logged in.
+[17/10/2009 23:01:24] Account Manager has logged in.
+[17/10/2009 23:01:24] Account Manager has logged out.
+[17/10/2009 23:01:34] Account Manager has logged in.
+[17/10/2009 23:01:56] Account Manager has logged out.
+[17/10/2009 23:02:03] Account Manager has logged in.
+[17/10/2009 23:02:25] Account Manager has logged out.
+[17/10/2009 23:02:32] Chikitax has logged in.
+[17/10/2009 23:04:07] Chikitax has logged out.
+[17/10/2009 23:04:08] Chikitax has logged in.
+[17/10/2009 23:08:24] Account Manager has logged in.
+[17/10/2009 23:08:36] Account Manager has logged out.
+[17/10/2009 23:08:41] Account Manager has logged in.
+[17/10/2009 23:08:55] Account Manager has logged out.
+[17/10/2009 23:09:05] Greto has logged in.
+[17/10/2009 23:09:16] Greto has logged out.
+[17/10/2009 23:09:18] Greto has logged in.
+[17/10/2009 23:11:56] Chikitax has logged out.
+[17/10/2009 23:11:58] Chikitax has logged in.
+[17/10/2009 23:12:25] 
+[17/10/2009 23:12:25] Lua Script Error: [TalkAction Interface] 
+[17/10/2009 23:12:25] data/talkactions/scripts/ilusion_maker.lua:onSay
+[17/10/2009 23:12:25] 
+[17/10/2009 23:12:25] data/talkactions/scripts/ilusion_maker.lua:4: attempt to index global 'ilusion' (a nil value)
+[17/10/2009 23:12:25] stack traceback:
+[17/10/2009 23:12:25] 	data/talkactions/scripts/ilusion_maker.lua:4: in function <data/talkactions/scripts/ilusion_maker.lua:1>
+[17/10/2009 23:12:26] > Saving server...
+[17/10/2009 23:12:29] > SAVE: Complete in 2.915 seconds using relational house storage.
+[17/10/2009 23:12:33] 
+[17/10/2009 23:12:33] Lua Script Error: [TalkAction Interface] 
+[17/10/2009 23:12:33] data/talkactions/scripts/ilusion_maker.lua:onSay
+[17/10/2009 23:12:33] 
+[17/10/2009 23:12:33] data/talkactions/scripts/ilusion_maker.lua:4: attempt to index global 'ilusion' (a nil value)
+[17/10/2009 23:12:33] stack traceback:
+[17/10/2009 23:12:34] 	data/talkactions/scripts/ilusion_maker.lua:4: in function <data/talkactions/scripts/ilusion_maker.lua:1>
+[17/10/2009 23:14:30] > Broadcasted message: ".¸\`'·.¸\`'·.¸¸.·'´/¸.·'´/¸.·'´ <´¨`·.¸> Greto  <¸.·´¨`> ¸.·'´/¸.·'´/¸.·'´`'.¸\`'·.¸\`'·.¸".
+[17/10/2009 23:14:42] > Broadcasted message: "New record: 4 players are logged in.".
+[17/10/2009 23:14:42] Account Manager has logged in.
+[17/10/2009 23:14:52] Greto has logged out.
+[17/10/2009 23:14:55] Greto has logged in.
+[17/10/2009 23:15:24] Account Manager has logged out.
+[17/10/2009 23:15:39] Account Manager has logged in.
+[17/10/2009 23:16:07] Account Manager has logged out.
+[17/10/2009 23:16:25] Sexy polola has logged in.
+[17/10/2009 23:17:05] Sexy polola has logged out.
+[17/10/2009 23:17:12] Sexy polola has logged in.
+[17/10/2009 23:18:39] Sexy polola has logged out.
+[17/10/2009 23:18:42] Sexy polola has logged in.
+[17/10/2009 23:20:13] > Broadcasted message: ".¸\`'·.¸\`'·.¸¸.·'´/¸.·'´/¸.·'´ <´¨`·.¸> Greto  <¸.·´¨`> ¸.·'´/¸.·'´/¸.·'´`'.¸\`'·.¸\`'·.¸".
+[17/10/2009 23:20:23] > Greto broadcasted: "es mi trac no lo copien".
+[17/10/2009 23:22:02] > Broadcasted message: ".¸\`'·.¸\`'·.¸¸.·'´/¸.·'´/¸.·'´ <´¨`·.¸> Greto  <¸.·´¨`> ¸.·'´/¸.·'´/¸.·'´`'.¸\`'·.¸\`'·.¸".
+[17/10/2009 23:22:03] > Broadcasted message: ".¸\`'·.¸\`'·.¸¸.·'´/¸.·'´/¸.·'´ <´¨`·.¸> Greto  <¸.·´¨`> ¸.·'´/¸.·'´/¸.·'´`'.¸\`'·.¸\`'·.¸".
+[17/10/2009 23:22:04] > Broadcasted message: ".¸\`'·.¸\`'·.¸¸.·'´/¸.·'´/¸.·'´ <´¨`·.¸> Greto  <¸.·´¨`> ¸.·'´/¸.·'´/¸.·'´`'.¸\`'·.¸\`'·.¸".
+[17/10/2009 23:22:04] > Broadcasted message: ".¸\`'·.¸\`'·.¸¸.·'´/¸.·'´/¸.·'´ <´¨`·.¸> Greto  <¸.·´¨`> ¸.·'´/¸.·'´/¸.·'´`'.¸\`'·.¸\`'·.¸".
+[17/10/2009 23:22:17] Chikitax has logged out.
+[17/10/2009 23:22:22] Account Manager has logged in.
+[17/10/2009 23:22:24] Account Manager has logged out.
+[17/10/2009 23:22:25] Chikitax has logged in.
+[17/10/2009 23:23:38] > Broadcasted message: "New record: 5 players are logged in.".
+[17/10/2009 23:23:38] Account Manager has logged in.
+[17/10/2009 23:23:52] Account Manager has logged out.
+[17/10/2009 23:24:00] Account Manager has logged in.
+[17/10/2009 23:24:05] Chikitax has logged out.
+[17/10/2009 23:24:06] Chikitax has logged in.
+[17/10/2009 23:24:13] > Greto broadcasted: "bye".
+[17/10/2009 23:24:13] Greto has logged out.
+[17/10/2009 23:24:18] Account Manager has logged out.
+[17/10/2009 23:24:36] Greto has logged in.
+[17/10/2009 23:24:36] Lionheartx has logged in.
+[17/10/2009 23:27:27] > Saving server...
+[17/10/2009 23:27:30] > SAVE: Complete in 3.161 seconds using relational house storage.
+[17/10/2009 23:27:32] > Broadcasted message: ".¸\`'·.¸\`'·.¸¸.·'´/¸.·'´/¸.·'´ <´¨`·.¸> Greto  <¸.·´¨`> ¸.·'´/¸.·'´/¸.·'´`'.¸\`'·.¸\`'·.¸".
+[17/10/2009 23:28:56] Greto has logged out.
+[17/10/2009 23:30:02] [Warning - Event::loadScript] Cannot load script (data/spells/scripts/attack/small winter.lua)
+[17/10/2009 23:30:02] data/spells/scripts/attack/small winter.lua:26: '<eof>' expected near 'end'
+[17/10/2009 23:30:58] Greto has logged in.
+[17/10/2009 23:31:11] > Broadcasted message: "New record: 6 players are logged in.".
+[17/10/2009 23:31:11] Account Manager has logged in.
+[17/10/2009 23:31:26] Account Manager has logged out.
+[17/10/2009 23:31:32] Account Manager has logged in.
+[17/10/2009 23:31:33] > Broadcasted message: "New record: 7 players are logged in.".
+[17/10/2009 23:31:34] Account Manager has logged in.
+[17/10/2009 23:31:37] Account Manager has logged out.
+[17/10/2009 23:31:38] Sexy polola has logged out.
+[17/10/2009 23:31:55] Account Manager has logged out.
+[17/10/2009 23:32:04] Uchiha Sasuke has logged in.
+[17/10/2009 23:32:32] Sexy polola has logged in.
+[17/10/2009 23:32:46] Sexy polola has logged out.
+[17/10/2009 23:32:59] Sexy polola has logged in.
+[17/10/2009 23:33:41] Account Manager has logged in.
+[17/10/2009 23:33:41] Sexy polola has logged out.
+[17/10/2009 23:33:55] Sexy polola has logged in.
+[17/10/2009 23:34:14] Account Manager has logged out.
+[17/10/2009 23:34:21] Account Manager has logged in.
+[17/10/2009 23:34:55] Account Manager has logged out.
+[17/10/2009 23:35:02] Sir madruga has logged in.
+[17/10/2009 23:37:16] > Broadcasted message: "New record: 8 players are logged in.".
+[17/10/2009 23:37:16] Account Manager has logged in.
+[17/10/2009 23:37:57] Account Manager has logged out.
+[17/10/2009 23:38:12] Account Manager has logged in.
+[17/10/2009 23:38:32] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[17/10/2009 23:38:42] Account Manager has logged out.
+[17/10/2009 23:38:55] Stoke has logged in.
+[17/10/2009 23:39:32] > CLEAN: Removed 163 items from 195 tiles in 0.196 seconds.
+[17/10/2009 23:39:32] > Broadcasted message: "Game map cleaned.".
+[17/10/2009 23:39:44] > Broadcasted message: "New record: 9 players are logged in.".
+[17/10/2009 23:39:44] Account Manager has logged in.
+[17/10/2009 23:40:02] Stoke has logged out.
+[17/10/2009 23:40:02] Account Manager has logged out.
+[17/10/2009 23:40:03] Stoke has logged in.
+[17/10/2009 23:40:03] Account Manager has logged in.
+[17/10/2009 23:40:03] Account Manager has logged out.
+[17/10/2009 23:40:05] GOD Aggro has logged out.
+[17/10/2009 23:40:07] GOD Aggro has logged in.
+[17/10/2009 23:40:08] Account Manager has logged in.
+[17/10/2009 23:40:26] Account Manager has logged out.
+[17/10/2009 23:40:38] Goku has logged in.
+[17/10/2009 23:40:49] Sir madruga has logged out.
+[17/10/2009 23:40:56] Sir madruga has logged in.
+[17/10/2009 23:41:07] GOD Aggro has logged out.
+[17/10/2009 23:41:08] GOD Aggro has logged in.
+[17/10/2009 23:41:12] Chikitax has logged out.
+[17/10/2009 23:41:13] Chikitax has logged in.
+[17/10/2009 23:41:43] Lionheartx has logged out.
+[17/10/2009 23:41:44] Account Manager has logged in.
+[17/10/2009 23:41:47] > Broadcasted message: "New record: 10 players are logged in.".
+[17/10/2009 23:41:47] Lionheartx has logged in.
+[17/10/2009 23:42:17] > Broadcasted message: "New record: 11 players are logged in.".
+[17/10/2009 23:42:17] Account Manager has logged in.
+[17/10/2009 23:42:24] Account Manager has logged out.
+[17/10/2009 23:42:28] > Saving server...
+[17/10/2009 23:42:33] > SAVE: Complete in 4.496 seconds using relational house storage.
+[17/10/2009 23:42:35] Account Manager has logged in.
+[17/10/2009 23:42:45] Account Manager has logged out.
+[17/10/2009 23:42:56] Account Manager has logged in.
+[17/10/2009 23:43:06] Account Manager has logged out.
+[17/10/2009 23:43:11] Account Manager has logged out.
+[17/10/2009 23:43:12] Aggrox meetal has logged in.
+[17/10/2009 23:43:16] The Chorizo has logged in.
+[17/10/2009 23:43:31] Lionheartx has logged out.
+[17/10/2009 23:43:34] Lionheartx has logged in.
+[17/10/2009 23:44:11] Goku has logged out.
+[17/10/2009 23:44:12] Goku has logged in.
+[17/10/2009 23:44:32] Goku has logged out.
+[17/10/2009 23:44:33] Goku has logged in.
+[17/10/2009 23:44:35] Goku has logged out.
+[17/10/2009 23:44:36] Account Manager has logged in.
+[17/10/2009 23:44:40] Account Manager has logged out.
+[17/10/2009 23:44:41] Goku has logged in.
+[17/10/2009 23:44:44] Goku has logged out.
+[17/10/2009 23:44:46] Goku has logged in.
+[17/10/2009 23:44:46] Goku has logged out.
+[17/10/2009 23:44:47] Account Manager has logged in.
+[17/10/2009 23:44:49] Account Manager has logged out.
+[17/10/2009 23:44:50] Goku has logged in.
+[17/10/2009 23:45:14] > Chikitax broadcasted: "no mas god ahi muxos".
+[17/10/2009 23:45:21] > Greto broadcasted: "2".
+[17/10/2009 23:45:24] > Greto broadcasted: "xD".
+[17/10/2009 23:45:32] > Chikitax broadcasted: "piola nomas".
+[17/10/2009 23:45:37] Aggrox meetal has logged out.
+[17/10/2009 23:45:39] Aggrox meetal has logged in.
+[17/10/2009 23:45:46] Goku has logged out.
+[17/10/2009 23:45:47] Goku has logged in.
+[17/10/2009 23:46:03] Aggrox meetal has logged out.
+[17/10/2009 23:46:05] Aggrox meetal has logged in.
+[17/10/2009 23:46:38] Stoke has logged out.
+[17/10/2009 23:46:40] Stoke has logged in.
+[17/10/2009 23:46:52] Aggrox meetal has logged out.
+[17/10/2009 23:46:54] Aggrox meetal has logged in.
+[17/10/2009 23:47:02] Stoke has logged out.
+[17/10/2009 23:47:04] Stoke has logged in.
+[17/10/2009 23:47:46] Aggrox meetal has logged out.
+[17/10/2009 23:47:48] Aggrox meetal has logged in.
+[17/10/2009 23:48:19] > Chikitax broadcasted: "no pidan cosas o se ban baned".
+[17/10/2009 23:48:28] > Chikitax broadcasted: "xD".
+[17/10/2009 23:49:43] The Chorizo has logged out.
+[17/10/2009 23:49:44] Aggrox meetal has logged out.
+[17/10/2009 23:49:45] Aggrox meetal has logged in.
+[17/10/2009 23:50:12] Goku has logged out.
+[17/10/2009 23:50:13] Account Manager has logged in.
+[17/10/2009 23:50:14] Account Manager has logged out.
+[17/10/2009 23:50:17] Goku has logged in.
+[17/10/2009 23:50:31] Aggrox meetal has logged out.
+[17/10/2009 23:50:32] Aggrox meetal has logged in.
+[17/10/2009 23:50:37] Account Manager has logged in.
+[17/10/2009 23:50:50] > Greto broadcasted: "aquien le disen masokista en lla bida rl".
+[17/10/2009 23:50:51] Aggrox meetal has logged out.
+[17/10/2009 23:50:52] Account Manager has logged out.
+[17/10/2009 23:50:53] Aggrox meetal has logged in.
+[17/10/2009 23:50:55] Uchiha Sasuke has logged out.
+[17/10/2009 23:50:56] Account Manager has logged in.
+[17/10/2009 23:50:56] Account Manager has logged out.
+[17/10/2009 23:50:56] Account Manager has logged in.
+[17/10/2009 23:50:57] > Chikitax broadcasted: "goku se ba de baned si sigue molestando".
+[17/10/2009 23:50:58] Uchiha Sasuke has logged in.
+[17/10/2009 23:50:59] Stoke has logged out.
+[17/10/2009 23:51:00] Stoke has logged in.
+[17/10/2009 23:51:09] Account Manager has logged out.
+[17/10/2009 23:51:10] > Greto broadcasted: "aquien le disen masokista en lla bida rl".
+[17/10/2009 23:51:16] Vitokimon has logged in.
+[17/10/2009 23:51:27] Aggrox meetal has logged out.
+[17/10/2009 23:51:27] > Chikitax broadcasted: "ami no".
+[17/10/2009 23:51:29] Aggrox meetal has logged in.
+[17/10/2009 23:51:34] Goku has logged out.
+[17/10/2009 23:52:08] Uchiha Sasuke has logged out.
+[17/10/2009 23:52:10] Uchiha Sasuke has logged in.
+[17/10/2009 23:52:25] Account Manager has logged in.
+[17/10/2009 23:53:10] 
+[17/10/2009 23:53:10] Lua Script Error: [TalkAction Interface] 
+[17/10/2009 23:53:10] data/talkactions/scripts/teleporthere.lua:onSay
+[17/10/2009 23:53:10] 
+[17/10/2009 23:53:10] luaGetClosestFreeTile(). Creature not found
+[17/10/2009 23:53:18] 
+[17/10/2009 23:53:18] Lua Script Error: [TalkAction Interface] 
+[17/10/2009 23:53:18] data/talkactions/scripts/teleporthere.lua:onSay
+[17/10/2009 23:53:19] 
+[17/10/2009 23:53:19] luaGetClosestFreeTile(). Creature not found
+[17/10/2009 23:53:29] Aggrox meetal has logged out.
+[17/10/2009 23:53:33] Aggrox meetal has logged in.
+[17/10/2009 23:53:37] Account Manager has logged out.
+[17/10/2009 23:53:44] Uchiha Sasuke has logged out.
+[17/10/2009 23:53:46] Account Manager has logged in.
+[17/10/2009 23:53:47] Uchiha Sasuke has logged in.
+[17/10/2009 23:54:01] Stoke has logged out.
+[17/10/2009 23:54:02] Stoke has logged in.
+[17/10/2009 23:54:04] Stoke has logged out.
+[17/10/2009 23:54:05] Stoke has logged in.
+[17/10/2009 23:54:13] Lionheartx has logged out.
+[17/10/2009 23:54:30] Account Manager has logged out.
+[17/10/2009 23:54:34] Greto has logged out.
+[17/10/2009 23:54:37] Account Manager has logged in.
+[17/10/2009 23:54:39] Sexy Drive has logged in.
+[17/10/2009 23:55:13] Account Manager has logged out.
+[17/10/2009 23:55:24] Greto has logged in.
+[17/10/2009 23:55:31] Greto has logged out.
+[17/10/2009 23:55:35] Greto has logged in.
+[17/10/2009 23:55:39] Sexy Drive has logged out.
+[17/10/2009 23:55:44] Sexy Drive has logged in.
+[17/10/2009 23:55:45] Aggrox meetal has logged out.
+[17/10/2009 23:55:47] Aggrox meetal has logged in.
+[17/10/2009 23:56:20] Uchiha Sasuke has logged out.
+[17/10/2009 23:56:21] Greto has logged out.
+[17/10/2009 23:56:22] Uchiha Sasuke has logged in.
+[17/10/2009 23:56:22] Dar Jas has logged in.
+[17/10/2009 23:56:36] Stoke has logged out.
+[17/10/2009 23:56:36] Vitokimon has logged out.
+[17/10/2009 23:56:36] 
+[17/10/2009 23:56:36] Lua Script Error: [Spell Interface] 
+[17/10/2009 23:56:36] in a timer event called from: 
+[17/10/2009 23:56:36] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[17/10/2009 23:56:36] 
+[17/10/2009 23:56:36] luaDoCombat(). Creature not found
+[17/10/2009 23:56:36] 
+[17/10/2009 23:56:36] Lua Script Error: [Spell Interface] 
+[17/10/2009 23:56:37] in a timer event called from: 
+[17/10/2009 23:56:37] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[17/10/2009 23:56:37] 
+[17/10/2009 23:56:37] luaDoCombat(). Creature not found
+[17/10/2009 23:56:37] 
+[17/10/2009 23:56:37] Lua Script Error: [Spell Interface] 
+[17/10/2009 23:56:37] in a timer event called from: 
+[17/10/2009 23:56:37] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[17/10/2009 23:56:37] 
+[17/10/2009 23:56:37] luaDoCombat(). Creature not found
+[17/10/2009 23:56:37] 
+[17/10/2009 23:56:37] Lua Script Error: [Spell Interface] 
+[17/10/2009 23:56:37] in a timer event called from: 
+[17/10/2009 23:56:37] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[17/10/2009 23:56:37] 
+[17/10/2009 23:56:37] luaDoCombat(). Creature not found
+[17/10/2009 23:56:37] 
+[17/10/2009 23:56:37] Lua Script Error: [Spell Interface] 
+[17/10/2009 23:56:38] in a timer event called from: 
+[17/10/2009 23:56:38] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[17/10/2009 23:56:38] 
+[17/10/2009 23:56:38] luaDoCombat(). Creature not found
+[17/10/2009 23:56:38] 
+[17/10/2009 23:56:38] Lua Script Error: [Spell Interface] 
+[17/10/2009 23:56:38] in a timer event called from: 
+[17/10/2009 23:56:38] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[17/10/2009 23:56:38] 
+[17/10/2009 23:56:38] luaDoCombat(). Creature not found
+[17/10/2009 23:56:38] 
+[17/10/2009 23:56:38] Lua Script Error: [Spell Interface] 
+[17/10/2009 23:56:38] in a timer event called from: 
+[17/10/2009 23:56:38] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[17/10/2009 23:56:38] 
+[17/10/2009 23:56:38] luaDoCombat(). Creature not found
+[17/10/2009 23:56:39] 
+[17/10/2009 23:56:39] Lua Script Error: [Spell Interface] 
+[17/10/2009 23:56:39] in a timer event called from: 
+[17/10/2009 23:56:39] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[17/10/2009 23:56:39] 
+[17/10/2009 23:56:39] luaDoCombat(). Creature not found
+[17/10/2009 23:56:39] 
+[17/10/2009 23:56:39] Lua Script Error: [Spell Interface] 
+[17/10/2009 23:56:39] in a timer event called from: 
+[17/10/2009 23:56:39] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[17/10/2009 23:56:39] 
+[17/10/2009 23:56:39] luaDoCombat(). Creature not found
+[17/10/2009 23:56:39] 
+[17/10/2009 23:56:39] Lua Script Error: [Spell Interface] 
+[17/10/2009 23:56:39] in a timer event called from: 
+[17/10/2009 23:56:39] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[17/10/2009 23:56:40] 
+[17/10/2009 23:56:40] luaDoCombat(). Creature not found
+[17/10/2009 23:56:40] 
+[17/10/2009 23:56:40] Lua Script Error: [Spell Interface] 
+[17/10/2009 23:56:40] in a timer event called from: 
+[17/10/2009 23:56:40] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[17/10/2009 23:56:40] 
+[17/10/2009 23:56:40] luaDoCombat(). Creature not found
+[17/10/2009 23:56:40] 
+[17/10/2009 23:56:40] Lua Script Error: [Spell Interface] 
+[17/10/2009 23:56:40] in a timer event called from: 
+[17/10/2009 23:56:40] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[17/10/2009 23:56:40] 
+[17/10/2009 23:56:40] luaDoCombat(). Creature not found
+[17/10/2009 23:56:40] 
+[17/10/2009 23:56:40] Lua Script Error: [Spell Interface] 
+[17/10/2009 23:56:40] in a timer event called from: 
+[17/10/2009 23:56:41] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[17/10/2009 23:56:41] 
+[17/10/2009 23:56:41] luaDoCombat(). Creature not found
+[17/10/2009 23:56:41] 
+[17/10/2009 23:56:41] Lua Script Error: [Spell Interface] 
+[17/10/2009 23:56:41] in a timer event called from: 
+[17/10/2009 23:56:41] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[17/10/2009 23:56:41] 
+[17/10/2009 23:56:41] luaDoCombat(). Creature not found
+[17/10/2009 23:56:41] 
+[17/10/2009 23:56:41] Lua Script Error: [Spell Interface] 
+[17/10/2009 23:56:41] in a timer event called from: 
+[17/10/2009 23:56:41] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[17/10/2009 23:56:41] 
+[17/10/2009 23:56:41] luaDoCombat(). Creature not found
+[17/10/2009 23:56:42] 
+[17/10/2009 23:56:42] Lua Script Error: [Spell Interface] 
+[17/10/2009 23:56:42] in a timer event called from: 
+[17/10/2009 23:56:42] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[17/10/2009 23:56:42] 
+[17/10/2009 23:56:42] luaDoCombat(). Creature not found
+[17/10/2009 23:56:42] 
+[17/10/2009 23:56:42] Lua Script Error: [Spell Interface] 
+[17/10/2009 23:56:42] in a timer event called from: 
+[17/10/2009 23:56:42] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[17/10/2009 23:56:42] 
+[17/10/2009 23:56:42] luaDoCombat(). Creature not found
+[17/10/2009 23:56:42] 
+[17/10/2009 23:56:42] Lua Script Error: [Spell Interface] 
+[17/10/2009 23:56:42] in a timer event called from: 
+[17/10/2009 23:56:42] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[17/10/2009 23:56:43] 
+[17/10/2009 23:56:43] luaDoCombat(). Creature not found
+[17/10/2009 23:56:43] 
+[17/10/2009 23:56:43] Lua Script Error: [Spell Interface] 
+[17/10/2009 23:56:43] in a timer event called from: 
+[17/10/2009 23:56:43] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[17/10/2009 23:56:43] 
+[17/10/2009 23:56:43] luaDoCombat(). Creature not found
+[17/10/2009 23:56:43] 
+[17/10/2009 23:56:43] Lua Script Error: [Spell Interface] 
+[17/10/2009 23:56:43] in a timer event called from: 
+[17/10/2009 23:56:44] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[17/10/2009 23:56:44] 
+[17/10/2009 23:56:44] luaDoCombat(). Creature not found
+[17/10/2009 23:56:44] 
+[17/10/2009 23:56:44] Lua Script Error: [Spell Interface] 
+[17/10/2009 23:56:44] in a timer event called from: 
+[17/10/2009 23:56:44] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[17/10/2009 23:56:44] 
+[17/10/2009 23:56:44] luaDoCombat(). Creature not found
+[17/10/2009 23:56:44] 
+[17/10/2009 23:56:44] Lua Script Error: [Spell Interface] 
+[17/10/2009 23:56:44] in a timer event called from: 
+[17/10/2009 23:56:44] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[17/10/2009 23:56:44] 
+[17/10/2009 23:56:44] luaDoCombat(). Creature not found
+[17/10/2009 23:56:44] 
+[17/10/2009 23:56:44] Lua Script Error: [Spell Interface] 
+[17/10/2009 23:56:45] in a timer event called from: 
+[17/10/2009 23:56:45] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[17/10/2009 23:56:45] 
+[17/10/2009 23:56:45] luaDoCombat(). Creature not found
+[17/10/2009 23:56:45] 
+[17/10/2009 23:56:45] Lua Script Error: [Spell Interface] 
+[17/10/2009 23:56:45] in a timer event called from: 
+[17/10/2009 23:56:45] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[17/10/2009 23:56:46] 
+[17/10/2009 23:56:46] luaDoCombat(). Creature not found
+[17/10/2009 23:56:46] 
+[17/10/2009 23:56:46] Lua Script Error: [Spell Interface] 
+[17/10/2009 23:56:46] in a timer event called from: 
+[17/10/2009 23:56:46] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[17/10/2009 23:56:46] 
+[17/10/2009 23:56:46] luaDoCombat(). Creature not found
+[17/10/2009 23:56:46] 
+[17/10/2009 23:56:46] Lua Script Error: [Spell Interface] 
+[17/10/2009 23:56:46] in a timer event called from: 
+[17/10/2009 23:56:46] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[17/10/2009 23:56:46] 
+[17/10/2009 23:56:46] luaDoCombat(). Creature not found
+[17/10/2009 23:56:47] 
+[17/10/2009 23:56:47] Lua Script Error: [Spell Interface] 
+[17/10/2009 23:56:47] in a timer event called from: 
+[17/10/2009 23:56:47] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[17/10/2009 23:56:47] 
+[17/10/2009 23:56:47] luaDoCombat(). Creature not found
+[17/10/2009 23:56:47] 
+[17/10/2009 23:56:47] Lua Script Error: [Spell Interface] 
+[17/10/2009 23:56:47] in a timer event called from: 
+[17/10/2009 23:56:47] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[17/10/2009 23:56:47] 
+[17/10/2009 23:56:47] luaDoCombat(). Creature not found
+[17/10/2009 23:56:47] 
+[17/10/2009 23:56:48] Lua Script Error: [Spell Interface] 
+[17/10/2009 23:56:48] in a timer event called from: 
+[17/10/2009 23:56:48] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[17/10/2009 23:56:48] 
+[17/10/2009 23:56:48] luaDoCombat(). Creature not found
+[17/10/2009 23:56:48] 
+[17/10/2009 23:56:48] Lua Script Error: [Spell Interface] 
+[17/10/2009 23:56:48] in a timer event called from: 
+[17/10/2009 23:56:48] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[17/10/2009 23:56:48] 
+[17/10/2009 23:56:48] luaDoCombat(). Creature not found
+[17/10/2009 23:56:48] 
+[17/10/2009 23:56:48] Lua Script Error: [Spell Interface] 
+[17/10/2009 23:56:48] in a timer event called from: 
+[17/10/2009 23:56:49] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[17/10/2009 23:56:49] 
+[17/10/2009 23:56:49] luaDoCombat(). Creature not found
+[17/10/2009 23:56:49] 
+[17/10/2009 23:56:49] Lua Script Error: [Spell Interface] 
+[17/10/2009 23:56:49] in a timer event called from: 
+[17/10/2009 23:56:49] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[17/10/2009 23:56:49] 
+[17/10/2009 23:56:49] luaDoCombat(). Creature not found
+[17/10/2009 23:56:49] 
+[17/10/2009 23:56:49] Lua Script Error: [Spell Interface] 
+[17/10/2009 23:56:49] in a timer event called from: 
+[17/10/2009 23:56:49] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[17/10/2009 23:56:50] 
+[17/10/2009 23:56:50] luaDoCombat(). Creature not found
+[17/10/2009 23:56:50] 
+[17/10/2009 23:56:50] Lua Script Error: [Spell Interface] 
+[17/10/2009 23:56:50] in a timer event called from: 
+[17/10/2009 23:56:50] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[17/10/2009 23:56:50] 
+[17/10/2009 23:56:50] luaDoCombat(). Creature not found
+[17/10/2009 23:56:50] 
+[17/10/2009 23:56:50] Lua Script Error: [Spell Interface] 
+[17/10/2009 23:56:50] in a timer event called from: 
+[17/10/2009 23:56:50] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[17/10/2009 23:56:50] 
+[17/10/2009 23:56:50] luaDoCombat(). Creature not found
+[17/10/2009 23:56:50] 
+[17/10/2009 23:56:50] Lua Script Error: [Spell Interface] 
+[17/10/2009 23:56:51] in a timer event called from: 
+[17/10/2009 23:56:51] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[17/10/2009 23:56:51] 
+[17/10/2009 23:56:51] luaDoCombat(). Creature not found
+[17/10/2009 23:56:51] 
+[17/10/2009 23:56:51] Lua Script Error: [Spell Interface] 
+[17/10/2009 23:56:51] in a timer event called from: 
+[17/10/2009 23:56:51] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[17/10/2009 23:56:51] 
+[17/10/2009 23:56:51] luaDoCombat(). Creature not found
+[17/10/2009 23:56:51] 
+[17/10/2009 23:56:51] Lua Script Error: [Spell Interface] 
+[17/10/2009 23:56:52] in a timer event called from: 
+[17/10/2009 23:56:52] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[17/10/2009 23:56:52] 
+[17/10/2009 23:56:52] luaDoCombat(). Creature not found
+[17/10/2009 23:56:52] 
+[17/10/2009 23:56:52] Lua Script Error: [Spell Interface] 
+[17/10/2009 23:56:52] in a timer event called from: 
+[17/10/2009 23:56:52] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[17/10/2009 23:56:52] 
+[17/10/2009 23:56:52] luaDoCombat(). Creature not found
+[17/10/2009 23:56:52] 
+[17/10/2009 23:56:52] Lua Script Error: [Spell Interface] 
+[17/10/2009 23:56:52] in a timer event called from: 
+[17/10/2009 23:56:53] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[17/10/2009 23:56:53] 
+[17/10/2009 23:56:53] luaDoCombat(). Creature not found
+[17/10/2009 23:56:53] 
+[17/10/2009 23:56:53] Lua Script Error: [Spell Interface] 
+[17/10/2009 23:56:53] in a timer event called from: 
+[17/10/2009 23:56:53] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[17/10/2009 23:56:53] 
+[17/10/2009 23:56:53] luaDoCombat(). Creature not found
+[17/10/2009 23:56:53] 
+[17/10/2009 23:56:53] Lua Script Error: [Spell Interface] 
+[17/10/2009 23:56:53] in a timer event called from: 
+[17/10/2009 23:56:53] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[17/10/2009 23:56:54] 
+[17/10/2009 23:56:54] luaDoCombat(). Creature not found
+[17/10/2009 23:56:54] 
+[17/10/2009 23:56:54] Lua Script Error: [Spell Interface] 
+[17/10/2009 23:56:54] in a timer event called from: 
+[17/10/2009 23:56:54] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[17/10/2009 23:56:54] 
+[17/10/2009 23:56:54] luaDoCombat(). Creature not found
+[17/10/2009 23:56:54] 
+[17/10/2009 23:56:54] Lua Script Error: [Spell Interface] 
+[17/10/2009 23:56:54] in a timer event called from: 
+[17/10/2009 23:56:54] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[17/10/2009 23:56:54] 
+[17/10/2009 23:56:54] luaDoCombat(). Creature not found
+[17/10/2009 23:56:55] 
+[17/10/2009 23:56:55] Lua Script Error: [Spell Interface] 
+[17/10/2009 23:56:55] in a timer event called from: 
+[17/10/2009 23:56:55] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[17/10/2009 23:56:55] 
+[17/10/2009 23:56:55] luaDoCombat(). Creature not found
+[17/10/2009 23:56:55] 
+[17/10/2009 23:56:55] Lua Script Error: [Spell Interface] 
+[17/10/2009 23:56:55] in a timer event called from: 
+[17/10/2009 23:56:55] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[17/10/2009 23:56:55] 
+[17/10/2009 23:56:55] luaDoCombat(). Creature not found
+[17/10/2009 23:56:56] 
+[17/10/2009 23:56:56] Lua Script Error: [Spell Interface] 
+[17/10/2009 23:56:56] in a timer event called from: 
+[17/10/2009 23:56:56] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[17/10/2009 23:56:56] 
+[17/10/2009 23:56:56] luaDoCombat(). Creature not found
+[17/10/2009 23:56:56] 
+[17/10/2009 23:56:56] Lua Script Error: [Spell Interface] 
+[17/10/2009 23:56:56] in a timer event called from: 
+[17/10/2009 23:56:56] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[17/10/2009 23:56:56] 
+[17/10/2009 23:56:56] luaDoCombat(). Creature not found
+[17/10/2009 23:56:56] 
+[17/10/2009 23:56:56] Lua Script Error: [Spell Interface] 
+[17/10/2009 23:56:57] in a timer event called from: 
+[17/10/2009 23:56:57] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[17/10/2009 23:56:57] 
+[17/10/2009 23:56:57] luaDoCombat(). Creature not found
+[17/10/2009 23:56:57] 
+[17/10/2009 23:56:57] Lua Script Error: [Spell Interface] 
+[17/10/2009 23:56:57] in a timer event called from: 
+[17/10/2009 23:56:57] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[17/10/2009 23:56:57] 
+[17/10/2009 23:56:57] luaDoCombat(). Creature not found
+[17/10/2009 23:56:57] 
+[17/10/2009 23:56:57] Lua Script Error: [Spell Interface] 
+[17/10/2009 23:56:57] in a timer event called from: 
+[17/10/2009 23:56:57] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[17/10/2009 23:56:58] 
+[17/10/2009 23:56:58] luaDoCombat(). Creature not found
+[17/10/2009 23:56:58] Vitokimon has logged in.
+[17/10/2009 23:57:02] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[17/10/2009 23:57:08] Vitokimon has logged out.
+[17/10/2009 23:57:09] > CLEAN: Removed 377 items from 507 tiles in 0.085 seconds.
+[17/10/2009 23:57:09] Vitokimon has logged in.
+[17/10/2009 23:57:12] Dar Jas has logged out.
+[17/10/2009 23:57:14] Greto has logged in.
+[17/10/2009 23:57:29] > Saving server...
+[17/10/2009 23:57:32] > SAVE: Complete in 2.862 seconds using relational house storage.
+[17/10/2009 23:57:49] Uchiha Sasuke has logged out.
+[17/10/2009 23:58:02] > CLEAN: Removed 17 items from 24 tiles in 0.062 seconds.
+[17/10/2009 23:58:03] > Broadcasted message: "Game map cleaned.".
+[17/10/2009 23:58:05] Stoke has logged in.
+[17/10/2009 23:58:21] Vitokimon has logged out.
+[17/10/2009 23:58:22] Vitokimon has logged in.
+[17/10/2009 23:58:37] WorldType set to 'Non-PVP'.
+[17/10/2009 23:59:00] > Sexy polola broadcasted: "aggrox meetal".
+[17/10/2009 23:59:08] Aggrox meetal has logged out.
+[17/10/2009 23:59:09] 
+[17/10/2009 23:59:09] Lua Script Error: [Spell Interface] 
+[17/10/2009 23:59:09] in a timer event called from: 
+[17/10/2009 23:59:09] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[17/10/2009 23:59:09] 
+[17/10/2009 23:59:09] luaDoCombat(). Creature not found
+[17/10/2009 23:59:09] 
+[17/10/2009 23:59:09] Lua Script Error: [Spell Interface] 
+[17/10/2009 23:59:09] in a timer event called from: 
+[17/10/2009 23:59:09] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[17/10/2009 23:59:09] 
+[17/10/2009 23:59:09] luaDoCombat(). Creature not found
+[17/10/2009 23:59:09] 
+[17/10/2009 23:59:09] Lua Script Error: [Spell Interface] 
+[17/10/2009 23:59:10] in a timer event called from: 
+[17/10/2009 23:59:10] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[17/10/2009 23:59:10] 
+[17/10/2009 23:59:10] luaDoCombat(). Creature not found
+[17/10/2009 23:59:10] 
+[17/10/2009 23:59:10] Lua Script Error: [Spell Interface] 
+[17/10/2009 23:59:10] in a timer event called from: 
+[17/10/2009 23:59:10] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[17/10/2009 23:59:10] 
+[17/10/2009 23:59:10] luaDoCombat(). Creature not found
+[17/10/2009 23:59:10] 
+[17/10/2009 23:59:10] Lua Script Error: [Spell Interface] 
+[17/10/2009 23:59:11] in a timer event called from: 
+[17/10/2009 23:59:11] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[17/10/2009 23:59:11] 
+[17/10/2009 23:59:11] luaDoCombat(). Creature not found
+[17/10/2009 23:59:11] 
+[17/10/2009 23:59:11] Lua Script Error: [Spell Interface] 
+[17/10/2009 23:59:11] in a timer event called from: 
+[17/10/2009 23:59:11] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[17/10/2009 23:59:11] 
+[17/10/2009 23:59:11] luaDoCombat(). Creature not found
+[17/10/2009 23:59:20] Greto has logged out.
+[17/10/2009 23:59:22] 
+[17/10/2009 23:59:22] Lua Script Error: [TalkAction Interface] 
+[17/10/2009 23:59:22] data/talkactions/scripts/teleporthere.lua:onSay
+[17/10/2009 23:59:23] 
+[17/10/2009 23:59:23] luaGetClosestFreeTile(). Creature not found
+[17/10/2009 23:59:23] Dar Jas has logged in.
+[17/10/2009 23:59:25] Account Manager has logged in.
+[17/10/2009 23:59:53] Sexy polola has logged out.

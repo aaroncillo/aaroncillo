@@ -1,0 +1,152 @@
+[09/11/2009 00:02:01] Kiiliik has logged out.
+[09/11/2009 00:02:02] Suicida has logged out.
+[09/11/2009 00:02:05] Kiiliik has logged in.
+[09/11/2009 00:02:14] Juhan has logged out.
+[09/11/2009 00:02:16] Juhan has logged in.
+[09/11/2009 00:02:33] Juhan has logged out.
+[09/11/2009 00:02:36] Juhan has logged in.
+[09/11/2009 00:03:40] Juhan has logged out.
+[09/11/2009 00:03:42] Juhan has logged in.
+[09/11/2009 00:04:23] Juhan has logged out.
+[09/11/2009 00:04:25] Juhan has logged in.
+[09/11/2009 00:04:25] Wilsson has logged in.
+[09/11/2009 00:04:26] Kiiliik has logged out.
+[09/11/2009 00:04:27] Kiiliik has logged in.
+[09/11/2009 00:05:06] Juhan has logged out.
+[09/11/2009 00:05:11] Juhan has logged in.
+[09/11/2009 00:06:35] Juhan has logged out.
+[09/11/2009 00:06:36] Account Manager has logged in.
+[09/11/2009 00:06:49] Account Manager has logged out.
+[09/11/2009 00:06:57] Dark the sorcerer has logged in.
+[09/11/2009 00:07:23] Shin pawn has logged out.
+[09/11/2009 00:07:28] Shin pawn has logged in.
+[09/11/2009 00:07:43] > Broadcasted message: "la limpieza del mapa empieza en 30 segundos, por favor wn recoje tus items!".
+[09/11/2009 00:07:49] Luziel has logged out.
+[09/11/2009 00:07:50] > Saving server...
+[09/11/2009 00:07:59] > SAVE: Complete in 8.5 seconds using relational house storage.
+[09/11/2009 00:08:04] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !notice".
+[09/11/2009 00:08:07] Account Manager has logged in.
+[09/11/2009 00:08:13] > CLEAN: Removed 1081 items from 2028 tiles in 0.25 seconds.
+[09/11/2009 00:08:13] > Broadcasted message: "el mapa se limpio :P, siguiente limpieza en 2 horas.".
+[09/11/2009 00:08:21] Shin pawn has logged out.
+[09/11/2009 00:08:22] Shin pawn has logged in.
+[09/11/2009 00:08:47] Shin pawn has logged out.
+[09/11/2009 00:08:48] Shin pawn has logged in.
+[09/11/2009 00:08:53] Account Manager has logged out.
+[09/11/2009 00:09:16] Kiiliik has logged out.
+[09/11/2009 00:09:17] Kiiliik has logged in.
+[09/11/2009 00:09:27] Akilez has logged in.
+[09/11/2009 00:09:36] Shin pawn has logged out.
+[09/11/2009 00:09:37] Shin pawn has logged in.
+[09/11/2009 00:10:09] Shin pawn has logged out.
+[09/11/2009 00:10:10] Shin pawn has logged in.
+[09/11/2009 00:10:35] Akilez has logged out.
+[09/11/2009 00:10:43] Dark Chaka has logged out.
+[09/11/2009 00:10:45] Dark Chaka has logged in.
+[09/11/2009 00:10:49] Shin pawn has logged out.
+[09/11/2009 00:10:50] Shin pawn has logged in.
+[09/11/2009 00:12:44] Zent Thos has logged out.
+[09/11/2009 00:12:47] Zent Thos has logged in.
+[09/11/2009 00:13:16] Shin pawn has logged out.
+[09/11/2009 00:13:18] Shin pawn has logged in.
+[09/11/2009 00:13:49] Dark the sorcerer has logged out.
+[09/11/2009 00:14:22] 
+[09/11/2009 00:14:22] Lua Script Error: [Action Interface] 
+[09/11/2009 00:14:22] data/actions/scripts/second promotion.lua:onUse
+[09/11/2009 00:14:22] 
+[09/11/2009 00:14:22] data/actions/scripts/second promotion.lua:13: attempt to compare number with boolean
+[09/11/2009 00:14:22] stack traceback:
+[09/11/2009 00:14:22] 	data/actions/scripts/second promotion.lua:13: in function <data/actions/scripts/second promotion.lua:2>
+[09/11/2009 00:15:03] Zent Thos has logged out.
+[09/11/2009 00:15:18] Davalex has logged out.
+[09/11/2009 00:15:24] Davalex has logged in.
+[09/11/2009 00:17:46] Wilsson has logged out.
+[09/11/2009 00:17:48] Zeroxc has logged in.
+[09/11/2009 00:18:05] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !notice".
+[09/11/2009 00:18:55] Kiiliik has logged out.
+[09/11/2009 00:19:11] Dark Chaka has logged out.
+[09/11/2009 00:19:14] Chaka has logged in.
+[09/11/2009 00:19:28] Zeroxc has logged out.
+[09/11/2009 00:19:32] Account Manager has logged in.
+[09/11/2009 00:20:04] Account Manager has logged out.
+[09/11/2009 00:20:14] Forsaken Primero has logged in.
+[09/11/2009 00:20:30] Forsaken Primero has logged out.
+[09/11/2009 00:20:32] Wilsson has logged in.
+[09/11/2009 00:20:53] Macka has logged in.
+[09/11/2009 00:21:39] Account Manager has logged in.
+[09/11/2009 00:22:04] Account Manager has logged out.
+[09/11/2009 00:22:21] Account Manager has logged in.
+[09/11/2009 00:22:46] Account Manager has logged out.
+[09/11/2009 00:22:51] > Saving server...
+[09/11/2009 00:22:59] > SAVE: Complete in 8 seconds using relational house storage.
+[09/11/2009 00:23:02] Account Manager has logged in.
+[09/11/2009 00:23:07] Account Manager has logged out.
+[09/11/2009 00:23:18] Dark Maliant has logged in.
+[09/11/2009 00:23:42] > Broadcasted message: "Dracola, o dragao morto vivo veio em busca de mais almas para dar em oferendas a seu mestre Ashfalor, um drago que ninguem nunca viveu para contar historia.".
+[09/11/2009 00:23:43] [Error - SingleSpawnEvent::executeEvent] Cannot spawn monster Dracola
+[09/11/2009 00:23:47] Chaka has logged out.
+[09/11/2009 00:23:48] Macka has logged out.
+[09/11/2009 00:23:50] Dark Chaka has logged in.
+[09/11/2009 00:23:53] Macka has logged in.
+[09/11/2009 00:25:44] Wilsson has logged out.
+[09/11/2009 00:25:46] Forsaken Primero has logged in.
+[09/11/2009 00:25:52] Forsaken Primero has logged out.
+[09/11/2009 00:25:56] Account Manager has logged in.
+[09/11/2009 00:25:58] Account Manager has logged in.
+[09/11/2009 00:26:14] Account Manager has logged out.
+[09/11/2009 00:26:18] Account Manager has logged out.
+[09/11/2009 00:26:21] Account Manager has logged in.
+[09/11/2009 00:26:28] Account Manager has logged in.
+[09/11/2009 00:26:43] Account Manager has logged out.
+[09/11/2009 00:26:51] Account Manager has logged out.
+[09/11/2009 00:26:51] Account Manager has logged in.
+[09/11/2009 00:27:03] Lord Fenix has logged in.
+[09/11/2009 00:27:21] Account Manager has logged out.
+[09/11/2009 00:27:30] Demon Paladin has logged in.
+[09/11/2009 00:28:06] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !notice".
+[09/11/2009 00:28:32] Shin pawn has logged out.
+[09/11/2009 00:28:34] Shin pawn has logged in.
+[09/11/2009 00:28:47] Lord Fenix has logged out.
+[09/11/2009 00:28:48] Lord Fenix has logged in.
+[09/11/2009 00:29:32] Macka has logged out.
+[09/11/2009 00:32:15] Lord Fenix has logged out.
+[09/11/2009 00:32:17] Lord Fenix has logged in.
+[09/11/2009 00:32:25] Demon Paladin has logged out.
+[09/11/2009 00:32:34] Dark Chaka has logged out.
+[09/11/2009 00:32:34] Wilsson has logged in.
+[09/11/2009 00:32:37] Dark Chaka has logged in.
+[09/11/2009 00:32:43] Wilsson has logged out.
+[09/11/2009 00:32:53] Demon Paladin has logged in.
+[09/11/2009 00:37:52] > Saving server...
+[09/11/2009 00:38:03] > SAVE: Complete in 11.609 seconds using relational house storage.
+[09/11/2009 00:38:07] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !notice".
+[09/11/2009 00:38:14] Dark Chaka has logged out.
+[09/11/2009 00:38:17] Dark Chaka has logged in.
+[09/11/2009 00:38:50] Dark Chaka has logged out.
+[09/11/2009 00:38:52] Dark Chaka has logged in.
+[09/11/2009 00:39:27] Dark Chaka has logged out.
+[09/11/2009 00:39:29] Dark Chaka has logged in.
+[09/11/2009 00:40:33] Dark Chaka has logged out.
+[09/11/2009 00:40:35] Dark Chaka has logged in.
+[09/11/2009 00:41:09] Dark Chaka has logged out.
+[09/11/2009 00:41:11] Dark Chaka has logged in.
+[09/11/2009 00:41:13] Demon Paladin has logged out.
+[09/11/2009 00:41:15] Demon Paladin has logged in.
+[09/11/2009 00:41:49] Davalex has logged out.
+[09/11/2009 00:41:53] Dark Chaka has logged out.
+[09/11/2009 00:41:53] Davalex has logged in.
+[09/11/2009 00:41:55] Dark Chaka has logged in.
+[09/11/2009 00:42:18] Dark Maliant has logged out.
+[09/11/2009 00:42:19] Dark Maliant has logged in.
+[09/11/2009 00:42:26] Hoster Aggresor has logged out.
+[09/11/2009 00:42:27] Shin pawn has logged out.
+[09/11/2009 00:42:27] Lord Fenix has logged out.
+[09/11/2009 00:42:28] Demon Paladin has logged out.
+[09/11/2009 00:42:28] Davalex has logged out.
+[09/11/2009 00:42:28] Dark Chaka has logged out.
+[09/11/2009 00:42:29] Dark Maliant has logged out.
+[09/11/2009 00:42:30] > Saving server...
+[09/11/2009 00:42:41] > SAVE: Complete in 11.187 seconds using relational house storage.
+[09/11/2009 00:42:41] Preparing to shutdown server..
+[09/11/2009 00:42:44] .
+[09/11/2009 00:42:45] Exiting

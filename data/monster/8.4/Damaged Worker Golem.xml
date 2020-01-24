@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Damaged Worker Golem" nameDescription="a Damaged Worker Golem" race="blood" experience="95" speed="190" manacost="550">
+  <health now="260" max="260"/>
+  <look type="304" head="20" body="30" legs="40" feet="50" corpse="5527"/>
+  <targetchange interval="5000" chance="8"/>
+  <strategy attack="100" defense="0"/>
+  <flags>
+    <flag summonable="1"/>
+    <flag attackable="1"/>
+    <flag hostile="1"/>
+    <flag illusionable="1"/>
+    <flag convinceable="1"/>
+    <flag pushable="0"/>
+    <flag canpushitems="1"/>
+    <flag canpushcreatures="1"/>
+    <flag targetdistance="1"/>
+    <flag staticattack="90"/>
+    <flag runonhealth="0"/>
+  </flags>
+  <attacks>
+    <attack name="melee" interval="2000" skill="50" attack="35"/>
+  </attacks>
+  <defenses armor="15" defense="25"/>
+  <elements>
+	<element firePercent="20"/>
+	<element holyPercent="10"/>
+	<element icePercent="-10"/>
+	<element deathPercent="-5"/>
+  </elements>
+  <loot>
+    <item id="2148" countmax="90" chance1="100000" chancemax="0"/>
+    <item id="5880" chance="500"/>
+    <item id="1987" chance="0">
+      <inside>
+        <item id="0" chance="6666"/>
+      </inside>
+    </item>
+  </loot>
+</monster>
+

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <creaturescripts>
+        <event type="login" name="Anti" event="script" value="anti.lua"/>
+       
+       
+        <event type="login" name="PlayerLogin" script="login.lua"/>
+        <event type="login" name="FirstItems" script="firstitems.lua"/>
+        <event type="look" name="questLook" event="script" value="questLook.lua"/> 
+        <event type="joinchannel" name="GuildMotd" script="guildmotd.lua"/>
+	<event type="preparedeath" name="onPrepareDeath" event="script" value="preparedeath.lua"/>
+        <event type="login" name="Conected" script="conected.lua"/>
+       
+        <event type="login" name="Hi Hi" script="login3.lua"/>
+        <event type="logout" name="Chao ctm" script="logouting.lua"/>
+        <event type="kill" name="Minotaur" script="Minotaur.lua"/>
+        <event type="kill" name="KilledMonstersCounter" script="monster_counter.lua"/>
+        <event type="login" name="Member" script="login4.lua"/>
+        <event type="kill" name="Killing" script="killing.lua"/>
+	<event type="receivemail" name="Mail" event="script" value="mail.lua"/>
+        <event type="login" name="SkillStagesLogin" event="script" value="skillstageslogin.lua"/>
+        <event type="advance" name="SkillStagesAdvance" event="script" value="skillstagesadvance.lua"/>
+        <event type="kill" name="MonsterPortal" event="script" value="MonsterPortal.lua"/>
+        <event type="advance" name="Advancesave" event="script" value="advancesave.lua"/>	
+        <event type="kill" name="MonsterPortal2" event="script" value="MonsterPortal2.lua"/>
+        <event type="death" name="PlayerDeath" event="script" value="playerdeath.lua"/>
+        <event type="kill" name="MonsterPortal3" event="script" value="MonsterPortal3.lua"/>
+        <event type="kill" name="MonsterPortal4" event="script" value="MonsterPortal4.lua"/>
+        <event type="look" name="repLook" event="script" value="rep/repLook.lua"/>
+        <event type="kill" name="repMonster" event="script" value="rep/repMonster.lua"/>
+        <event type="kill" name="repKill" event="script" value="rep/repKill.lua"/>
+        <event type="death" name="openteleport" event="script" value="openteleport.lua"/>
+        <event type="death" name="openteleport1" event="script" value="openteleport1.lua"/>
+        <event type="logout" name="CTFLogout" event="script" value="CTFMax.lua"/>      <!-- CTF by MaXwELlDeN -->
+        <event type="combat" name="CTFCombat" event="script" value="CTFMax.lua"/>      <!-- CTF by MaXwELlDeN -->
+        <event type="attack" name="CTFAttack" event="script" value="CTFMax.lua"/>      <!-- CTF by MaXwELlDeN -->
+        <event type="statschange" name="CTFDeath" event="script" value="CTFMax.lua"/> <!-- CTF by MaXwEllDeN -->                    
+</creaturescripts>

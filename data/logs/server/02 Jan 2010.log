@@ -1,0 +1,489 @@
+[02/01/2010 20:14:53] The Forgotten Server, version 0.3.4 (Crying Damson)
+[02/01/2010 20:14:53] Sever Criado Por Alissow e Comedinha.
+[02/01/2010 20:14:53] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[02/01/2010 20:14:53] Bom Jogo!!!
+[02/01/2010 20:14:53] 
+[02/01/2010 20:14:53] >> Debugging: nothing.
+[02/01/2010 20:14:53] >> Checking software version... outdated, please consider updating!
+[02/01/2010 20:14:54] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[02/01/2010 20:14:54] > Latest version information - version: 0.3.6, patch: 0, build: 3293, timestamp: 1260652199.
+[02/01/2010 20:14:54] [Warning - ConfigManager::getBool] 62
+[02/01/2010 20:14:54] 
+[02/01/2010 20:14:54] >> Loading config (config.lua)
+[02/01/2010 20:14:54] > Using plaintext passwords
+[02/01/2010 20:14:54] >> Loading RSA key
+[02/01/2010 20:14:54] >> Starting SQL connection
+[02/01/2010 20:14:54] >> Running Database Manager
+[02/01/2010 20:14:56] > Optimized database.
+[02/01/2010 20:14:56] >> Loading items
+[02/01/2010 20:14:56] >> Loading groups
+[02/01/2010 20:14:57] >> Loading vocations
+[02/01/2010 20:14:57] >> Loading script systems
+[02/01/2010 20:15:07] >> Loading chat channels
+[02/01/2010 20:15:07] >> Loading outfits
+[02/01/2010 20:15:07] >> Loading experience stages
+[02/01/2010 20:15:07] >> Loading monsters
+[02/01/2010 20:15:12] >> Loading map and spawns...
+[02/01/2010 20:15:13] > Map size: 512x512.
+[02/01/2010 20:15:13] > Map descriptions: 
+[02/01/2010 20:15:13] Saved with Remere's Map Editor 1.1.10
+[02/01/2010 20:15:13] SimOne MapEditor 0.5.2
+[02/01/2010 20:15:14] > FATAL: OTBM Loader - [x:108, y:74, z:7] Failed to create item.
+[02/01/2010 20:16:46] The Forgotten Server, version 0.3.4 (Crying Damson)
+[02/01/2010 20:16:46] Sever Criado Por Alissow e Comedinha.
+[02/01/2010 20:16:46] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[02/01/2010 20:16:46] Bom Jogo!!!
+[02/01/2010 20:16:46] 
+[02/01/2010 20:16:46] >> Debugging: nothing.
+[02/01/2010 20:16:46] >> Checking software version... outdated, please consider updating!
+[02/01/2010 20:16:47] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[02/01/2010 20:16:47] > Latest version information - version: 0.3.6, patch: 0, build: 3293, timestamp: 1260652199.
+[02/01/2010 20:16:48] [Warning - ConfigManager::getBool] 62
+[02/01/2010 20:16:48] 
+[02/01/2010 20:16:48] >> Loading config (config.lua)
+[02/01/2010 20:16:48] > Using plaintext passwords
+[02/01/2010 20:16:48] >> Loading RSA key
+[02/01/2010 20:16:48] >> Starting SQL connection
+[02/01/2010 20:16:48] >> Running Database Manager
+[02/01/2010 20:16:50] > Optimized database.
+[02/01/2010 20:16:50] >> Loading items
+[02/01/2010 20:16:51] >> Loading groups
+[02/01/2010 20:16:51] >> Loading vocations
+[02/01/2010 20:16:51] >> Loading script systems
+[02/01/2010 20:16:56] >> Loading chat channels
+[02/01/2010 20:16:56] >> Loading outfits
+[02/01/2010 20:16:56] >> Loading experience stages
+[02/01/2010 20:16:56] >> Loading monsters
+[02/01/2010 20:16:58] >> Loading map and spawns...
+[02/01/2010 20:16:59] > Map size: 512x512.
+[02/01/2010 20:16:59] > Map descriptions: 
+[02/01/2010 20:16:59] Saved with Remere's Map Editor 1.1.10
+[02/01/2010 20:16:59] SimOne MapEditor 0.5.2
+[02/01/2010 20:17:00] > FATAL: OTBM Loader - [x:108, y:74, z:7] Failed to create item.
+[02/01/2010 20:20:28] The Forgotten Server, version 0.3.4 (Crying Damson)
+[02/01/2010 20:20:28] Sever Criado Por Alissow e Comedinha.
+[02/01/2010 20:20:28] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[02/01/2010 20:20:28] Bom Jogo!!!
+[02/01/2010 20:20:28] 
+[02/01/2010 20:20:28] >> Debugging: nothing.
+[02/01/2010 20:20:29] >> Checking software version... outdated, please consider updating!
+[02/01/2010 20:20:29] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[02/01/2010 20:20:29] > Latest version information - version: 0.3.6, patch: 0, build: 3293, timestamp: 1260652199.
+[02/01/2010 20:20:30] [Warning - ConfigManager::getBool] 62
+[02/01/2010 20:20:30] 
+[02/01/2010 20:20:30] >> Loading config (config.lua)
+[02/01/2010 20:20:30] > Using plaintext passwords
+[02/01/2010 20:20:30] >> Loading RSA key
+[02/01/2010 20:20:30] >> Starting SQL connection
+[02/01/2010 20:20:30] >> Running Database Manager
+[02/01/2010 20:20:32] > Optimized database.
+[02/01/2010 20:20:32] >> Loading items
+[02/01/2010 20:20:32] >> Loading groups
+[02/01/2010 20:20:32] >> Loading vocations
+[02/01/2010 20:20:32] >> Loading script systems
+[02/01/2010 20:20:36] >> Loading chat channels
+[02/01/2010 20:20:36] >> Loading outfits
+[02/01/2010 20:20:36] >> Loading experience stages
+[02/01/2010 20:20:36] >> Loading monsters
+[02/01/2010 20:20:38] >> Loading map and spawns...
+[02/01/2010 20:20:39] > Map size: 512x512.
+[02/01/2010 20:20:39] > Map descriptions: 
+[02/01/2010 20:20:39] Saved with Remere's Map Editor 1.1.10
+[02/01/2010 20:20:39] SimOne MapEditor 0.5.2
+[02/01/2010 20:20:40] > FATAL: OTBM Loader - [x:114, y:74, z:7] Failed to create item.
+[02/01/2010 20:23:33] The Forgotten Server, version 0.3.4 (Crying Damson)
+[02/01/2010 20:23:34] Sever Criado Por Alissow e Comedinha.
+[02/01/2010 20:23:34] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[02/01/2010 20:23:34] Bom Jogo!!!
+[02/01/2010 20:23:34] 
+[02/01/2010 20:23:34] >> Debugging: nothing.
+[02/01/2010 20:23:34] >> Checking software version... outdated, please consider updating!
+[02/01/2010 20:23:34] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[02/01/2010 20:23:35] > Latest version information - version: 0.3.6, patch: 0, build: 3293, timestamp: 1260652199.
+[02/01/2010 20:23:35] [Warning - ConfigManager::getBool] 62
+[02/01/2010 20:23:35] 
+[02/01/2010 20:23:35] >> Loading config (config.lua)
+[02/01/2010 20:23:35] > Using plaintext passwords
+[02/01/2010 20:23:35] >> Loading RSA key
+[02/01/2010 20:23:35] >> Starting SQL connection
+[02/01/2010 20:23:35] >> Running Database Manager
+[02/01/2010 20:23:38] > Optimized database.
+[02/01/2010 20:23:38] >> Loading items
+[02/01/2010 20:23:38] >> Loading groups
+[02/01/2010 20:23:38] >> Loading vocations
+[02/01/2010 20:23:38] >> Loading script systems
+[02/01/2010 20:23:45] >> Loading chat channels
+[02/01/2010 20:23:45] >> Loading outfits
+[02/01/2010 20:23:45] >> Loading experience stages
+[02/01/2010 20:23:45] >> Loading monsters
+[02/01/2010 20:23:49] >> Loading map and spawns...
+[02/01/2010 20:23:50] > Map size: 512x512.
+[02/01/2010 20:23:50] > Map descriptions: 
+[02/01/2010 20:23:50] Saved with Remere's Map Editor 1.1.10
+[02/01/2010 20:23:50] SimOne MapEditor 0.5.2
+[02/01/2010 20:23:51] > FATAL: OTBM Loader - [x:106, y:84, z:5] Failed to create item.
+[02/01/2010 20:25:50] The Forgotten Server, version 0.3.4 (Crying Damson)
+[02/01/2010 20:25:50] Sever Criado Por Alissow e Comedinha.
+[02/01/2010 20:25:50] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[02/01/2010 20:25:51] Bom Jogo!!!
+[02/01/2010 20:25:51] 
+[02/01/2010 20:25:51] >> Debugging: nothing.
+[02/01/2010 20:25:51] >> Checking software version... outdated, please consider updating!
+[02/01/2010 20:25:51] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[02/01/2010 20:25:52] > Latest version information - version: 0.3.6, patch: 0, build: 3293, timestamp: 1260652199.
+[02/01/2010 20:25:52] [Warning - ConfigManager::getBool] 62
+[02/01/2010 20:25:52] 
+[02/01/2010 20:25:52] >> Loading config (config.lua)
+[02/01/2010 20:25:52] > Using plaintext passwords
+[02/01/2010 20:25:52] >> Loading RSA key
+[02/01/2010 20:25:52] >> Starting SQL connection
+[02/01/2010 20:25:52] >> Running Database Manager
+[02/01/2010 20:25:54] > Optimized database.
+[02/01/2010 20:25:54] >> Loading items
+[02/01/2010 20:25:55] >> Loading groups
+[02/01/2010 20:25:55] >> Loading vocations
+[02/01/2010 20:25:55] >> Loading script systems
+[02/01/2010 20:26:04] >> Loading chat channels
+[02/01/2010 20:26:04] >> Loading outfits
+[02/01/2010 20:26:04] >> Loading experience stages
+[02/01/2010 20:26:04] >> Loading monsters
+[02/01/2010 20:26:20] >> Loading map and spawns...
+[02/01/2010 20:26:21] > Map size: 512x512.
+[02/01/2010 20:26:21] > Map descriptions: 
+[02/01/2010 20:26:21] Saved with Remere's Map Editor 1.1.10
+[02/01/2010 20:26:21] SimOne MapEditor 0.5.2
+[02/01/2010 20:26:22] > FATAL: OTBM Loader - [x:105, y:87, z:6] Failed to create item.
+[02/01/2010 20:30:03] The Forgotten Server, version 0.3.4 (Crying Damson)
+[02/01/2010 20:30:03] Sever Criado Por Alissow e Comedinha.
+[02/01/2010 20:30:03] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[02/01/2010 20:30:03] Bom Jogo!!!
+[02/01/2010 20:30:03] 
+[02/01/2010 20:30:03] >> Debugging: nothing.
+[02/01/2010 20:30:03] >> Checking software version... outdated, please consider updating!
+[02/01/2010 20:30:04] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[02/01/2010 20:30:05] > Latest version information - version: 0.3.6, patch: 0, build: 3293, timestamp: 1260652199.
+[02/01/2010 20:30:05] [Warning - ConfigManager::getBool] 62
+[02/01/2010 20:30:05] 
+[02/01/2010 20:30:05] >> Loading config (config.lua)
+[02/01/2010 20:30:05] 
+[02/01/2010 20:30:05] > ERROR: Another instance of The Forgotten Server is already running with the same worldId.
+[02/01/2010 20:30:05] If you want to run multiple servers, please change the worldId in configuration file.
+[02/01/2010 20:30:29] The Forgotten Server, version 0.3.4 (Crying Damson)
+[02/01/2010 20:30:30] Sever Criado Por Alissow e Comedinha.
+[02/01/2010 20:30:30] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[02/01/2010 20:30:30] Bom Jogo!!!
+[02/01/2010 20:30:30] 
+[02/01/2010 20:30:30] >> Debugging: nothing.
+[02/01/2010 20:30:30] >> Checking software version... outdated, please consider updating!
+[02/01/2010 20:30:31] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[02/01/2010 20:30:31] > Latest version information - version: 0.3.6, patch: 0, build: 3293, timestamp: 1260652199.
+[02/01/2010 20:30:31] [Warning - ConfigManager::getBool] 62
+[02/01/2010 20:30:31] 
+[02/01/2010 20:30:31] >> Loading config (config.lua)
+[02/01/2010 20:30:31] > Using plaintext passwords
+[02/01/2010 20:30:31] >> Loading RSA key
+[02/01/2010 20:30:31] >> Starting SQL connection
+[02/01/2010 20:30:31] >> Running Database Manager
+[02/01/2010 20:30:33] > Optimized database.
+[02/01/2010 20:30:33] >> Loading items
+[02/01/2010 20:30:33] >> Loading groups
+[02/01/2010 20:30:33] >> Loading vocations
+[02/01/2010 20:30:34] >> Loading script systems
+[02/01/2010 20:30:38] >> Loading chat channels
+[02/01/2010 20:30:38] >> Loading outfits
+[02/01/2010 20:30:39] >> Loading experience stages
+[02/01/2010 20:30:39] >> Loading monsters
+[02/01/2010 20:30:41] >> Loading map and spawns...
+[02/01/2010 20:30:42] > Map size: 512x512.
+[02/01/2010 20:30:42] > Map descriptions: 
+[02/01/2010 20:30:42] Saved with Remere's Map Editor 1.1.10
+[02/01/2010 20:30:42] SimOne MapEditor 0.5.2
+[02/01/2010 20:30:43] > FATAL: OTBM Loader - [x:115, y:108, z:6] Failed to create item.
+[02/01/2010 20:32:50] The Forgotten Server, version 0.3.4 (Crying Damson)
+[02/01/2010 20:32:50] Sever Criado Por Alissow e Comedinha.
+[02/01/2010 20:32:50] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[02/01/2010 20:32:50] Bom Jogo!!!
+[02/01/2010 20:32:50] 
+[02/01/2010 20:32:50] >> Debugging: nothing.
+[02/01/2010 20:32:50] >> Checking software version... outdated, please consider updating!
+[02/01/2010 20:32:51] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[02/01/2010 20:32:51] > Latest version information - version: 0.3.6, patch: 0, build: 3293, timestamp: 1260652199.
+[02/01/2010 20:32:51] [Warning - ConfigManager::getBool] 62
+[02/01/2010 20:32:51] 
+[02/01/2010 20:32:51] >> Loading config (config.lua)
+[02/01/2010 20:32:51] > Using plaintext passwords
+[02/01/2010 20:32:51] >> Loading RSA key
+[02/01/2010 20:32:51] >> Starting SQL connection
+[02/01/2010 20:32:51] >> Running Database Manager
+[02/01/2010 20:32:53] > Optimized database.
+[02/01/2010 20:32:53] >> Loading items
+[02/01/2010 20:32:54] >> Loading groups
+[02/01/2010 20:32:54] >> Loading vocations
+[02/01/2010 20:32:54] >> Loading script systems
+[02/01/2010 20:32:56] >> Loading chat channels
+[02/01/2010 20:32:56] >> Loading outfits
+[02/01/2010 20:32:56] >> Loading experience stages
+[02/01/2010 20:32:56] >> Loading monsters
+[02/01/2010 20:32:57] >> Loading map and spawns...
+[02/01/2010 20:32:58] > Map size: 512x512.
+[02/01/2010 20:32:58] > Map descriptions: 
+[02/01/2010 20:32:58] Saved with Remere's Map Editor 1.1.10
+[02/01/2010 20:32:58] SimOne MapEditor 0.5.2
+[02/01/2010 20:32:59] > FATAL: OTBM Loader - [x:119, y:121, z:6] Failed to create item.
+[02/01/2010 20:35:24] The Forgotten Server, version 0.3.4 (Crying Damson)
+[02/01/2010 20:35:24] Sever Criado Por Alissow e Comedinha.
+[02/01/2010 20:35:24] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[02/01/2010 20:35:24] Bom Jogo!!!
+[02/01/2010 20:35:24] 
+[02/01/2010 20:35:24] >> Debugging: nothing.
+[02/01/2010 20:35:24] >> Checking software version... outdated, please consider updating!
+[02/01/2010 20:35:25] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[02/01/2010 20:35:25] > Latest version information - version: 0.3.6, patch: 0, build: 3293, timestamp: 1260652199.
+[02/01/2010 20:35:25] [Warning - ConfigManager::getBool] 62
+[02/01/2010 20:35:25] 
+[02/01/2010 20:35:25] >> Loading config (config.lua)
+[02/01/2010 20:35:25] > Using plaintext passwords
+[02/01/2010 20:35:25] >> Loading RSA key
+[02/01/2010 20:35:25] >> Starting SQL connection
+[02/01/2010 20:35:25] >> Running Database Manager
+[02/01/2010 20:35:27] > Optimized database.
+[02/01/2010 20:35:27] >> Loading items
+[02/01/2010 20:35:27] >> Loading groups
+[02/01/2010 20:35:28] >> Loading vocations
+[02/01/2010 20:35:28] >> Loading script systems
+[02/01/2010 20:35:29] >> Loading chat channels
+[02/01/2010 20:35:29] >> Loading outfits
+[02/01/2010 20:35:29] >> Loading experience stages
+[02/01/2010 20:35:29] >> Loading monsters
+[02/01/2010 20:35:30] >> Loading map and spawns...
+[02/01/2010 20:35:31] > Map size: 512x512.
+[02/01/2010 20:35:31] > Map descriptions: 
+[02/01/2010 20:35:31] Saved with Remere's Map Editor 1.1.10
+[02/01/2010 20:35:31] SimOne MapEditor 0.5.2
+[02/01/2010 20:35:32] > FATAL: OTBM Loader - [x:162, y:126, z:7] Failed to create item.
+[02/01/2010 20:37:13] The Forgotten Server, version 0.3.4 (Crying Damson)
+[02/01/2010 20:37:14] Sever Criado Por Alissow e Comedinha.
+[02/01/2010 20:37:14] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[02/01/2010 20:37:14] Bom Jogo!!!
+[02/01/2010 20:37:14] 
+[02/01/2010 20:37:14] >> Debugging: nothing.
+[02/01/2010 20:37:14] >> Checking software version... outdated, please consider updating!
+[02/01/2010 20:37:15] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[02/01/2010 20:37:15] > Latest version information - version: 0.3.6, patch: 0, build: 3293, timestamp: 1260652199.
+[02/01/2010 20:37:15] [Warning - ConfigManager::getBool] 62
+[02/01/2010 20:37:15] 
+[02/01/2010 20:37:15] >> Loading config (config.lua)
+[02/01/2010 20:37:15] 
+[02/01/2010 20:37:15] > ERROR: Another instance of The Forgotten Server is already running with the same worldId.
+[02/01/2010 20:37:15] If you want to run multiple servers, please change the worldId in configuration file.
+[02/01/2010 20:37:18] The Forgotten Server, version 0.3.4 (Crying Damson)
+[02/01/2010 20:37:18] Sever Criado Por Alissow e Comedinha.
+[02/01/2010 20:37:18] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[02/01/2010 20:37:18] Bom Jogo!!!
+[02/01/2010 20:37:18] 
+[02/01/2010 20:37:18] >> Debugging: nothing.
+[02/01/2010 20:37:18] >> Checking software version... outdated, please consider updating!
+[02/01/2010 20:37:19] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[02/01/2010 20:37:19] > Latest version information - version: 0.3.6, patch: 0, build: 3293, timestamp: 1260652199.
+[02/01/2010 20:37:19] [Warning - ConfigManager::getBool] 62
+[02/01/2010 20:37:19] 
+[02/01/2010 20:37:19] >> Loading config (config.lua)
+[02/01/2010 20:37:19] 
+[02/01/2010 20:37:19] > ERROR: Another instance of The Forgotten Server is already running with the same worldId.
+[02/01/2010 20:37:19] If you want to run multiple servers, please change the worldId in configuration file.
+[02/01/2010 20:37:23] The Forgotten Server, version 0.3.4 (Crying Damson)
+[02/01/2010 20:37:23] Sever Criado Por Alissow e Comedinha.
+[02/01/2010 20:37:23] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[02/01/2010 20:37:23] Bom Jogo!!!
+[02/01/2010 20:37:23] 
+[02/01/2010 20:37:23] >> Debugging: nothing.
+[02/01/2010 20:37:23] >> Checking software version... [02/01/2010 20:37:23] The Forgotten Server, version 0.3.4 (Crying Damson)
+[02/01/2010 20:37:23] Sever Criado Por Alissow e Comedinha.
+[02/01/2010 20:37:23] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[02/01/2010 20:37:24] Bom Jogo!!!
+[02/01/2010 20:37:24] 
+[02/01/2010 20:37:24] >> Debugging: nothing.
+[02/01/2010 20:37:24] >> Checking software version... [02/01/2010 20:37:24] The Forgotten Server, version 0o.u3t.d4a t(eCdr,ying Da mpsloan)se
+ [02/01/2010 20:37:24] Secveor Crniado Por Alisssiodw e Coerm dindhaati.
+ng![02/01/2010 20:37:24] Pu
+b[02/01/2010 20:37:24] >l iCcidadere nwtw wv.esrtssioenr vin.fbloorsmpaotti.ocno - ver s<i-o n<:- < - Tudo .s3obre. 4o,t speartvc.h
+: 2, bui[02/01/2010 20:37:24] Boml dJogo!!!
+: [02/01/2010 20:37:24] 
+[02/01/2010 20:37:24] >> Debugging: not1ing.
+87[02/01/2010 20:37:24] >>9 Checkin,g stoimefsttwamre veprs:i1o2n4.2..3 96574.
+[02/01/2010 20:37:24] > Latest version information - version: 0.3.6, patch: 0, build: 3293, timestamp: 1260652199.
+[02/01/2010 20:37:24] [Warning - ConfigMoautdated,na geprl:e:agsee tcBoonosli]d e62
+r upda[02/01/2010 20:37:24] 
+ting!
+[02/01/2010 20:37:24] >> Loadin[02/01/2010 20:37:24] >g  Ccuornrfiegn t( cveorsinofni gin.flour[02/01/2010 20:37:25] Ta)
+he Fmoatri[02/01/2010 20:37:25] 
+ongo tt-en[02/01/2010 20:37:25] >  v EeRrRsRi:o AnontSerher ins:tv ae0ncre,3 .ovfe, r siTonpha te F0.oc3r.h4g otten Server is alr:e a2,d ybu( rCiulndr:n ingy with1 i8tnhg79 eDa ms taisoe wmneosrltda
+Idm[02/01/2010 20:37:25] Sev.epr C:ro
+iua 1[02/01/2010 20:37:25] Idtf2od  y4aootr2 3e9uA6dli5s, s7ow4 apnw.t e
+atos[02/01/2010 20:37:25] >   eL arctCeomusotnne d isnivmad.e
+rue lrutpdastiiin[02/01/2010 20:37:25] Pguob
+pnlie ci[02/01/2010 20:37:25] >di  nau02/01/2010 20:37:25] Tsfhdroere[02/01/2010 20:37:25] Tm hrarFetoirong o-et tveenre:v ts  w erSerovner, versviowersn, pl:e 0ase change the wFw oo.rir3slg.d43ooI n.(tCt r yieiernni fnv .onp rgSlmceoa atogrctsnvapeohmtrfs.,:ici o g0oouvnn a e<t-b)u-iri s lo
+<dien -:r[02/01/2010 20:37:25] S  enivsioenl3<r:0 e-.9C T3u3dr..
+oi4  s,tiadoo brpea o tcht es(e:sC r2r, vybt.ai
+npP[02/01/2010 20:37:25] Bl:ogd  moD:1 ra J2m 61os0A8lg67o9n!i5,)s2!
+1s 9![02/01/2010 20:37:26] So
+teivm9weesr Cta[02/01/2010 20:37:26] 
+[02/01/2010 20:37:26] >m .r>
+ iDadp:ebo  1uggPien2o[02/01/2010 20:37:26] [g4Wra2  rAnnolC9t657i4omnh
+sinsg.eg
+ e Cd io-[02/01/2010 20:37:26] >[02/01/2010 20:37:26] >nm>  e aLdC.Cao
+htinee[02/01/2010 20:37:26] Pcsfnutkhbi lavg.ien
+Mcrgia dnisoaaondf etg:iwe[02/01/2010 20:37:26] P arufbliwr:ocweri:gdmwa.eadteBrssoi:ito osnowo enl-.wr.w  v...s6e br2sloo
+gt[02/01/2010 20:37:26] 
+isosnpoet:.rv c.0.bo3lm[02/01/2010 20:37:26] > .>6 oLoa<- ,gd<i-n <- Tudo ss coobre otspen orfptia.gv t(c.h
+co:o n0fm,  [02/01/2010 20:37:26] Bbi<go.m lua)-u
+[02/01/2010 20:37:26] 
+[02/01/2010 20:37:26] >i  ERolgOo!!!
+[02/01/2010 20:37:26] 
+d[02/01/2010 20:37:26] >R>:  D<:eAbnuggoingthe:r no-t  hii3<2- 9Tnungd3o, .tsa
+onbc[02/01/2010 20:37:26] >e r >te ioCmhefse ckTinht oagtse m Fps:ro vo.r1g
+f2t6ow0ta[02/01/2010 20:37:26] Bomr t6Jeen5o  21vgS9o9e.r
+e!!rsie!r
+ ins. ..a lready [02/01/2010 20:37:26] 
+runn[02/01/2010 20:37:26] [iWn[02/01/2010 20:37:26] >a>gr Di ewnbiutggh g- i ngC:oh nefi ngosatMhmaeni angegrw.o
+:rg[02/01/2010 20:37:26] >l>e tIChdeBoo.cl
+] in6[02/01/2010 20:37:26] Igf2 
+syouo [02/01/2010 20:37:26] 
+waftwnarte[02/01/2010 20:37:26] >  >vt ero oiruanod miu.gl.t. ic ponlfe g (servceonsf,ig ple.alusae c
+hange t[02/01/2010 20:37:26] 
+e w[02/01/2010 20:37:26] > ERRrRdI dA nionth ecr insotnafingcuer aoti T efi Florgoet.t
+en Server is already rouuntndiantge d,w iptlhe atshee  csnsaimdee r orplddaItd.in
+g!
+[02/01/2010 20:37:26] > Cur[02/01/2010 20:37:26] Irfe nytouv weanrts itoon r uinnf omrumlatitplieon s e-r vvereriso,n :ple a0s.e3 .4c,h anpagte cth: e2 w,o rbludIidl di:n  18c7on9fi,g utrimtiesont afile.p
+: 1242396574.
+[02/01/2010 20:37:27] > Latest version information - version: 0.3.6, patch: 0, build: 3293, timestamp: 1260652199.
+[02/01/2010 20:37:27] [Warninog ut- Confdaitg[02/01/2010 20:37:27] TeMdha,e  pnlFeagseorer:g :gcoentsttiBeden roer lu]vpe 6d2r[02/01/2010 20:37:27] T,
+ av[02/01/2010 20:37:27] 
+eh[02/01/2010 20:37:27] >te>  siFLnooagn!dr gi
+no0tt[02/01/2010 20:37:27] >  ceCur[02/01/2010 20:37:27] Trhn.oe eu3nS tn.Ftdeo 4arf tvgvi(oegCeerrtdsrti i(noc n,  oS pgnevlf iereDrvsainaimgsrne,s . o fv0loe.cnr3u)o.rsi4oa
+ann s)(t0[02/01/2010 20:37:27] Sie.iv3r
+doe.y[02/01/2010 20:37:27] 
+en4i[02/01/2010 20:37:27] >   Cn ERrr-g(R iC OuarvRDdpy:oimd  nsAPnog toDithrna)oemi
+nr[02/01/2010 20:37:27] S sno:n )A
+g e.l!302/01/2010 20:37:27] Sii.e
+rv4s ne,Crssro  w iteaaadicCaonh cPe:odo mr eo d2oAf ,Pl  ibionsr usAohhlieilw ad .Fseo:w  o
+e1 C8o r7moge9moed,dint ha.t
+itaem.en
+ Stearmv[02/01/2010 20:37:27] Pupebrl: i 02/01/2010 20:37:27] Pi02/01/2010 20:37:27] >c1[02/01/2010 20:37:27] Pb 2iuCslbd4lir2aicda3cielei9dnd:r6tae a5 davde7we:d4ewr yww.:. sw
+w r.[02/01/2010 20:37:27] >wos uontwLoswat iestrei.enrnvsg.vtb.f loo vbwgisrlrtmesosargp istvtopiohonto t..ein.bcnlcooomm  <<-  - g< fss-a<p o<mr t- e-Tvm.ea rdtc<soii wooo-nnsm o  <br:r-e-Tl 0  o.ud<tIdvsd-.3eeor
+ .v< .s-
+ [02/01/2010 20:37:28] Is4fo[02/01/2010 20:37:28] B,oT obu nyd:pomrou  e Jo 0asw oo.tao!bn3ct!r.!e 
+s:e  r,vt2.o o
+t,ste rhv:r[02/01/2010 20:37:28] 
+[02/01/2010 20:37:28] B . uonm0
+ [02/01/2010 20:37:28] > uJio>lgm od[02/01/2010 20:37:28] B!Du! :elm!bb  
+tuu1Jgi[02/01/2010 20:37:28] 
+oigp[02/01/2010 20:37:28] >8ligl>7nedo g 9:D!:s, e! en 3!or
+ttu2hgi9n3igvgm,eei.r 
+nsttsgiam,p: :pml  e1na4eos2 tt3cah9hm6pai:7nn g41g..2
+6
+0e 6t5h21[02/01/2010 20:37:28] >e>[02/01/2010 20:37:28] 
+9 [02/01/2010 20:37:28] >[02/01/2010 20:37:28] >>02/01/2010 20:37:28] >>  C9 L haetC.Dehc
+wsekcoti[02/01/2010 20:37:28] [bknrW uiglavg nrgdseignorn fistwoag fngtewiia :norv   eecnrv-nooseinr tosnif.Cih.ooiin.nng n.ff.urgo.tgr 
+imMoa[02/01/2010 20:37:28] >nat> iof nCahigelnre:c k:gie.n- B
+gvo eosrlsofitow na6r:2e
+  0[02/01/2010 20:37:28] 
+v[02/01/2010 20:37:28] >.>e 3rsoi.aod6i,n np.ga. tc.onh f: 0i, gb (cuoinlfdi:g.lu2a9)
+3, [02/01/2010 20:37:28] 
+t[02/01/2010 20:37:28] >imEeRsRtORamp: 12 A6n0o6t5h21e9r9 .i
+nst02/01/2010 20:37:28] [aWancreni nogf  - TCohnef iFgoMragaogttere:n:SeetBoorl] v6e2r
+ i02/01/2010 20:37:28] 
+[02/01/2010 20:37:28] >s>  Lalardinega dcyo nrfuingn i(ncgo nwftihg .tlua)e
+ same [02/01/2010 20:37:28] 
+worldI[02/01/2010 20:37:28] > .E
+R[02/01/2010 20:37:28] IRfOR: Anoytohue rw ainnstt atno ru no fm Theu lFtorplgeott esnr vSeerrsv,e rpl eass ea lcrheanagdye  rtuhnen wionrgl wiItdh  itne csoanmfei gwuorraltidIdo.n 
+fi[02/01/2010 20:37:28] Ilfeyo
+u want to run multiple servers, please change the worldId in configuration fileo.u
+dated, please consider updating!
+[02/01/2010 20:37:29] > Current versoiuotnd ainftoerdm,a tpioean - sveer scioonn: 0.s3i.d4e,r  puatpcdh:ti n2g,!
+ b[02/01/2010 20:37:29] >u iCdrr1en8t79 ,v etrismiesotna inmofpu:todra t1e2da,4t 2i3on9 6p5l-7e4a.sv
+eers[02/01/2010 20:37:29] >i o cLantoe:n ss0i.td3 vere.s4ri o,nu  ippdanfaotrmtahti:in ogn!2 -
+ , v[02/01/2010 20:37:29] >eb Curusrreniiotlnd : 0.v138.67,e 9r,sp attiicomhne :i s0,n tfboauildm:rpm :3 a2ti192o34n ,2 -t9 i65meve7sr4tasmipon. :126
+0 6[02/01/2010 20:37:29] >5 L0a2t.e1s39t9 ..
+ve4rs[02/01/2010 20:37:29] [W,ai onnin iga - nCtfoonrfcighMa:ta in2ag,oern: :gb u-e tiBvoeorlsdl]:i 2o
+n: 0.31[02/01/2010 20:37:29] 
+8.67,9,[02/01/2010 20:37:29] > > tLopiadmingaetcsocnafhmp::ig   (10,2c4 ob2un3fiil9gd6:5 .l3u294a3,.) 
+
+ti[02/01/2010 20:37:29] > mLeastteasmt pv:er si1o[02/01/2010 20:37:29] 
+n 2i[02/01/2010 20:37:29] >6n f0Eo6RrRmaOt5R2i:1o 9n9 A-
+n o[02/01/2010 20:37:29] [vWtahrenrie nrinsgi o-sn tC:a no0.3.6c,n efpigoaMtac h:T n0h,e g euri:F:orlgd: o32gt9tee3tn,  SteiBrovmeor leis]s  t6a2a
+ml[02/01/2010 20:37:29] 
+rp:e 1[02/01/2010 20:37:29] >a> d2L6y0 652ru1n9ona9d.in
+ging  conw[02/01/2010 20:37:29] [fitiWargn ihncgo nf-i  tChgeon .fsliugaMmane aw)
+eorl[02/01/2010 20:37:29] 
+rd[02/01/2010 20:37:29] >: IE:dge.Rt
+BROoRo:l] 02/01/2010 20:37:29] IfA ny oo6u2 tw
+hae[02/01/2010 20:37:29] 
+rn [02/01/2010 20:37:29] >>ti  Ltonasdtianngo c cronunfe i gomf (u lctiTohpenlfeiF osger.grluoveatr)tesn
+,  Spelrevaesre  icsh aalg[02/01/2010 20:37:30] 
+ree[02/01/2010 20:37:30] >a  dEyR tRruheO nR:noirnl gd AwIdint othh etirn  ihceon ssftaamniece gwuoorfrl aThtdeIi don fFileo.r.
+g
+ot[02/01/2010 20:37:30] Iften yo uS earntve rt ios  ruan rmuealdtiply r unsenrivnegr sw,i tpleah seh ec hsangaem et wo lwdIdo.
+rl[02/01/2010 20:37:30] Ifd Iydo ui wannt c tonof ruin mguulrtaitpiloen  sferivleers.
+, please change the worldId in configuration file.
+[02/01/2010 20:37:34] The Forgotten Server, version 0.3.4 (Crying Damson)
+[02/01/2010 20:37:34] Sever Criado Por Alissow e Comedinha.
+[02/01/2010 20:37:34] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[02/01/2010 20:37:34] Bom Jogo!!!
+[02/01/2010 20:37:34] 
+[02/01/2010 20:37:34] >> Debugging: nothing.
+[02/01/2010 20:37:34] >> Checking software version... [02/01/2010 20:37:34] The Forgotten Server, version 0.3.4 (Crying Damson)
+[02/01/2010 20:37:35] Sever Criado Por Alissow e Comedinha.
+[02/01/2010 20:37:35] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[02/01/2010 20:37:35] Bom Jogo!!!
+[02/01/2010 20:37:35] 
+[02/01/2010 20:37:35] >> Debugging: nothing.
+[02/01/2010 20:37:35] >> Checking software version... outdated, please consider updating!
+[02/01/2010 20:37:35] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[02/01/2010 20:37:35] > Latest version information - version: 0.3.6, patch: 0, build: 3293, timestamp: 1260652199.
+[02/01/2010 20:37:35] [Warning - ConfigManager::getBool] 62
+[02/01/2010 20:37:35] 
+[02/01/2010 20:37:35] >> Loading config (config.lua)
+[02/01/2010 20:37:35] 
+[02/01/2010 20:37:35] > ERROR: Anootuhtedart iens, tpalnece oe cfo sTihed eFro rupdgaottitnegn! 
+Serv[02/01/2010 20:37:36] >e Cru riresn ta lvreerasdioyn  riunnfnormatiinogn  w-i vtehr stohne: s a0m.3.4e,  wpaotrlcdhI:d 2, .
+bu[02/01/2010 20:37:36] Iilfdy:o u1 8w79n,t t itmoe starmpu:n  1m2u4l2t3i965p7l4e. 
+ser[02/01/2010 20:37:36] >v eLartse,s tp lveerassioen  cinfhoarnmaet itohne -  wvoerrlsdiIodn : i0n. 3.o6n,f ipgautrcah:t i0o, bnui lfd: 329i3l, tei.m
+estamp: 1260652199.
+[02/01/2010 20:37:36] [Warning - ConfigManager::getBool] 62
+[02/01/2010 20:37:36] 
+[02/01/2010 20:37:36] >> Loading config (config.lua)
+[02/01/2010 20:37:36] 
+[02/01/2010 20:37:36] > ERROR: Another instance of The Forgotten Server is already running with the same worldId.
+[02/01/2010 20:37:36] If you want to run multiple servers, please change the worldId in configuration file.
+[02/01/2010 20:37:57] The Forgotten Server, version 0.3.4 (Crying Damson)
+[02/01/2010 20:37:57] Sever Criado Por Alissow e Comedinha.
+[02/01/2010 20:37:57] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[02/01/2010 20:37:57] Bom Jogo!!!
+[02/01/2010 20:37:58] 
+[02/01/2010 20:37:58] >> Debugging: nothing.
+[02/01/2010 20:37:58] >> Checking software version... outdated, please consider updating!
+[02/01/2010 20:37:58] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[02/01/2010 20:37:58] > Latest version information - version: 0.3.6, patch: 0, build: 3293, timestamp: 1260652199.
+[02/01/2010 20:37:59] [Warning - ConfigManager::getBool] 62
+[02/01/2010 20:37:59] 
+[02/01/2010 20:37:59] >> Loading config (config.lua)
+[02/01/2010 20:37:59] > Using plaintext passwords
+[02/01/2010 20:37:59] >> Loading RSA key
+[02/01/2010 20:37:59] >> Starting SQL connection
+[02/01/2010 20:37:59] >> Running Database Manager
+[02/01/2010 20:38:00] > Optimized database.
+[02/01/2010 20:38:00] >> Loading items
+[02/01/2010 20:38:01] >> Loading groups
+[02/01/2010 20:38:01] >> Loading vocations
+[02/01/2010 20:38:01] >> Loading script systems
+[02/01/2010 20:38:05] >> Loading chat channels
+[02/01/2010 20:38:05] >> Loading outfits
+[02/01/2010 20:38:05] >> Loading experience stages
+[02/01/2010 20:38:05] >> Loading monsters
+[02/01/2010 20:38:07] >> Loading map and spawns...
+[02/01/2010 20:38:08] > Map size: 512x512.
+[02/01/2010 20:38:08] > Map descriptions: 
+[02/01/2010 20:38:08] Saved with Remere's Map Editor 1.1.10
+[02/01/2010 20:38:08] SimOne MapEditor 0.5.2
+[02/01/2010 20:38:09] > FATAL: OTBM Loader - [x:118, y:133, z:7] Failed to create item.

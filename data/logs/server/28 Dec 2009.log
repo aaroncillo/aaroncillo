@@ -1,0 +1,382 @@
+[28/12/2009 02:08:45] The Forgotten Server, version 0.3.4 (Crying Damson)
+[28/12/2009 02:08:45] Sever Criado Por Alissow e Comedinha.
+[28/12/2009 02:08:45] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[28/12/2009 02:08:45] Bom Jogo!!!
+[28/12/2009 02:08:45] 
+[28/12/2009 02:08:45] >> Debugging: nothing.
+[28/12/2009 02:08:45] >> Checking software version... outdated, please consider updating!
+[28/12/2009 02:08:46] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[28/12/2009 02:08:46] > Latest version information - version: 0.3.6, patch: 0, build: 3293, timestamp: 1260652199.
+[28/12/2009 02:08:47] [Warning - ConfigManager::getBool] 62
+[28/12/2009 02:08:47] 
+[28/12/2009 02:08:47] >> Loading config (config.lua)
+[28/12/2009 02:08:47] > Using plaintext passwords
+[28/12/2009 02:08:47] >> Loading RSA key
+[28/12/2009 02:08:47] >> Starting SQL connection
+[28/12/2009 02:08:47] >> Running Database Manager
+[28/12/2009 02:08:48] > Optimized database.
+[28/12/2009 02:08:48] >> Loading items
+[28/12/2009 02:08:49] >> Loading groups
+[28/12/2009 02:08:49] >> Loading vocations
+[28/12/2009 02:08:49] >> Loading script systems
+[28/12/2009 02:08:54] >> Loading chat channels
+[28/12/2009 02:08:55] >> Loading outfits
+[28/12/2009 02:08:55] >> Loading experience stages
+[28/12/2009 02:08:55] >> Loading monsters
+[28/12/2009 02:08:58] >> Loading map and spawns...
+[28/12/2009 02:08:59] > Map size: 1100x1100.
+[28/12/2009 02:08:59] > Map descriptions: 
+[28/12/2009 02:08:59] Saved with Remere's Map Editor 1.1.10
+[28/12/2009 02:08:59] Remere 's Map Editor Beta
+[28/12/2009 02:09:01] Duplicate uniqueId 9911
+[28/12/2009 02:09:01] Duplicate uniqueId 9912
+[28/12/2009 02:09:01] Duplicate uniqueId 9913
+[28/12/2009 02:09:01] Duplicate uniqueId 9914
+[28/12/2009 02:09:01] Duplicate uniqueId 9915
+[28/12/2009 02:09:03] Duplicate uniqueId 2471
+[28/12/2009 02:09:07] Duplicate uniqueId 8880
+[28/12/2009 02:09:07] Duplicate uniqueId 8880
+[28/12/2009 02:09:07] Duplicate uniqueId 5006
+[28/12/2009 02:09:08] > Map loading time: 10.25 seconds.
+[28/12/2009 02:09:17] > Data loading time: 8.906 seconds.
+[28/12/2009 02:09:19] > Unserialization time for houses: 1.875 seconds.
+[28/12/2009 02:10:03] > Unserialization time for map: 43.25 seconds.
+[28/12/2009 02:10:03] >> Checking world type... PvP
+[28/12/2009 02:10:03] >> Initializing game state modules and registering services...
+[28/12/2009 02:10:18] > Global address: 201.246.36.209
+[28/12/2009 02:10:20] > Local ports:
+[28/12/2009 02:10:20] 7171	7172	
+[28/12/2009 02:10:20] >> All modules were loaded, server starting up...
+[28/12/2009 02:10:20] >> Aggrox metal server Online!
+[28/12/2009 02:10:20] 
+[28/12/2009 02:12:06] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[28/12/2009 02:12:10] Hoster Aggresor has logged in.
+[28/12/2009 02:12:53] Hoster Aggresor has logged out.
+[28/12/2009 02:12:55] Jack Dee has logged in.
+[28/12/2009 02:14:50] Jack Dee has logged out.
+[28/12/2009 02:14:52] Hoster Aggresor has logged in.
+[28/12/2009 02:18:55] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[28/12/2009 02:23:55] > Saving server...
+[28/12/2009 02:24:04] > SAVE: Complete in 8.797 seconds using relational house storage.
+[28/12/2009 02:28:56] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[28/12/2009 02:32:09] Hoster Aggresor has logged out.
+[28/12/2009 02:32:15] Jack Dee has logged in.
+[28/12/2009 02:32:37] Jack Dee has logged out.
+[28/12/2009 02:32:40] Hoster Aggresor has logged in.
+[28/12/2009 02:34:46] Hoster Aggresor has logged out.
+[28/12/2009 02:34:49] Kina Zarprite has logged in.
+[28/12/2009 02:35:56] Kina Zarprite has logged out.
+[28/12/2009 02:35:59] Hoster Aggresor has logged in.
+[28/12/2009 02:37:20] Hoster Aggresor has logged out.
+[28/12/2009 02:37:22] Jack Dee has logged in.
+[28/12/2009 02:38:55] Jack Dee has logged out.
+[28/12/2009 02:38:56] > Saving server...
+[28/12/2009 02:39:14] > SAVE: Complete in 18.688 seconds using relational house storage.
+[28/12/2009 02:39:14] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[28/12/2009 02:39:16] Jack Dee has logged in.
+[28/12/2009 02:39:18] Jack Dee has logged out.
+[28/12/2009 02:39:20] Hoster Aggresor has logged in.
+[28/12/2009 02:43:57] Hoster Aggresor has logged out.
+[28/12/2009 02:43:59] Jack Dee has logged in.
+[28/12/2009 02:44:01] Jack Dee has logged out.
+[28/12/2009 02:44:02] Kina Zarprite has logged in.
+[28/12/2009 02:44:23] Kina Zarprite has logged out.
+[28/12/2009 02:44:25] Jack Dee has logged in.
+[28/12/2009 02:44:37] Jack Dee has logged out.
+[28/12/2009 02:44:38] Hoster Aggresor has logged in.
+[28/12/2009 02:45:15] > Broadcasted message: "Mu invade Slayer city".
+[28/12/2009 02:48:39] Hoster Aggresor has logged out.
+[28/12/2009 02:48:41] Jack Dee has logged in.
+[28/12/2009 02:49:15] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[28/12/2009 02:50:10] Jack Dee has logged out.
+[28/12/2009 02:50:11] Hoster Aggresor has logged in.
+[28/12/2009 02:50:21] Hoster Aggresor has logged out.
+[28/12/2009 02:50:22] Jack Dee has logged in.
+[28/12/2009 02:51:49] Jack Dee has logged out.
+[28/12/2009 02:51:50] Hoster Aggresor has logged in.
+[28/12/2009 02:52:01] Hoster Aggresor has logged out.
+[28/12/2009 02:52:02] Jack Dee has logged in.
+[28/12/2009 02:53:49] Jack Dee has logged out.
+[28/12/2009 02:53:51] Hoster Aggresor has logged in.
+[28/12/2009 02:53:57] > Saving server...
+[28/12/2009 02:54:04] > SAVE: Complete in 7.359 seconds using relational house storage.
+[28/12/2009 02:54:09] Hoster Aggresor has logged out.
+[28/12/2009 02:54:11] Jack Dee has logged in.
+[28/12/2009 02:54:55] Jack Dee has logged out.
+[28/12/2009 02:54:56] Hoster Aggresor has logged in.
+[28/12/2009 02:55:03] Hoster Aggresor has logged out.
+[28/12/2009 02:55:05] Jack Dee has logged in.
+[28/12/2009 02:55:13] Jack Dee has logged out.
+[28/12/2009 02:55:14] Hoster Aggresor has logged in.
+[28/12/2009 02:55:29] Hoster Aggresor has logged out.
+[28/12/2009 02:55:31] Jack Dee has logged in.
+[28/12/2009 02:56:05] Jack Dee has logged out.
+[28/12/2009 02:56:06] Hoster Aggresor has logged in.
+[28/12/2009 02:56:17] Hoster Aggresor has logged out.
+[28/12/2009 02:56:20] Jack Dee has logged in.
+[28/12/2009 02:58:28] Jack Dee has logged out.
+[28/12/2009 02:58:29] Hoster Aggresor has logged in.
+[28/12/2009 02:58:37] Hoster Aggresor has logged out.
+[28/12/2009 02:58:38] Jack Dee has logged in.
+[28/12/2009 02:58:54] Jack Dee has logged out.
+[28/12/2009 02:58:55] Hoster Aggresor has logged in.
+[28/12/2009 02:59:00] Hoster Aggresor has logged out.
+[28/12/2009 02:59:01] Jack Dee has logged in.
+[28/12/2009 02:59:09] Jack Dee has logged out.
+[28/12/2009 02:59:11] Zorra Zorrienta has logged in.
+[28/12/2009 02:59:16] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[28/12/2009 02:59:29] Zorra Zorrienta has logged out.
+[28/12/2009 02:59:30] Pro Pro has logged in.
+[28/12/2009 02:59:42] Pro Pro has logged out.
+[28/12/2009 02:59:44] Hoster Aggresor has logged in.
+[28/12/2009 03:00:09] Hoster Aggresor has logged out.
+[28/12/2009 03:00:10] Jack Dee has logged in.
+[28/12/2009 03:00:53] Jack Dee has logged out.
+[28/12/2009 03:00:55] Hoster Aggresor has logged in.
+[28/12/2009 03:02:20] Hoster Aggresor has logged out.
+[28/12/2009 03:02:22] Kina Zarprite has logged in.
+[28/12/2009 03:02:34] Kina Zarprite has logged out.
+[28/12/2009 03:02:37] Hoster Aggresor has logged in.
+[28/12/2009 03:02:48] Hoster Aggresor has logged out.
+[28/12/2009 03:02:49] Jack Dee has logged in.
+[28/12/2009 03:02:51] Jack Dee has logged out.
+[28/12/2009 03:02:52] Kina Zarprite has logged in.
+[28/12/2009 03:03:38] Kina Zarprite has logged out.
+[28/12/2009 03:03:39] Hoster Aggresor has logged in.
+[28/12/2009 03:03:44] [Warning - Event::loadScript] Cannot load script (data/movements/scripts/wn.lua)
+[28/12/2009 03:03:44] data/movements/scripts/wn.lua:17: '<eof>' expected near 'end'
+[28/12/2009 03:03:49] Hoster Aggresor has logged out.
+[28/12/2009 03:03:52] Kina Zarprite has logged in.
+[28/12/2009 03:04:11] Kina Zarprite has logged out.
+[28/12/2009 03:04:13] Mono Pirata has logged in.
+[28/12/2009 03:04:16] Mono Pirata has logged out.
+[28/12/2009 03:04:17] Hoster Aggresor has logged in.
+[28/12/2009 03:04:50] Hoster Aggresor has logged out.
+[28/12/2009 03:04:52] Pro Pro has logged in.
+[28/12/2009 03:05:32] Pro Pro has logged out.
+[28/12/2009 03:05:34] Hoster Aggresor has logged in.
+[28/12/2009 03:05:42] Hoster Aggresor has logged out.
+[28/12/2009 03:05:43] Jack Dee has logged in.
+[28/12/2009 03:05:45] Jack Dee has logged out.
+[28/12/2009 03:05:46] Kina Zarprite has logged in.
+[28/12/2009 03:05:48] Kina Zarprite has logged out.
+[28/12/2009 03:05:49] Mono Pirata has logged in.
+[28/12/2009 03:05:51] Mono Pirata has logged out.
+[28/12/2009 03:05:53] Pro Pro has logged in.
+[28/12/2009 03:05:55] 
+[28/12/2009 03:05:55] Lua Script Error: [CreatureScript Interface] 
+[28/12/2009 03:05:55] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[28/12/2009 03:05:55] 
+[28/12/2009 03:05:55] luaGetCreatureName(). Creature not found
+[28/12/2009 03:05:55] 
+[28/12/2009 03:05:55] Lua Script Error: [CreatureScript Interface] 
+[28/12/2009 03:05:55] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[28/12/2009 03:05:55] 
+[28/12/2009 03:05:55] luaGetCreatureName(). Creature not found
+[28/12/2009 03:05:55] 
+[28/12/2009 03:05:55] Lua Script Error: [CreatureScript Interface] 
+[28/12/2009 03:05:56] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[28/12/2009 03:05:56] 
+[28/12/2009 03:05:56] data/creaturescripts/scripts/playerdeath.lua:41: attempt to concatenate a boolean value
+[28/12/2009 03:05:56] stack traceback:
+[28/12/2009 03:05:56] 	data/creaturescripts/scripts/playerdeath.lua:41: in function <data/creaturescripts/scripts/playerdeath.lua:9>
+[28/12/2009 03:05:56] 
+[28/12/2009 03:05:56] Lua Script Error: [CreatureScript Interface] 
+[28/12/2009 03:05:56] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[28/12/2009 03:05:56] 
+[28/12/2009 03:05:56] luaGetCreatureName(). Creature not found
+[28/12/2009 03:05:56] 
+[28/12/2009 03:05:56] Lua Script Error: [CreatureScript Interface] 
+[28/12/2009 03:05:56] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[28/12/2009 03:05:56] 
+[28/12/2009 03:05:56] luaGetCreatureName(). Creature not found
+[28/12/2009 03:05:56] 
+[28/12/2009 03:05:56] Lua Script Error: [CreatureScript Interface] 
+[28/12/2009 03:05:56] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[28/12/2009 03:05:56] 
+[28/12/2009 03:05:56] data/creaturescripts/scripts/playerdeath.lua:41: attempt to concatenate a boolean value
+[28/12/2009 03:05:57] stack traceback:
+[28/12/2009 03:05:57] 	data/creaturescripts/scripts/playerdeath.lua:41: in function <data/creaturescripts/scripts/playerdeath.lua:9>
+[28/12/2009 03:05:57] Pro Pro has logged out.
+[28/12/2009 03:05:59] Pro Pro has logged in.
+[28/12/2009 03:06:12] 
+[28/12/2009 03:06:12] Lua Script Error: [CreatureScript Interface] 
+[28/12/2009 03:06:12] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[28/12/2009 03:06:12] 
+[28/12/2009 03:06:12] luaGetCreatureName(). Creature not found
+[28/12/2009 03:06:13] 
+[28/12/2009 03:06:13] Lua Script Error: [CreatureScript Interface] 
+[28/12/2009 03:06:13] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[28/12/2009 03:06:13] 
+[28/12/2009 03:06:13] luaGetCreatureName(). Creature not found
+[28/12/2009 03:06:13] 
+[28/12/2009 03:06:13] Lua Script Error: [CreatureScript Interface] 
+[28/12/2009 03:06:13] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[28/12/2009 03:06:13] 
+[28/12/2009 03:06:13] data/creaturescripts/scripts/playerdeath.lua:41: attempt to concatenate a boolean value
+[28/12/2009 03:06:13] stack traceback:
+[28/12/2009 03:06:13] 	data/creaturescripts/scripts/playerdeath.lua:41: in function <data/creaturescripts/scripts/playerdeath.lua:9>
+[28/12/2009 03:06:13] 
+[28/12/2009 03:06:13] Lua Script Error: [CreatureScript Interface] 
+[28/12/2009 03:06:13] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[28/12/2009 03:06:13] 
+[28/12/2009 03:06:13] luaGetCreatureName(). Creature not found
+[28/12/2009 03:06:13] 
+[28/12/2009 03:06:13] Lua Script Error: [CreatureScript Interface] 
+[28/12/2009 03:06:14] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[28/12/2009 03:06:14] 
+[28/12/2009 03:06:14] luaGetCreatureName(). Creature not found
+[28/12/2009 03:06:14] 
+[28/12/2009 03:06:14] Lua Script Error: [CreatureScript Interface] 
+[28/12/2009 03:06:14] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[28/12/2009 03:06:14] 
+[28/12/2009 03:06:14] data/creaturescripts/scripts/playerdeath.lua:41: attempt to concatenate a boolean value
+[28/12/2009 03:06:14] stack traceback:
+[28/12/2009 03:06:14] 	data/creaturescripts/scripts/playerdeath.lua:41: in function <data/creaturescripts/scripts/playerdeath.lua:9>
+[28/12/2009 03:06:14] Pro Pro has logged out.
+[28/12/2009 03:06:16] Pro Pro has logged in.
+[28/12/2009 03:07:34] Pro Pro has logged out.
+[28/12/2009 03:07:36] Hoster Aggresor has logged in.
+[28/12/2009 03:08:32] Hoster Aggresor has logged out.
+[28/12/2009 03:08:39] > Saving server...
+[28/12/2009 03:08:46] > SAVE: Complete in 7.094 seconds using relational house storage.
+[28/12/2009 03:08:46] Preparing to shutdown server..
+[28/12/2009 03:08:47] .
+[28/12/2009 03:08:47] Exiting
+[28/12/2009 18:33:29] The Forgotten Server, version 0.3.4 (Crying Damson)
+[28/12/2009 18:33:29] Sever Criado Por Alissow e Comedinha.
+[28/12/2009 18:33:29] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[28/12/2009 18:33:29] Bom Jogo!!!
+[28/12/2009 18:33:29] 
+[28/12/2009 18:33:29] >> Debugging: nothing.
+[28/12/2009 18:33:29] >> Checking software version... outdated, please consider updating!
+[28/12/2009 18:33:31] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[28/12/2009 18:33:31] > Latest version information - version: 0.3.6, patch: 0, build: 3293, timestamp: 1260652199.
+[28/12/2009 18:33:31] [Warning - ConfigManager::getBool] 62
+[28/12/2009 18:33:31] 
+[28/12/2009 18:33:31] >> Loading config (config.lua)
+[28/12/2009 18:33:31] > Using plaintext passwords
+[28/12/2009 18:33:31] >> Loading RSA key
+[28/12/2009 18:33:31] >> Starting SQL connection
+[28/12/2009 18:33:31] >> Running Database Manager
+[28/12/2009 18:33:33] > Optimized database.
+[28/12/2009 18:33:34] >> Loading items
+[28/12/2009 18:33:34] >> Loading groups
+[28/12/2009 18:33:34] >> Loading vocations
+[28/12/2009 18:33:34] >> Loading script systems
+[28/12/2009 18:33:49] >> Loading chat channels
+[28/12/2009 18:33:49] >> Loading outfits
+[28/12/2009 18:33:49] >> Loading experience stages
+[28/12/2009 18:33:49] >> Loading monsters
+[28/12/2009 18:34:11] >> Loading map and spawns...
+[28/12/2009 18:34:17] > Map size: 1100x1100.
+[28/12/2009 18:34:17] > Map descriptions: 
+[28/12/2009 18:34:17] Saved with Remere's Map Editor 1.1.10
+[28/12/2009 18:34:17] Remere 's Map Editor Beta
+[28/12/2009 18:34:19] Duplicate uniqueId 9911
+[28/12/2009 18:34:19] Duplicate uniqueId 9912
+[28/12/2009 18:34:19] Duplicate uniqueId 9913
+[28/12/2009 18:34:19] Duplicate uniqueId 9914
+[28/12/2009 18:34:19] Duplicate uniqueId 9915
+[28/12/2009 18:34:20] Duplicate uniqueId 2471
+[28/12/2009 18:34:22] Duplicate uniqueId 8880
+[28/12/2009 18:34:22] Duplicate uniqueId 8880
+[28/12/2009 18:34:23] Duplicate uniqueId 5006
+[28/12/2009 18:34:25] > Map loading time: 14.297 seconds.
+[28/12/2009 18:34:39] > Data loading time: 13.078 seconds.
+[28/12/2009 18:34:51] > Unserialization time for houses: 12.5 seconds.
+[28/12/2009 18:35:45] > Unserialization time for map: 53.953 seconds.
+[28/12/2009 18:35:45] >> Checking world type... PvP
+[28/12/2009 18:35:45] >> Initializing game state modules and registering services...
+[28/12/2009 18:35:52] > Global address: 201.246.36.209
+[28/12/2009 18:35:53] > Local ports:
+[28/12/2009 18:35:53] 7171	7172	
+[28/12/2009 18:35:53] >> All modules were loaded, server starting up...
+[28/12/2009 18:35:53] >> Aggrox metal server Online!
+[28/12/2009 18:35:53] 
+[28/12/2009 18:36:28] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[28/12/2009 18:36:30] Hoster Aggresor has logged in.
+[28/12/2009 18:37:09] Hoster Aggresor has logged out.
+[28/12/2009 18:37:13] Pro Pro has logged in.
+[28/12/2009 18:38:01] Pro Pro has logged out.
+[28/12/2009 18:38:08] Teste has logged in.
+[28/12/2009 18:38:19] Teste has logged out.
+[28/12/2009 18:38:20] Teste dois has logged in.
+[28/12/2009 18:39:36] Teste dois has logged out.
+[28/12/2009 18:39:37] Teste has logged in.
+[28/12/2009 18:39:46] Teste has logged out.
+[28/12/2009 18:39:48] Teste dois has logged in.
+[28/12/2009 18:41:32] Teste dois has logged out.
+[28/12/2009 18:41:39] Pro Pro has logged in.
+[28/12/2009 18:41:48] Pro Pro has logged out.
+[28/12/2009 18:41:53] Account Manager has logged in.
+[28/12/2009 18:42:03] Account Manager has logged out.
+[28/12/2009 18:42:09] Account Manager has logged in.
+[28/12/2009 18:42:21] Account Manager has logged out.
+[28/12/2009 18:42:32] Aggresor has logged in.
+[28/12/2009 18:43:49] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[28/12/2009 18:44:14] Teste dois has logged in.
+[28/12/2009 18:44:54] > Broadcasted message: "Demonios csm invaden Slayer city".
+[28/12/2009 18:45:01] > Broadcasted message: "Aggresor [29] Murio por Demonio!!".
+[28/12/2009 18:45:01] > Broadcasted message: "Aggresor [29] Murio por Demonio!!".
+[28/12/2009 18:45:01] Aggresor has logged out.
+[28/12/2009 18:45:03] Aggresor has logged in.
+[28/12/2009 18:45:17] [Error - SingleSpawnEvent::executeEvent] Cannot spawn monster Diblis The Fair
+[28/12/2009 18:45:22] > Broadcasted message: "Teste dois [530] Murio por Demonio!!".
+[28/12/2009 18:45:23] > Broadcasted message: "Teste dois [530] Murio por Demonio!!".
+[28/12/2009 18:45:23] Teste dois has logged out.
+[28/12/2009 18:45:33] Teste dois has logged in.
+[28/12/2009 18:48:49] > Saving server...
+[28/12/2009 18:49:00] > SAVE: Complete in 11.297 seconds using relational house storage.
+[28/12/2009 18:49:06] Aggresor has logged out.
+[28/12/2009 18:49:07] Aggresor has logged in.
+[28/12/2009 18:49:53] Aggresor has logged out.
+[28/12/2009 18:49:54] Aggresor has logged in.
+[28/12/2009 18:52:02] > Broadcasted message: "Aggresor [29] Murio por Demonio!!".
+[28/12/2009 18:52:02] > Broadcasted message: "Aggresor [29] Murio por Demonio!!".
+[28/12/2009 18:52:03] Aggresor has logged out.
+[28/12/2009 18:52:04] Aggresor has logged in.
+[28/12/2009 18:52:07] Aggresor has logged out.
+[28/12/2009 18:52:19] Hoster Aggresor has logged in.
+[28/12/2009 18:53:05] Hoster Aggresor has logged out.
+[28/12/2009 18:53:18] Aggresor has logged in.
+[28/12/2009 18:53:34] > Broadcasted message: "Aggresor [29] Murio por Demonio!!".
+[28/12/2009 18:53:34] > Broadcasted message: "Aggresor [29] Murio por Demonio!!".
+[28/12/2009 18:53:34] Aggresor has logged out.
+[28/12/2009 18:53:35] Aggresor has logged in.
+[28/12/2009 18:53:37] Aggresor has logged out.
+[28/12/2009 18:53:46] Hoster Aggresor has logged in.
+[28/12/2009 18:53:50] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[28/12/2009 18:54:14] Hoster Aggresor has logged out.
+[28/12/2009 18:54:21] Aggresor has logged in.
+[28/12/2009 18:54:33] > Broadcasted message: "Aggresor [29] Murio por Demonio!!".
+[28/12/2009 18:54:33] > Broadcasted message: "Aggresor [29] Murio por Demonio!!".
+[28/12/2009 18:54:33] Aggresor has logged out.
+[28/12/2009 18:54:34] Aggresor has logged in.
+[28/12/2009 18:54:38] Aggresor has logged out.
+[28/12/2009 18:54:42] Hoster Aggresor has logged in.
+[28/12/2009 18:56:00] Hoster Aggresor has logged out.
+[28/12/2009 18:56:06] Aggresor has logged in.
+[28/12/2009 18:58:22] Aggresor has logged out.
+[28/12/2009 18:59:27] Teste dois has logged out.
+[28/12/2009 19:00:31] Aggresor has logged in.
+[28/12/2009 19:00:44] Pro Pro has logged in.
+[28/12/2009 19:00:44] Teste dois has logged in.
+[28/12/2009 19:03:50] > Saving server...
+[28/12/2009 19:04:00] > SAVE: Complete in 9.937 seconds using relational house storage.
+[28/12/2009 19:04:00] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[28/12/2009 19:04:02] Aggresor has logged out.
+[28/12/2009 19:04:17] Pro Pro has logged out.
+[28/12/2009 19:04:25] Aggresor has logged in.
+[28/12/2009 19:04:37] Pro Pro has logged in.
+[28/12/2009 19:08:51] > Broadcasted message: "Teste dois [533] Murio por Pro Pro [4474]!!".
+[28/12/2009 19:08:51] > Broadcasted message: "Pro Pro [4474] mato al wn de Teste dois [533]!".
+[28/12/2009 19:08:51] > Broadcasted message: "Teste dois [533] Murio por Pro Pro [4474]!!".
+[28/12/2009 19:08:51] Teste dois has logged out.
+[28/12/2009 19:10:30] Aggresor has logged out.
+[28/12/2009 19:10:31] Pro Pro has logged out.
+[28/12/2009 19:10:31] > Saving server...
+[28/12/2009 19:10:38] > SAVE: Complete in 6.829 seconds using relational house storage.
+[28/12/2009 19:10:38] Preparing to shutdown server..
+[28/12/2009 19:10:38] .
+[28/12/2009 19:10:38] Exiting

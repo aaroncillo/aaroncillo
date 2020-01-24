@@ -1,0 +1,2827 @@
+[20/10/2009 00:45:56] The Forgotten Server, version 0.3.4 (Crying Damson)
+[20/10/2009 00:45:56] Sever Criado Por Alissow e Comedinha.
+[20/10/2009 00:45:56] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[20/10/2009 00:45:56] Bom Jogo!!!
+[20/10/2009 00:45:56] 
+[20/10/2009 00:45:56] >> Debugging: nothing.
+[20/10/2009 00:45:56] >> Checking software version... outdated, please consider updating!
+[20/10/2009 00:45:58] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[20/10/2009 00:45:58] > Latest version information - version: 0.3.5, patch: 1, build: 2576, timestamp: 1249584126.
+[20/10/2009 00:45:58] [Warning - ConfigManager::getBool] 62
+[20/10/2009 00:45:58] 
+[20/10/2009 00:45:58] >> Loading config (config.lua)
+[20/10/2009 00:45:58] > Using plaintext passwords
+[20/10/2009 00:45:58] >> Loading RSA key
+[20/10/2009 00:45:58] >> Starting SQL connection
+[20/10/2009 00:45:58] >> Running Database Manager
+[20/10/2009 00:45:59] > Optimized database.
+[20/10/2009 00:45:59] >> Loading items
+[20/10/2009 00:46:00] >> Loading groups
+[20/10/2009 00:46:00] >> Loading vocations
+[20/10/2009 00:46:00] >> Loading script systems
+[20/10/2009 00:46:01] [Warning - Weapons::registerEvent] Duplicate registered item with id: 7410
+[20/10/2009 00:46:02] [Warning - Event::loadScript] Cannot load script (data/spells/scripts/gen.lua)
+[20/10/2009 00:46:02] cannot open data/spells/scripts/gen.lua: No such file or directory
+[20/10/2009 00:46:06] [Warning - Event::loadScript] Cannot load script (data/creaturescripts/scripts/playerdeath.lua)
+[20/10/2009 00:46:06] cannot open data/creaturescripts/scripts/playerdeath.lua: No such file or directory
+[20/10/2009 00:46:07] >> Loading chat channels
+[20/10/2009 00:46:07] >> Loading outfits
+[20/10/2009 00:46:07] >> Loading experience stages
+[20/10/2009 00:46:07] >> Loading monsters
+[20/10/2009 00:46:10] >> Loading map and spawns...
+[20/10/2009 00:46:11] > Map size: 512x512.
+[20/10/2009 00:46:11] > Map descriptions: 
+[20/10/2009 00:46:11] Saved with Remere's Map Editor 1.1.9
+[20/10/2009 00:46:11] Remere 's Map Editor Beta
+[20/10/2009 00:46:12] Duplicate uniqueId 2471
+[20/10/2009 00:46:13] > Map loading time: 3.265 seconds.
+[20/10/2009 00:46:15] [Warning - Houses::loadFromXml] House entry not set for:  (158)
+[20/10/2009 00:46:15] > Data loading time: 1.547 seconds.
+[20/10/2009 00:46:15] > Unserialization time for houses: 0.047 seconds.
+[20/10/2009 00:46:28] > Unserialization time for map: 12.343 seconds.
+[20/10/2009 00:46:28] >> Checking world type... PvP
+[20/10/2009 00:46:28] >> Initializing game state modules and registering services...
+[20/10/2009 00:46:28] > Global address: 201.246.35.251
+[20/10/2009 00:46:28] > Local ports:
+[20/10/2009 00:46:28] 7171	7172	
+[20/10/2009 00:46:28] >> All modules were loaded, server starting up...
+[20/10/2009 00:46:28] >> Aggrometal server server Online!
+[20/10/2009 00:46:29] 
+[20/10/2009 00:49:34] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[20/10/2009 00:49:36] GOD Aggro has logged in.
+[20/10/2009 01:01:08] > Saving server...
+[20/10/2009 01:01:15] > SAVE: Complete in 7.229 seconds using relational house storage.
+[20/10/2009 01:01:29] 
+[20/10/2009 01:01:29] Lua Script Error: [TalkAction Interface] 
+[20/10/2009 01:01:29] data/talkactions/scripts/raid.lua:onSay
+[20/10/2009 01:01:29] 
+[20/10/2009 01:01:29] luaDoExecuteRaid(). Raid with name death demon does not exists.
+[20/10/2009 01:01:31] 
+[20/10/2009 01:01:31] Lua Script Error: [TalkAction Interface] 
+[20/10/2009 01:01:31] data/talkactions/scripts/raid.lua:onSay
+[20/10/2009 01:01:31] 
+[20/10/2009 01:01:31] luaDoExecuteRaid(). Raid with name death demon does not exists.
+[20/10/2009 01:04:12] 
+[20/10/2009 01:04:12] Lua Script Error: [TalkAction Interface] 
+[20/10/2009 01:04:12] data/talkactions/scripts/raid.lua:onSay
+[20/10/2009 01:04:12] 
+[20/10/2009 01:04:12] luaDoExecuteRaid(). Raid with name death demon does not exists.
+[20/10/2009 01:04:16] 
+[20/10/2009 01:04:16] Lua Script Error: [TalkAction Interface] 
+[20/10/2009 01:04:16] data/talkactions/scripts/raid.lua:onSay
+[20/10/2009 01:04:16] 
+[20/10/2009 01:04:16] luaDoExecuteRaid(). Raid with name death demon does not exists.
+[20/10/2009 01:05:29] 
+[20/10/2009 01:05:29] Lua Script Error: [TalkAction Interface] 
+[20/10/2009 01:05:29] data/talkactions/scripts/raid.lua:onSay
+[20/10/2009 01:05:30] 
+[20/10/2009 01:05:30] luaDoExecuteRaid(). Raid with name testraid does not exists.
+[20/10/2009 01:05:39] 
+[20/10/2009 01:05:39] Lua Script Error: [TalkAction Interface] 
+[20/10/2009 01:05:39] data/talkactions/scripts/raid.lua:onSay
+[20/10/2009 01:05:39] 
+[20/10/2009 01:05:39] luaDoExecuteRaid(). Raid with name test does not exists.
+[20/10/2009 01:06:07] Reloaded raids.
+[20/10/2009 01:06:14] 
+[20/10/2009 01:06:14] Lua Script Error: [TalkAction Interface] 
+[20/10/2009 01:06:14] data/talkactions/scripts/raid.lua:onSay
+[20/10/2009 01:06:14] 
+[20/10/2009 01:06:14] luaDoExecuteRaid(). Raid with name death demon does not exists.
+[20/10/2009 01:10:56] 
+[20/10/2009 01:10:57] Lua Script Error: [TalkAction Interface] 
+[20/10/2009 01:10:57] data/talkactions/scripts/raid.lua:onSay
+[20/10/2009 01:10:57] 
+[20/10/2009 01:10:57] luaDoExecuteRaid(). Raid with name death demon does not exists.
+[20/10/2009 01:11:01] 
+[20/10/2009 01:11:01] Lua Script Error: [TalkAction Interface] 
+[20/10/2009 01:11:01] data/talkactions/scripts/raid.lua:onSay
+[20/10/2009 01:11:01] 
+[20/10/2009 01:11:01] luaDoExecuteRaid(). Raid with name death demon does not exists.
+[20/10/2009 01:11:45] Reloaded raids.
+[20/10/2009 01:11:53] 
+[20/10/2009 01:11:53] Lua Script Error: [TalkAction Interface] 
+[20/10/2009 01:11:53] data/talkactions/scripts/raid.lua:onSay
+[20/10/2009 01:11:53] 
+[20/10/2009 01:11:53] luaDoExecuteRaid(). Raid with name death demon does not exists.
+[20/10/2009 01:16:09] > Saving server...
+[20/10/2009 01:16:18] > SAVE: Complete in 8.742 seconds using relational house storage.
+[20/10/2009 01:19:46] [Notice - Game::reloadInfo] Reload type does not work.
+[20/10/2009 01:23:35] [Notice - Game::reloadInfo] Reload type does not work.
+[20/10/2009 01:23:46] GOD Aggro has logged out.
+[20/10/2009 01:23:49] GOD Aggro has logged in.
+[20/10/2009 01:24:25] GOD Aggro has logged out.
+[20/10/2009 01:24:27] Test has logged in.
+[20/10/2009 01:25:27] Test has logged out.
+[20/10/2009 01:25:28] GOD Aggro has logged in.
+[20/10/2009 01:26:09] [Notice - Game::reloadInfo] Reload type does not work.
+[20/10/2009 01:26:23] [Notice - Game::reloadInfo] Reload type does not work.
+[20/10/2009 01:26:30] GOD Aggro has logged out.
+[20/10/2009 01:26:31] Test has logged in.
+[20/10/2009 01:27:15] Test has logged out.
+[20/10/2009 01:27:16] GOD Aggro has logged in.
+[20/10/2009 01:27:22] [Notice - Game::reloadInfo] Reload type does not work.
+[20/10/2009 01:31:10] > Saving server...
+[20/10/2009 01:31:16] > SAVE: Complete in 5.739 seconds using relational house storage.
+[20/10/2009 01:32:16] GOD Aggro has logged out.
+[20/10/2009 01:32:22] [Notice - Game::reloadInfo] Reload type does not work.
+[20/10/2009 01:32:22] Reloaded outfits.
+[20/10/2009 01:32:25] GOD Aggro has logged in.
+[20/10/2009 01:34:27] [Notice - Game::reloadInfo] Reload type does not work.
+[20/10/2009 01:37:04] [Notice - Game::reloadInfo] Reload type does not work.
+[20/10/2009 01:37:04] Reloaded outfits.
+[20/10/2009 01:37:08] GOD Aggro has logged out.
+[20/10/2009 01:37:10] Test has logged in.
+[20/10/2009 01:37:12] Test has logged out.
+[20/10/2009 01:37:13] Account Manager has logged in.
+[20/10/2009 01:37:33] Account Manager has logged out.
+[20/10/2009 01:37:42] Aggro has logged in.
+[20/10/2009 01:38:01] Aggro has logged out.
+[20/10/2009 01:46:11] > Saving server...
+[20/10/2009 01:46:17] > SAVE: Complete in 5.378 seconds using relational house storage.
+[20/10/2009 01:52:59] GOD Aggro has logged in.
+[20/10/2009 02:01:12] > Saving server...
+[20/10/2009 02:01:21] > SAVE: Complete in 8.997 seconds using relational house storage.
+[20/10/2009 02:16:13] > Saving server...
+[20/10/2009 02:16:21] > SAVE: Complete in 8.265 seconds using relational house storage.
+[20/10/2009 02:31:14] > Saving server...
+[20/10/2009 02:31:27] > SAVE: Complete in 11.782 seconds using relational house storage.
+[20/10/2009 02:46:08] > Broadcasted message: "Game map cleaning within 30 seconds, please pick up your items!".
+[20/10/2009 02:46:15] > Saving server...
+[20/10/2009 02:46:19] > SAVE: Complete in 4.516 seconds using relational house storage.
+[20/10/2009 02:46:39] > CLEAN: Removed 1 item from 15 tiles in 0.188 seconds.
+[20/10/2009 02:46:39] > Broadcasted message: "Game map cleaned, next clean in 2 hours.".
+[20/10/2009 03:01:16] > Saving server...
+[20/10/2009 03:01:19] > SAVE: Complete in 3.484 seconds using relational house storage.
+[20/10/2009 03:04:24] [Warning - Event::loadScript] Cannot load script (data/creaturescripts/scripts/playerdeath.lua)
+[20/10/2009 03:04:24] cannot open data/creaturescripts/scripts/playerdeath.lua: No such file or directory
+[20/10/2009 03:04:26] [Notice - Game::reloadInfo] Reload type does not work.
+[20/10/2009 03:04:39] [Notice - Game::reloadInfo] Reload type does not work.
+[20/10/2009 03:04:43] [Warning - Event::loadScript] Cannot load script (data/spells/scripts/gen.lua)
+[20/10/2009 03:04:43] cannot open data/spells/scripts/gen.lua: No such file or directory
+[20/10/2009 03:05:02] [Notice - Game::reloadInfo] Reload type does not work.
+[20/10/2009 03:05:48] The Forgotten Server, version 0.3.4 (Crying Damson)
+[20/10/2009 03:05:48] Sever Criado Por Alissow e Comedinha.
+[20/10/2009 03:05:48] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[20/10/2009 03:05:48] Bom Jogo!!!
+[20/10/2009 03:05:48] 
+[20/10/2009 03:05:48] >> Debugging: nothing.
+[20/10/2009 03:05:48] >> Checking software version... outdated, please consider updating!
+[20/10/2009 03:05:50] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[20/10/2009 03:05:50] > Latest version information - version: 0.3.5, patch: 1, build: 2576, timestamp: 1249584126.
+[20/10/2009 03:05:50] [Warning - ConfigManager::getBool] 62
+[20/10/2009 03:05:51] 
+[20/10/2009 03:05:51] >> Loading config (config.lua)
+[20/10/2009 03:05:51] > Using plaintext passwords
+[20/10/2009 03:05:51] >> Loading RSA key
+[20/10/2009 03:05:51] >> Starting SQL connection
+[20/10/2009 03:05:51] >> Running Database Manager
+[20/10/2009 03:05:52] > Optimized database.
+[20/10/2009 03:05:52] >> Loading items
+[20/10/2009 03:05:52] >> Loading groups
+[20/10/2009 03:05:52] >> Loading vocations
+[20/10/2009 03:05:52] >> Loading script systems
+[20/10/2009 03:05:52] [Warning - Weapons::registerEvent] Duplicate registered item with id: 7410
+[20/10/2009 03:05:52] [Warning - Event::loadScript] Cannot load script (data/spells/scripts/gen.lua)
+[20/10/2009 03:05:53] cannot open data/spells/scripts/gen.lua: No such file or directory
+[20/10/2009 03:05:55] [Warning - Event::loadScript] Cannot load script (data/creaturescripts/scripts/playerdeath.lua)
+[20/10/2009 03:05:55] cannot open data/creaturescripts/scripts/playerdeath.lua: No such file or directory
+[20/10/2009 03:05:56] >> Loading chat channels
+[20/10/2009 03:05:56] >> Loading outfits
+[20/10/2009 03:05:56] >> Loading experience stages
+[20/10/2009 03:05:56] >> Loading monsters
+[20/10/2009 03:05:57] >> Loading map and spawns...
+[20/10/2009 03:05:57] > Map size: 512x512.
+[20/10/2009 03:05:57] > Map descriptions: 
+[20/10/2009 03:05:57] Saved with Remere's Map Editor 1.1.9
+[20/10/2009 03:05:57] Remere 's Map Editor Beta
+[20/10/2009 03:05:58] Duplicate uniqueId 2471
+[20/10/2009 03:05:59] > Map loading time: 2.328 seconds.
+[20/10/2009 03:06:00] [Spawn::addMonster] Cannot find "Halloween Pumpkin"
+[20/10/2009 03:06:00] [Spawn::addMonster] Cannot find "Halloween Pumpkin"
+[20/10/2009 03:06:00] [Spawn::addMonster] Cannot find "Hellish Tortoise"
+[20/10/2009 03:06:00] [Spawn::addMonster] Cannot find "Hellish Tortoise"
+[20/10/2009 03:06:00] [Spawn::addMonster] Cannot find "Hellish Tortoise"
+[20/10/2009 03:06:00] [Spawn::addMonster] Cannot find "Halloween Pumpkin"
+[20/10/2009 03:06:00] [Warning - Houses::loadFromXml] House entry not set for:  (158)
+[20/10/2009 03:06:00] > Data loading time: 1.438 seconds.
+[20/10/2009 03:06:01] > Unserialization time for houses: 0.063 seconds.
+[20/10/2009 03:06:14] > Unserialization time for map: 12.938 seconds.
+[20/10/2009 03:06:14] >> Checking world type... PvP
+[20/10/2009 03:06:14] >> Initializing game state modules and registering services...
+[20/10/2009 03:06:14] > Global address: 201.246.35.251
+[20/10/2009 03:06:15] > Local ports:
+[20/10/2009 03:06:15] 7171	7172	
+[20/10/2009 03:06:15] >> All modules were loaded, server starting up...
+[20/10/2009 03:06:15] >> Aggrometal server server Online!
+[20/10/2009 03:06:15] 
+[20/10/2009 03:06:23] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[20/10/2009 03:06:25] GOD Aggro has logged in.
+[20/10/2009 03:08:22] GOD Aggro has logged out.
+[20/10/2009 03:08:33] > Saving server...
+[20/10/2009 03:08:35] > SAVE: Complete in 1.8 seconds using relational house storage.
+[20/10/2009 03:08:35] Preparing to shutdown server..
+[20/10/2009 03:08:35] .
+[20/10/2009 03:08:35] Exiting
+[20/10/2009 03:29:36] The Forgotten Server, version 0.3.4 (Crying Damson)
+[20/10/2009 03:29:36] Sever Criado Por Alissow e Comedinha.
+[20/10/2009 03:29:36] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[20/10/2009 03:29:37] Bom Jogo!!!
+[20/10/2009 03:29:37] 
+[20/10/2009 03:29:37] >> Debugging: nothing.
+[20/10/2009 03:29:37] >> Checking software version... outdated, please consider updating!
+[20/10/2009 03:29:38] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[20/10/2009 03:29:38] > Latest version information - version: 0.3.5, patch: 1, build: 2576, timestamp: 1249584126.
+[20/10/2009 03:29:38] [Warning - ConfigManager::getBool] 62
+[20/10/2009 03:29:38] 
+[20/10/2009 03:29:38] >> Loading config (config.lua)
+[20/10/2009 03:29:38] > Using plaintext passwords
+[20/10/2009 03:29:38] >> Loading RSA key
+[20/10/2009 03:29:38] >> Starting SQL connection
+[20/10/2009 03:29:38] >> Running Database Manager
+[20/10/2009 03:29:39] > Optimized database.
+[20/10/2009 03:29:39] >> Loading items
+[20/10/2009 03:29:40] >> Loading groups
+[20/10/2009 03:29:40] >> Loading vocations
+[20/10/2009 03:29:40] >> Loading script systems
+[20/10/2009 03:29:40] [Warning - Weapons::registerEvent] Duplicate registered item with id: 7410
+[20/10/2009 03:29:41] [Warning - Event::loadScript] Cannot load script (data/spells/scripts/gen.lua)
+[20/10/2009 03:29:41] cannot open data/spells/scripts/gen.lua: No such file or directory
+[20/10/2009 03:29:45] [Warning - Event::loadScript] Cannot load script (data/creaturescripts/scripts/playerdeath.lua)
+[20/10/2009 03:29:45] cannot open data/creaturescripts/scripts/playerdeath.lua: No such file or directory
+[20/10/2009 03:29:45] >> Loading chat channels
+[20/10/2009 03:29:45] >> Loading outfits
+[20/10/2009 03:29:45] >> Loading experience stages
+[20/10/2009 03:29:46] >> Loading monsters
+[20/10/2009 03:29:48] >> Loading map and spawns...
+[20/10/2009 03:29:49] > Map size: 512x512.
+[20/10/2009 03:29:49] > Map descriptions: 
+[20/10/2009 03:29:49] Saved with Remere's Map Editor 1.1.9
+[20/10/2009 03:29:49] Remere 's Map Editor Beta
+[20/10/2009 03:29:50] Duplicate uniqueId 2471
+[20/10/2009 03:29:51] > Map loading time: 2.5 seconds.
+[20/10/2009 03:29:51] [Spawn::addMonster] Cannot find "Halloween Pumpkin"
+[20/10/2009 03:29:52] [Spawn::addMonster] Cannot find "Halloween Pumpkin"
+[20/10/2009 03:29:52] [Spawn::addMonster] Cannot find "Hellish Tortoise"
+[20/10/2009 03:29:52] [Spawn::addMonster] Cannot find "Hellish Tortoise"
+[20/10/2009 03:29:52] [Spawn::addMonster] Cannot find "Hellish Tortoise"
+[20/10/2009 03:29:52] [Spawn::addMonster] Cannot find "Halloween Pumpkin"
+[20/10/2009 03:29:52] [Warning - Spawns::loadFromXml] Water Soul ( 00024 / 00268 / 007 ) spawntime cannot be less than 1 seconds.
+[20/10/2009 03:29:52] [Warning - Spawns::loadFromXml] Water Soul ( 00025 / 00268 / 007 ) spawntime cannot be less than 1 seconds.
+[20/10/2009 03:29:52] [Warning - Spawns::loadFromXml] Water Soul ( 00026 / 00268 / 007 ) spawntime cannot be less than 1 seconds.
+[20/10/2009 03:29:53] [Warning - Spawns::loadFromXml] Water Soul ( 00024 / 00269 / 007 ) spawntime cannot be less than 1 seconds.
+[20/10/2009 03:29:53] [Warning - Spawns::loadFromXml] Water Soul ( 00025 / 00269 / 007 ) spawntime cannot be less than 1 seconds.
+[20/10/2009 03:29:53] [Warning - Spawns::loadFromXml] Water Soul ( 00026 / 00269 / 007 ) spawntime cannot be less than 1 seconds.
+[20/10/2009 03:29:53] [Warning - Spawns::loadFromXml] Water Soul ( 00024 / 00270 / 007 ) spawntime cannot be less than 1 seconds.
+[20/10/2009 03:29:53] [Warning - Spawns::loadFromXml] Water Soul ( 00025 / 00270 / 007 ) spawntime cannot be less than 1 seconds.
+[20/10/2009 03:29:53] [Spawn::addMonster] Cannot find "Hellish Tortoise"
+[20/10/2009 03:29:54] [Warning - Houses::loadFromXml] House entry not set for:  (158)
+[20/10/2009 03:29:54] > Data loading time: 2.719 seconds.
+[20/10/2009 03:29:54] > Unserialization time for houses: 0.047 seconds.
+[20/10/2009 03:30:07] > Unserialization time for map: 12.984 seconds.
+[20/10/2009 03:30:07] >> Checking world type... PvP
+[20/10/2009 03:30:07] >> Initializing game state modules and registering services...
+[20/10/2009 03:30:08] > Global address: 201.246.35.251
+[20/10/2009 03:30:08] > Local ports:
+[20/10/2009 03:30:08] 7171	7172	
+[20/10/2009 03:30:08] >> All modules were loaded, server starting up...
+[20/10/2009 03:30:08] >> Aggrometal server server Online!
+[20/10/2009 03:30:08] 
+[20/10/2009 03:30:16] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[20/10/2009 03:30:17] GOD Aggro has logged in.
+[20/10/2009 03:31:49] GOD Aggro has logged out.
+[20/10/2009 03:31:57] > Saving server...
+[20/10/2009 03:31:59] > SAVE: Complete in 1.788 seconds using relational house storage.
+[20/10/2009 03:31:59] Preparing to shutdown server..
+[20/10/2009 03:31:59] .
+[20/10/2009 03:31:59] Exiting
+[20/10/2009 19:34:17] The Forgotten Server, version 0.3.4 (Crying Damson)
+[20/10/2009 19:34:17] Sever Criado Por Alissow e Comedinha.
+[20/10/2009 19:34:17] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[20/10/2009 19:34:17] Bom Jogo!!!
+[20/10/2009 19:34:17] 
+[20/10/2009 19:34:17] >> Debugging: nothing.
+[20/10/2009 19:34:17] >> Checking software version... outdated, please consider updating!
+[20/10/2009 19:34:18] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[20/10/2009 19:34:19] > Latest version information - version: 0.3.5, patch: 1, build: 2576, timestamp: 1249584126.
+[20/10/2009 19:34:19] [Warning - ConfigManager::getBool] 62
+[20/10/2009 19:34:19] 
+[20/10/2009 19:34:19] >> Loading config (config.lua)
+[20/10/2009 19:34:19] > Using plaintext passwords
+[20/10/2009 19:34:19] >> Loading RSA key
+[20/10/2009 19:34:19] >> Starting SQL connection
+[20/10/2009 19:34:19] >> Running Database Manager
+[20/10/2009 19:34:19] > Optimized database.
+[20/10/2009 19:34:19] >> Loading items
+[20/10/2009 19:34:20] >> Loading groups
+[20/10/2009 19:34:20] >> Loading vocations
+[20/10/2009 19:34:20] >> Loading script systems
+[20/10/2009 19:34:20] [Warning - Weapons::registerEvent] Duplicate registered item with id: 7410
+[20/10/2009 19:34:21] [Warning - Event::loadScript] Cannot load script (data/spells/scripts/gen.lua)
+[20/10/2009 19:34:21] cannot open data/spells/scripts/gen.lua: No such file or directory
+[20/10/2009 19:34:23] [Warning - Event::loadScript] Cannot load script (data/creaturescripts/scripts/playerdeath.lua)
+[20/10/2009 19:34:24] cannot open data/creaturescripts/scripts/playerdeath.lua: No such file or directory
+[20/10/2009 19:34:24] >> Loading chat channels
+[20/10/2009 19:34:24] >> Loading outfits
+[20/10/2009 19:34:24] >> Loading experience stages
+[20/10/2009 19:34:24] >> Loading monsters
+[20/10/2009 19:34:26] >> Loading map and spawns...
+[20/10/2009 19:34:27] > Map size: 512x512.
+[20/10/2009 19:34:27] > Map descriptions: 
+[20/10/2009 19:34:27] Saved with Remere's Map Editor 1.1.9
+[20/10/2009 19:34:27] Remere 's Map Editor Beta
+[20/10/2009 19:34:29] Duplicate uniqueId 2471
+[20/10/2009 19:34:30] > Map loading time: 3.406 seconds.
+[20/10/2009 19:34:30] [Spawn::addMonster] Cannot find "Halloween Pumpkin"
+[20/10/2009 19:34:30] [Spawn::addMonster] Cannot find "Halloween Pumpkin"
+[20/10/2009 19:34:30] [Spawn::addMonster] Cannot find "Hellish Tortoise"
+[20/10/2009 19:34:30] [Spawn::addMonster] Cannot find "Hellish Tortoise"
+[20/10/2009 19:34:30] [Spawn::addMonster] Cannot find "Hellish Tortoise"
+[20/10/2009 19:34:30] [Spawn::addMonster] Cannot find "Halloween Pumpkin"
+[20/10/2009 19:34:31] [Warning - Spawns::loadFromXml] Water Soul ( 00024 / 00268 / 007 ) spawntime cannot be less than 1 seconds.
+[20/10/2009 19:34:31] [Warning - Spawns::loadFromXml] Water Soul ( 00025 / 00268 / 007 ) spawntime cannot be less than 1 seconds.
+[20/10/2009 19:34:31] [Warning - Spawns::loadFromXml] Water Soul ( 00026 / 00268 / 007 ) spawntime cannot be less than 1 seconds.
+[20/10/2009 19:34:31] [Warning - Spawns::loadFromXml] Water Soul ( 00024 / 00269 / 007 ) spawntime cannot be less than 1 seconds.
+[20/10/2009 19:34:31] [Warning - Spawns::loadFromXml] Water Soul ( 00025 / 00269 / 007 ) spawntime cannot be less than 1 seconds.
+[20/10/2009 19:34:31] [Warning - Spawns::loadFromXml] Water Soul ( 00026 / 00269 / 007 ) spawntime cannot be less than 1 seconds.
+[20/10/2009 19:34:31] [Warning - Spawns::loadFromXml] Water Soul ( 00024 / 00270 / 007 ) spawntime cannot be less than 1 seconds.
+[20/10/2009 19:34:31] [Warning - Spawns::loadFromXml] Water Soul ( 00025 / 00270 / 007 ) spawntime cannot be less than 1 seconds.
+[20/10/2009 19:34:31] [Spawn::addMonster] Cannot find "Hellish Tortoise"
+[20/10/2009 19:34:32] [Warning - Houses::loadFromXml] House entry not set for:  (158)
+[20/10/2009 19:34:32] > Data loading time: 1.891 seconds.
+[20/10/2009 19:34:32] > Unserialization time for houses: 0.031 seconds.
+[20/10/2009 19:34:43] > Unserialization time for map: 10.813 seconds.
+[20/10/2009 19:34:43] >> Checking world type... PvP
+[20/10/2009 19:34:43] >> Initializing game state modules and registering services...
+[20/10/2009 19:34:43] > Global address: 201.246.34.149
+[20/10/2009 19:34:43] > Local ports:
+[20/10/2009 19:34:43] 7171	7172	
+[20/10/2009 19:34:43] >> All modules were loaded, server starting up...
+[20/10/2009 19:34:43] >> Aggrometal server server Online!
+[20/10/2009 19:34:43] 
+[20/10/2009 19:35:11] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[20/10/2009 19:35:13] GOD Aggro has logged in.
+[20/10/2009 19:44:25] Account Manager has logged in.
+[20/10/2009 19:44:41] Account Manager has logged out.
+[20/10/2009 19:44:42] Account Manager has logged in.
+[20/10/2009 19:45:07] Account Manager has logged out.
+[20/10/2009 19:45:14] Account Manager has logged in.
+[20/10/2009 19:45:46] Account Manager has logged out.
+[20/10/2009 19:45:58] Ckacko has logged in.
+[20/10/2009 19:45:59] Ckacko has logged out.
+[20/10/2009 19:46:14] Ckacko has logged in.
+[20/10/2009 19:46:58] > CLEAN: Removed 6 items from 19 tiles in 0.063 seconds.
+[20/10/2009 19:49:25] > Saving server...
+[20/10/2009 19:49:29] > SAVE: Complete in 3.703 seconds using relational house storage.
+[20/10/2009 19:50:03] GOD Aggro has logged out.
+[20/10/2009 19:50:14] Test has logged in.
+[20/10/2009 19:51:26] Account Manager has logged in.
+[20/10/2009 19:51:39] [Notice - Game::reloadInfo] Reload type does not work.
+[20/10/2009 19:51:39] Reloaded outfits.
+[20/10/2009 19:52:02] Account Manager has logged out.
+[20/10/2009 19:52:06] Test has logged out.
+[20/10/2009 19:52:35] Reloaded actions.
+[20/10/2009 19:52:39] GOD Aggro has logged in.
+[20/10/2009 19:54:10] Account Manager has logged in.
+[20/10/2009 19:54:58] Account Manager has logged out.
+[20/10/2009 19:55:26] Navs has logged in.
+[20/10/2009 19:55:27] Navs has logged out.
+[20/10/2009 19:55:47] Navs has logged in.
+[20/10/2009 19:55:50] Ckacko has logged out.
+[20/10/2009 19:55:54] Ckacko has logged in.
+[20/10/2009 19:55:55] Navs has logged out.
+[20/10/2009 19:56:16] Navs has logged in.
+[20/10/2009 19:56:32] Navs has logged out.
+[20/10/2009 19:56:58] Navs has logged in.
+[20/10/2009 19:57:29] Navs has logged out.
+[20/10/2009 19:57:51] Navs has logged in.
+[20/10/2009 19:59:39] Ckacko has logged out.
+[20/10/2009 19:59:41] Ckacko has logged in.
+[20/10/2009 20:01:34] Navs has logged out.
+[20/10/2009 20:01:46] Navs has logged in.
+[20/10/2009 20:03:05] Navs has logged out.
+[20/10/2009 20:03:08] Navs has logged in.
+[20/10/2009 20:04:26] > Saving server...
+[20/10/2009 20:04:30] > SAVE: Complete in 3.11 seconds using relational house storage.
+[20/10/2009 20:05:42] [Notice - Game::reloadInfo] Reload type does not work.
+[20/10/2009 20:05:49] GOD Aggro has logged out.
+[20/10/2009 20:05:50] GOD Aggro has logged in.
+[20/10/2009 20:08:28] The Confraxxx has logged in.
+[20/10/2009 20:08:55] Navs has logged out.
+[20/10/2009 20:08:57] Navs has logged in.
+[20/10/2009 20:09:00] Ckacko has logged out.
+[20/10/2009 20:09:02] Ckacko has logged in.
+[20/10/2009 20:09:55] Navs has logged out.
+[20/10/2009 20:10:08] Navs has logged in.
+[20/10/2009 20:11:20] Navs has logged out.
+[20/10/2009 20:11:24] Navs has logged in.
+[20/10/2009 20:12:19] > The Confraxxx broadcasted: "afk".
+[20/10/2009 20:12:24] WorldType set to 'Non-PVP'.
+[20/10/2009 20:13:24] > CLEAN: Removed 96 items from 89 tiles in 0.063 seconds.
+[20/10/2009 20:14:38] Ckacko has logged out.
+[20/10/2009 20:14:40] Ckacko has logged in.
+[20/10/2009 20:17:28] Elx Rap has logged in.
+[20/10/2009 20:18:54] > CLEAN: Removed 12 items from 15 tiles in 0.047 seconds.
+[20/10/2009 20:19:27] > Saving server...
+[20/10/2009 20:19:30] > SAVE: Complete in 2.86 seconds using relational house storage.
+[20/10/2009 20:22:53] Navs has logged out.
+[20/10/2009 20:22:56] Elx Rap has logged out.
+[20/10/2009 20:23:00] Elx Rap has logged in.
+[20/10/2009 20:23:07] > Elx Rap broadcasted: "chauhca".
+[20/10/2009 20:23:17] Ckacko has logged out.
+[20/10/2009 20:23:34] Ckacko has logged in.
+[20/10/2009 20:24:09] > Elx Rap broadcasted: "Soy El MeJoR".
+[20/10/2009 20:24:14] > Elx Rap broadcasted: "xDD".
+[20/10/2009 20:25:38] The Confraxxx has logged out.
+[20/10/2009 20:25:39] The Confraxxx has logged in.
+[20/10/2009 20:28:32] Account Manager has logged in.
+[20/10/2009 20:28:43] Account Manager has logged out.
+[20/10/2009 20:28:49] Account Manager has logged in.
+[20/10/2009 20:29:03] Account Manager has logged out.
+[20/10/2009 20:29:08] Maxma has logged in.
+[20/10/2009 20:29:09] Maxma has logged out.
+[20/10/2009 20:29:23] Account Manager has logged in.
+[20/10/2009 20:29:27] Account Manager has logged out.
+[20/10/2009 20:29:29] Maxma has logged in.
+[20/10/2009 20:30:27] Chikitax has logged in.
+[20/10/2009 20:30:42] > Chikitax broadcasted: "hola amor mio :*".
+[20/10/2009 20:30:48] > Chikitax broadcasted: "y atodos".
+[20/10/2009 20:30:52] > Elx Rap broadcasted: "la casa del The Confraxxx es fea".
+[20/10/2009 20:30:56] > GOD Aggro broadcasted: "holis amorcito".
+[20/10/2009 20:30:59] > Elx Rap broadcasted: "XD".
+[20/10/2009 20:31:01] 
+[20/10/2009 20:31:01] Lua Script Error: [TalkAction Interface] 
+[20/10/2009 20:31:01] data/talkactions/scripts/createitem.lua:onSay
+[20/10/2009 20:31:01] 
+[20/10/2009 20:31:01] luaDoCreateItemEx(). Item not found
+[20/10/2009 20:31:01] 
+[20/10/2009 20:31:01] Lua Script Error: [TalkAction Interface] 
+[20/10/2009 20:31:01] data/talkactions/scripts/createitem.lua:onSay
+[20/10/2009 20:31:01] 
+[20/10/2009 20:31:01] luaDoPlayerAddItemEx(). Item not found
+[20/10/2009 20:31:44] > The Confraxxx broadcasted: "ya no mas me meto en 30 min mas oks ".
+[20/10/2009 20:31:46] The Confraxxx has logged out.
+[20/10/2009 20:32:01] Ckacko has logged out.
+[20/10/2009 20:32:02] Ckacko has logged in.
+[20/10/2009 20:32:28] Ckacko has logged out.
+[20/10/2009 20:32:29] Ckacko has logged in.
+[20/10/2009 20:32:56] Ckacko has logged out.
+[20/10/2009 20:33:00] Ckacko has logged in.
+[20/10/2009 20:33:01] Maxma has logged out.
+[20/10/2009 20:33:03] Maxma has logged in.
+[20/10/2009 20:33:17] > CLEAN: Removed 24 items from 75 tiles in 0.047 seconds.
+[20/10/2009 20:33:53] > CLEAN: Removed 0 items from 2 tiles in 0.062 seconds.
+[20/10/2009 20:34:11] Chikitax has logged out.
+[20/10/2009 20:34:28] > Saving server...
+[20/10/2009 20:34:31] > SAVE: Complete in 2.734 seconds using relational house storage.
+[20/10/2009 20:34:35] > CLEAN: Removed 0 items from 2 tiles in 0.062 seconds.
+[20/10/2009 20:35:13] > Broadcasted message: "evento".
+[20/10/2009 20:35:26] [Notice - Game::reloadInfo] Reload type does not work.
+[20/10/2009 20:35:36] > Maxma broadcasted: "el q me encuentra se gana 200cc y un golden helmet".
+[20/10/2009 20:36:14] > Maxma broadcasted: "de aki veo tornados y truenos en un pilar".
+[20/10/2009 20:37:20] > Maxma broadcasted: "acabo de ver al ckacko".
+[20/10/2009 20:37:26] > Maxma broadcasted: "aki adonde estoy yo".
+[20/10/2009 20:37:47] > Maxma broadcasted: "beo al ckecko".
+[20/10/2009 20:37:53] > Maxma broadcasted: "a se fue".
+[20/10/2009 20:37:59] > Maxma broadcasted: "esta bajo".
+[20/10/2009 20:38:31] > Maxma broadcasted: "ckacko as benido 2 beses i aun no me bes".
+[20/10/2009 20:38:50] > Maxma broadcasted: "pa los q no saben estoy invisible".
+[20/10/2009 20:39:02] > Elx Rap broadcasted: "oie da pistas po".
+[20/10/2009 20:39:20] > Maxma broadcasted: "estoy en el dp".
+[20/10/2009 20:39:23] The Confraxxx has logged in.
+[20/10/2009 20:39:28] > Maxma broadcasted: "ai bean en q piso ustede".
+[20/10/2009 20:39:46] > Maxma broadcasted: "no mas pista con esas son sufisientes".
+[20/10/2009 20:40:29] > Maxma broadcasted: "yapo busken".
+[20/10/2009 20:40:31] > CLEAN: Removed 15 items from 24 tiles in 0.047 seconds.
+[20/10/2009 20:40:45] > Maxma broadcasted: "son 300cc y un golden helmet".
+[20/10/2009 20:41:14] Account Manager has logged in.
+[20/10/2009 20:41:45] > Maxma broadcasted: "lo biste ckecko".
+[20/10/2009 20:41:53] > Maxma broadcasted: "ya buskame i te lo ganas".
+[20/10/2009 20:42:01] > CLEAN: Removed 0 items from 9 tiles in 0.047 seconds.
+[20/10/2009 20:42:01] Account Manager has logged out.
+[20/10/2009 20:42:01] Account Manager has logged in.
+[20/10/2009 20:42:05] > Maxma broadcasted: "buskame".
+[20/10/2009 20:42:11] > Maxma broadcasted: "buskenme".
+[20/10/2009 20:42:13] Account Manager has logged out.
+[20/10/2009 20:42:16] > The Confraxxx broadcasted: "llapo buskenlo Maxma".
+[20/10/2009 20:42:24] Account Manager has logged in.
+[20/10/2009 20:42:32] > Maxma broadcasted: "jajaja".
+[20/10/2009 20:42:39] > Maxma broadcasted: "buskenme i se lo ganan".
+[20/10/2009 20:42:42] Account Manager has logged out.
+[20/10/2009 20:42:52] Neirazul has logged in.
+[20/10/2009 20:42:53] > Maxma broadcasted: "a los dos q estan abajo ".
+[20/10/2009 20:42:53] Neirazul has logged out.
+[20/10/2009 20:43:04] > Maxma broadcasted: ":O".
+[20/10/2009 20:43:06] Neirazul has logged in.
+[20/10/2009 20:43:08] Elx Rap has logged out.
+[20/10/2009 20:43:09] Neirazul has logged out.
+[20/10/2009 20:43:11] Elx Rap has logged in.
+[20/10/2009 20:43:11] Elx Rap has logged out.
+[20/10/2009 20:43:14] Elx Rap has logged in.
+[20/10/2009 20:43:20] Elx Rap has logged out.
+[20/10/2009 20:43:22] Elx Rap has logged in.
+[20/10/2009 20:43:25] > Maxma broadcasted: ":O beo al elx rap".
+[20/10/2009 20:43:28] > Maxma broadcasted: ":O beo al elx rap".
+[20/10/2009 20:43:30] > Maxma broadcasted: ":O beo al elx rap".
+[20/10/2009 20:43:31] Account Manager has logged in.
+[20/10/2009 20:43:33] Account Manager has logged out.
+[20/10/2009 20:43:34] Neirazul has logged in.
+[20/10/2009 20:43:36] > Maxma broadcasted: "esta serka".
+[20/10/2009 20:43:38] Neirazul has logged out.
+[20/10/2009 20:43:50] > Maxma broadcasted: "no te bay".
+[20/10/2009 20:43:57] > Maxma broadcasted: "por aka".
+[20/10/2009 20:44:00] > Maxma broadcasted: "o serka".
+[20/10/2009 20:44:09] > Maxma broadcasted: "estabas enfrente mio resien".
+[20/10/2009 20:44:25] > Maxma broadcasted: "aora estas 2 paso alado mio".
+[20/10/2009 20:44:29] > Maxma broadcasted: "aora uno".
+[20/10/2009 20:44:44] > Maxma broadcasted: "no para elotro lado".
+[20/10/2009 20:44:46] Neirazul has logged in.
+[20/10/2009 20:44:52] Neirazul has logged out.
+[20/10/2009 20:44:53] 
+[20/10/2009 20:44:53] Lua Script Error: [TalkAction Interface] 
+[20/10/2009 20:44:53] data/talkactions/scripts/teleporthere.lua:onSay
+[20/10/2009 20:44:53] 
+[20/10/2009 20:44:53] luaGetClosestFreeTile(). Creature not found
+[20/10/2009 20:44:55] > Maxma broadcasted: "enfrente mio".
+[20/10/2009 20:45:03] > Maxma broadcasted: "mira pa abajo".
+[20/10/2009 20:45:03] Neirazul has logged in.
+[20/10/2009 20:45:07] Neirazul has logged out.
+[20/10/2009 20:45:13] > Maxma broadcasted: "ai".
+[20/10/2009 20:45:16] Neirazul has logged in.
+[20/10/2009 20:45:24] > Maxma broadcasted: "gano el elx rap".
+[20/10/2009 20:45:25] Neirazul has logged out.
+[20/10/2009 20:45:37] Neirazul has logged in.
+[20/10/2009 20:45:47] > The Confraxxx broadcasted: "dejen de crear cosas dan debug".
+[20/10/2009 20:45:49] > CLEAN: Removed 6 items from 11 tiles in 0.047 seconds.
+[20/10/2009 20:46:17] Neirazul has logged out.
+[20/10/2009 20:46:30] > Elx Rap broadcasted: "gane chako tonto".
+[20/10/2009 20:47:20] 
+[20/10/2009 20:47:20] Lua Script Error: [TalkAction Interface] 
+[20/10/2009 20:47:20] data/talkactions/scripts/teleporthere.lua:onSay
+[20/10/2009 20:47:20] 
+[20/10/2009 20:47:20] luaGetClosestFreeTile(). Creature not found
+[20/10/2009 20:48:01] Neirazul has logged in.
+[20/10/2009 20:48:04] Neirazul has logged out.
+[20/10/2009 20:48:22] Neirazul has logged in.
+[20/10/2009 20:48:35] > Elx Rap broadcasted: "hola ctm Dx".
+[20/10/2009 20:48:55] Ckacko has logged out.
+[20/10/2009 20:48:58] Ckacko has logged in.
+[20/10/2009 20:49:16] > CLEAN: Removed 17 items from 26 tiles in 0.047 seconds.
+[20/10/2009 20:49:29] > Saving server...
+[20/10/2009 20:49:32] > SAVE: Complete in 3.562 seconds using relational house storage.
+[20/10/2009 20:50:02] Elx Rap has logged out.
+[20/10/2009 20:50:05] Elx Rap has logged in.
+[20/10/2009 20:50:49] > CLEAN: Removed 10 items from 12 tiles in 0.047 seconds.
+[20/10/2009 20:50:55] Elx Rap has logged out.
+[20/10/2009 20:50:57] Elx Rap has logged in.
+[20/10/2009 20:51:04] Neirazul has logged out.
+[20/10/2009 20:51:17] Neirazul has logged in.
+[20/10/2009 20:52:30] Ckacko has logged out.
+[20/10/2009 20:52:31] Ckacko has logged in.
+[20/10/2009 20:52:36] Elx Rap has logged out.
+[20/10/2009 20:52:39] Elx Rap has logged in.
+[20/10/2009 20:54:12] Elx Rap has logged out.
+[20/10/2009 20:54:16] Elx Rap has logged in.
+[20/10/2009 20:56:52] Elx Rap has logged out.
+[20/10/2009 20:56:55] Elx Rap has logged in.
+[20/10/2009 20:57:54] Account Manager has logged in.
+[20/10/2009 20:57:55] > CLEAN: Removed 73 items from 86 tiles in 0.047 seconds.
+[20/10/2009 20:58:08] Account Manager has logged out.
+[20/10/2009 20:58:18] Account Manager has logged in.
+[20/10/2009 20:58:31] [Warning - Groups::getGroup] Group 0 not found.
+[20/10/2009 20:58:37] Elx Rap has logged out.
+[20/10/2009 20:58:39] Elx Rap has logged in.
+[20/10/2009 20:58:49] Account Manager has logged out.
+[20/10/2009 20:58:57] Tamii has logged in.
+[20/10/2009 20:58:57] [Warning - Groups::getGroup] Group 0 not found.
+[20/10/2009 20:58:57] Tamii has logged out.
+[20/10/2009 20:59:01] Neirazul has logged out.
+[20/10/2009 20:59:07] Neirazul has logged in.
+[20/10/2009 20:59:08] Account Manager has logged in.
+[20/10/2009 20:59:33] Account Manager has logged out.
+[20/10/2009 20:59:38] Account Manager has logged in.
+[20/10/2009 21:00:02] Account Manager has logged out.
+[20/10/2009 21:00:09] Martina Ignaciaa has logged in.
+[20/10/2009 21:00:11] Martina Ignaciaa has logged out.
+[20/10/2009 21:00:16] > CLEAN: Removed 2 items from 21 tiles in 0.047 seconds.
+[20/10/2009 21:00:19] > CLEAN: Removed 0 items from 1 tile in 0.047 seconds.
+[20/10/2009 21:00:27] Martina Ignaciaa has logged in.
+[20/10/2009 21:00:53] Account Manager has logged in.
+[20/10/2009 21:01:04] Account Manager has logged out.
+[20/10/2009 21:01:06] Account Manager has logged in.
+[20/10/2009 21:01:19] Account Manager has logged out.
+[20/10/2009 21:01:20] Account Manager has logged in.
+[20/10/2009 21:01:20] Account Manager has logged out.
+[20/10/2009 21:01:24] Account Manager has logged in.
+[20/10/2009 21:01:26] Neirazul has logged out.
+[20/10/2009 21:01:27] Neirazul has logged in.
+[20/10/2009 21:01:34] Account Manager has logged out.
+[20/10/2009 21:01:39] Account Manager has logged in.
+[20/10/2009 21:01:39] Orion has logged in.
+[20/10/2009 21:01:40] Orion has logged out.
+[20/10/2009 21:01:48] Elx Rap has logged out.
+[20/10/2009 21:01:50] Elx Rap has logged in.
+[20/10/2009 21:01:54] Orion has logged in.
+[20/10/2009 21:01:54] Account Manager has logged out.
+[20/10/2009 21:01:55] Account Manager has logged in.
+[20/10/2009 21:01:56] Account Manager has logged out.
+[20/10/2009 21:02:02] Account Manager has logged in.
+[20/10/2009 21:02:05] > Broadcasted message: "21:02 Neirazul [37954: LONGI QLIAO".
+[20/10/2009 21:02:23] Account Manager has logged out.
+[20/10/2009 21:02:24] Account Manager has logged in.
+[20/10/2009 21:02:25] Account Manager has logged out.
+[20/10/2009 21:02:31] Zyte has logged in.
+[20/10/2009 21:02:32] Zyte has logged out.
+[20/10/2009 21:04:22] Zyte has logged in.
+[20/10/2009 21:04:30] > Saving server...
+[20/10/2009 21:04:33] > SAVE: Complete in 3.406 seconds using relational house storage.
+[20/10/2009 21:04:54] > Elx Rap broadcasted: "k gm me alluda a adornar mi casa".
+[20/10/2009 21:04:55] > Elx Rap broadcasted: "k gm me alluda a adornar mi casa".
+[20/10/2009 21:05:03] > Elx Rap broadcasted: "k gm me alluda a adornar mi casa".
+[20/10/2009 21:05:12] > The Confraxxx broadcasted: "yo te ayudo pero pera toi meo ocupado".
+[20/10/2009 21:06:05] [Warning - Groups::getGroup] Group 0 not found.
+[20/10/2009 21:06:05] [Warning - Groups::getGroup] Group 0 not found.
+[20/10/2009 21:06:05] Tamii has logged in.
+[20/10/2009 21:06:11] Tamii has logged out.
+[20/10/2009 21:06:25] [Warning - Groups::getGroup] Group 0 not found.
+[20/10/2009 21:06:25] [Warning - Groups::getGroup] Group 0 not found.
+[20/10/2009 21:06:25] Tamii has logged in.
+[20/10/2009 21:07:21] Orion has logged out.
+[20/10/2009 21:07:22] Orion has logged in.
+[20/10/2009 21:07:54] Elx Rap has logged out.
+[20/10/2009 21:07:59] Elx Rap has logged in.
+[20/10/2009 21:08:56] The Confraxxx has logged out.
+[20/10/2009 21:13:04] Ckacko has logged out.
+[20/10/2009 21:13:16] Neirazul has logged out.
+[20/10/2009 21:13:23] Neirazul has logged in.
+[20/10/2009 21:17:47] Ckacko has logged in.
+[20/10/2009 21:17:55] Martina Ignaciaa has logged out.
+[20/10/2009 21:17:58] Martina Ignaciaa has logged in.
+[20/10/2009 21:17:58] Tamii has logged out.
+[20/10/2009 21:19:31] > Saving server...
+[20/10/2009 21:19:34] > SAVE: Complete in 3.25 seconds using relational house storage.
+[20/10/2009 21:19:52] 
+[20/10/2009 21:19:52] Lua Script Error: [TalkAction Interface] 
+[20/10/2009 21:19:52] data/talkactions/scripts/teleporthere.lua:onSay
+[20/10/2009 21:19:52] 
+[20/10/2009 21:19:52] luaGetClosestFreeTile(). Creature not found
+[20/10/2009 21:19:57] Account Manager has logged in.
+[20/10/2009 21:20:12] Account Manager has logged out.
+[20/10/2009 21:20:20] Account Manager has logged in.
+[20/10/2009 21:20:33] > Broadcasted message: "xau me boy".
+[20/10/2009 21:20:58] Account Manager has logged out.
+[20/10/2009 21:21:03] Ckacko has logged out.
+[20/10/2009 21:21:06] Petizha has logged in.
+[20/10/2009 21:21:07] Petizha has logged out.
+[20/10/2009 21:21:07] Ckacko has logged in.
+[20/10/2009 21:21:18] Neirazul has logged out.
+[20/10/2009 21:21:21] Neirazul has logged in.
+[20/10/2009 21:21:22] Ckacko has logged out.
+[20/10/2009 21:21:27] > Broadcasted message: "ola a todos tanto tiempo".
+[20/10/2009 21:21:27] Ckacko has logged in.
+[20/10/2009 21:21:28] Petizha has logged in.
+[20/10/2009 21:21:34] Petizha has logged out.
+[20/10/2009 21:21:48] Petizha has logged in.
+[20/10/2009 21:22:48] Elx Rap has logged out.
+[20/10/2009 21:22:50] Elx Rap has logged in.
+[20/10/2009 21:23:25] > Elx Rap broadcasted: "HOLA CABROS".
+[20/10/2009 21:23:56] > Broadcasted message: "ola cabros".
+[20/10/2009 21:24:09] > CLEAN: Removed 420 items from 650 tiles in 0.078 seconds.
+[20/10/2009 21:24:21] > Broadcasted message: "q".
+[20/10/2009 21:24:26] > Broadcasted message: "q".
+[20/10/2009 21:24:26] > Broadcasted message: "q".
+[20/10/2009 21:24:28] Zyte has logged out.
+[20/10/2009 21:24:35] Julio has logged in.
+[20/10/2009 21:24:54] Julio has logged out.
+[20/10/2009 21:24:56] Julio has logged in.
+[20/10/2009 21:25:29] Julio has logged out.
+[20/10/2009 21:25:29] 
+[20/10/2009 21:25:29] Lua Script Error: [Spell Interface] 
+[20/10/2009 21:25:29] in a timer event called from: 
+[20/10/2009 21:25:29] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[20/10/2009 21:25:29] 
+[20/10/2009 21:25:29] luaDoCombat(). Creature not found
+[20/10/2009 21:25:29] 
+[20/10/2009 21:25:29] Lua Script Error: [Spell Interface] 
+[20/10/2009 21:25:29] in a timer event called from: 
+[20/10/2009 21:25:30] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[20/10/2009 21:25:30] 
+[20/10/2009 21:25:30] luaDoCombat(). Creature not found
+[20/10/2009 21:25:30] 
+[20/10/2009 21:25:30] Lua Script Error: [Spell Interface] 
+[20/10/2009 21:25:30] in a timer event called from: 
+[20/10/2009 21:25:30] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[20/10/2009 21:25:30] 
+[20/10/2009 21:25:30] luaDoCombat(). Creature not found
+[20/10/2009 21:25:30] 
+[20/10/2009 21:25:30] Lua Script Error: [Spell Interface] 
+[20/10/2009 21:25:30] in a timer event called from: 
+[20/10/2009 21:25:30] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[20/10/2009 21:25:30] 
+[20/10/2009 21:25:30] luaDoCombat(). Creature not found
+[20/10/2009 21:25:30] 
+[20/10/2009 21:25:30] Lua Script Error: [Spell Interface] 
+[20/10/2009 21:25:30] in a timer event called from: 
+[20/10/2009 21:25:30] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[20/10/2009 21:25:30] 
+[20/10/2009 21:25:30] luaDoCombat(). Creature not found
+[20/10/2009 21:25:30] 
+[20/10/2009 21:25:30] Lua Script Error: [Spell Interface] 
+[20/10/2009 21:25:30] in a timer event called from: 
+[20/10/2009 21:25:30] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[20/10/2009 21:25:30] 
+[20/10/2009 21:25:30] luaDoCombat(). Creature not found
+[20/10/2009 21:25:30] 
+[20/10/2009 21:25:30] Lua Script Error: [Spell Interface] 
+[20/10/2009 21:25:31] in a timer event called from: 
+[20/10/2009 21:25:31] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[20/10/2009 21:25:31] 
+[20/10/2009 21:25:31] luaDoCombat(). Creature not found
+[20/10/2009 21:25:31] 
+[20/10/2009 21:25:31] Lua Script Error: [Spell Interface] 
+[20/10/2009 21:25:31] in a timer event called from: 
+[20/10/2009 21:25:31] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[20/10/2009 21:25:31] 
+[20/10/2009 21:25:31] luaDoCombat(). Creature not found
+[20/10/2009 21:25:31] 
+[20/10/2009 21:25:31] Lua Script Error: [Spell Interface] 
+[20/10/2009 21:25:31] in a timer event called from: 
+[20/10/2009 21:25:31] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[20/10/2009 21:25:31] 
+[20/10/2009 21:25:31] luaDoCombat(). Creature not found
+[20/10/2009 21:25:31] 
+[20/10/2009 21:25:31] Lua Script Error: [Spell Interface] 
+[20/10/2009 21:25:31] in a timer event called from: 
+[20/10/2009 21:25:31] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[20/10/2009 21:25:31] 
+[20/10/2009 21:25:31] luaDoCombat(). Creature not found
+[20/10/2009 21:25:31] 
+[20/10/2009 21:25:31] Lua Script Error: [Spell Interface] 
+[20/10/2009 21:25:31] in a timer event called from: 
+[20/10/2009 21:25:31] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[20/10/2009 21:25:32] 
+[20/10/2009 21:25:32] luaDoCombat(). Creature not found
+[20/10/2009 21:25:35] Julio has logged in.
+[20/10/2009 21:25:35] > CLEAN: Removed 49 items from 96 tiles in 0.063 seconds.
+[20/10/2009 21:26:01] WorldType set to 'PVP'.
+[20/10/2009 21:26:07] Julio has logged out.
+[20/10/2009 21:26:09] Julio has logged in.
+[20/10/2009 21:26:19] Julio has logged out.
+[20/10/2009 21:26:21] Julio has logged in.
+[20/10/2009 21:26:35] Ckacko has logged out.
+[20/10/2009 21:26:36] 
+[20/10/2009 21:26:36] Lua Script Error: [TalkAction Interface] 
+[20/10/2009 21:26:36] data/talkactions/scripts/mode.lua:onSay
+[20/10/2009 21:26:36] 
+[20/10/2009 21:26:36] data/lib/function.lua:561: bad argument #1 to 'pairs' (table expected, got nil)
+[20/10/2009 21:26:36] stack traceback:
+[20/10/2009 21:26:36] 	[C]: in function 'pairs'
+[20/10/2009 21:26:36] 	data/lib/function.lua:561: in function 'isStrIn'
+[20/10/2009 21:26:36] 	data/talkactions/scripts/mode.lua:16: in function <data/talkactions/scripts/mode.lua:7>
+[20/10/2009 21:26:42] Neirazul has logged out.
+[20/10/2009 21:26:44] > Elx Rap broadcasted: "el Neirazul es gm ??".
+[20/10/2009 21:26:49] Neirazul has logged in.
+[20/10/2009 21:26:53] 
+[20/10/2009 21:26:53] Lua Script Error: [TalkAction Interface] 
+[20/10/2009 21:26:53] data/talkactions/scripts/mode.lua:onSay
+[20/10/2009 21:26:53] 
+[20/10/2009 21:26:53] data/lib/function.lua:561: bad argument #1 to 'pairs' (table expected, got nil)
+[20/10/2009 21:26:53] stack traceback:
+[20/10/2009 21:26:53] 	[C]: in function 'pairs'
+[20/10/2009 21:26:53] 	data/lib/function.lua:561: in function 'isStrIn'
+[20/10/2009 21:26:53] 	data/talkactions/scripts/mode.lua:16: in function <data/talkactions/scripts/mode.lua:7>
+[20/10/2009 21:27:13] Julio has logged out.
+[20/10/2009 21:27:15] Julio has logged in.
+[20/10/2009 21:27:26] Elx Rap has logged out.
+[20/10/2009 21:27:28] Julio has logged out.
+[20/10/2009 21:27:28] Neirazul has logged out.
+[20/10/2009 21:27:29] Elx Rap has logged in.
+[20/10/2009 21:27:29] Julio has logged in.
+[20/10/2009 21:27:32] [Warning - Groups::getGroup] Group 0 not found.
+[20/10/2009 21:27:35] [Warning - Groups::getGroup] Group 0 not found.
+[20/10/2009 21:28:16] > Broadcasted message: "voy a editar el server boy a tar off".
+[20/10/2009 21:28:20] GOD Aggro has logged out.
+[20/10/2009 21:28:25] GOD Aggro has logged in.
+[20/10/2009 21:28:58] > CLEAN: Removed 123 items from 195 tiles in 0.063 seconds.
+[20/10/2009 21:29:01] Account Manager has logged in.
+[20/10/2009 21:29:01] GOD Aggro has logged out.
+[20/10/2009 21:29:11] > Maxma broadcasted: "kieren evento".
+[20/10/2009 21:29:17] > Maxma broadcasted: "kieren evento".
+[20/10/2009 21:29:28] Account Manager has logged out.
+[20/10/2009 21:29:41] Account Manager has logged in.
+[20/10/2009 21:29:57] Account Manager has logged out.
+[20/10/2009 21:30:04] Neirazul jrs has logged in.
+[20/10/2009 21:30:05] Neirazul jrs has logged out.
+[20/10/2009 21:30:14] Account Manager has logged in.
+[20/10/2009 21:30:19] Neirazul jrs has logged in.
+[20/10/2009 21:30:20] Account Manager has logged out.
+[20/10/2009 21:30:53] Orion has logged out.
+[20/10/2009 21:30:55] Orion has logged in.
+[20/10/2009 21:31:20] Orion has logged out.
+[20/10/2009 21:31:21] Orion has logged in.
+[20/10/2009 21:31:37] Neirazul jrs has logged out.
+[20/10/2009 21:31:43] Neirazul jrs has logged in.
+[20/10/2009 21:31:58] Account Manager has logged in.
+[20/10/2009 21:31:59] Elx Rap has logged out.
+[20/10/2009 21:32:03] Elx Rap has logged in.
+[20/10/2009 21:32:07] Orion has logged out.
+[20/10/2009 21:32:14] Account Manager has logged out.
+[20/10/2009 21:32:24] Account Manager has logged in.
+[20/10/2009 21:32:34] Elx Rap has logged out.
+[20/10/2009 21:32:38] Elx Rap has logged in.
+[20/10/2009 21:32:42] Account Manager has logged out.
+[20/10/2009 21:32:54] Vincent Valentine has logged in.
+[20/10/2009 21:32:55] Vincent Valentine has logged out.
+[20/10/2009 21:33:02] > CLEAN: Removed 69 items from 76 tiles in 0.062 seconds.
+[20/10/2009 21:33:17] Vincent Valentine has logged in.
+[20/10/2009 21:33:24] Elx Rap has logged out.
+[20/10/2009 21:33:24] Vincent Valentine has logged out.
+[20/10/2009 21:33:27] Elx Rap has logged in.
+[20/10/2009 21:33:31] Vincent Valentine has logged in.
+[20/10/2009 21:33:54] Vincent Valentine has logged out.
+[20/10/2009 21:34:14] Chikitax has logged in.
+[20/10/2009 21:34:22] Elx Rap has logged out.
+[20/10/2009 21:34:25] > Broadcasted message: "Game map cleaning within 30 seconds, please pick up your items!".
+[20/10/2009 21:34:26] > Chikitax broadcasted: "hola atodos xD".
+[20/10/2009 21:34:28] Elx Rap has logged in.
+[20/10/2009 21:34:32] > Saving server...
+[20/10/2009 21:34:38] > SAVE: Complete in 6.047 seconds using relational house storage.
+[20/10/2009 21:34:39] GOD Aggro has logged in.
+[20/10/2009 21:34:56] > CLEAN: Removed 27 items from 30 tiles in 0.047 seconds.
+[20/10/2009 21:34:56] > Broadcasted message: "Game map cleaned, next clean in 2 hours.".
+[20/10/2009 21:35:02] Elx Rap has logged out.
+[20/10/2009 21:35:05] Elx Rap has logged in.
+[20/10/2009 21:35:15] > CLEAN: Removed 4 items from 5 tiles in 0.046 seconds.
+[20/10/2009 21:35:21] WorldType set to 'Non-PVP'.
+[20/10/2009 21:35:56] GOD Aggro has logged out.
+[20/10/2009 21:37:33] > CLEAN: Removed 15 items from 23 tiles in 0.125 seconds.
+[20/10/2009 21:38:23] Petizha has logged out.
+[20/10/2009 21:39:13] > CLEAN: Removed 13 items from 14 tiles in 0.063 seconds.
+[20/10/2009 21:41:04] Chikitax has logged out.
+[20/10/2009 21:41:06] Chikitax has logged in.
+[20/10/2009 21:41:57] Elx Rap has logged out.
+[20/10/2009 21:41:57] 
+[20/10/2009 21:41:57] Lua Script Error: [Spell Interface] 
+[20/10/2009 21:41:57] in a timer event called from: 
+[20/10/2009 21:41:57] data/spells/scripts/attack/meteora.lua:onCastSpell
+[20/10/2009 21:41:57] 
+[20/10/2009 21:41:57] luaDoCombat(). Creature not found
+[20/10/2009 21:41:57] 
+[20/10/2009 21:41:57] Lua Script Error: [Spell Interface] 
+[20/10/2009 21:41:57] in a timer event called from: 
+[20/10/2009 21:41:57] data/spells/scripts/attack/meteora.lua:onCastSpell
+[20/10/2009 21:41:57] 
+[20/10/2009 21:41:57] luaDoCombat(). Creature not found
+[20/10/2009 21:41:57] 
+[20/10/2009 21:41:57] Lua Script Error: [Spell Interface] 
+[20/10/2009 21:41:57] in a timer event called from: 
+[20/10/2009 21:41:57] data/spells/scripts/attack/meteora.lua:onCastSpell
+[20/10/2009 21:41:58] 
+[20/10/2009 21:41:58] luaDoCombat(). Creature not found
+[20/10/2009 21:41:58] 
+[20/10/2009 21:41:58] Lua Script Error: [Spell Interface] 
+[20/10/2009 21:41:58] in a timer event called from: 
+[20/10/2009 21:41:58] data/spells/scripts/attack/meteora.lua:onCastSpell
+[20/10/2009 21:41:58] 
+[20/10/2009 21:41:58] luaDoCombat(). Creature not found
+[20/10/2009 21:42:00] Elx Rap has logged in.
+[20/10/2009 21:43:39] 
+[20/10/2009 21:43:39] Lua Script Error: [TalkAction Interface] 
+[20/10/2009 21:43:39] data/talkactions/scripts/teleporthere.lua:onSay
+[20/10/2009 21:43:39] 
+[20/10/2009 21:43:39] luaGetClosestFreeTile(). Creature not found
+[20/10/2009 21:43:43] 
+[20/10/2009 21:43:43] Lua Script Error: [TalkAction Interface] 
+[20/10/2009 21:43:43] data/talkactions/scripts/teleporthere.lua:onSay
+[20/10/2009 21:43:43] 
+[20/10/2009 21:43:43] luaGetClosestFreeTile(). Creature not found
+[20/10/2009 21:44:14] Sirpepa has logged in.
+[20/10/2009 21:44:14] [Warning - Groups::getGroup] Group 0 not found.
+[20/10/2009 21:44:14] [Warning - Groups::getGroup] Group 0 not found.
+[20/10/2009 21:44:14] Tamii has logged in.
+[20/10/2009 21:44:41] Tamii has logged out.
+[20/10/2009 21:45:08] Elx Rap has logged out.
+[20/10/2009 21:45:11] Elx Rap has logged in.
+[20/10/2009 21:45:12] Julio has logged out.
+[20/10/2009 21:45:14] Julio has logged in.
+[20/10/2009 21:46:05] Elx Rap has logged out.
+[20/10/2009 21:46:08] Elx Rap has logged in.
+[20/10/2009 21:46:44] Julio has logged out.
+[20/10/2009 21:46:44] 
+[20/10/2009 21:46:44] Lua Script Error: [Spell Interface] 
+[20/10/2009 21:46:44] in a timer event called from: 
+[20/10/2009 21:46:44] data/spells/scripts/attack/KINADOIS.lua:onCastSpell
+[20/10/2009 21:46:44] 
+[20/10/2009 21:46:44] luaDoCombat(). Creature not found
+[20/10/2009 21:46:44] 
+[20/10/2009 21:46:44] Lua Script Error: [Spell Interface] 
+[20/10/2009 21:46:44] in a timer event called from: 
+[20/10/2009 21:46:44] data/spells/scripts/attack/KINADOIS.lua:onCastSpell
+[20/10/2009 21:46:44] 
+[20/10/2009 21:46:44] luaDoCombat(). Creature not found
+[20/10/2009 21:46:44] 
+[20/10/2009 21:46:44] Lua Script Error: [Spell Interface] 
+[20/10/2009 21:46:44] in a timer event called from: 
+[20/10/2009 21:46:45] data/spells/scripts/attack/KINADOIS.lua:onCastSpell
+[20/10/2009 21:46:45] 
+[20/10/2009 21:46:45] luaDoCombat(). Creature not found
+[20/10/2009 21:46:45] 
+[20/10/2009 21:46:45] Lua Script Error: [Spell Interface] 
+[20/10/2009 21:46:45] in a timer event called from: 
+[20/10/2009 21:46:45] data/spells/scripts/attack/KINADOIS.lua:onCastSpell
+[20/10/2009 21:46:45] 
+[20/10/2009 21:46:45] luaDoCombat(). Creature not found
+[20/10/2009 21:46:45] 
+[20/10/2009 21:46:45] Lua Script Error: [Spell Interface] 
+[20/10/2009 21:46:45] in a timer event called from: 
+[20/10/2009 21:46:45] data/spells/scripts/attack/KINADOIS.lua:onCastSpell
+[20/10/2009 21:46:45] 
+[20/10/2009 21:46:45] luaDoCombat(). Creature not found
+[20/10/2009 21:46:45] 
+[20/10/2009 21:46:45] Lua Script Error: [Spell Interface] 
+[20/10/2009 21:46:45] in a timer event called from: 
+[20/10/2009 21:46:45] data/spells/scripts/attack/KINADOIS.lua:onCastSpell
+[20/10/2009 21:46:45] 
+[20/10/2009 21:46:45] luaDoCombat(). Creature not found
+[20/10/2009 21:46:45] 
+[20/10/2009 21:46:45] Lua Script Error: [Spell Interface] 
+[20/10/2009 21:46:45] in a timer event called from: 
+[20/10/2009 21:46:45] data/spells/scripts/attack/KINADOIS.lua:onCastSpell
+[20/10/2009 21:46:46] 
+[20/10/2009 21:46:46] luaDoCombat(). Creature not found
+[20/10/2009 21:46:46] 
+[20/10/2009 21:46:46] Lua Script Error: [Spell Interface] 
+[20/10/2009 21:46:46] in a timer event called from: 
+[20/10/2009 21:46:46] data/spells/scripts/attack/KINADOIS.lua:onCastSpell
+[20/10/2009 21:46:46] 
+[20/10/2009 21:46:46] luaDoCombat(). Creature not found
+[20/10/2009 21:46:46] 
+[20/10/2009 21:46:46] Lua Script Error: [Spell Interface] 
+[20/10/2009 21:46:46] in a timer event called from: 
+[20/10/2009 21:46:46] data/spells/scripts/attack/KINADOIS.lua:onCastSpell
+[20/10/2009 21:46:46] 
+[20/10/2009 21:46:46] luaDoCombat(). Creature not found
+[20/10/2009 21:46:46] 
+[20/10/2009 21:46:46] Lua Script Error: [Spell Interface] 
+[20/10/2009 21:46:46] in a timer event called from: 
+[20/10/2009 21:46:46] data/spells/scripts/attack/KINADOIS.lua:onCastSpell
+[20/10/2009 21:46:46] 
+[20/10/2009 21:46:46] luaDoCombat(). Creature not found
+[20/10/2009 21:46:46] 
+[20/10/2009 21:46:46] Lua Script Error: [Spell Interface] 
+[20/10/2009 21:46:46] in a timer event called from: 
+[20/10/2009 21:46:46] data/spells/scripts/attack/KINADOIS.lua:onCastSpell
+[20/10/2009 21:46:47] 
+[20/10/2009 21:46:47] luaDoCombat(). Creature not found
+[20/10/2009 21:46:47] 
+[20/10/2009 21:46:47] Lua Script Error: [Spell Interface] 
+[20/10/2009 21:46:47] in a timer event called from: 
+[20/10/2009 21:46:47] data/spells/scripts/attack/KINADOIS.lua:onCastSpell
+[20/10/2009 21:46:47] 
+[20/10/2009 21:46:47] luaDoCombat(). Creature not found
+[20/10/2009 21:46:47] 
+[20/10/2009 21:46:47] Lua Script Error: [Spell Interface] 
+[20/10/2009 21:46:47] in a timer event called from: 
+[20/10/2009 21:46:47] data/spells/scripts/attack/KINADOIS.lua:onCastSpell
+[20/10/2009 21:46:47] 
+[20/10/2009 21:46:47] luaDoCombat(). Creature not found
+[20/10/2009 21:46:47] 
+[20/10/2009 21:46:47] Lua Script Error: [Spell Interface] 
+[20/10/2009 21:46:47] in a timer event called from: 
+[20/10/2009 21:46:47] data/spells/scripts/attack/KINADOIS.lua:onCastSpell
+[20/10/2009 21:46:47] 
+[20/10/2009 21:46:47] luaDoCombat(). Creature not found
+[20/10/2009 21:46:47] 
+[20/10/2009 21:46:47] Lua Script Error: [Spell Interface] 
+[20/10/2009 21:46:47] in a timer event called from: 
+[20/10/2009 21:46:47] data/spells/scripts/attack/KINADOIS.lua:onCastSpell
+[20/10/2009 21:46:48] 
+[20/10/2009 21:46:48] luaDoCombat(). Creature not found
+[20/10/2009 21:46:48] Julio has logged in.
+[20/10/2009 21:47:29] Elx Rap has logged out.
+[20/10/2009 21:47:31] Elx Rap has logged in.
+[20/10/2009 21:48:34] Julio has logged out.
+[20/10/2009 21:48:39] > CLEAN: Removed 73 items from 67 tiles in 0.063 seconds.
+[20/10/2009 21:48:48] > Maxma broadcasted: "los q kieran evento diganme".
+[20/10/2009 21:48:51] Elx Rap has logged out.
+[20/10/2009 21:49:04] Elx Rap has logged in.
+[20/10/2009 21:49:21] Chikitax has logged out.
+[20/10/2009 21:49:22] Chikitax has logged in.
+[20/10/2009 21:49:33] > Saving server...
+[20/10/2009 21:49:38] > SAVE: Complete in 5.031 seconds using relational house storage.
+[20/10/2009 21:49:40] > Maxma broadcasted: "kien kiere un duelo con el elx rap".
+[20/10/2009 21:49:41] > Maxma broadcasted: "kien kiere un duelo con el elx rap".
+[20/10/2009 21:49:51] > Elx Rap broadcasted: "me tienen miedo".
+[20/10/2009 21:50:06] > Maxma broadcasted: "ok el sirpepa vs elx rap".
+[20/10/2009 21:51:54] GOD Aggro has logged in.
+[20/10/2009 21:53:12] Neirazul jrs has logged out.
+[20/10/2009 21:53:14] Neirazul jrs has logged in.
+[20/10/2009 21:53:15] Sirpepa has logged out.
+[20/10/2009 21:53:18] Sirpepa has logged in.
+[20/10/2009 21:55:05] Elx Rap has logged out.
+[20/10/2009 21:55:08] Elx Rap has logged in.
+[20/10/2009 21:55:29] Sirpepa has logged out.
+[20/10/2009 21:55:31] Sirpepa has logged in.
+[20/10/2009 21:56:10] Account Manager has logged in.
+[20/10/2009 21:56:11] Account Manager has logged out.
+[20/10/2009 21:56:14] Chikitax has logged out.
+[20/10/2009 21:56:16] Chikitax has logged in.
+[20/10/2009 21:58:09] Sirpepa has logged out.
+[20/10/2009 21:58:11] Elx Rap has logged out.
+[20/10/2009 21:58:13] Sirpepa has logged in.
+[20/10/2009 21:58:14] Elx Rap has logged in.
+[20/10/2009 22:00:32] Chikitax has logged out.
+[20/10/2009 22:01:51] > CLEAN: Removed 180 items from 218 tiles in 0.078 seconds.
+[20/10/2009 22:01:52] > CLEAN: Removed 0 items from 1 tile in 0.062 seconds.
+[20/10/2009 22:01:53] > CLEAN: Removed 0 items from 1 tile in 0.125 seconds.
+[20/10/2009 22:02:30] > CLEAN: Removed 0 items from 1 tile in 0.047 seconds.
+[20/10/2009 22:04:34] > Saving server...
+[20/10/2009 22:04:37] > SAVE: Complete in 3.438 seconds using relational house storage.
+[20/10/2009 22:06:30] Neirazul jrs has logged out.
+[20/10/2009 22:06:37] Elx Rap has logged out.
+[20/10/2009 22:06:39] Elx Rap has logged in.
+[20/10/2009 22:10:17] > CLEAN: Removed 46 items from 104 tiles in 0.063 seconds.
+[20/10/2009 22:11:02] Sirpepa has logged out.
+[20/10/2009 22:12:23] Elx Rap has logged out.
+[20/10/2009 22:12:26] Elx Rap has logged in.
+[20/10/2009 22:12:48] Elx Rap has logged out.
+[20/10/2009 22:12:50] Elx Rap has logged in.
+[20/10/2009 22:13:51] Elx Rap has logged out.
+[20/10/2009 22:13:57] Elx Rap has logged in.
+[20/10/2009 22:14:33] Martina Ignaciaa has logged out.
+[20/10/2009 22:14:34] 
+[20/10/2009 22:14:34] Lua Script Error: [Spell Interface] 
+[20/10/2009 22:14:34] in a timer event called from: 
+[20/10/2009 22:14:34] data/spells/scripts/attack/gen.lua:onCastSpell
+[20/10/2009 22:14:34] 
+[20/10/2009 22:14:34] luaDoCombat(). Creature not found
+[20/10/2009 22:14:34] 
+[20/10/2009 22:14:34] Lua Script Error: [Spell Interface] 
+[20/10/2009 22:14:34] in a timer event called from: 
+[20/10/2009 22:14:34] data/spells/scripts/attack/gen.lua:onCastSpell
+[20/10/2009 22:14:34] 
+[20/10/2009 22:14:34] luaDoCombat(). Creature not found
+[20/10/2009 22:14:34] 
+[20/10/2009 22:14:34] Lua Script Error: [Spell Interface] 
+[20/10/2009 22:14:34] in a timer event called from: 
+[20/10/2009 22:14:34] data/spells/scripts/attack/gen.lua:onCastSpell
+[20/10/2009 22:14:34] 
+[20/10/2009 22:14:34] luaDoCombat(). Creature not found
+[20/10/2009 22:14:36] Martina Ignaciaa has logged in.
+[20/10/2009 22:14:38] Martina Ignaciaa has logged out.
+[20/10/2009 22:14:41] Martina Ignaciaa has logged in.
+[20/10/2009 22:14:58] > CLEAN: Removed 33 items from 32 tiles in 0.063 seconds.
+[20/10/2009 22:15:12] Elx Rap has logged out.
+[20/10/2009 22:15:17] Elx Rap has logged in.
+[20/10/2009 22:15:49] Martina Ignaciaa has logged out.
+[20/10/2009 22:15:51] Martina Ignaciaa has logged in.
+[20/10/2009 22:15:52] Elx Rap has logged out.
+[20/10/2009 22:15:54] Martina Ignaciaa has logged out.
+[20/10/2009 22:15:54] Elx Rap has logged in.
+[20/10/2009 22:15:55] Martina Ignaciaa has logged in.
+[20/10/2009 22:15:59] Martina Ignaciaa has logged out.
+[20/10/2009 22:16:05] Martina Ignaciaa has logged in.
+[20/10/2009 22:16:17] > CLEAN: Removed 4 items from 16 tiles in 0.047 seconds.
+[20/10/2009 22:16:18] > CLEAN: Removed 0 items from 0 tiles in 0.062 seconds.
+[20/10/2009 22:16:19] > CLEAN: Removed 0 items from 0 tiles in 0.047 seconds.
+[20/10/2009 22:17:05] Martina Ignaciaa has logged out.
+[20/10/2009 22:17:07] Elx Rap has logged out.
+[20/10/2009 22:17:09] Elx Rap has logged in.
+[20/10/2009 22:17:26] > CLEAN: Removed 12 items from 21 tiles in 0.062 seconds.
+[20/10/2009 22:17:34] > CLEAN: Removed 0 items from 0 tiles in 0.046 seconds.
+[20/10/2009 22:17:41] > CLEAN: Removed 0 items from 1 tile in 0.062 seconds.
+[20/10/2009 22:17:47] Martina Ignaciaa has logged in.
+[20/10/2009 22:19:35] > Saving server...
+[20/10/2009 22:19:41] > SAVE: Complete in 5.297 seconds using relational house storage.
+[20/10/2009 22:21:22] > CLEAN: Removed 14 items from 29 tiles in 0.046 seconds.
+[20/10/2009 22:23:17] > Broadcasted message: "The Confraxxx".
+[20/10/2009 22:23:28] > Broadcasted message: "yo bi al the comfraxx dando lvl a lokos".
+[20/10/2009 22:23:36] > Broadcasted message: "yo bi al the comfraxx dando lvl a lokos".
+[20/10/2009 22:24:38] Maxma has logged out.
+[20/10/2009 22:25:08] > Elx Rap broadcasted: "god aggro aseme cm porfa".
+[20/10/2009 22:26:30] > Elx Rap broadcasted: "Martina Ignaciaa [10793: como se habla en rojo ? :$".
+[20/10/2009 22:27:31] Elx Rap has logged out.
+[20/10/2009 22:27:32] 
+[20/10/2009 22:27:32] Lua Script Error: [Spell Interface] 
+[20/10/2009 22:27:32] in a timer event called from: 
+[20/10/2009 22:27:32] data/spells/scripts/attack/gen.lua:onCastSpell
+[20/10/2009 22:27:32] 
+[20/10/2009 22:27:32] luaDoCombat(). Creature not found
+[20/10/2009 22:27:34] Elx Rap has logged in.
+[20/10/2009 22:28:26] > Elx Rap broadcasted: "la martina ignacia esta ruica :P".
+[20/10/2009 22:29:08] > Elx Rap broadcasted: "Martina Ignaciaa [11066: /broadcast hola ?".
+[20/10/2009 22:29:26] > Elx Rap broadcasted: "Martina Ignaciaa [11066: hay servers qe se hace eso ?".
+[20/10/2009 22:29:46] > Elx Rap broadcasted: "Martina Ignaciaa [11066: donde compro addons ?".
+[20/10/2009 22:30:29] Sirpepa has logged in.
+[20/10/2009 22:32:10] > Elx Rap broadcasted: "Martina Ignaciaa ben al depo rapido".
+[20/10/2009 22:34:34] Account Manager has logged in.
+[20/10/2009 22:34:36] > Saving server...
+[20/10/2009 22:34:39] > SAVE: Complete in 2.782 seconds using relational house storage.
+[20/10/2009 22:34:52] Account Manager has logged out.
+[20/10/2009 22:34:59] Account Manager has logged in.
+[20/10/2009 22:35:26] Account Manager has logged out.
+[20/10/2009 22:35:34] Pedro has logged in.
+[20/10/2009 22:35:34] Pedro has logged out.
+[20/10/2009 22:35:55] Pedro has logged in.
+[20/10/2009 22:37:38] Sirpepa has logged out.
+[20/10/2009 22:37:40] Sirpepa has logged in.
+[20/10/2009 22:38:11] Account Manager has logged in.
+[20/10/2009 22:38:14] Account Manager has logged out.
+[20/10/2009 22:38:15] Account Manager has logged in.
+[20/10/2009 22:38:16] Account Manager has logged out.
+[20/10/2009 22:38:38] Pedro has logged out.
+[20/10/2009 22:38:39] Pedro has logged in.
+[20/10/2009 22:39:36] Pedro has logged out.
+[20/10/2009 22:39:38] Pedro has logged in.
+[20/10/2009 22:40:20] Account Manager has logged in.
+[20/10/2009 22:40:23] Account Manager has logged out.
+[20/10/2009 22:40:56] Martina Ignaciaa has logged out.
+[20/10/2009 22:40:59] Martina Ignaciaa has logged in.
+[20/10/2009 22:41:03] Account Manager has logged in.
+[20/10/2009 22:41:05] Account Manager has logged out.
+[20/10/2009 22:41:19] Alex rey has logged in.
+[20/10/2009 22:41:26] Elx Rap has logged out.
+[20/10/2009 22:41:27] Elx Rap has logged in.
+[20/10/2009 22:41:28] Account Manager has logged in.
+[20/10/2009 22:41:47] Account Manager has logged out.
+[20/10/2009 22:42:02] Account Manager has logged in.
+[20/10/2009 22:42:07] Account Manager has logged in.
+[20/10/2009 22:42:17] Account Manager has logged out.
+[20/10/2009 22:42:24] Account Manager has logged in.
+[20/10/2009 22:42:26] > CLEAN: Removed 158 items from 156 tiles in 0.063 seconds.
+[20/10/2009 22:42:42] Account Manager has logged out.
+[20/10/2009 22:42:48] Haally has logged in.
+[20/10/2009 22:42:49] Haally has logged out.
+[20/10/2009 22:42:58] WorldType set to 'PVP-Enforced'.
+[20/10/2009 22:43:04] Haally has logged in.
+[20/10/2009 22:43:05] Alex rey has logged out.
+[20/10/2009 22:43:06] Alex rey has logged in.
+[20/10/2009 22:43:07] Account Manager has logged out.
+[20/10/2009 22:43:12] Alex rey has logged out.
+[20/10/2009 22:43:12] 
+[20/10/2009 22:43:12] Lua Script Error: [Spell Interface] 
+[20/10/2009 22:43:12] in a timer event called from: 
+[20/10/2009 22:43:12] data/spells/scripts/attack/Songs of the Feline.lua:onCastSpell
+[20/10/2009 22:43:12] 
+[20/10/2009 22:43:12] luaDoCombat(). Creature not found
+[20/10/2009 22:43:12] 
+[20/10/2009 22:43:12] Lua Script Error: [Spell Interface] 
+[20/10/2009 22:43:12] in a timer event called from: 
+[20/10/2009 22:43:12] data/spells/scripts/attack/Songs of the Feline.lua:onCastSpell
+[20/10/2009 22:43:12] 
+[20/10/2009 22:43:12] luaDoCombat(). Creature not found
+[20/10/2009 22:43:12] 
+[20/10/2009 22:43:12] Lua Script Error: [Spell Interface] 
+[20/10/2009 22:43:12] in a timer event called from: 
+[20/10/2009 22:43:12] data/spells/scripts/attack/Songs of the Feline.lua:onCastSpell
+[20/10/2009 22:43:12] 
+[20/10/2009 22:43:12] luaDoCombat(). Creature not found
+[20/10/2009 22:43:12] 
+[20/10/2009 22:43:13] Lua Script Error: [Spell Interface] 
+[20/10/2009 22:43:13] in a timer event called from: 
+[20/10/2009 22:43:13] data/spells/scripts/attack/Songs of the Feline.lua:onCastSpell
+[20/10/2009 22:43:13] 
+[20/10/2009 22:43:13] luaDoCombat(). Creature not found
+[20/10/2009 22:43:13] 
+[20/10/2009 22:43:13] Lua Script Error: [Spell Interface] 
+[20/10/2009 22:43:13] in a timer event called from: 
+[20/10/2009 22:43:13] data/spells/scripts/attack/Songs of the Feline.lua:onCastSpell
+[20/10/2009 22:43:13] 
+[20/10/2009 22:43:13] luaDoCombat(). Creature not found
+[20/10/2009 22:43:14] Alex rey has logged in.
+[20/10/2009 22:43:22] Baby rox has logged in.
+[20/10/2009 22:43:24] Alex rey has logged out.
+[20/10/2009 22:43:24] 
+[20/10/2009 22:43:24] Lua Script Error: [Spell Interface] 
+[20/10/2009 22:43:24] in a timer event called from: 
+[20/10/2009 22:43:24] data/spells/scripts/attack/Songs of the Feline.lua:onCastSpell
+[20/10/2009 22:43:24] 
+[20/10/2009 22:43:24] luaDoCombat(). Creature not found
+[20/10/2009 22:43:24] 
+[20/10/2009 22:43:24] Lua Script Error: [Spell Interface] 
+[20/10/2009 22:43:24] in a timer event called from: 
+[20/10/2009 22:43:24] data/spells/scripts/attack/Songs of the Feline.lua:onCastSpell
+[20/10/2009 22:43:24] 
+[20/10/2009 22:43:24] luaDoCombat(). Creature not found
+[20/10/2009 22:43:25] Baby rox has logged out.
+[20/10/2009 22:43:25] Alex rey has logged in.
+[20/10/2009 22:43:38] Alex rey has logged out.
+[20/10/2009 22:43:39] Alex rey has logged in.
+[20/10/2009 22:43:43] Alex rey has logged out.
+[20/10/2009 22:43:45] Alex rey has logged in.
+[20/10/2009 22:43:47] Elx Rap has logged out.
+[20/10/2009 22:43:47] 
+[20/10/2009 22:43:47] Lua Script Error: [Spell Interface] 
+[20/10/2009 22:43:47] in a timer event called from: 
+[20/10/2009 22:43:47] data/spells/scripts/attack/meteora.lua:onCastSpell
+[20/10/2009 22:43:47] 
+[20/10/2009 22:43:47] luaDoCombat(). Creature not found
+[20/10/2009 22:43:50] Elx Rap has logged in.
+[20/10/2009 22:43:56] Alex rey has logged out.
+[20/10/2009 22:43:57] Alex rey has logged in.
+[20/10/2009 22:44:02] Martina Ignaciaa has logged out.
+[20/10/2009 22:44:03] Martina Ignaciaa has logged in.
+[20/10/2009 22:44:07] Pedro has logged out.
+[20/10/2009 22:44:09] Pedro has logged in.
+[20/10/2009 22:44:12] Martina Ignaciaa has logged out.
+[20/10/2009 22:44:13] Baby rox has logged in.
+[20/10/2009 22:44:14] Martina Ignaciaa has logged in.
+[20/10/2009 22:44:29] Alex rey has logged out.
+[20/10/2009 22:44:30] Alex rey has logged in.
+[20/10/2009 22:44:50] Elx Rap has logged out.
+[20/10/2009 22:44:53] Elx Rap has logged in.
+[20/10/2009 22:45:00] Pedro has logged out.
+[20/10/2009 22:45:02] Pedro has logged in.
+[20/10/2009 22:45:02] Alex rey has logged out.
+[20/10/2009 22:45:04] Alex rey has logged in.
+[20/10/2009 22:45:08] Baby rox has logged out.
+[20/10/2009 22:45:09] Alex rey has logged out.
+[20/10/2009 22:45:10] Alex rey has logged in.
+[20/10/2009 22:45:13] Pedro has logged out.
+[20/10/2009 22:45:13] Baby rox has logged in.
+[20/10/2009 22:45:14] Alex rey has logged out.
+[20/10/2009 22:45:15] Alex rey has logged in.
+[20/10/2009 22:45:15] Pedro has logged in.
+[20/10/2009 22:45:20] Alex rey has logged out.
+[20/10/2009 22:45:21] Alex rey has logged in.
+[20/10/2009 22:45:25] Pedro has logged out.
+[20/10/2009 22:45:27] Pedro has logged in.
+[20/10/2009 22:45:28] Alex rey has logged out.
+[20/10/2009 22:45:33] Alex rey has logged in.
+[20/10/2009 22:45:41] Baby rox has logged out.
+[20/10/2009 22:45:43] Bashaa has logged in.
+[20/10/2009 22:45:43] Elx Rap has logged out.
+[20/10/2009 22:45:44] Bashaa has logged out.
+[20/10/2009 22:45:52] Elx Rap has logged in.
+[20/10/2009 22:46:08] Sirpepa has logged out.
+[20/10/2009 22:46:09] Bashaa has logged in.
+[20/10/2009 22:46:10] Sirpepa has logged in.
+[20/10/2009 22:46:12] Alex rey has logged out.
+[20/10/2009 22:46:12] 
+[20/10/2009 22:46:12] Lua Script Error: [Spell Interface] 
+[20/10/2009 22:46:12] in a timer event called from: 
+[20/10/2009 22:46:12] data/spells/scripts/attack/death mort.lua:onCastSpell
+[20/10/2009 22:46:12] 
+[20/10/2009 22:46:12] luaDoCombat(). Creature not found
+[20/10/2009 22:46:12] 
+[20/10/2009 22:46:12] Lua Script Error: [Spell Interface] 
+[20/10/2009 22:46:13] in a timer event called from: 
+[20/10/2009 22:46:13] data/spells/scripts/attack/death mort.lua:onCastSpell
+[20/10/2009 22:46:13] 
+[20/10/2009 22:46:13] luaDoCombat(). Creature not found
+[20/10/2009 22:46:13] 
+[20/10/2009 22:46:13] Lua Script Error: [Spell Interface] 
+[20/10/2009 22:46:13] in a timer event called from: 
+[20/10/2009 22:46:13] data/spells/scripts/attack/death mort.lua:onCastSpell
+[20/10/2009 22:46:13] 
+[20/10/2009 22:46:13] luaDoCombat(). Creature not found
+[20/10/2009 22:46:13] 
+[20/10/2009 22:46:13] Lua Script Error: [Spell Interface] 
+[20/10/2009 22:46:13] in a timer event called from: 
+[20/10/2009 22:46:13] data/spells/scripts/attack/death mort.lua:onCastSpell
+[20/10/2009 22:46:13] 
+[20/10/2009 22:46:13] luaDoCombat(). Creature not found
+[20/10/2009 22:46:13] 
+[20/10/2009 22:46:13] Lua Script Error: [Spell Interface] 
+[20/10/2009 22:46:13] in a timer event called from: 
+[20/10/2009 22:46:13] data/spells/scripts/attack/death mort.lua:onCastSpell
+[20/10/2009 22:46:13] 
+[20/10/2009 22:46:13] luaDoCombat(). Creature not found
+[20/10/2009 22:46:13] 
+[20/10/2009 22:46:13] Lua Script Error: [Spell Interface] 
+[20/10/2009 22:46:13] in a timer event called from: 
+[20/10/2009 22:46:14] data/spells/scripts/attack/death mort.lua:onCastSpell
+[20/10/2009 22:46:14] 
+[20/10/2009 22:46:14] luaDoCombat(). Creature not found
+[20/10/2009 22:46:14] 
+[20/10/2009 22:46:14] Lua Script Error: [Spell Interface] 
+[20/10/2009 22:46:14] in a timer event called from: 
+[20/10/2009 22:46:14] data/spells/scripts/attack/death mort.lua:onCastSpell
+[20/10/2009 22:46:14] 
+[20/10/2009 22:46:14] luaDoCombat(). Creature not found
+[20/10/2009 22:46:14] 
+[20/10/2009 22:46:14] Lua Script Error: [Spell Interface] 
+[20/10/2009 22:46:14] in a timer event called from: 
+[20/10/2009 22:46:14] data/spells/scripts/attack/death mort.lua:onCastSpell
+[20/10/2009 22:46:14] 
+[20/10/2009 22:46:14] luaDoCombat(). Creature not found
+[20/10/2009 22:46:14] 
+[20/10/2009 22:46:14] Lua Script Error: [Spell Interface] 
+[20/10/2009 22:46:14] in a timer event called from: 
+[20/10/2009 22:46:14] data/spells/scripts/attack/death mort.lua:onCastSpell
+[20/10/2009 22:46:14] 
+[20/10/2009 22:46:14] luaDoCombat(). Creature not found
+[20/10/2009 22:46:14] 
+[20/10/2009 22:46:14] Lua Script Error: [Spell Interface] 
+[20/10/2009 22:46:15] in a timer event called from: 
+[20/10/2009 22:46:15] data/spells/scripts/attack/death mort.lua:onCastSpell
+[20/10/2009 22:46:15] 
+[20/10/2009 22:46:15] luaDoCombat(). Creature not found
+[20/10/2009 22:46:15] 
+[20/10/2009 22:46:15] Lua Script Error: [Spell Interface] 
+[20/10/2009 22:46:15] in a timer event called from: 
+[20/10/2009 22:46:15] data/spells/scripts/attack/death mort.lua:onCastSpell
+[20/10/2009 22:46:15] 
+[20/10/2009 22:46:15] luaDoCombat(). Creature not found
+[20/10/2009 22:46:15] 
+[20/10/2009 22:46:15] Lua Script Error: [Spell Interface] 
+[20/10/2009 22:46:15] in a timer event called from: 
+[20/10/2009 22:46:15] data/spells/scripts/attack/death mort.lua:onCastSpell
+[20/10/2009 22:46:15] 
+[20/10/2009 22:46:15] luaDoCombat(). Creature not found
+[20/10/2009 22:46:15] 
+[20/10/2009 22:46:15] Lua Script Error: [Spell Interface] 
+[20/10/2009 22:46:15] in a timer event called from: 
+[20/10/2009 22:46:15] data/spells/scripts/attack/death mort.lua:onCastSpell
+[20/10/2009 22:46:15] 
+[20/10/2009 22:46:15] luaDoCombat(). Creature not found
+[20/10/2009 22:46:15] 
+[20/10/2009 22:46:15] Lua Script Error: [Spell Interface] 
+[20/10/2009 22:46:16] in a timer event called from: 
+[20/10/2009 22:46:16] data/spells/scripts/attack/death mort.lua:onCastSpell
+[20/10/2009 22:46:16] 
+[20/10/2009 22:46:16] luaDoCombat(). Creature not found
+[20/10/2009 22:46:16] 
+[20/10/2009 22:46:16] Lua Script Error: [Spell Interface] 
+[20/10/2009 22:46:16] in a timer event called from: 
+[20/10/2009 22:46:16] data/spells/scripts/attack/death mort.lua:onCastSpell
+[20/10/2009 22:46:16] 
+[20/10/2009 22:46:16] luaDoCombat(). Creature not found
+[20/10/2009 22:46:16] Alex rey has logged in.
+[20/10/2009 22:46:26] Alex rey has logged out.
+[20/10/2009 22:46:28] Alex rey has logged in.
+[20/10/2009 22:46:31] Lionheartx has logged in.
+[20/10/2009 22:46:40] Alex rey has logged out.
+[20/10/2009 22:46:41] Alex rey has logged in.
+[20/10/2009 22:47:00] Alex rey has logged out.
+[20/10/2009 22:47:05] Alex rey has logged in.
+[20/10/2009 22:47:36] Pedro has logged out.
+[20/10/2009 22:47:38] Pedro has logged in.
+[20/10/2009 22:47:54] Elx Rap has logged out.
+[20/10/2009 22:47:58] Elx Rap has logged in.
+[20/10/2009 22:48:00] Sirpepa has logged out.
+[20/10/2009 22:48:02] Sirpepa has logged in.
+[20/10/2009 22:48:05] Pedro has logged out.
+[20/10/2009 22:48:07] Pedro has logged in.
+[20/10/2009 22:48:16] Pedro has logged out.
+[20/10/2009 22:48:18] Pedro has logged in.
+[20/10/2009 22:48:21] Alex rey has logged out.
+[20/10/2009 22:48:23] Alex rey has logged in.
+[20/10/2009 22:48:24] Lionheartx has logged out.
+[20/10/2009 22:48:29] Alex rey has logged out.
+[20/10/2009 22:48:31] Alex rey has logged in.
+[20/10/2009 22:48:43] Alex rey has logged out.
+[20/10/2009 22:48:44] Alex rey has logged in.
+[20/10/2009 22:48:48] Pedro has logged out.
+[20/10/2009 22:48:48] Alex rey has logged out.
+[20/10/2009 22:48:49] Pedro has logged in.
+[20/10/2009 22:48:50] Alex rey has logged in.
+[20/10/2009 22:48:55] Alex rey has logged out.
+[20/10/2009 22:48:57] Alex rey has logged in.
+[20/10/2009 22:49:03] Alex rey has logged out.
+[20/10/2009 22:49:05] Alex rey has logged in.
+[20/10/2009 22:49:08] Alex rey has logged out.
+[20/10/2009 22:49:18] Sirpepa has logged out.
+[20/10/2009 22:49:28] > CLEAN: Removed 113 items from 95 tiles in 0.063 seconds.
+[20/10/2009 22:49:35] Haally has logged out.
+[20/10/2009 22:49:37] Haally has logged in.
+[20/10/2009 22:49:37] > Saving server...
+[20/10/2009 22:49:41] > SAVE: Complete in 3.328 seconds using relational house storage.
+[20/10/2009 22:49:51] Sirpepa has logged in.
+[20/10/2009 22:50:02] Sirpepa has logged out.
+[20/10/2009 22:50:03] Sirpepa has logged in.
+[20/10/2009 22:50:25] Pedro has logged out.
+[20/10/2009 22:50:25] Lionheartx has logged in.
+[20/10/2009 22:50:29] Pedro has logged in.
+[20/10/2009 22:50:46] Pedro has logged out.
+[20/10/2009 22:50:48] Pedro has logged in.
+[20/10/2009 22:50:56] Account Manager has logged in.
+[20/10/2009 22:51:12] Account Manager has logged out.
+[20/10/2009 22:51:19] Account Manager has logged in.
+[20/10/2009 22:51:47] Account Manager has logged out.
+[20/10/2009 22:51:48] Julio has logged in.
+[20/10/2009 22:51:49] Julio has logged out.
+[20/10/2009 22:51:51] Julio has logged in.
+[20/10/2009 22:51:54] Sirpepa has logged out.
+[20/10/2009 22:51:56] Sirpepa has logged in.
+[20/10/2009 22:52:02] Nachoz has logged in.
+[20/10/2009 22:52:03] Nachoz has logged out.
+[20/10/2009 22:52:04] Julio has logged out.
+[20/10/2009 22:52:06] Julio has logged in.
+[20/10/2009 22:52:25] Julio has logged out.
+[20/10/2009 22:52:26] Julio has logged in.
+[20/10/2009 22:52:35] Julio has logged out.
+[20/10/2009 22:52:37] Julio has logged in.
+[20/10/2009 22:52:42] Julio has logged out.
+[20/10/2009 22:52:42] Pedro has logged out.
+[20/10/2009 22:52:44] Pedro has logged in.
+[20/10/2009 22:52:44] Julio has logged in.
+[20/10/2009 22:52:49] Julio has logged out.
+[20/10/2009 22:52:51] Julio has logged in.
+[20/10/2009 22:52:51] WorldType set to 'PVP'.
+[20/10/2009 22:53:00] Julio has logged out.
+[20/10/2009 22:53:02] Julio has logged in.
+[20/10/2009 22:53:08] Julio has logged out.
+[20/10/2009 22:53:11] Julio has logged in.
+[20/10/2009 22:53:13] Pedro has logged out.
+[20/10/2009 22:53:15] Pedro has logged in.
+[20/10/2009 22:53:16] Julio has logged out.
+[20/10/2009 22:53:16] 
+[20/10/2009 22:53:16] Lua Script Error: [Spell Interface] 
+[20/10/2009 22:53:16] in a timer event called from: 
+[20/10/2009 22:53:16] data/spells/scripts/attack/Songs of the Feline.lua:onCastSpell
+[20/10/2009 22:53:16] 
+[20/10/2009 22:53:16] luaDoCombat(). Creature not found
+[20/10/2009 22:53:16] 
+[20/10/2009 22:53:16] Lua Script Error: [Spell Interface] 
+[20/10/2009 22:53:16] in a timer event called from: 
+[20/10/2009 22:53:17] data/spells/scripts/attack/Songs of the Feline.lua:onCastSpell
+[20/10/2009 22:53:17] 
+[20/10/2009 22:53:17] luaDoCombat(). Creature not found
+[20/10/2009 22:53:17] 
+[20/10/2009 22:53:17] Lua Script Error: [Spell Interface] 
+[20/10/2009 22:53:17] in a timer event called from: 
+[20/10/2009 22:53:17] data/spells/scripts/attack/Songs of the Feline.lua:onCastSpell
+[20/10/2009 22:53:17] 
+[20/10/2009 22:53:17] luaDoCombat(). Creature not found
+[20/10/2009 22:53:20] Julio has logged in.
+[20/10/2009 22:53:22] Pedro has logged out.
+[20/10/2009 22:53:24] Pedro has logged in.
+[20/10/2009 22:53:48] Pedro has logged out.
+[20/10/2009 22:53:49] Pedro has logged in.
+[20/10/2009 22:53:58] Elx Rap has logged out.
+[20/10/2009 22:54:00] Elx Rap has logged in.
+[20/10/2009 22:54:11] Julio has logged out.
+[20/10/2009 22:54:11] Elx Rap has logged out.
+[20/10/2009 22:54:11] 
+[20/10/2009 22:54:11] Lua Script Error: [Spell Interface] 
+[20/10/2009 22:54:12] in a timer event called from: 
+[20/10/2009 22:54:12] data/spells/scripts/attack/gen.lua:onCastSpell
+[20/10/2009 22:54:12] 
+[20/10/2009 22:54:12] luaDoCombat(). Creature not found
+[20/10/2009 22:54:13] Julio has logged in.
+[20/10/2009 22:54:17] Haally has logged out.
+[20/10/2009 22:54:18] Haally has logged in.
+[20/10/2009 22:54:19] Pedro has logged out.
+[20/10/2009 22:54:21] Pedro has logged in.
+[20/10/2009 22:54:30] Haally has logged out.
+[20/10/2009 22:54:32] Haally has logged in.
+[20/10/2009 22:54:40] Pedro has logged out.
+[20/10/2009 22:54:41] Pedro has logged in.
+[20/10/2009 22:54:52] Lionheartx has logged out.
+[20/10/2009 22:54:55] Haally has logged out.
+[20/10/2009 22:54:56] Haally has logged in.
+[20/10/2009 22:54:57] Lionheartx has logged in.
+[20/10/2009 22:55:47] Pedro has logged out.
+[20/10/2009 22:55:48] Pedro has logged in.
+[20/10/2009 22:55:59] Sirpepa has logged out.
+[20/10/2009 22:56:00] Sirpepa has logged in.
+[20/10/2009 22:56:08] Pedro has logged out.
+[20/10/2009 22:56:09] Pedro has logged in.
+[20/10/2009 22:56:22] Sirpepa has logged out.
+[20/10/2009 22:56:24] Sirpepa has logged in.
+[20/10/2009 22:56:29] Sirpepa has logged out.
+[20/10/2009 22:56:30] Sirpepa has logged in.
+[20/10/2009 22:56:32] Sirpepa has logged out.
+[20/10/2009 22:56:33] Sirpepa has logged in.
+[20/10/2009 22:56:38] Pedro has logged out.
+[20/10/2009 22:56:40] Pedro has logged in.
+[20/10/2009 22:56:41] Bashaa has logged out.
+[20/10/2009 22:56:45] Bashaa has logged in.
+[20/10/2009 22:56:59] Pedro has logged out.
+[20/10/2009 22:57:00] Pedro has logged in.
+[20/10/2009 22:57:02] > CLEAN: Removed 105 items from 166 tiles in 0.062 seconds.
+[20/10/2009 22:57:25] Pedro has logged out.
+[20/10/2009 22:57:25] 
+[20/10/2009 22:57:25] Lua Script Error: [Spell Interface] 
+[20/10/2009 22:57:25] in a timer event called from: 
+[20/10/2009 22:57:25] data/spells/scripts/attack/death mort.lua:onCastSpell
+[20/10/2009 22:57:25] 
+[20/10/2009 22:57:25] luaDoCombat(). Creature not found
+[20/10/2009 22:57:25] 
+[20/10/2009 22:57:25] Lua Script Error: [Spell Interface] 
+[20/10/2009 22:57:25] in a timer event called from: 
+[20/10/2009 22:57:25] data/spells/scripts/attack/death mort.lua:onCastSpell
+[20/10/2009 22:57:26] 
+[20/10/2009 22:57:26] luaDoCombat(). Creature not found
+[20/10/2009 22:57:26] 
+[20/10/2009 22:57:26] Lua Script Error: [Spell Interface] 
+[20/10/2009 22:57:26] in a timer event called from: 
+[20/10/2009 22:57:26] data/spells/scripts/attack/death mort.lua:onCastSpell
+[20/10/2009 22:57:26] 
+[20/10/2009 22:57:26] luaDoCombat(). Creature not found
+[20/10/2009 22:57:26] Pedro has logged in.
+[20/10/2009 22:57:35] Pedro has logged out.
+[20/10/2009 22:57:37] Pedro has logged in.
+[20/10/2009 22:57:48] Pedro has logged out.
+[20/10/2009 22:57:48] 
+[20/10/2009 22:57:48] Lua Script Error: [Spell Interface] 
+[20/10/2009 22:57:48] in a timer event called from: 
+[20/10/2009 22:57:48] data/spells/scripts/attack/death mort.lua:onCastSpell
+[20/10/2009 22:57:48] 
+[20/10/2009 22:57:48] luaDoCombat(). Creature not found
+[20/10/2009 22:57:49] 
+[20/10/2009 22:57:49] Lua Script Error: [Spell Interface] 
+[20/10/2009 22:57:49] in a timer event called from: 
+[20/10/2009 22:57:49] data/spells/scripts/attack/death mort.lua:onCastSpell
+[20/10/2009 22:57:49] 
+[20/10/2009 22:57:49] luaDoCombat(). Creature not found
+[20/10/2009 22:57:49] 
+[20/10/2009 22:57:49] Lua Script Error: [Spell Interface] 
+[20/10/2009 22:57:49] in a timer event called from: 
+[20/10/2009 22:57:49] data/spells/scripts/attack/death mort.lua:onCastSpell
+[20/10/2009 22:57:49] 
+[20/10/2009 22:57:49] luaDoCombat(). Creature not found
+[20/10/2009 22:57:49] 
+[20/10/2009 22:57:49] Lua Script Error: [Spell Interface] 
+[20/10/2009 22:57:49] in a timer event called from: 
+[20/10/2009 22:57:49] data/spells/scripts/attack/death mort.lua:onCastSpell
+[20/10/2009 22:57:49] 
+[20/10/2009 22:57:49] luaDoCombat(). Creature not found
+[20/10/2009 22:57:49] 
+[20/10/2009 22:57:49] Lua Script Error: [Spell Interface] 
+[20/10/2009 22:57:50] in a timer event called from: 
+[20/10/2009 22:57:50] data/spells/scripts/attack/death mort.lua:onCastSpell
+[20/10/2009 22:57:50] 
+[20/10/2009 22:57:50] luaDoCombat(). Creature not found
+[20/10/2009 22:57:50] 
+[20/10/2009 22:57:50] Lua Script Error: [Spell Interface] 
+[20/10/2009 22:57:50] in a timer event called from: 
+[20/10/2009 22:57:50] data/spells/scripts/attack/death mort.lua:onCastSpell
+[20/10/2009 22:57:50] 
+[20/10/2009 22:57:50] luaDoCombat(). Creature not found
+[20/10/2009 22:57:50] 
+[20/10/2009 22:57:50] Lua Script Error: [Spell Interface] 
+[20/10/2009 22:57:50] in a timer event called from: 
+[20/10/2009 22:57:50] data/spells/scripts/attack/death mort.lua:onCastSpell
+[20/10/2009 22:57:50] 
+[20/10/2009 22:57:50] luaDoCombat(). Creature not found
+[20/10/2009 22:57:50] 
+[20/10/2009 22:57:50] Lua Script Error: [Spell Interface] 
+[20/10/2009 22:57:51] in a timer event called from: 
+[20/10/2009 22:57:51] data/spells/scripts/attack/death mort.lua:onCastSpell
+[20/10/2009 22:57:51] 
+[20/10/2009 22:57:51] luaDoCombat(). Creature not found
+[20/10/2009 22:57:51] 
+[20/10/2009 22:57:51] Lua Script Error: [Spell Interface] 
+[20/10/2009 22:57:51] in a timer event called from: 
+[20/10/2009 22:57:51] data/spells/scripts/attack/death mort.lua:onCastSpell
+[20/10/2009 22:57:51] 
+[20/10/2009 22:57:51] luaDoCombat(). Creature not found
+[20/10/2009 22:57:51] 
+[20/10/2009 22:57:51] Lua Script Error: [Spell Interface] 
+[20/10/2009 22:57:51] in a timer event called from: 
+[20/10/2009 22:57:51] data/spells/scripts/attack/death mort.lua:onCastSpell
+[20/10/2009 22:57:51] 
+[20/10/2009 22:57:51] luaDoCombat(). Creature not found
+[20/10/2009 22:57:51] 
+[20/10/2009 22:57:51] Lua Script Error: [Spell Interface] 
+[20/10/2009 22:57:51] in a timer event called from: 
+[20/10/2009 22:57:52] data/spells/scripts/attack/death mort.lua:onCastSpell
+[20/10/2009 22:57:52] 
+[20/10/2009 22:57:52] luaDoCombat(). Creature not found
+[20/10/2009 22:57:52] 
+[20/10/2009 22:57:52] Lua Script Error: [Spell Interface] 
+[20/10/2009 22:57:52] in a timer event called from: 
+[20/10/2009 22:57:52] data/spells/scripts/attack/death mort.lua:onCastSpell
+[20/10/2009 22:57:52] 
+[20/10/2009 22:57:52] luaDoCombat(). Creature not found
+[20/10/2009 22:57:52] 
+[20/10/2009 22:57:52] Lua Script Error: [Spell Interface] 
+[20/10/2009 22:57:52] in a timer event called from: 
+[20/10/2009 22:57:52] data/spells/scripts/attack/death mort.lua:onCastSpell
+[20/10/2009 22:57:52] 
+[20/10/2009 22:57:52] luaDoCombat(). Creature not found
+[20/10/2009 22:57:52] 
+[20/10/2009 22:57:52] Lua Script Error: [Spell Interface] 
+[20/10/2009 22:57:52] in a timer event called from: 
+[20/10/2009 22:57:52] data/spells/scripts/attack/death mort.lua:onCastSpell
+[20/10/2009 22:57:53] 
+[20/10/2009 22:57:53] luaDoCombat(). Creature not found
+[20/10/2009 22:57:53] 
+[20/10/2009 22:57:53] Lua Script Error: [Spell Interface] 
+[20/10/2009 22:57:53] in a timer event called from: 
+[20/10/2009 22:57:53] data/spells/scripts/attack/death mort.lua:onCastSpell
+[20/10/2009 22:57:53] 
+[20/10/2009 22:57:53] luaDoCombat(). Creature not found
+[20/10/2009 22:57:53] 
+[20/10/2009 22:57:53] Lua Script Error: [Spell Interface] 
+[20/10/2009 22:57:53] in a timer event called from: 
+[20/10/2009 22:57:53] data/spells/scripts/attack/death mort.lua:onCastSpell
+[20/10/2009 22:57:53] 
+[20/10/2009 22:57:53] luaDoCombat(). Creature not found
+[20/10/2009 22:57:53] 
+[20/10/2009 22:57:53] Lua Script Error: [Spell Interface] 
+[20/10/2009 22:57:53] in a timer event called from: 
+[20/10/2009 22:57:53] data/spells/scripts/attack/death mort.lua:onCastSpell
+[20/10/2009 22:57:53] 
+[20/10/2009 22:57:53] luaDoCombat(). Creature not found
+[20/10/2009 22:57:54] 
+[20/10/2009 22:57:54] Lua Script Error: [Spell Interface] 
+[20/10/2009 22:57:54] in a timer event called from: 
+[20/10/2009 22:57:54] data/spells/scripts/attack/death mort.lua:onCastSpell
+[20/10/2009 22:57:54] 
+[20/10/2009 22:57:54] luaDoCombat(). Creature not found
+[20/10/2009 22:57:54] Pedro has logged in.
+[20/10/2009 22:58:02] Alex rey has logged in.
+[20/10/2009 22:58:07] Lionheartx has logged out.
+[20/10/2009 22:58:28] Martina Ignaciaa has logged out.
+[20/10/2009 22:58:29] Martina Ignaciaa has logged in.
+[20/10/2009 22:58:33] Haally has logged out.
+[20/10/2009 22:58:35] Haally has logged in.
+[20/10/2009 22:58:43] Sirpepa has logged out.
+[20/10/2009 22:58:45] Sirpepa has logged in.
+[20/10/2009 22:58:46] Pedro has logged out.
+[20/10/2009 22:58:47] Pedro has logged in.
+[20/10/2009 22:59:00] Sirpepa has logged out.
+[20/10/2009 22:59:04] Sirpepa has logged in.
+[20/10/2009 22:59:16] Pedro has logged out.
+[20/10/2009 22:59:17] Pedro has logged in.
+[20/10/2009 22:59:22] > Julio broadcasted: "evento".
+[20/10/2009 22:59:29] > Julio broadcasted: "el que me encuentra".
+[20/10/2009 22:59:33] Sirpepa has logged out.
+[20/10/2009 22:59:35] Sirpepa has logged in.
+[20/10/2009 22:59:36] Pedro has logged out.
+[20/10/2009 22:59:38] Pedro has logged in.
+[20/10/2009 22:59:38] > Julio broadcasted: "se gana una pluma".
+[20/10/2009 22:59:42] Alex rey has logged out.
+[20/10/2009 22:59:47] Alex rey has logged in.
+[20/10/2009 22:59:58] > Julio broadcasted: "Pista?".
+[20/10/2009 23:00:18] > Julio broadcasted: "no me pueden aser exiva xD".
+[20/10/2009 23:00:20] Haally has logged out.
+[20/10/2009 23:00:21] Haally has logged in.
+[20/10/2009 23:00:26] > Julio broadcasted: "estoi bisibke".
+[20/10/2009 23:00:30] > Julio broadcasted: "estoi bisible".
+[20/10/2009 23:00:38] Sirpepa has logged out.
+[20/10/2009 23:00:41] Sirpepa has logged in.
+[20/10/2009 23:00:46] > Julio broadcasted: "beo unos arboles".
+[20/10/2009 23:01:14] > Julio broadcasted: "y beo un arbol rojo".
+[20/10/2009 23:01:28] Haally has logged out.
+[20/10/2009 23:01:28] Alex rey has logged out.
+[20/10/2009 23:01:29] Sirpepa has logged out.
+[20/10/2009 23:01:29] Haally has logged in.
+[20/10/2009 23:01:30] Sirpepa has logged in.
+[20/10/2009 23:01:37] > Julio broadcasted: "estoi serca de un barco".
+[20/10/2009 23:01:41] Pedro has logged out.
+[20/10/2009 23:01:43] Pedro has logged in.
+[20/10/2009 23:02:04] Sirpepa has logged out.
+[20/10/2009 23:02:06] Sirpepa has logged in.
+[20/10/2009 23:02:27] Pedro has logged out.
+[20/10/2009 23:02:28] Pedro has logged in.
+[20/10/2009 23:02:29] 
+[20/10/2009 23:02:29] Lua Script Error: [Action Interface] 
+[20/10/2009 23:02:29] data/actions/scripts/pluma.lua:onUse
+[20/10/2009 23:02:29] 
+[20/10/2009 23:02:29] luaGetTileInfo(). Tile not found
+[20/10/2009 23:02:29] 
+[20/10/2009 23:02:29] Lua Script Error: [Action Interface] 
+[20/10/2009 23:02:29] data/actions/scripts/pluma.lua:onUse
+[20/10/2009 23:02:29] 
+[20/10/2009 23:02:29] data/lib/function.lua:334: attempt to index a boolean value
+[20/10/2009 23:02:29] stack traceback:
+[20/10/2009 23:02:29] 	data/lib/function.lua:334: in function 'getTilePzInfo'
+[20/10/2009 23:02:29] 	data/actions/scripts/pluma.lua:4: in function <data/actions/scripts/pluma.lua:2>
+[20/10/2009 23:02:31] 
+[20/10/2009 23:02:31] Lua Script Error: [Action Interface] 
+[20/10/2009 23:02:31] data/actions/scripts/pluma.lua:onUse
+[20/10/2009 23:02:31] 
+[20/10/2009 23:02:31] luaDoCreateMonster(). Monster with name 'supervip' not found
+[20/10/2009 23:02:31] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/supervip.xml).
+[20/10/2009 23:02:32] Info: failed to load external entity "data/npc/supervip.xml"
+[20/10/2009 23:02:32] 
+[20/10/2009 23:02:32] 
+[20/10/2009 23:02:32] 
+[20/10/2009 23:02:32] Lua Script Error: [Action Interface] 
+[20/10/2009 23:02:32] data/actions/scripts/pluma.lua:onUse
+[20/10/2009 23:02:32] 
+[20/10/2009 23:02:32] luaDoCreateNpc(). Npc name(supervip) not found
+[20/10/2009 23:02:50] Bashaa has logged out.
+[20/10/2009 23:02:50] 
+[20/10/2009 23:02:50] Lua Script Error: [Spell Interface] 
+[20/10/2009 23:02:50] in a timer event called from: 
+[20/10/2009 23:02:50] data/spells/scripts/attack/gen.lua:onCastSpell
+[20/10/2009 23:02:50] 
+[20/10/2009 23:02:50] luaDoCombat(). Creature not found
+[20/10/2009 23:02:50] 
+[20/10/2009 23:02:50] Lua Script Error: [Spell Interface] 
+[20/10/2009 23:02:50] in a timer event called from: 
+[20/10/2009 23:02:50] data/spells/scripts/attack/gen.lua:onCastSpell
+[20/10/2009 23:02:51] 
+[20/10/2009 23:02:51] luaDoCombat(). Creature not found
+[20/10/2009 23:02:51] 
+[20/10/2009 23:02:51] Lua Script Error: [Spell Interface] 
+[20/10/2009 23:02:51] in a timer event called from: 
+[20/10/2009 23:02:51] data/spells/scripts/attack/gen.lua:onCastSpell
+[20/10/2009 23:02:51] 
+[20/10/2009 23:02:51] luaDoCombat(). Creature not found
+[20/10/2009 23:02:51] Sirpepa has logged out.
+[20/10/2009 23:02:53] Sirpepa has logged in.
+[20/10/2009 23:02:55] Bashaa has logged in.
+[20/10/2009 23:02:55] > Julio broadcasted: "aaaaa y beo unas".
+[20/10/2009 23:02:58] Pedro has logged out.
+[20/10/2009 23:02:59] Pedro has logged in.
+[20/10/2009 23:03:00] > Julio broadcasted: "regillas".
+[20/10/2009 23:03:07] > Julio broadcasted: "esta dificil".
+[20/10/2009 23:03:09] > Julio broadcasted: "xD".
+[20/10/2009 23:03:19] Sirpepa has logged out.
+[20/10/2009 23:03:20] > Julio broadcasted: "estoi en la city principal".
+[20/10/2009 23:03:21] Sirpepa has logged in.
+[20/10/2009 23:03:34] Pedro has logged out.
+[20/10/2009 23:03:35] Pedro has logged in.
+[20/10/2009 23:03:37] > Julio broadcasted: "gano Martina Ignaciaa".
+[20/10/2009 23:03:38] Sirpepa has logged out.
+[20/10/2009 23:03:39] Sirpepa has logged in.
+[20/10/2009 23:03:46] > CLEAN: Removed 64 items from 92 tiles in 0.063 seconds.
+[20/10/2009 23:03:48] Pedro has logged out.
+[20/10/2009 23:03:50] Pedro has logged in.
+[20/10/2009 23:03:56] Chikitax has logged in.
+[20/10/2009 23:04:03] Pedro has logged out.
+[20/10/2009 23:04:04] Pedro has logged in.
+[20/10/2009 23:04:09] Sirpepa has logged out.
+[20/10/2009 23:04:10] Pedro has logged out.
+[20/10/2009 23:04:11] Sirpepa has logged in.
+[20/10/2009 23:04:11] Pedro has logged in.
+[20/10/2009 23:04:14] 
+[20/10/2009 23:04:14] Lua Script Error: [Action Interface] 
+[20/10/2009 23:04:14] data/actions/scripts/pluma.lua:onUse
+[20/10/2009 23:04:14] 
+[20/10/2009 23:04:14] luaGetTileInfo(). Tile not found
+[20/10/2009 23:04:14] 
+[20/10/2009 23:04:14] Lua Script Error: [Action Interface] 
+[20/10/2009 23:04:14] data/actions/scripts/pluma.lua:onUse
+[20/10/2009 23:04:14] 
+[20/10/2009 23:04:14] data/lib/function.lua:334: attempt to index a boolean value
+[20/10/2009 23:04:14] stack traceback:
+[20/10/2009 23:04:14] 	data/lib/function.lua:334: in function 'getTilePzInfo'
+[20/10/2009 23:04:14] 	data/actions/scripts/pluma.lua:4: in function <data/actions/scripts/pluma.lua:2>
+[20/10/2009 23:04:20] 
+[20/10/2009 23:04:20] Lua Script Error: [Action Interface] 
+[20/10/2009 23:04:20] data/actions/scripts/pluma.lua:onUse
+[20/10/2009 23:04:21] 
+[20/10/2009 23:04:21] luaGetTileInfo(). Tile not found
+[20/10/2009 23:04:21] 
+[20/10/2009 23:04:21] Lua Script Error: [Action Interface] 
+[20/10/2009 23:04:21] data/actions/scripts/pluma.lua:onUse
+[20/10/2009 23:04:21] 
+[20/10/2009 23:04:21] data/lib/function.lua:334: attempt to index a boolean value
+[20/10/2009 23:04:21] stack traceback:
+[20/10/2009 23:04:21] 	data/lib/function.lua:334: in function 'getTilePzInfo'
+[20/10/2009 23:04:21] 	data/actions/scripts/pluma.lua:4: in function <data/actions/scripts/pluma.lua:2>
+[20/10/2009 23:04:22] 
+[20/10/2009 23:04:22] Lua Script Error: [Action Interface] 
+[20/10/2009 23:04:22] data/actions/scripts/pluma.lua:onUse
+[20/10/2009 23:04:22] 
+[20/10/2009 23:04:22] luaGetTileInfo(). Tile not found
+[20/10/2009 23:04:22] 
+[20/10/2009 23:04:22] Lua Script Error: [Action Interface] 
+[20/10/2009 23:04:23] data/actions/scripts/pluma.lua:onUse
+[20/10/2009 23:04:23] 
+[20/10/2009 23:04:23] data/lib/function.lua:334: attempt to index a boolean value
+[20/10/2009 23:04:23] stack traceback:
+[20/10/2009 23:04:23] 	data/lib/function.lua:334: in function 'getTilePzInfo'
+[20/10/2009 23:04:23] 	data/actions/scripts/pluma.lua:4: in function <data/actions/scripts/pluma.lua:2>
+[20/10/2009 23:04:25] 
+[20/10/2009 23:04:25] Lua Script Error: [Action Interface] 
+[20/10/2009 23:04:25] data/actions/scripts/pluma.lua:onUse
+[20/10/2009 23:04:25] 
+[20/10/2009 23:04:25] luaDoCreateMonster(). Monster with name 'supervip' not found
+[20/10/2009 23:04:25] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/supervip.xml).
+[20/10/2009 23:04:25] Info: failed to load external entity "data/npc/supervip.xml"
+[20/10/2009 23:04:25] 
+[20/10/2009 23:04:25] 
+[20/10/2009 23:04:25] 
+[20/10/2009 23:04:25] Lua Script Error: [Action Interface] 
+[20/10/2009 23:04:25] data/actions/scripts/pluma.lua:onUse
+[20/10/2009 23:04:25] 
+[20/10/2009 23:04:25] luaDoCreateNpc(). Npc name(supervip) not found
+[20/10/2009 23:04:25] Sirpepa has logged out.
+[20/10/2009 23:04:26] 
+[20/10/2009 23:04:26] Lua Script Error: [Spell Interface] 
+[20/10/2009 23:04:26] in a timer event called from: 
+[20/10/2009 23:04:26] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[20/10/2009 23:04:26] 
+[20/10/2009 23:04:26] luaDoCombat(). Creature not found
+[20/10/2009 23:04:26] 
+[20/10/2009 23:04:26] Lua Script Error: [Spell Interface] 
+[20/10/2009 23:04:26] in a timer event called from: 
+[20/10/2009 23:04:26] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[20/10/2009 23:04:26] 
+[20/10/2009 23:04:26] luaDoCombat(). Creature not found
+[20/10/2009 23:04:26] 
+[20/10/2009 23:04:26] Lua Script Error: [Spell Interface] 
+[20/10/2009 23:04:26] in a timer event called from: 
+[20/10/2009 23:04:26] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[20/10/2009 23:04:26] 
+[20/10/2009 23:04:26] luaDoCombat(). Creature not found
+[20/10/2009 23:04:27] Sirpepa has logged in.
+[20/10/2009 23:04:32] 
+[20/10/2009 23:04:32] Lua Script Error: [Action Interface] 
+[20/10/2009 23:04:32] data/actions/scripts/pluma.lua:onUse
+[20/10/2009 23:04:32] 
+[20/10/2009 23:04:32] luaDoCreateMonster(). Monster with name 'supervip' not found
+[20/10/2009 23:04:32] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/supervip.xml).
+[20/10/2009 23:04:32] Info: failed to load external entity "data/npc/supervip.xml"
+[20/10/2009 23:04:32] 
+[20/10/2009 23:04:32] 
+[20/10/2009 23:04:32] 
+[20/10/2009 23:04:32] Lua Script Error: [Action Interface] 
+[20/10/2009 23:04:32] data/actions/scripts/pluma.lua:onUse
+[20/10/2009 23:04:32] 
+[20/10/2009 23:04:32] luaDoCreateNpc(). Npc name(supervip) not found
+[20/10/2009 23:04:38] Sirpepa has logged out.
+[20/10/2009 23:04:38] > Saving server...
+[20/10/2009 23:04:42] > SAVE: Complete in 4.328 seconds using relational house storage.
+[20/10/2009 23:04:44] Sirpepa has logged in.
+[20/10/2009 23:04:53] Pedro has logged out.
+[20/10/2009 23:04:53] > Chikitax broadcasted: "ola a todos (amor te qero muxo aggro :*)".
+[20/10/2009 23:04:55] Pedro has logged in.
+[20/10/2009 23:04:58] Pedro has logged out.
+[20/10/2009 23:05:00] Pedro has logged in.
+[20/10/2009 23:05:03] Pedro has logged out.
+[20/10/2009 23:05:05] Pedro has logged in.
+[20/10/2009 23:05:12] Pedro has logged out.
+[20/10/2009 23:05:13] Pedro has logged in.
+[20/10/2009 23:05:17] Sirpepa has logged out.
+[20/10/2009 23:05:19] Pedro has logged out.
+[20/10/2009 23:05:20] Sirpepa has logged in.
+[20/10/2009 23:05:20] Pedro has logged in.
+[20/10/2009 23:05:24] Pedro has logged out.
+[20/10/2009 23:05:24] Sirpepa has logged out.
+[20/10/2009 23:05:25] Bashaa has logged out.
+[20/10/2009 23:05:25] 
+[20/10/2009 23:05:25] Lua Script Error: [Spell Interface] 
+[20/10/2009 23:05:25] in a timer event called from: 
+[20/10/2009 23:05:25] data/spells/scripts/attack/gen.lua:onCastSpell
+[20/10/2009 23:05:25] 
+[20/10/2009 23:05:25] luaDoCombat(). Creature not found
+[20/10/2009 23:05:25] 
+[20/10/2009 23:05:25] Lua Script Error: [Spell Interface] 
+[20/10/2009 23:05:25] in a timer event called from: 
+[20/10/2009 23:05:26] data/spells/scripts/attack/gen.lua:onCastSpell
+[20/10/2009 23:05:26] 
+[20/10/2009 23:05:26] luaDoCombat(). Creature not found
+[20/10/2009 23:05:26] 
+[20/10/2009 23:05:26] Lua Script Error: [Spell Interface] 
+[20/10/2009 23:05:26] in a timer event called from: 
+[20/10/2009 23:05:26] data/spells/scripts/attack/gen.lua:onCastSpell
+[20/10/2009 23:05:26] 
+[20/10/2009 23:05:26] luaDoCombat(). Creature not found
+[20/10/2009 23:05:26] Pedro has logged in.
+[20/10/2009 23:05:27] Sirpepa has logged in.
+[20/10/2009 23:05:34] GOD Aggro has logged out.
+[20/10/2009 23:06:04] Pedro has logged out.
+[20/10/2009 23:06:06] Pedro has logged in.
+[20/10/2009 23:06:07] Haally has logged out.
+[20/10/2009 23:06:10] Haally has logged in.
+[20/10/2009 23:06:12] Pedro has logged out.
+[20/10/2009 23:06:14] Pedro has logged in.
+[20/10/2009 23:06:18] Pedro has logged out.
+[20/10/2009 23:06:19] Pedro has logged in.
+[20/10/2009 23:06:31] Pedro has logged out.
+[20/10/2009 23:06:33] Pedro has logged in.
+[20/10/2009 23:06:42] Sirpepa has logged out.
+[20/10/2009 23:06:43] Sirpepa has logged in.
+[20/10/2009 23:06:55] Pedro has logged out.
+[20/10/2009 23:06:56] Pedro has logged in.
+[20/10/2009 23:07:05] Pedro has logged out.
+[20/10/2009 23:07:06] Pedro has logged in.
+[20/10/2009 23:07:39] Sirpepa has logged out.
+[20/10/2009 23:07:40] Pedro has logged out.
+[20/10/2009 23:07:40] 
+[20/10/2009 23:07:40] Lua Script Error: [Spell Interface] 
+[20/10/2009 23:07:40] in a timer event called from: 
+[20/10/2009 23:07:40] data/spells/scripts/attack/death mort.lua:onCastSpell
+[20/10/2009 23:07:41] 
+[20/10/2009 23:07:41] luaDoCombat(). Creature not found
+[20/10/2009 23:07:41] 
+[20/10/2009 23:07:41] Lua Script Error: [Spell Interface] 
+[20/10/2009 23:07:41] in a timer event called from: 
+[20/10/2009 23:07:41] data/spells/scripts/attack/death mort.lua:onCastSpell
+[20/10/2009 23:07:41] 
+[20/10/2009 23:07:41] luaDoCombat(). Creature not found
+[20/10/2009 23:07:41] 
+[20/10/2009 23:07:41] Lua Script Error: [Spell Interface] 
+[20/10/2009 23:07:41] in a timer event called from: 
+[20/10/2009 23:07:41] data/spells/scripts/attack/death mort.lua:onCastSpell
+[20/10/2009 23:07:41] 
+[20/10/2009 23:07:41] luaDoCombat(). Creature not found
+[20/10/2009 23:07:41] 
+[20/10/2009 23:07:41] Lua Script Error: [Spell Interface] 
+[20/10/2009 23:07:41] in a timer event called from: 
+[20/10/2009 23:07:41] data/spells/scripts/attack/death mort.lua:onCastSpell
+[20/10/2009 23:07:41] 
+[20/10/2009 23:07:41] luaDoCombat(). Creature not found
+[20/10/2009 23:07:41] 
+[20/10/2009 23:07:41] Lua Script Error: [Spell Interface] 
+[20/10/2009 23:07:41] in a timer event called from: 
+[20/10/2009 23:07:41] data/spells/scripts/attack/death mort.lua:onCastSpell
+[20/10/2009 23:07:41] 
+[20/10/2009 23:07:41] luaDoCombat(). Creature not found
+[20/10/2009 23:07:41] 
+[20/10/2009 23:07:41] Lua Script Error: [Spell Interface] 
+[20/10/2009 23:07:41] in a timer event called from: 
+[20/10/2009 23:07:41] data/spells/scripts/attack/death mort.lua:onCastSpell
+[20/10/2009 23:07:42] 
+[20/10/2009 23:07:42] luaDoCombat(). Creature not found
+[20/10/2009 23:07:42] 
+[20/10/2009 23:07:42] Lua Script Error: [Spell Interface] 
+[20/10/2009 23:07:42] in a timer event called from: 
+[20/10/2009 23:07:42] data/spells/scripts/attack/death mort.lua:onCastSpell
+[20/10/2009 23:07:42] 
+[20/10/2009 23:07:42] luaDoCombat(). Creature not found
+[20/10/2009 23:07:42] 
+[20/10/2009 23:07:42] Lua Script Error: [Spell Interface] 
+[20/10/2009 23:07:42] in a timer event called from: 
+[20/10/2009 23:07:42] data/spells/scripts/attack/death mort.lua:onCastSpell
+[20/10/2009 23:07:42] 
+[20/10/2009 23:07:42] luaDoCombat(). Creature not found
+[20/10/2009 23:07:42] 
+[20/10/2009 23:07:42] Lua Script Error: [Spell Interface] 
+[20/10/2009 23:07:42] in a timer event called from: 
+[20/10/2009 23:07:42] data/spells/scripts/attack/death mort.lua:onCastSpell
+[20/10/2009 23:07:42] 
+[20/10/2009 23:07:42] luaDoCombat(). Creature not found
+[20/10/2009 23:07:42] 
+[20/10/2009 23:07:42] Lua Script Error: [Spell Interface] 
+[20/10/2009 23:07:42] in a timer event called from: 
+[20/10/2009 23:07:42] data/spells/scripts/attack/death mort.lua:onCastSpell
+[20/10/2009 23:07:42] 
+[20/10/2009 23:07:42] luaDoCombat(). Creature not found
+[20/10/2009 23:07:42] 
+[20/10/2009 23:07:42] Lua Script Error: [Spell Interface] 
+[20/10/2009 23:07:42] in a timer event called from: 
+[20/10/2009 23:07:42] data/spells/scripts/attack/death mort.lua:onCastSpell
+[20/10/2009 23:07:42] 
+[20/10/2009 23:07:42] luaDoCombat(). Creature not found
+[20/10/2009 23:07:43] 
+[20/10/2009 23:07:43] Lua Script Error: [Spell Interface] 
+[20/10/2009 23:07:43] in a timer event called from: 
+[20/10/2009 23:07:43] data/spells/scripts/attack/death mort.lua:onCastSpell
+[20/10/2009 23:07:43] 
+[20/10/2009 23:07:43] luaDoCombat(). Creature not found
+[20/10/2009 23:07:43] 
+[20/10/2009 23:07:43] Lua Script Error: [Spell Interface] 
+[20/10/2009 23:07:43] in a timer event called from: 
+[20/10/2009 23:07:43] data/spells/scripts/attack/death mort.lua:onCastSpell
+[20/10/2009 23:07:43] 
+[20/10/2009 23:07:43] luaDoCombat(). Creature not found
+[20/10/2009 23:07:43] 
+[20/10/2009 23:07:43] Lua Script Error: [Spell Interface] 
+[20/10/2009 23:07:43] in a timer event called from: 
+[20/10/2009 23:07:43] data/spells/scripts/attack/death mort.lua:onCastSpell
+[20/10/2009 23:07:43] 
+[20/10/2009 23:07:43] luaDoCombat(). Creature not found
+[20/10/2009 23:07:43] 
+[20/10/2009 23:07:43] Lua Script Error: [Spell Interface] 
+[20/10/2009 23:07:43] in a timer event called from: 
+[20/10/2009 23:07:43] data/spells/scripts/attack/death mort.lua:onCastSpell
+[20/10/2009 23:07:44] 
+[20/10/2009 23:07:44] luaDoCombat(). Creature not found
+[20/10/2009 23:07:44] 
+[20/10/2009 23:07:44] Lua Script Error: [Spell Interface] 
+[20/10/2009 23:07:44] in a timer event called from: 
+[20/10/2009 23:07:44] data/spells/scripts/attack/death mort.lua:onCastSpell
+[20/10/2009 23:07:44] 
+[20/10/2009 23:07:44] luaDoCombat(). Creature not found
+[20/10/2009 23:07:44] 
+[20/10/2009 23:07:44] Lua Script Error: [Spell Interface] 
+[20/10/2009 23:07:44] in a timer event called from: 
+[20/10/2009 23:07:44] data/spells/scripts/attack/death mort.lua:onCastSpell
+[20/10/2009 23:07:44] 
+[20/10/2009 23:07:44] luaDoCombat(). Creature not found
+[20/10/2009 23:07:44] 
+[20/10/2009 23:07:44] Lua Script Error: [Spell Interface] 
+[20/10/2009 23:07:44] in a timer event called from: 
+[20/10/2009 23:07:44] data/spells/scripts/attack/death mort.lua:onCastSpell
+[20/10/2009 23:07:44] 
+[20/10/2009 23:07:44] luaDoCombat(). Creature not found
+[20/10/2009 23:07:44] 
+[20/10/2009 23:07:45] Lua Script Error: [Spell Interface] 
+[20/10/2009 23:07:45] in a timer event called from: 
+[20/10/2009 23:07:45] data/spells/scripts/attack/death mort.lua:onCastSpell
+[20/10/2009 23:07:45] 
+[20/10/2009 23:07:45] luaDoCombat(). Creature not found
+[20/10/2009 23:07:45] 
+[20/10/2009 23:07:45] Lua Script Error: [Spell Interface] 
+[20/10/2009 23:07:45] in a timer event called from: 
+[20/10/2009 23:07:45] data/spells/scripts/attack/death mort.lua:onCastSpell
+[20/10/2009 23:07:45] 
+[20/10/2009 23:07:45] luaDoCombat(). Creature not found
+[20/10/2009 23:07:46] 
+[20/10/2009 23:07:46] Lua Script Error: [Spell Interface] 
+[20/10/2009 23:07:46] in a timer event called from: 
+[20/10/2009 23:07:46] data/spells/scripts/attack/death mort.lua:onCastSpell
+[20/10/2009 23:07:46] 
+[20/10/2009 23:07:46] luaDoCombat(). Creature not found
+[20/10/2009 23:07:46] 
+[20/10/2009 23:07:46] Lua Script Error: [Spell Interface] 
+[20/10/2009 23:07:46] in a timer event called from: 
+[20/10/2009 23:07:46] data/spells/scripts/attack/death mort.lua:onCastSpell
+[20/10/2009 23:07:46] 
+[20/10/2009 23:07:46] luaDoCombat(). Creature not found
+[20/10/2009 23:07:46] 
+[20/10/2009 23:07:46] Lua Script Error: [Spell Interface] 
+[20/10/2009 23:07:46] in a timer event called from: 
+[20/10/2009 23:07:46] data/spells/scripts/attack/death mort.lua:onCastSpell
+[20/10/2009 23:07:46] 
+[20/10/2009 23:07:46] luaDoCombat(). Creature not found
+[20/10/2009 23:07:46] 
+[20/10/2009 23:07:46] Lua Script Error: [Spell Interface] 
+[20/10/2009 23:07:46] in a timer event called from: 
+[20/10/2009 23:07:46] data/spells/scripts/attack/death mort.lua:onCastSpell
+[20/10/2009 23:07:47] 
+[20/10/2009 23:07:47] luaDoCombat(). Creature not found
+[20/10/2009 23:07:47] 
+[20/10/2009 23:07:47] Lua Script Error: [Spell Interface] 
+[20/10/2009 23:07:47] in a timer event called from: 
+[20/10/2009 23:07:47] data/spells/scripts/attack/death mort.lua:onCastSpell
+[20/10/2009 23:07:47] 
+[20/10/2009 23:07:47] luaDoCombat(). Creature not found
+[20/10/2009 23:07:47] 
+[20/10/2009 23:07:47] Lua Script Error: [Spell Interface] 
+[20/10/2009 23:07:47] in a timer event called from: 
+[20/10/2009 23:07:47] data/spells/scripts/attack/death mort.lua:onCastSpell
+[20/10/2009 23:07:47] 
+[20/10/2009 23:07:47] luaDoCombat(). Creature not found
+[20/10/2009 23:07:47] 
+[20/10/2009 23:07:47] Lua Script Error: [Spell Interface] 
+[20/10/2009 23:07:47] in a timer event called from: 
+[20/10/2009 23:07:47] data/spells/scripts/attack/death mort.lua:onCastSpell
+[20/10/2009 23:07:47] 
+[20/10/2009 23:07:47] luaDoCombat(). Creature not found
+[20/10/2009 23:07:51] Account Manager has logged in.
+[20/10/2009 23:08:04] Sirpepa has logged in.
+[20/10/2009 23:08:07] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/yalahari mask.xml).
+[20/10/2009 23:08:09] Info: failed to load external entity "data/npc/yalahari mask.xml"
+[20/10/2009 23:08:09] 
+[20/10/2009 23:08:09] 
+[20/10/2009 23:08:09] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/yalahari mask 1.xml).
+[20/10/2009 23:08:09] Info: failed to load external entity "data/npc/yalahari mask 1.xml"
+[20/10/2009 23:08:10] 
+[20/10/2009 23:08:10] 
+[20/10/2009 23:08:16] Account Manager has logged out.
+[20/10/2009 23:08:18] Account Manager has logged in.
+[20/10/2009 23:08:26] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/yalahari mask.xml).
+[20/10/2009 23:08:26] Info: failed to load external entity "data/npc/yalahari mask.xml"
+[20/10/2009 23:08:26] 
+[20/10/2009 23:08:26] 
+[20/10/2009 23:08:28] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/yalahari mask 1.xml).
+[20/10/2009 23:08:28] Info: failed to load external entity "data/npc/yalahari mask 1.xml"
+[20/10/2009 23:08:28] 
+[20/10/2009 23:08:28] 
+[20/10/2009 23:08:32] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/yalahari mas.xml).
+[20/10/2009 23:08:32] Info: failed to load external entity "data/npc/yalahari mas.xml"
+[20/10/2009 23:08:32] 
+[20/10/2009 23:08:32] 
+[20/10/2009 23:08:45] Account Manager has logged out.
+[20/10/2009 23:08:51] Account Manager has logged in.
+[20/10/2009 23:08:59] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/crystal coin.xml).
+[20/10/2009 23:09:00] Info: failed to load external entity "data/npc/crystal coin.xml"
+[20/10/2009 23:09:00] 
+[20/10/2009 23:09:00] 
+[20/10/2009 23:09:03] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/crystal coint.xml).
+[20/10/2009 23:09:03] Info: failed to load external entity "data/npc/crystal coint.xml"
+[20/10/2009 23:09:03] 
+[20/10/2009 23:09:03] 
+[20/10/2009 23:09:05] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/crystal coint 410.xml).
+[20/10/2009 23:09:05] Info: failed to load external entity "data/npc/crystal coint 410.xml"
+[20/10/2009 23:09:05] 
+[20/10/2009 23:09:05] 
+[20/10/2009 23:09:06] Account Manager has logged out.
+[20/10/2009 23:09:17] Account Manager has logged in.
+[20/10/2009 23:09:22] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/crystal coint 410.xml).
+[20/10/2009 23:09:22] Info: failed to load external entity "data/npc/crystal coint 410.xml"
+[20/10/2009 23:09:22] 
+[20/10/2009 23:09:22] 
+[20/10/2009 23:09:46] Account Manager has logged out.
+[20/10/2009 23:09:53] El z has logged in.
+[20/10/2009 23:09:54] El z has logged out.
+[20/10/2009 23:10:14] Sirpepa has logged out.
+[20/10/2009 23:10:17] Sirpepa has logged in.
+[20/10/2009 23:10:30] Sirpepa has logged out.
+[20/10/2009 23:10:32] Sirpepa has logged in.
+[20/10/2009 23:10:35] El z has logged in.
+[20/10/2009 23:10:48] Sirpepa has logged out.
+[20/10/2009 23:10:49] Sirpepa has logged in.
+[20/10/2009 23:11:01] 
+[20/10/2009 23:11:01] Lua Script Error: [TalkAction Interface] 
+[20/10/2009 23:11:01] data/talkactions/scripts/teleportmaster.lua:onSay
+[20/10/2009 23:11:01] 
+[20/10/2009 23:11:01] luaGetTownName(). town with id 0 not found.
+[20/10/2009 23:11:33] Sirpepa has logged out.
+[20/10/2009 23:11:35] Sirpepa has logged in.
+[20/10/2009 23:11:56] Haally has logged out.
+[20/10/2009 23:11:58] Haally has logged in.
+[20/10/2009 23:12:49] Sirpepa has logged out.
+[20/10/2009 23:12:51] Sirpepa has logged in.
+[20/10/2009 23:14:02] El z has logged out.
+[20/10/2009 23:14:04] El z has logged in.
+[20/10/2009 23:14:10] Sirpepa has logged out.
+[20/10/2009 23:14:12] Sirpepa has logged in.
+[20/10/2009 23:14:13] > CLEAN: Removed 97 items from 141 tiles in 0.188 seconds.
+[20/10/2009 23:14:16] > CLEAN: Removed 1 item from 5 tiles in 0.062 seconds.
+[20/10/2009 23:14:20] > CLEAN: Removed 0 items from 0 tiles in 0.079 seconds.
+[20/10/2009 23:14:23] > CLEAN: Removed 0 items from 0 tiles in 0.094 seconds.
+[20/10/2009 23:14:44] > CLEAN: Removed 0 items from 0 tiles in 0.063 seconds.
+[20/10/2009 23:14:51] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[20/10/2009 23:15:07] Sirpepa has logged out.
+[20/10/2009 23:15:08] Sirpepa has logged in.
+[20/10/2009 23:15:17] Martina Ignaciaa has logged out.
+[20/10/2009 23:15:19] Kramolox has logged in.
+[20/10/2009 23:15:19] Martina Ignaciaa has logged in.
+[20/10/2009 23:15:20] Martina Ignaciaa has logged out.
+[20/10/2009 23:15:21] Martina Ignaciaa has logged in.
+[20/10/2009 23:15:51] > CLEAN: Removed 23 items from 33 tiles in 0.047 seconds.
+[20/10/2009 23:15:51] > Broadcasted message: "Game map cleaned.".
+[20/10/2009 23:16:19] 
+[20/10/2009 23:16:19] Lua Script Error: [Action Interface] 
+[20/10/2009 23:16:19] data/actions/scripts/pluma.lua:onUse
+[20/10/2009 23:16:19] 
+[20/10/2009 23:16:19] luaDoCreateMonster(). Monster with name 'supervip' not found
+[20/10/2009 23:16:19] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/supervip.xml).
+[20/10/2009 23:16:20] Info: failed to load external entity "data/npc/supervip.xml"
+[20/10/2009 23:16:20] 
+[20/10/2009 23:16:20] 
+[20/10/2009 23:16:20] 
+[20/10/2009 23:16:20] Lua Script Error: [Action Interface] 
+[20/10/2009 23:16:20] data/actions/scripts/pluma.lua:onUse
+[20/10/2009 23:16:20] 
+[20/10/2009 23:16:20] luaDoCreateNpc(). Npc name(supervip) not found
+[20/10/2009 23:16:57] 
+[20/10/2009 23:16:57] Lua Script Error: [Action Interface] 
+[20/10/2009 23:16:57] data/actions/scripts/pluma.lua:onUse
+[20/10/2009 23:16:57] 
+[20/10/2009 23:16:57] luaDoCreateMonster(). Monster with name 'supervip' not found
+[20/10/2009 23:16:57] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/supervip.xml).
+[20/10/2009 23:16:57] Info: failed to load external entity "data/npc/supervip.xml"
+[20/10/2009 23:16:58] 
+[20/10/2009 23:16:58] 
+[20/10/2009 23:16:58] 
+[20/10/2009 23:16:58] Lua Script Error: [Action Interface] 
+[20/10/2009 23:16:58] data/actions/scripts/pluma.lua:onUse
+[20/10/2009 23:16:58] 
+[20/10/2009 23:16:58] luaDoCreateNpc(). Npc name(supervip) not found
+[20/10/2009 23:17:09] 
+[20/10/2009 23:17:09] Lua Script Error: [MoveEvents Interface] 
+[20/10/2009 23:17:09] data/movements/scripts/pisodoslayer.lua:onStepIn
+[20/10/2009 23:17:09] 
+[20/10/2009 23:17:09] luaDoPlayerSendTextMessage(). Player not found
+[20/10/2009 23:17:51] 
+[20/10/2009 23:17:51] Lua Script Error: [Action Interface] 
+[20/10/2009 23:17:52] data/actions/scripts/fluids.lua:onUse
+[20/10/2009 23:17:52] 
+[20/10/2009 23:17:52] data/actions/scripts/fluids.lua:20: attempt to call global 'exhaust' (a nil value)
+[20/10/2009 23:17:52] stack traceback:
+[20/10/2009 23:17:52] 	data/actions/scripts/fluids.lua:20: in function <data/actions/scripts/fluids.lua:19>
+[20/10/2009 23:17:59] Sirpepa has logged out.
+[20/10/2009 23:18:03] Haally has logged out.
+[20/10/2009 23:18:08] Haally has logged in.
+[20/10/2009 23:18:10] Sirpepa has logged in.
+[20/10/2009 23:18:23] El z has logged out.
+[20/10/2009 23:18:24] El z has logged in.
+[20/10/2009 23:18:31] El z has logged out.
+[20/10/2009 23:18:32] El z has logged in.
+[20/10/2009 23:19:04] El z has logged out.
+[20/10/2009 23:19:06] El z has logged in.
+[20/10/2009 23:19:09] 
+[20/10/2009 23:19:09] Lua Script Error: [MoveEvents Interface] 
+[20/10/2009 23:19:09] data/movements/scripts/pisodoslayer.lua:onStepIn
+[20/10/2009 23:19:09] 
+[20/10/2009 23:19:09] luaDoPlayerSendTextMessage(). Player not found
+[20/10/2009 23:19:12] Sirpepa has logged out.
+[20/10/2009 23:19:14] Sirpepa has logged in.
+[20/10/2009 23:19:39] > Saving server...
+[20/10/2009 23:19:48] > SAVE: Complete in 9.125 seconds using relational house storage.
+[20/10/2009 23:19:49] Sirpepa has logged out.
+[20/10/2009 23:20:27] El z has logged out.
+[20/10/2009 23:20:28] > Julio broadcasted: "escondi un great shield".
+[20/10/2009 23:20:30] El z has logged in.
+[20/10/2009 23:20:39] Knut has logged in.
+[20/10/2009 23:20:46] > Julio broadcasted: "el que lo encuentra se gana una bp con 3 plumas".
+[20/10/2009 23:20:46] > Knut broadcasted: "Saludos a todos!".
+[20/10/2009 23:20:53] > Julio broadcasted: "y la mitad de ccs".
+[20/10/2009 23:21:09] 
+[20/10/2009 23:21:09] Lua Script Error: [MoveEvents Interface] 
+[20/10/2009 23:21:09] data/movements/scripts/pisodoslayer.lua:onStepIn
+[20/10/2009 23:21:09] 
+[20/10/2009 23:21:09] luaDoPlayerSendTextMessage(). Player not found
+[20/10/2009 23:22:07] > Julio broadcasted: "el que la encuentra".
+[20/10/2009 23:22:12] > Julio broadcasted: "me abisa".
+[20/10/2009 23:22:42] > Julio broadcasted: "great shield".
+[20/10/2009 23:23:09] 
+[20/10/2009 23:23:10] Lua Script Error: [MoveEvents Interface] 
+[20/10/2009 23:23:10] data/movements/scripts/pisodoslayer.lua:onStepIn
+[20/10/2009 23:23:10] 
+[20/10/2009 23:23:10] luaDoPlayerSendTextMessage(). Player not found
+[20/10/2009 23:23:19] Martina Ignaciaa has logged out.
+[20/10/2009 23:23:35] > Knut broadcasted: "hally dice q lo encontro".
+[20/10/2009 23:23:54] > Julio broadcasted: "ally lo encontro".
+[20/10/2009 23:23:56] > Julio broadcasted: "gano".
+[20/10/2009 23:24:09] 
+[20/10/2009 23:24:09] Lua Script Error: [TalkAction Interface] 
+[20/10/2009 23:24:09] data/talkactions/scripts/teleporthere.lua:onSay
+[20/10/2009 23:24:09] 
+[20/10/2009 23:24:09] luaGetClosestFreeTile(). Creature not found
+[20/10/2009 23:24:15] Martina Ignaciaa has logged in.
+[20/10/2009 23:24:21] 
+[20/10/2009 23:24:21] Lua Script Error: [TalkAction Interface] 
+[20/10/2009 23:24:21] data/talkactions/scripts/teleporthere.lua:onSay
+[20/10/2009 23:24:21] 
+[20/10/2009 23:24:21] luaGetClosestFreeTile(). Creature not found
+[20/10/2009 23:24:23] 
+[20/10/2009 23:24:23] Lua Script Error: [TalkAction Interface] 
+[20/10/2009 23:24:23] data/talkactions/scripts/teleporthere.lua:onSay
+[20/10/2009 23:24:23] 
+[20/10/2009 23:24:23] luaGetClosestFreeTile(). Creature not found
+[20/10/2009 23:24:23] 
+[20/10/2009 23:24:23] Lua Script Error: [TalkAction Interface] 
+[20/10/2009 23:24:23] data/talkactions/scripts/teleporthere.lua:onSay
+[20/10/2009 23:24:23] 
+[20/10/2009 23:24:23] luaGetClosestFreeTile(). Creature not found
+[20/10/2009 23:24:35] > Julio broadcasted: "hally ben al temple".
+[20/10/2009 23:24:44] > Julio broadcasted: "pa darte el premio".
+[20/10/2009 23:24:58] > Julio broadcasted: "ghost".
+[20/10/2009 23:25:10] 
+[20/10/2009 23:25:10] Lua Script Error: [MoveEvents Interface] 
+[20/10/2009 23:25:10] data/movements/scripts/pisodoslayer.lua:onStepIn
+[20/10/2009 23:25:10] 
+[20/10/2009 23:25:10] luaDoPlayerSendTextMessage(). Player not found
+[20/10/2009 23:25:36] Julio has logged out.
+[20/10/2009 23:25:39] Julio has logged in.
+[20/10/2009 23:26:55] 
+[20/10/2009 23:26:55] Lua Script Error: [TalkAction Interface] 
+[20/10/2009 23:26:55] data/talkactions/scripts/teleporthere.lua:onSay
+[20/10/2009 23:26:55] 
+[20/10/2009 23:26:55] luaGetClosestFreeTile(). Creature not found
+[20/10/2009 23:27:02] 
+[20/10/2009 23:27:02] Lua Script Error: [TalkAction Interface] 
+[20/10/2009 23:27:02] data/talkactions/scripts/teleporthere.lua:onSay
+[20/10/2009 23:27:02] 
+[20/10/2009 23:27:02] luaGetClosestFreeTile(). Creature not found
+[20/10/2009 23:27:03] 
+[20/10/2009 23:27:03] Lua Script Error: [Action Interface] 
+[20/10/2009 23:27:03] data/actions/scripts/pluma.lua:onUse
+[20/10/2009 23:27:03] 
+[20/10/2009 23:27:03] luaGetTileInfo(). Tile not found
+[20/10/2009 23:27:03] 
+[20/10/2009 23:27:03] Lua Script Error: [Action Interface] 
+[20/10/2009 23:27:03] data/actions/scripts/pluma.lua:onUse
+[20/10/2009 23:27:03] 
+[20/10/2009 23:27:03] data/lib/function.lua:334: attempt to index a boolean value
+[20/10/2009 23:27:03] stack traceback:
+[20/10/2009 23:27:03] 	data/lib/function.lua:334: in function 'getTilePzInfo'
+[20/10/2009 23:27:03] 	data/actions/scripts/pluma.lua:4: in function <data/actions/scripts/pluma.lua:2>
+[20/10/2009 23:27:05] 
+[20/10/2009 23:27:05] Lua Script Error: [Action Interface] 
+[20/10/2009 23:27:06] data/actions/scripts/pluma.lua:onUse
+[20/10/2009 23:27:06] 
+[20/10/2009 23:27:06] luaGetTileInfo(). Tile not found
+[20/10/2009 23:27:06] 
+[20/10/2009 23:27:06] Lua Script Error: [Action Interface] 
+[20/10/2009 23:27:06] data/actions/scripts/pluma.lua:onUse
+[20/10/2009 23:27:06] 
+[20/10/2009 23:27:06] data/lib/function.lua:334: attempt to index a boolean value
+[20/10/2009 23:27:06] stack traceback:
+[20/10/2009 23:27:06] 	data/lib/function.lua:334: in function 'getTilePzInfo'
+[20/10/2009 23:27:06] 	data/actions/scripts/pluma.lua:4: in function <data/actions/scripts/pluma.lua:2>
+[20/10/2009 23:27:07] 
+[20/10/2009 23:27:07] Lua Script Error: [Action Interface] 
+[20/10/2009 23:27:07] data/actions/scripts/pluma.lua:onUse
+[20/10/2009 23:27:07] 
+[20/10/2009 23:27:07] luaGetTileInfo(). Tile not found
+[20/10/2009 23:27:07] 
+[20/10/2009 23:27:07] Lua Script Error: [Action Interface] 
+[20/10/2009 23:27:07] data/actions/scripts/pluma.lua:onUse
+[20/10/2009 23:27:07] 
+[20/10/2009 23:27:07] data/lib/function.lua:334: attempt to index a boolean value
+[20/10/2009 23:27:07] stack traceback:
+[20/10/2009 23:27:08] 	data/lib/function.lua:334: in function 'getTilePzInfo'
+[20/10/2009 23:27:08] 	data/actions/scripts/pluma.lua:4: in function <data/actions/scripts/pluma.lua:2>
+[20/10/2009 23:27:09] 
+[20/10/2009 23:27:09] Lua Script Error: [Action Interface] 
+[20/10/2009 23:27:09] data/actions/scripts/pluma.lua:onUse
+[20/10/2009 23:27:09] 
+[20/10/2009 23:27:09] luaDoCreateMonster(). Monster with name 'supervip' not found
+[20/10/2009 23:27:09] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/supervip.xml).
+[20/10/2009 23:27:09] Info: failed to load external entity "data/npc/supervip.xml"
+[20/10/2009 23:27:09] 
+[20/10/2009 23:27:09] 
+[20/10/2009 23:27:09] 
+[20/10/2009 23:27:09] Lua Script Error: [Action Interface] 
+[20/10/2009 23:27:09] data/actions/scripts/pluma.lua:onUse
+[20/10/2009 23:27:09] 
+[20/10/2009 23:27:09] luaDoCreateNpc(). Npc name(supervip) not found
+[20/10/2009 23:27:10] 
+[20/10/2009 23:27:10] Lua Script Error: [MoveEvents Interface] 
+[20/10/2009 23:27:10] data/movements/scripts/pisodoslayer.lua:onStepIn
+[20/10/2009 23:27:10] 
+[20/10/2009 23:27:10] luaDoPlayerSendTextMessage(). Player not found
+[20/10/2009 23:27:10] 
+[20/10/2009 23:27:10] Lua Script Error: [Action Interface] 
+[20/10/2009 23:27:10] data/actions/scripts/pluma.lua:onUse
+[20/10/2009 23:27:11] 
+[20/10/2009 23:27:11] luaGetTileInfo(). Tile not found
+[20/10/2009 23:27:11] 
+[20/10/2009 23:27:11] Lua Script Error: [Action Interface] 
+[20/10/2009 23:27:11] data/actions/scripts/pluma.lua:onUse
+[20/10/2009 23:27:11] 
+[20/10/2009 23:27:11] data/lib/function.lua:334: attempt to index a boolean value
+[20/10/2009 23:27:11] stack traceback:
+[20/10/2009 23:27:11] 	data/lib/function.lua:334: in function 'getTilePzInfo'
+[20/10/2009 23:27:11] 	data/actions/scripts/pluma.lua:4: in function <data/actions/scripts/pluma.lua:2>
+[20/10/2009 23:27:11] 
+[20/10/2009 23:27:11] Lua Script Error: [Action Interface] 
+[20/10/2009 23:27:11] data/actions/scripts/pluma.lua:onUse
+[20/10/2009 23:27:11] 
+[20/10/2009 23:27:11] luaGetTileInfo(). Tile not found
+[20/10/2009 23:27:11] 
+[20/10/2009 23:27:11] Lua Script Error: [Action Interface] 
+[20/10/2009 23:27:12] data/actions/scripts/pluma.lua:onUse
+[20/10/2009 23:27:12] 
+[20/10/2009 23:27:12] data/lib/function.lua:334: attempt to index a boolean value
+[20/10/2009 23:27:12] stack traceback:
+[20/10/2009 23:27:12] 	data/lib/function.lua:334: in function 'getTilePzInfo'
+[20/10/2009 23:27:12] 	data/actions/scripts/pluma.lua:4: in function <data/actions/scripts/pluma.lua:2>
+[20/10/2009 23:27:14] 
+[20/10/2009 23:27:14] Lua Script Error: [Action Interface] 
+[20/10/2009 23:27:14] data/actions/scripts/pluma.lua:onUse
+[20/10/2009 23:27:14] 
+[20/10/2009 23:27:14] luaGetTileInfo(). Tile not found
+[20/10/2009 23:27:14] 
+[20/10/2009 23:27:14] Lua Script Error: [Action Interface] 
+[20/10/2009 23:27:14] data/actions/scripts/pluma.lua:onUse
+[20/10/2009 23:27:14] 
+[20/10/2009 23:27:14] data/lib/function.lua:334: attempt to index a boolean value
+[20/10/2009 23:27:14] stack traceback:
+[20/10/2009 23:27:14] 	data/lib/function.lua:334: in function 'getTilePzInfo'
+[20/10/2009 23:27:14] 	data/actions/scripts/pluma.lua:4: in function <data/actions/scripts/pluma.lua:2>
+[20/10/2009 23:27:57] 
+[20/10/2009 23:27:57] Lua Script Error: [Action Interface] 
+[20/10/2009 23:27:57] data/actions/scripts/pluma.lua:onUse
+[20/10/2009 23:27:57] 
+[20/10/2009 23:27:57] luaDoCreateMonster(). Monster with name 'supervip' not found
+[20/10/2009 23:27:57] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/supervip.xml).
+[20/10/2009 23:27:57] Info: failed to load external entity "data/npc/supervip.xml"
+[20/10/2009 23:27:57] 
+[20/10/2009 23:27:57] 
+[20/10/2009 23:27:57] 
+[20/10/2009 23:27:57] Lua Script Error: [Action Interface] 
+[20/10/2009 23:27:57] data/actions/scripts/pluma.lua:onUse
+[20/10/2009 23:27:57] 
+[20/10/2009 23:27:57] luaDoCreateNpc(). Npc name(supervip) not found
+[20/10/2009 23:28:00] 
+[20/10/2009 23:28:00] Lua Script Error: [Action Interface] 
+[20/10/2009 23:28:00] data/actions/scripts/pluma.lua:onUse
+[20/10/2009 23:28:00] 
+[20/10/2009 23:28:00] luaDoCreateMonster(). Monster with name 'supervip' not found
+[20/10/2009 23:28:00] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/supervip.xml).
+[20/10/2009 23:28:00] Info: failed to load external entity "data/npc/supervip.xml"
+[20/10/2009 23:28:00] 
+[20/10/2009 23:28:00] 
+[20/10/2009 23:28:00] 
+[20/10/2009 23:28:00] Lua Script Error: [Action Interface] 
+[20/10/2009 23:28:00] data/actions/scripts/pluma.lua:onUse
+[20/10/2009 23:28:00] 
+[20/10/2009 23:28:00] luaDoCreateNpc(). Npc name(supervip) not found
+[20/10/2009 23:28:28] El z has logged out.
+[20/10/2009 23:28:29] El z has logged in.
+[20/10/2009 23:28:38] 
+[20/10/2009 23:28:38] Lua Script Error: [Action Interface] 
+[20/10/2009 23:28:38] data/actions/scripts/pluma.lua:onUse
+[20/10/2009 23:28:38] 
+[20/10/2009 23:28:38] luaDoCreateMonster(). Monster with name 'supervip' not found
+[20/10/2009 23:28:38] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/supervip.xml).
+[20/10/2009 23:28:38] Info: failed to load external entity "data/npc/supervip.xml"
+[20/10/2009 23:28:38] 
+[20/10/2009 23:28:38] 
+[20/10/2009 23:28:38] 
+[20/10/2009 23:28:38] Lua Script Error: [Action Interface] 
+[20/10/2009 23:28:38] data/actions/scripts/pluma.lua:onUse
+[20/10/2009 23:28:38] 
+[20/10/2009 23:28:38] luaDoCreateNpc(). Npc name(supervip) not found
+[20/10/2009 23:28:47] > CLEAN: Removed 48 items from 102 tiles in 0.046 seconds.
+[20/10/2009 23:28:53] 
+[20/10/2009 23:28:53] Lua Script Error: [Action Interface] 
+[20/10/2009 23:28:53] data/actions/scripts/pluma.lua:onUse
+[20/10/2009 23:28:53] 
+[20/10/2009 23:28:53] luaDoCreateMonster(). Monster with name 'supervip' not found
+[20/10/2009 23:28:53] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/supervip.xml).
+[20/10/2009 23:28:53] Info: failed to load external entity "data/npc/supervip.xml"
+[20/10/2009 23:28:53] 
+[20/10/2009 23:28:53] 
+[20/10/2009 23:28:53] 
+[20/10/2009 23:28:53] Lua Script Error: [Action Interface] 
+[20/10/2009 23:28:53] data/actions/scripts/pluma.lua:onUse
+[20/10/2009 23:28:53] 
+[20/10/2009 23:28:53] luaDoCreateNpc(). Npc name(supervip) not found
+[20/10/2009 23:29:18] > CLEAN: Removed 2 items from 4 tiles in 0.078 seconds.
+[20/10/2009 23:29:22] Martina Ignaciaa has logged out.
+[20/10/2009 23:29:22] 
+[20/10/2009 23:29:22] Lua Script Error: [Action Interface] 
+[20/10/2009 23:29:22] data/actions/scripts/pluma.lua:onUse
+[20/10/2009 23:29:22] 
+[20/10/2009 23:29:22] luaDoCreateMonster(). Monster with name 'supervip' not found
+[20/10/2009 23:29:22] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/supervip.xml).
+[20/10/2009 23:29:22] Info: failed to load external entity "data/npc/supervip.xml"
+[20/10/2009 23:29:23] 
+[20/10/2009 23:29:23] 
+[20/10/2009 23:29:23] 
+[20/10/2009 23:29:23] Lua Script Error: [Action Interface] 
+[20/10/2009 23:29:23] data/actions/scripts/pluma.lua:onUse
+[20/10/2009 23:29:23] 
+[20/10/2009 23:29:23] luaDoCreateNpc(). Npc name(supervip) not found
+[20/10/2009 23:29:23] Account Manager has logged in.
+[20/10/2009 23:29:24] 
+[20/10/2009 23:29:24] Lua Script Error: [Action Interface] 
+[20/10/2009 23:29:24] data/actions/scripts/pluma.lua:onUse
+[20/10/2009 23:29:24] 
+[20/10/2009 23:29:24] luaDoCreateMonster(). Monster with name 'supervip' not found
+[20/10/2009 23:29:24] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/supervip.xml).
+[20/10/2009 23:29:25] Info: failed to load external entity "data/npc/supervip.xml"
+[20/10/2009 23:29:25] 
+[20/10/2009 23:29:25] 
+[20/10/2009 23:29:25] 
+[20/10/2009 23:29:25] Lua Script Error: [Action Interface] 
+[20/10/2009 23:29:25] data/actions/scripts/pluma.lua:onUse
+[20/10/2009 23:29:25] 
+[20/10/2009 23:29:25] luaDoCreateNpc(). Npc name(supervip) not found
+[20/10/2009 23:29:27] 
+[20/10/2009 23:29:27] Lua Script Error: [Action Interface] 
+[20/10/2009 23:29:27] data/actions/scripts/pluma.lua:onUse
+[20/10/2009 23:29:27] 
+[20/10/2009 23:29:27] luaDoCreateMonster(). Monster with name 'supervip' not found
+[20/10/2009 23:29:27] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/supervip.xml).
+[20/10/2009 23:29:27] Info: failed to load external entity "data/npc/supervip.xml"
+[20/10/2009 23:29:27] 
+[20/10/2009 23:29:27] 
+[20/10/2009 23:29:27] 
+[20/10/2009 23:29:27] Lua Script Error: [Action Interface] 
+[20/10/2009 23:29:27] data/actions/scripts/pluma.lua:onUse
+[20/10/2009 23:29:27] 
+[20/10/2009 23:29:27] luaDoCreateNpc(). Npc name(supervip) not found
+[20/10/2009 23:29:39] Account Manager has logged out.
+[20/10/2009 23:29:45] Martiniita has logged in.
+[20/10/2009 23:29:47] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/viper star.xml).
+[20/10/2009 23:29:47] Info: failed to load external entity "data/npc/viper star.xml"
+[20/10/2009 23:29:47] 
+[20/10/2009 23:29:47] 
+[20/10/2009 23:29:50] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/viper star 1.xml).
+[20/10/2009 23:29:50] Info: failed to load external entity "data/npc/viper star 1.xml"
+[20/10/2009 23:29:50] 
+[20/10/2009 23:29:50] 
+[20/10/2009 23:31:24] El z has logged out.
+[20/10/2009 23:31:25] El z has logged in.
+[20/10/2009 23:31:26] Martiniita has logged out.
+[20/10/2009 23:31:28] Martiniita has logged in.
+[20/10/2009 23:31:52] El z has logged out.
+[20/10/2009 23:31:53] El z has logged in.
+[20/10/2009 23:31:58] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/infernal bolt.xml).
+[20/10/2009 23:31:59] Info: failed to load external entity "data/npc/infernal bolt.xml"
+[20/10/2009 23:31:59] 
+[20/10/2009 23:31:59] 
+[20/10/2009 23:32:01] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/infernal bolt 1.xml).
+[20/10/2009 23:32:01] Info: failed to load external entity "data/npc/infernal bolt 1.xml"
+[20/10/2009 23:32:01] 
+[20/10/2009 23:32:01] 
+[20/10/2009 23:32:15] El z has logged out.
+[20/10/2009 23:32:16] El z has logged in.
+[20/10/2009 23:32:54] El z has logged out.
+[20/10/2009 23:32:55] El z has logged in.
+[20/10/2009 23:33:05] > Knut broadcasted: "que un god me ayude aca porfa".
+[20/10/2009 23:33:19] > Chikitax broadcasted: "doy 100 power bolt al q me encuentra".
+[20/10/2009 23:33:42] > Chikitax broadcasted: "doy 100 power bolt al q me encuentra".
+[20/10/2009 23:33:54] El z has logged out.
+[20/10/2009 23:33:56] El z has logged in.
+[20/10/2009 23:34:04] > Chikitax broadcasted: "doy pistas ".
+[20/10/2009 23:34:14] > Chikitax broadcasted: "toy en el templo".
+[20/10/2009 23:34:26] > Broadcasted message: "Game map cleaning within 30 seconds, please pick up your items!".
+[20/10/2009 23:34:26] El z has logged out.
+[20/10/2009 23:34:27] El z has logged in.
+[20/10/2009 23:34:40] > Saving server...
+[20/10/2009 23:34:46] > SAVE: Complete in 5.953 seconds using relational house storage.
+[20/10/2009 23:34:46] Martiniita has logged out.
+[20/10/2009 23:34:48] El z has logged out.
+[20/10/2009 23:34:49] El z has logged in.
+[20/10/2009 23:34:56] > CLEAN: Removed 110 items from 80 tiles in 0.047 seconds.
+[20/10/2009 23:34:56] > Broadcasted message: "Game map cleaned, next clean in 2 hours.".
+[20/10/2009 23:35:10] > Chikitax broadcasted: "estoy arriba donde se crean los monos".
+[20/10/2009 23:35:12] El z has logged out.
+[20/10/2009 23:35:13] El z has logged in.
+[20/10/2009 23:35:26] El z has logged out.
+[20/10/2009 23:35:27] > Knut broadcasted: "gracias julio".
+[20/10/2009 23:35:28] El z has logged in.
+[20/10/2009 23:35:36] > Chikitax broadcasted: "frio hally".
+[20/10/2009 23:35:45] > Chikitax broadcasted: "tibio".
+[20/10/2009 23:35:59] > Knut broadcasted: "Que les parece si ponemos un suelo mas bonito en la ciudad?".
+[20/10/2009 23:36:04] > Chikitax broadcasted: "gano hhaly".
+[20/10/2009 23:36:08] > Julio broadcasted: "sii".
+[20/10/2009 23:36:11] > Julio broadcasted: "mejor".
+[20/10/2009 23:36:13] > Knut broadcasted: "ok..".
+[20/10/2009 23:36:24] Account Manager has logged in.
+[20/10/2009 23:36:40] Account Manager has logged out.
+[20/10/2009 23:36:43] 
+[20/10/2009 23:36:43] Lua Script Error: [TalkAction Interface] 
+[20/10/2009 23:36:43] data/talkactions/scripts/teleporthere.lua:onSay
+[20/10/2009 23:36:43] 
+[20/10/2009 23:36:43] luaGetClosestFreeTile(). Creature not found
+[20/10/2009 23:36:45] Account Manager has logged in.
+[20/10/2009 23:36:59] Account Manager has logged out.
+[20/10/2009 23:37:04] Dark Mathy has logged in.
+[20/10/2009 23:37:05] Dark Mathy has logged out.
+[20/10/2009 23:37:37] Dark Mathy has logged in.
+[20/10/2009 23:38:01] Haally has logged out.
+[20/10/2009 23:38:04] 
+[20/10/2009 23:38:04] Lua Script Error: [TalkAction Interface] 
+[20/10/2009 23:38:04] data/talkactions/scripts/teleporthere.lua:onSay
+[20/10/2009 23:38:04] 
+[20/10/2009 23:38:04] luaGetClosestFreeTile(). Creature not found
+[20/10/2009 23:38:20] El z has logged out.
+[20/10/2009 23:38:22] El z has logged in.
+[20/10/2009 23:39:42] > Chikitax broadcasted: "todos los god y los demas vengan".
+[20/10/2009 23:40:33] Julio has logged out.
+[20/10/2009 23:40:35] Julio has logged in.
+[20/10/2009 23:40:38] Julio has logged out.
+[20/10/2009 23:40:41] Julio has logged in.
+[20/10/2009 23:40:42] Julio has logged out.
+[20/10/2009 23:40:43] Julio has logged in.
+[20/10/2009 23:40:44] Julio has logged out.
+[20/10/2009 23:41:45] > Chikitax broadcasted: "todos al templo".
+[20/10/2009 23:41:56] Account Manager has logged in.
+[20/10/2009 23:42:18] Account Manager has logged out.
+[20/10/2009 23:42:24] Account Manager has logged in.
+[20/10/2009 23:42:46] Account Manager has logged out.
+[20/10/2009 23:42:57] Account Manager has logged in.
+[20/10/2009 23:42:58] Account Manager has logged out.
+[20/10/2009 23:42:59] Xukk has logged in.
+[20/10/2009 23:43:00] Xukk has logged out.
+[20/10/2009 23:43:03] > Chikitax broadcasted: "abra evento".
+[20/10/2009 23:43:11] > Chikitax broadcasted: "todos al templo".
+[20/10/2009 23:43:12] 
+[20/10/2009 23:43:12] Lua Script Error: [TalkAction Interface] 
+[20/10/2009 23:43:12] data/talkactions/scripts/createitem.lua:onSay
+[20/10/2009 23:43:12] 
+[20/10/2009 23:43:12] luaDoCreateItemEx(). Item not found
+[20/10/2009 23:43:12] 
+[20/10/2009 23:43:12] Lua Script Error: [TalkAction Interface] 
+[20/10/2009 23:43:12] data/talkactions/scripts/createitem.lua:onSay
+[20/10/2009 23:43:12] 
+[20/10/2009 23:43:12] luaDoPlayerAddItemEx(). Item not found
+[20/10/2009 23:43:13] Xukk has logged in.
+[20/10/2009 23:43:15] > Chikitax broadcasted: "abra evento".
+[20/10/2009 23:43:35] 
+[20/10/2009 23:43:35] Lua Script Error: [TalkAction Interface] 
+[20/10/2009 23:43:35] data/talkactions/scripts/createitem.lua:onSay
+[20/10/2009 23:43:35] 
+[20/10/2009 23:43:35] luaDoCreateItemEx(). Item not found
+[20/10/2009 23:43:35] 
+[20/10/2009 23:43:35] Lua Script Error: [TalkAction Interface] 
+[20/10/2009 23:43:35] data/talkactions/scripts/createitem.lua:onSay
+[20/10/2009 23:43:35] 
+[20/10/2009 23:43:35] luaDoPlayerAddItemEx(). Item not found
+[20/10/2009 23:43:39] 
+[20/10/2009 23:43:39] Lua Script Error: [TalkAction Interface] 
+[20/10/2009 23:43:39] data/talkactions/scripts/createitem.lua:onSay
+[20/10/2009 23:43:39] 
+[20/10/2009 23:43:39] luaDoCreateItemEx(). Item not found
+[20/10/2009 23:43:39] 
+[20/10/2009 23:43:39] Lua Script Error: [TalkAction Interface] 
+[20/10/2009 23:43:39] data/talkactions/scripts/createitem.lua:onSay
+[20/10/2009 23:43:39] 
+[20/10/2009 23:43:39] luaDoPlayerAddItemEx(). Item not found
+[20/10/2009 23:43:43] 
+[20/10/2009 23:43:43] Lua Script Error: [TalkAction Interface] 
+[20/10/2009 23:43:43] data/talkactions/scripts/createitem.lua:onSay
+[20/10/2009 23:43:43] 
+[20/10/2009 23:43:43] luaDoCreateItemEx(). Item not found
+[20/10/2009 23:43:43] 
+[20/10/2009 23:43:43] Lua Script Error: [TalkAction Interface] 
+[20/10/2009 23:43:43] data/talkactions/scripts/createitem.lua:onSay
+[20/10/2009 23:43:43] 
+[20/10/2009 23:43:43] luaDoPlayerAddItemEx(). Item not found
+[20/10/2009 23:43:47] 
+[20/10/2009 23:43:47] Lua Script Error: [TalkAction Interface] 
+[20/10/2009 23:43:47] data/talkactions/scripts/createitem.lua:onSay
+[20/10/2009 23:43:47] 
+[20/10/2009 23:43:47] luaDoCreateItemEx(). Item not found
+[20/10/2009 23:43:47] 
+[20/10/2009 23:43:47] Lua Script Error: [TalkAction Interface] 
+[20/10/2009 23:43:47] data/talkactions/scripts/createitem.lua:onSay
+[20/10/2009 23:43:47] 
+[20/10/2009 23:43:47] luaDoPlayerAddItemEx(). Item not found
+[20/10/2009 23:44:53] El z has logged out.
+[20/10/2009 23:45:03] 
+[20/10/2009 23:45:03] Lua Script Error: [TalkAction Interface] 
+[20/10/2009 23:45:03] data/talkactions/scripts/kick.lua:onSay
+[20/10/2009 23:45:03] 
+[20/10/2009 23:45:03] data/talkactions/scripts/kick.lua:13: attempt to compare number with boolean
+[20/10/2009 23:45:03] stack traceback:
+[20/10/2009 23:45:03] 	data/talkactions/scripts/kick.lua:13: in function <data/talkactions/scripts/kick.lua:1>
+[20/10/2009 23:45:17] Maxma has logged in.
+[20/10/2009 23:45:24] Account Manager has logged in.
+[20/10/2009 23:45:34] Account Manager has logged out.
+[20/10/2009 23:45:39] Account Manager has logged in.
+[20/10/2009 23:45:49] > Chikitax broadcasted: "evento es :".
+[20/10/2009 23:45:50] 
+[20/10/2009 23:45:50] Lua Script Error: [TalkAction Interface] 
+[20/10/2009 23:45:50] data/talkactions/scripts/createitem.lua:onSay
+[20/10/2009 23:45:50] 
+[20/10/2009 23:45:50] luaDoCreateItemEx(). Item not found
+[20/10/2009 23:45:50] 
+[20/10/2009 23:45:50] Lua Script Error: [TalkAction Interface] 
+[20/10/2009 23:45:50] data/talkactions/scripts/createitem.lua:onSay
+[20/10/2009 23:45:50] 
+[20/10/2009 23:45:50] luaDoPlayerAddItemEx(). Item not found
+[20/10/2009 23:45:51] Account Manager has logged out.
+[20/10/2009 23:45:53] 
+[20/10/2009 23:45:53] Lua Script Error: [TalkAction Interface] 
+[20/10/2009 23:45:53] data/talkactions/scripts/createitem.lua:onSay
+[20/10/2009 23:45:53] 
+[20/10/2009 23:45:53] luaDoCreateItemEx(). Item not found
+[20/10/2009 23:45:53] 
+[20/10/2009 23:45:53] Lua Script Error: [TalkAction Interface] 
+[20/10/2009 23:45:53] data/talkactions/scripts/createitem.lua:onSay
+[20/10/2009 23:45:53] 
+[20/10/2009 23:45:53] luaDoPlayerAddItemEx(). Item not found
+[20/10/2009 23:45:55] Master Killer has logged in.
+[20/10/2009 23:45:56] Master Killer has logged out.
+[20/10/2009 23:45:58] 
+[20/10/2009 23:45:58] Lua Script Error: [TalkAction Interface] 
+[20/10/2009 23:45:58] data/talkactions/scripts/createitem.lua:onSay
+[20/10/2009 23:45:58] 
+[20/10/2009 23:45:58] luaDoCreateItemEx(). Item not found
+[20/10/2009 23:45:58] 
+[20/10/2009 23:45:58] Lua Script Error: [TalkAction Interface] 
+[20/10/2009 23:45:58] data/talkactions/scripts/createitem.lua:onSay
+[20/10/2009 23:45:58] 
+[20/10/2009 23:45:58] luaDoPlayerAddItemEx(). Item not found
+[20/10/2009 23:46:04] 
+[20/10/2009 23:46:04] Lua Script Error: [TalkAction Interface] 
+[20/10/2009 23:46:04] data/talkactions/scripts/createitem.lua:onSay
+[20/10/2009 23:46:04] 
+[20/10/2009 23:46:04] luaDoCreateItemEx(). Item not found
+[20/10/2009 23:46:04] 
+[20/10/2009 23:46:04] Lua Script Error: [TalkAction Interface] 
+[20/10/2009 23:46:04] data/talkactions/scripts/createitem.lua:onSay
+[20/10/2009 23:46:04] 
+[20/10/2009 23:46:04] luaDoPlayerAddItemEx(). Item not found
+[20/10/2009 23:46:12] 
+[20/10/2009 23:46:12] Lua Script Error: [TalkAction Interface] 
+[20/10/2009 23:46:12] data/talkactions/scripts/createitem.lua:onSay
+[20/10/2009 23:46:12] 
+[20/10/2009 23:46:12] luaDoCreateItemEx(). Item not found
+[20/10/2009 23:46:12] 
+[20/10/2009 23:46:12] Lua Script Error: [TalkAction Interface] 
+[20/10/2009 23:46:12] data/talkactions/scripts/createitem.lua:onSay
+[20/10/2009 23:46:12] 
+[20/10/2009 23:46:12] luaDoPlayerAddItemEx(). Item not found
+[20/10/2009 23:46:16] > Chikitax broadcasted: "encontrare los gm god cm".
+[20/10/2009 23:46:27] Xukk has logged out.
+[20/10/2009 23:46:27] Account Manager has logged in.
+[20/10/2009 23:46:29] Account Manager has logged out.
+[20/10/2009 23:46:30] Xukk has logged in.
+[20/10/2009 23:46:31] Master Killer has logged in.
+[20/10/2009 23:46:37] > Chikitax broadcasted: "ise gana una casa llena de cc".
+[20/10/2009 23:46:52] > Chikitax broadcasted: "el q nos encuetra".
+[20/10/2009 23:47:14] > Kramolox broadcasted: "saca te el ghost chikitax k no puedo ir a donde estas".
+[20/10/2009 23:47:19] > Kramolox broadcasted: "xD".
+[20/10/2009 23:47:26] > Chikitax broadcasted: "ok".
+[20/10/2009 23:47:56] Knut has logged out.
+[20/10/2009 23:48:17] > Maxma broadcasted: "afk".
+[20/10/2009 23:48:43] GOD Aggro has logged in.
+[20/10/2009 23:48:45] Alex rey has logged in.
+[20/10/2009 23:49:36] > GOD Aggro broadcasted: "reset".
+[20/10/2009 23:49:40] Knut has logged in.
+[20/10/2009 23:49:41] > Saving server...
+[20/10/2009 23:49:45] > SAVE: Complete in 3.516 seconds using relational house storage.
+[20/10/2009 23:50:22] Chikitax has logged out.
+[20/10/2009 23:50:22] Kramolox has logged out.
+[20/10/2009 23:50:23] Dark Mathy has logged out.
+[20/10/2009 23:50:23] Maxma has logged out.
+[20/10/2009 23:50:23] Xukk has logged out.
+[20/10/2009 23:50:23] Master Killer has logged out.
+[20/10/2009 23:50:24] GOD Aggro has logged out.
+[20/10/2009 23:50:24] Alex rey has logged out.
+[20/10/2009 23:50:24] Knut has logged out.
+[20/10/2009 23:50:24] > Saving server...
+[20/10/2009 23:50:27] > SAVE: Complete in 2.187 seconds using relational house storage.
+[20/10/2009 23:50:27] Preparing to shutdown server..
+[20/10/2009 23:50:27] .
+[20/10/2009 23:50:27] Exiting
+[20/10/2009 23:50:41] The Forgotten Server, version 0.3.4 (Crying Damson)
+[20/10/2009 23:50:41] Sever Criado Por Alissow e Comedinha.
+[20/10/2009 23:50:41] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[20/10/2009 23:50:41] Bom Jogo!!!
+[20/10/2009 23:50:41] 
+[20/10/2009 23:50:41] >> Debugging: nothing.
+[20/10/2009 23:50:41] >> Checking software version... outdated, please consider updating!
+[20/10/2009 23:50:42] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[20/10/2009 23:50:42] > Latest version information - version: 0.3.5, patch: 1, build: 2576, timestamp: 1249584126.
+[20/10/2009 23:50:43] [Warning - ConfigManager::getBool] 62
+[20/10/2009 23:50:43] 
+[20/10/2009 23:50:43] >> Loading config (config.lua)
+[20/10/2009 23:50:43] 
+[20/10/2009 23:50:43] > ERROR: Another instance of The Forgotten Server is already running with the same worldId.
+[20/10/2009 23:50:43] If you want to run multiple servers, please change the worldId in configuration file.
+[20/10/2009 23:50:56] The Forgotten Server, version 0.3.4 (Crying Damson)
+[20/10/2009 23:50:56] Sever Criado Por Alissow e Comedinha.
+[20/10/2009 23:50:56] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[20/10/2009 23:50:56] Bom Jogo!!!
+[20/10/2009 23:50:56] 
+[20/10/2009 23:50:56] >> Debugging: nothing.
+[20/10/2009 23:50:56] >> Checking software version... outdated, please consider updating!
+[20/10/2009 23:50:57] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[20/10/2009 23:50:57] > Latest version information - version: 0.3.5, patch: 1, build: 2576, timestamp: 1249584126.
+[20/10/2009 23:50:57] [Warning - ConfigManager::getBool] 62
+[20/10/2009 23:50:57] 
+[20/10/2009 23:50:57] >> Loading config (config.lua)
+[20/10/2009 23:50:57] > Using plaintext passwords
+[20/10/2009 23:50:57] >> Loading RSA key
+[20/10/2009 23:50:57] >> Starting SQL connection
+[20/10/2009 23:50:57] >> Running Database Manager
+[20/10/2009 23:50:58] > Optimized database.
+[20/10/2009 23:50:58] >> Loading items
+[20/10/2009 23:50:59] >> Loading groups
+[20/10/2009 23:50:59] >> Loading vocations
+[20/10/2009 23:50:59] >> Loading script systems
+[20/10/2009 23:50:59] [Warning - Weapons::registerEvent] Duplicate registered item with id: 7410
+[20/10/2009 23:51:00] [Warning - Event::loadScript] Cannot load script (data/spells/scripts/gen.lua)
+[20/10/2009 23:51:00] cannot open data/spells/scripts/gen.lua: No such file or directory
+[20/10/2009 23:51:04] [Warning - Event::loadScript] Cannot load script (data/creaturescripts/scripts/playerdeath.lua)
+[20/10/2009 23:51:04] cannot open data/creaturescripts/scripts/playerdeath.lua: No such file or directory
+[20/10/2009 23:51:04] >> Loading chat channels
+[20/10/2009 23:51:04] >> Loading outfits
+[20/10/2009 23:51:04] >> Loading experience stages
+[20/10/2009 23:51:04] >> Loading monsters
+[20/10/2009 23:51:07] >> Loading map and spawns...
+[20/10/2009 23:51:08] > Map size: 512x512.
+[20/10/2009 23:51:08] > Map descriptions: 
+[20/10/2009 23:51:08] Saved with Remere's Map Editor 1.1.9
+[20/10/2009 23:51:08] Remere 's Map Editor Beta
+[20/10/2009 23:51:10] Duplicate uniqueId 1032
+[20/10/2009 23:51:11] Duplicate uniqueId 2471
+[20/10/2009 23:51:12] > Map loading time: 4.64 seconds.
+[20/10/2009 23:51:13] [Spawn::addMonster] Cannot find "Halloween Pumpkin"
+[20/10/2009 23:51:13] [Spawn::addMonster] Cannot find "Halloween Pumpkin"
+[20/10/2009 23:51:13] [Spawn::addMonster] Cannot find "Hellish Tortoise"
+[20/10/2009 23:51:13] [Spawn::addMonster] Cannot find "Hellish Tortoise"
+[20/10/2009 23:51:13] [Spawn::addMonster] Cannot find "Hellish Tortoise"
+[20/10/2009 23:51:13] [Spawn::addMonster] Cannot find "Halloween Pumpkin"
+[20/10/2009 23:51:13] [Spawn::addMonster] Cannot find "Son the Ripper"
+[20/10/2009 23:51:13] [Spawn::addMonster] Cannot find "Son the Ripper"
+[20/10/2009 23:51:13] [Spawn::addMonster] Cannot find "Halloween Pumpkin"
+[20/10/2009 23:51:13] [Spawn::addMonster] Cannot find "Son the Ripper"
+[20/10/2009 23:51:14] [Spawn::addMonster] Cannot find "Son the Ripper"
+[20/10/2009 23:51:14] [Warning - Spawns::loadFromXml] Son the Ripper ( 00058 / 00211 / 007 ) spawntime cannot be less than 1 seconds.
+[20/10/2009 23:51:14] [Spawn::addMonster] Cannot find "Halloween Pumpkin"
+[20/10/2009 23:51:14] [Spawn::addMonster] Cannot find "Son the Ripper"
+[20/10/2009 23:51:14] [Spawn::addMonster] Cannot find "Son the Ripper"
+[20/10/2009 23:51:14] [Spawn::addMonster] Cannot find "Hellish Tortoise"
+[20/10/2009 23:51:14] [Spawn::addMonster] Cannot find "Hellish Tortoise"
+[20/10/2009 23:51:14] [Spawn::addMonster] Cannot find "Halloween Pumpkin"
+[20/10/2009 23:51:14] [Spawn::addMonster] Cannot find "CM Outfit"
+[20/10/2009 23:51:14] [Spawn::addMonster] Cannot find "CM Outfit"
+[20/10/2009 23:51:14] [Spawn::addMonster] Cannot find "Hellish Tortoise"
+[20/10/2009 23:51:15] [Spawn::addMonster] Cannot find "Hellish Tortoise"
+[20/10/2009 23:51:15] [Spawn::addMonster] Cannot find "Halloween Pumpkin"
+[20/10/2009 23:51:15] [Spawn::addMonster] Cannot find "CM Outfit"
+[20/10/2009 23:51:15] [Spawn::addMonster] Cannot find "Hellish Tortoise"
+[20/10/2009 23:51:15] [Spawn::addMonster] Cannot find "Hellish Tortoise"
+[20/10/2009 23:51:15] [Spawn::addMonster] Cannot find "Hellish Tortoise"
+[20/10/2009 23:51:15] [Spawn::addMonster] Cannot find "Hellish Tortoise"
+[20/10/2009 23:51:15] [Spawn::addMonster] Cannot find "Hellish Tortoise"
+[20/10/2009 23:51:15] [Spawn::addMonster] Cannot find "Halloween Pumpkin"
+[20/10/2009 23:51:15] [Spawn::addMonster] Cannot find "CM Outfit"
+[20/10/2009 23:51:15] [Warning - Houses::loadFromXml] House entry not set for:  (158)
+[20/10/2009 23:51:15] > Data loading time: 3.375 seconds.
+[20/10/2009 23:51:16] > Unserialization time for houses: 0.047 seconds.
+[20/10/2009 23:51:31] > Unserialization time for map: 15.641 seconds.
+[20/10/2009 23:51:31] >> Checking world type... PvP
+[20/10/2009 23:51:31] >> Initializing game state modules and registering services...
+[20/10/2009 23:51:32] > Global address: 201.246.34.149
+[20/10/2009 23:51:32] > Local ports:
+[20/10/2009 23:51:32] 7171	7172	
+[20/10/2009 23:51:32] >> All modules were loaded, server starting up...
+[20/10/2009 23:51:32] >> Aggrometal server server Online!
+[20/10/2009 23:51:32] 
+[20/10/2009 23:51:35] Alex rey has logged in.
+[20/10/2009 23:51:41] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[20/10/2009 23:51:42] GOD Aggro has logged in.
+[20/10/2009 23:52:17] Dark Mathy has logged in.
+[20/10/2009 23:52:21] Account Manager has logged in.
+[20/10/2009 23:52:22] Account Manager has logged out.
+[20/10/2009 23:52:28] Account Manager has logged in.
+[20/10/2009 23:52:29] Account Manager has logged in.
+[20/10/2009 23:52:30] Account Manager has logged out.
+[20/10/2009 23:52:35] Chikitax has logged in.
+[20/10/2009 23:52:42] Account Manager has logged out.
+[20/10/2009 23:53:31] Maxma has logged in.
+[20/10/2009 23:53:33] The Mage has logged in.
+[20/10/2009 23:53:36] Account Manager has logged in.
+[20/10/2009 23:53:41] Account Manager has logged out.
+[20/10/2009 23:53:46] Kramolox has logged in.
+[20/10/2009 23:53:51] The Mage has logged out.
+[20/10/2009 23:53:52] The Mage has logged in.
+[20/10/2009 23:56:19] The Mage has logged out.
+[20/10/2009 23:56:23] The Mage has logged in.
+[20/10/2009 23:56:29] Alex rey has logged out.
+[20/10/2009 23:56:31] Alex rey has logged in.
+[20/10/2009 23:59:07] > Maxma broadcasted: "http://www.fotolog.com/isxy0sitaaaaaah porfa es de mi amiga :D".

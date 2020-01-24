@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<raid>
+  <!--Announcements-->
+  <announce delay="5000" type="Event" message="Demonios csm invaden Slayer city" />
+  <!--Single Spawns-->
+  <singlespawn delay="10000" name="Demonio" x="150" y="57" z="7" />
+  <singlespawn delay="10000" name="Demonio" x="151" y="57" z="7" />
+  <singlespawn delay="10000" name="Demonio" x="152" y="57" z="7" />
+  <singlespawn delay="10000" name="Demonio" x="153" y="57" z="7" />
+  <singlespawn delay="10000" name="Demonio" x="154" y="57" z="7" />
+  <singlespawn delay="10000" name="Demonio" x="155" y="57" z="7" />
+  <singlespawn delay="10000" name="Demonio" x="156" y="57" z="7" />
+  <singlespawn delay="10000" name="Demonio" x="157" y="57" z="7" />
+  <singlespawn delay="10000" name="Demonio" x="158" y="57" z="7" />
+  <singlespawn delay="10000" name="Demonio" x="159" y="57" z="7" />
+  <singlespawn delay="10000" name="Demonio" x="160" y="57" z="7" />
+  <singlespawn delay="10000" name="Demonio" x="161" y="57" z="7" />
+  <singlespawn delay="10000" name="Demonio" x="162" y="57" z="7" />
+  <singlespawn delay="10000" name="Demonio" x="163" y="57" z="7" />
+  <singlespawn delay="10000" name="Demonio" x="164" y="57" z="7" />
+  <singlespawn delay="10000" name="Demonio" x="165" y="57" z="7" />
+  <singlespawn delay="10000" name="Demonio" x="166" y="57" z="7" />
+  <singlespawn delay="10000" name="Demonio" x="167" y="57" z="7" />
+  <singlespawn delay="10000" name="Demonio" x="168" y="57" z="7" />
+  <singlespawn delay="10000" name="Demonio" x="151" y="58" z="7" />
+  <singlespawn delay="10000" name="Demonio" x="152" y="58" z="7" />
+  <singlespawn delay="10000" name="Demonio" x="153" y="58" z="7" />
+  <singlespawn delay="10000" name="Demonio" x="154" y="58" z="7" />
+  <singlespawn delay="10000" name="Demonio" x="155" y="58" z="7" />
+  <singlespawn delay="10000" name="Demonio" x="156" y="58" z="7" />
+  <singlespawn delay="10000" name="Demonio" x="157" y="58" z="7" />
+  <singlespawn delay="10000" name="Demonio" x="158" y="58" z="7" />
+  <singlespawn delay="10000" name="Demonio" x="159" y="58" z="7" />
+  <singlespawn delay="10000" name="Demonio" x="160" y="58" z="7" />
+  <singlespawn delay="10000" name="Demonio" x="161" y="58" z="7" />
+  <singlespawn delay="10000" name="Demonio" x="162" y="58" z="7" />
+  <singlespawn delay="10000" name="Demonio" x="163" y="58" z="7" />
+  <singlespawn delay="10000" name="Demonio" x="164" y="58" z="7" />
+  <singlespawn delay="10000" name="Demonio" x="165" y="58" z="7" />
+  <singlespawn delay="10000" name="Demonio" x="166" y="58" z="7" />
+  <singlespawn delay="10000" name="Demonio" x="167" y="58" z="7" />
+  <singlespawn delay="10000" name="Demonio" x="168" y="58" z="7" />
+</raid>

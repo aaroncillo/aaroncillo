@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<npc name="Teletransportador" script="data/npc/scripts/boat_mystic.lua" access="3" walkinterval="0" floorchange="0">
+ 	<look type="194" head="20" body="30" legs="40" feet="50"/>
+<parameters>
+      <parameter key="module_travel" value="1"/>
+		<parameter key="message_greet" value="Hola |PLAYERNAME|. donde queri ir wn {vip seller}, {tp a lo moderno}, {tp a lo antiguo}, {monster edited}, {quests}?"/>
+        <parameter key="travel_destinations" value="vip seller,129,53,5,1;tp a lo moderno,317,320,8,1;tp a lo antiguo,39,199,7,1;monster edited,366,221,15,1;quests,257,319,8,1"/>
+</parameters>
+</npc>

@@ -1,0 +1,735 @@
+[28/07/2009 15:32:25] The Forgotten Server, version 0.3.4 (Crying Damson)
+[28/07/2009 15:32:25] Sever Criado Por Alissow e Comedinha.
+[28/07/2009 15:32:25] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[28/07/2009 15:32:25] Bom Jogo!!!
+[28/07/2009 15:32:25] 
+[28/07/2009 15:32:25] >> Debugging: nothing.
+[28/07/2009 15:32:25] >> Checking software version... up to date!
+[28/07/2009 15:32:29] 
+[28/07/2009 15:32:29] >> Loading config (config.lua)
+[28/07/2009 15:32:30] > Using plaintext passwords
+[28/07/2009 15:32:30] >> Loading RSA key
+[28/07/2009 15:32:30] >> Starting SQL connection
+[28/07/2009 15:32:30] >> Running Database Manager
+[28/07/2009 15:32:30] > Optimized database.
+[28/07/2009 15:32:30] >> Loading items
+[28/07/2009 15:32:30] >> Loading groups
+[28/07/2009 15:32:30] >> Loading vocations
+[28/07/2009 15:32:31] >> Loading script systems
+[28/07/2009 15:32:31] >> Loading chat channels
+[28/07/2009 15:32:31] >> Loading outfits
+[28/07/2009 15:32:31] >> Loading experience stages
+[28/07/2009 15:32:31] >> Loading monsters
+[28/07/2009 15:32:34] >> Loading map and spawns...
+[28/07/2009 15:32:34] > Map size: 512x512.
+[28/07/2009 15:32:34] > Map descriptions: 
+[28/07/2009 15:32:34] Saved with Remere's Map Editor 1.1.7 BETA
+[28/07/2009 15:32:34] Remere 's Map Editor Beta
+[28/07/2009 15:32:35] Duplicate uniqueId 2471
+[28/07/2009 15:32:36] > Map loading time: 1.906 seconds.
+[28/07/2009 15:32:36] [Warning - Houses::loadFromXml] House entry not set for:  (158)
+[28/07/2009 15:32:36] > Data loading time: 0.594 seconds.
+[28/07/2009 15:32:36] > Unserialization time for houses: 0 seconds.
+[28/07/2009 15:32:43] > Unserialization time for map: 6.907 seconds.
+[28/07/2009 15:32:43] >> Checking world type... PvP
+[28/07/2009 15:32:43] >> Initializing game state modules and registering services...
+[28/07/2009 15:32:44] > Global address: 127.0.0.1
+[28/07/2009 15:32:44] > Local ports:
+[28/07/2009 15:32:44] 7171	7172	
+[28/07/2009 15:32:44] >> All modules were loaded, server starting up...
+[28/07/2009 15:32:44] >> Snowz Ots server Online!
+[28/07/2009 15:32:44] 
+[28/07/2009 15:33:27] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[28/07/2009 15:33:28] GOD Snowz has logged in.
+[28/07/2009 15:47:32] > Saving server...
+[28/07/2009 15:47:33] > SAVE: Complete in 1.5 seconds using relational house storage.
+[28/07/2009 15:50:46] GOD Snowz has logged out.
+[28/07/2009 15:50:48] GOD Snowz has logged in.
+[28/07/2009 15:50:49] GOD Snowz has logged out.
+[28/07/2009 15:50:50] GOD Snowz has logged in.
+[28/07/2009 15:50:51] GOD Snowz has logged out.
+[28/07/2009 15:51:12] > Saving server...
+[28/07/2009 15:51:13] > SAVE: Complete in 0.75 seconds using relational house storage.
+[28/07/2009 15:51:13] Preparing to shutdown server..
+[28/07/2009 15:51:13] .
+[28/07/2009 15:51:13] Exiting
+[28/07/2009 18:53:34] The Forgotten Server, version 0.3.4 (Crying Damson)
+[28/07/2009 18:53:34] Sever Criado Por Alissow e Comedinha.
+[28/07/2009 18:53:34] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[28/07/2009 18:53:34] Bom Jogo!!!
+[28/07/2009 18:53:34] 
+[28/07/2009 18:53:34] >> Debugging: nothing.
+[28/07/2009 18:53:34] >> Checking software version... up to date!
+[28/07/2009 18:53:34] 
+[28/07/2009 18:53:34] >> Loading config (config.lua)
+[28/07/2009 18:53:34] > Using plaintext passwords
+[28/07/2009 18:53:34] >> Loading RSA key
+[28/07/2009 18:53:34] >> Starting SQL connection
+[28/07/2009 18:53:34] >> Running Database Manager
+[28/07/2009 18:53:34] > Optimized database.
+[28/07/2009 18:53:34] >> Loading items
+[28/07/2009 18:53:34] >> Loading groups
+[28/07/2009 18:53:34] >> Loading vocations
+[28/07/2009 18:53:35] >> Loading script systems
+[28/07/2009 18:53:35] >> Loading chat channels
+[28/07/2009 18:53:35] >> Loading outfits
+[28/07/2009 18:53:35] >> Loading experience stages
+[28/07/2009 18:53:35] >> Loading monsters
+[28/07/2009 18:53:37] >> Loading map and spawns...
+[28/07/2009 18:53:37] > Map size: 512x512.
+[28/07/2009 18:53:37] > Map descriptions: 
+[28/07/2009 18:53:37] Saved with Remere's Map Editor 1.1.7 BETA
+[28/07/2009 18:53:37] Remere 's Map Editor Beta
+[28/07/2009 18:53:38] Duplicate uniqueId 2471
+[28/07/2009 18:53:39] > Map loading time: 1.812 seconds.
+[28/07/2009 18:53:39] [Warning - Houses::loadFromXml] House entry not set for:  (158)
+[28/07/2009 18:53:39] > Data loading time: 0.484 seconds.
+[28/07/2009 18:53:39] > Unserialization time for houses: 0 seconds.
+[28/07/2009 18:53:46] > Unserialization time for map: 6.984 seconds.
+[28/07/2009 18:53:46] >> Checking world type... PvP
+[28/07/2009 18:53:46] >> Initializing game state modules and registering services...
+[28/07/2009 18:53:47] > Global address: 127.0.0.1
+[28/07/2009 18:53:47] > Local ports:
+[28/07/2009 18:53:47] 7171	7172	
+[28/07/2009 18:53:47] >> All modules were loaded, server starting up...
+[28/07/2009 18:53:47] >[28/07/2009 18:53:47] >>  SSanvoiwnzg  Ostesr vseerr.v.e.r
+ Online!
+[28/07/2009 18:53:47] 
+[28/07/2009 18:53:47] > SAVE: Complete in 0.718 seconds using relational house storage.
+[28/07/2009 18:53:47] Preparing to shutdown server..
+[28/07/2009 18:53:47] .
+[28/07/2009 18:53:47] Exiting
+[28/07/2009 19:35:30] The Forgotten Server, version 0.3.4 (Crying Damson)
+[28/07/2009 19:35:30] Sever Criado Por Alissow e Comedinha.
+[28/07/2009 19:35:30] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[28/07/2009 19:35:30] Bom Jogo!!!
+[28/07/2009 19:35:30] 
+[28/07/2009 19:35:30] >> Debugging: nothing.
+[28/07/2009 19:35:30] >> Checking software version... up to date!
+[28/07/2009 19:35:31] 
+[28/07/2009 19:35:31] >> Loading config (config.lua)
+[28/07/2009 19:35:31] > Using plaintext passwords
+[28/07/2009 19:35:31] >> Loading RSA key
+[28/07/2009 19:35:31] >> Starting SQL connection
+[28/07/2009 19:35:31] >> Running Database Manager
+[28/07/2009 19:35:32] > Optimized database.
+[28/07/2009 19:35:32] >> Loading items
+[28/07/2009 19:35:32] >> Loading groups
+[28/07/2009 19:35:32] >> Loading vocations
+[28/07/2009 19:35:32] >> Loading script systems
+[28/07/2009 19:35:32] >> Loading chat channels
+[28/07/2009 19:35:33] >> Loading outfits
+[28/07/2009 19:35:33] >> Loading experience stages
+[28/07/2009 19:35:33] >> Loading monsters
+[28/07/2009 19:35:33] >> Loading map and spawns...
+[28/07/2009 19:35:33] > Map size: 512x512.
+[28/07/2009 19:35:33] > Map descriptions: 
+[28/07/2009 19:35:33] Saved with Remere's Map Editor 1.1.7 BETA
+[28/07/2009 19:35:33] Remere 's Map Editor Beta
+[28/07/2009 19:35:34] Duplicate uniqueId 2471
+[28/07/2009 19:35:35] > Map loading time: 1.812 seconds.
+[28/07/2009 19:35:35] [Warning - Houses::loadFromXml] House entry not set for:  (158)
+[28/07/2009 19:35:35] > Data loading time: 0.328 seconds.
+[28/07/2009 19:35:35] > Unserialization time for houses: 0 seconds.
+[28/07/2009 19:35:42] > Unserialization time for map: 7.032 seconds.
+[28/07/2009 19:35:42] >> Checking world type... PvP
+[28/07/2009 19:35:42] >> Initializing game state modules and registering services...
+[28/07/2009 19:35:42] > Global address: 127.0.0.1
+[28/07/2009 19:35:42] > Local ports:
+[28/07/2009 19:35:42] 7171	7172	
+[28/07/2009 19:35:42] >> All modules were loaded, server starting up...
+[28/07/2009 19:35:42] >> Snowz Ots server Online!
+[28/07/2009 19:35:42] 
+[28/07/2009 19:37:55] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[28/07/2009 19:37:58] GOD Snowz has logged in.
+[28/07/2009 19:50:33] > Saving server...
+[28/07/2009 19:50:35] > SAVE: Complete in 1.625 seconds using relational house storage.
+[28/07/2009 19:55:58] GOD Snowz has logged out.
+[28/07/2009 19:55:58] > Saving server...
+[28/07/2009 19:55:59] > SAVE: Complete in 0.765 seconds using relational house storage.
+[28/07/2009 19:55:59] Preparing to shutdown server..
+[28/07/2009 19:55:59] .
+[28/07/2009 19:55:59] Exiting
+[28/07/2009 19:56:00] The Forgotten Server, version 0.3.4 (Crying Damson)
+[28/07/2009 19:56:00] Sever Criado Por Alissow e Comedinha.
+[28/07/2009 19:56:00] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[28/07/2009 19:56:00] Bom Jogo!!!
+[28/07/2009 19:56:00] 
+[28/07/2009 19:56:00] >> Debugging: nothing.
+[28/07/2009 19:56:00] >> Checking software version... up to date!
+[28/07/2009 19:56:00] 
+[28/07/2009 19:56:00] >> Loading config (config.lua)
+[28/07/2009 19:56:00] 
+[28/07/2009 19:56:00] > ERROR: Another instance of The Forgotten Server is already running with the same worldId.
+[28/07/2009 19:56:00] If you want to run multiple servers, please change the worldId in configuration file.
+[28/07/2009 19:56:22] The Forgotten Server, version 0.3.4 (Crying Damson)
+[28/07/2009 19:56:22] Sever Criado Por Alissow e Comedinha.
+[28/07/2009 19:56:22] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[28/07/2009 19:56:22] Bom Jogo!!!
+[28/07/2009 19:56:22] 
+[28/07/2009 19:56:22] >> Debugging: nothing.
+[28/07/2009 19:56:22] >> Checking software version... up to date!
+[28/07/2009 19:56:22] 
+[28/07/2009 19:56:22] >> Loading config (config.lua)
+[28/07/2009 19:56:22] > Using plaintext passwords
+[28/07/2009 19:56:22] >> Loading RSA key
+[28/07/2009 19:56:22] >> Starting SQL connection
+[28/07/2009 19:56:22] >> Running Database Manager
+[28/07/2009 19:56:22] > Optimized database.
+[28/07/2009 19:56:22] >> Loading items
+[28/07/2009 19:56:23] >> Loading groups
+[28/07/2009 19:56:23] >> Loading vocations
+[28/07/2009 19:56:23] >> Loading script systems
+[28/07/2009 19:56:23] >> Loading chat channels
+[28/07/2009 19:56:23] >> Loading outfits
+[28/07/2009 19:56:23] >> Loading experience stages
+[28/07/2009 19:56:23] >> Loading monsters
+[28/07/2009 19:56:24] >> Loading map and spawns...
+[28/07/2009 19:56:24] > Map size: 512x512.
+[28/07/2009 19:56:24] > Map descriptions: 
+[28/07/2009 19:56:24] Saved with Remere's Map Editor 1.1.7 BETA
+[28/07/2009 19:56:24] Remere 's Map Editor Beta
+[28/07/2009 19:56:25] Duplicate uniqueId 2471
+[28/07/2009 19:56:26] > Map loading time: 1.875 seconds.
+[28/07/2009 19:56:26] [Warning - Houses::loadFromXml] House entry not set for:  (158)
+[28/07/2009 19:56:26] > Data loading time: 0.422 seconds.
+[28/07/2009 19:56:26] > Unserialization time for houses: 0.015 seconds.
+[28/07/2009 19:56:33] > Unserialization time for map: 6.86 seconds.
+[28/07/2009 19:56:33] >> Checking world type... PvP
+[28/07/2009 19:56:33] >> Initializing game state modules and registering services...
+[28/07/2009 19:56:33] > Global address: 127.0.0.1
+[28/07/2009 19:56:33] > Local ports:
+[28/07/2009 19:56:33] 7171	7172	
+[28/07/2009 19:56:33] >> All modules were loaded, server starting up...
+[28/07/2009 19:56:33] >> Snowz Ots server Online!
+[28/07/2009 19:56:33] 
+[28/07/2009 19:56:48] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[28/07/2009 19:56:49] GOD Snowz has logged in.
+[28/07/2009 19:58:47] GOD Snowz has logged out.
+[28/07/2009 19:58:49] Account Manager has logged in.
+[28/07/2009 19:59:09] Account Manager has logged out.
+[28/07/2009 19:59:17] Test has logged in.
+[28/07/2009 20:00:55] Test has logged out.
+[28/07/2009 20:00:56] GOD Snowz has logged in.
+[28/07/2009 20:01:06] GOD Snowz has logged out.
+[28/07/2009 20:01:07] Test has logged in.
+[28/07/2009 20:01:12] Test has logged out.
+[28/07/2009 20:01:14] Test has logged in.
+[28/07/2009 20:01:16] Test has logged out.
+[28/07/2009 20:01:17] Test has logged in.
+[28/07/2009 20:01:21] Test has logged out.
+[28/07/2009 20:01:22] Test has logged in.
+[28/07/2009 20:01:25] Test has logged out.
+[28/07/2009 20:01:26] Test has logged in.
+[28/07/2009 20:01:30] Test has logged out.
+[28/07/2009 20:01:32] Test has logged in.
+[28/07/2009 20:01:45] Test has logged out.
+[28/07/2009 20:01:47] Test has logged in.
+[28/07/2009 20:01:53] Test has logged out.
+[28/07/2009 20:01:55] GOD Snowz has logged in.
+[28/07/2009 20:04:27] GOD Snowz has logged out.
+[28/07/2009 20:04:28] GOD Snowz has logged in.
+[28/07/2009 20:04:29] GOD Snowz has logged out.
+[28/07/2009 20:04:34] Account Manager has logged in.
+[28/07/2009 20:05:08] Account Manager has logged out.
+[28/07/2009 20:05:18] Account Manager has logged in.
+[28/07/2009 20:05:44] Account Manager has logged out.
+[28/07/2009 20:05:54] Tesst has logged in.
+[28/07/2009 20:05:58] Tesst has logged out.
+[28/07/2009 20:05:59] Tesst has logged in.
+[28/07/2009 20:06:00] Tesst has logged out.
+[28/07/2009 20:06:03] Test has logged in.
+[28/07/2009 20:06:12] Test has logged out.
+[28/07/2009 20:06:14] Test has logged in.
+[28/07/2009 20:06:14] Test has logged out.
+[28/07/2009 20:06:27] Tesst has logged in.
+[28/07/2009 20:11:01] Tesst has logged out.
+[28/07/2009 20:11:01] > Saving server...
+[28/07/2009 20:11:02] > SAVE: Complete in 0.781 seconds using relational house storage.
+[28/07/2009 20:11:02] Preparing to shutdown server..
+[28/07/2009 20:11:02] .
+[28/07/2009 20:11:02] Exiting
+[28/07/2009 20:11:05] The Forgotten Server, version 0.3.4 (Crying Damson)
+[28/07/2009 20:11:05] Sever Criado Por Alissow e Comedinha.
+[28/07/2009 20:11:05] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[28/07/2009 20:11:05] Bom Jogo!!!
+[28/07/2009 20:11:05] 
+[28/07/2009 20:11:05] >> Debugging: nothing.
+[28/07/2009 20:11:05] >> Checking software version... up to date!
+[28/07/2009 20:11:05] 
+[28/07/2009 20:11:05] >> Loading config (config.lua)
+[28/07/2009 20:11:05] 
+[28/07/2009 20:11:05] > ERROR: Another instance of The Forgotten Server is already running with the same worldId.
+[28/07/2009 20:11:05] If you want to run multiple servers, please change the worldId in configuration file.
+[28/07/2009 20:11:13] The Forgotten Server, version 0.3.4 (Crying Damson)
+[28/07/2009 20:11:13] Sever Criado Por Alissow e Comedinha.
+[28/07/2009 20:11:13] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[28/07/2009 20:11:13] Bom Jogo!!!
+[28/07/2009 20:11:13] 
+[28/07/2009 20:11:13] >> Debugging: nothing.
+[28/07/2009 20:11:13] >> Checking software version... up to date!
+[28/07/2009 20:11:13] 
+[28/07/2009 20:11:13] >> Loading config (config.lua)
+[28/07/2009 20:11:13] > Using plaintext passwords
+[28/07/2009 20:11:13] >> Loading RSA key
+[28/07/2009 20:11:13] >> Starting SQL connection
+[28/07/2009 20:11:13] >> Running Database Manager
+[28/07/2009 20:11:14] > Optimized database.
+[28/07/2009 20:11:14] >> Loading items
+[28/07/2009 20:11:14] >> Loading groups
+[28/07/2009 20:11:14] >> Loading vocations
+[28/07/2009 20:11:14] >> Loading script systems
+[28/07/2009 20:11:15] >> Loading chat channels
+[28/07/2009 20:11:15] >> Loading outfits
+[28/07/2009 20:11:15] >> Loading experience stages
+[28/07/2009 20:11:15] >> Loading monsters
+[28/07/2009 20:11:15] >> Loading map and spawns...
+[28/07/2009 20:11:15] > Map size: 512x512.
+[28/07/2009 20:11:15] > Map descriptions: 
+[28/07/2009 20:11:15] Saved with Remere's Map Editor 1.1.7 BETA
+[28/07/2009 20:11:15] Remere 's Map Editor Beta
+[28/07/2009 20:11:16] Duplicate uniqueId 2471
+[28/07/2009 20:11:17] > Map loading time: 1.875 seconds.
+[28/07/2009 20:11:17] [Warning - Houses::loadFromXml] House entry not set for:  (158)
+[28/07/2009 20:11:17] > Data loading time: 0.359 seconds.
+[28/07/2009 20:11:17] > Unserialization time for houses: 0 seconds.
+[28/07/2009 20:11:24] > Unserialization time for map: 6.891 seconds.
+[28/07/2009 20:11:24] >> Checking world type... PvP
+[28/07/2009 20:11:24] >> Initializing game state modules and registering services...
+[28/07/2009 20:11:24] > Global address: 127.0.0.1
+[28/07/2009 20:11:25] > Local ports:
+[28/07/2009 20:11:25] 7171	7172	
+[28/07/2009 20:11:25] >> All modules were loaded, server starting up...
+[28/07/2009 20:11:25] >> Snowz Ots server Online!
+[28/07/2009 20:11:25] 
+[28/07/2009 20:11:28] Tesst has logged in.
+[28/07/2009 20:13:04] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[28/07/2009 20:13:05] GOD Snowz has logged in.
+[28/07/2009 20:13:09] Tesst has logged out.
+[28/07/2009 20:13:12] GOD Snowz has logged out.
+[28/07/2009 20:13:13] Test has logged in.
+[28/07/2009 20:26:01] Test has logged out.
+[28/07/2009 20:26:01] > Saving server...
+[28/07/2009 20:26:02] > SAVE: Complete in 0.922 seconds using relational house storage.
+[28/07/2009 20:26:02] Preparing to shutdown server..
+[28/07/2009 20:26:02] .
+[28/07/2009 20:26:02] Exiting
+[28/07/2009 20:26:04] The Forgotten Server, version 0.3.4 (Crying Damson)
+[28/07/2009 20:26:04] Sever Criado Por Alissow e Comedinha.
+[28/07/2009 20:26:04] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[28/07/2009 20:26:04] Bom Jogo!!!
+[28/07/2009 20:26:04] 
+[28/07/2009 20:26:04] >> Debugging: nothing.
+[28/07/2009 20:26:04] >> Checking software version... up to date!
+[28/07/2009 20:26:04] 
+[28/07/2009 20:26:04] >> Loading config (config.lua)
+[28/07/2009 20:26:04] 
+[28/07/2009 20:26:04] > ERROR: Another instance of The Forgotten Server is already running with the same worldId.
+[28/07/2009 20:26:04] If you want to run multiple servers, please change the worldId in configuration file.
+[28/07/2009 20:26:17] The Forgotten Server, version 0.3.4 (Crying Damson)
+[28/07/2009 20:26:17] Sever Criado Por Alissow e Comedinha.
+[28/07/2009 20:26:17] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[28/07/2009 20:26:17] Bom Jogo!!!
+[28/07/2009 20:26:17] 
+[28/07/2009 20:26:17] >> Debugging: nothing.
+[28/07/2009 20:26:17] >> Checking software version... up to date!
+[28/07/2009 20:26:17] 
+[28/07/2009 20:26:17] >> Loading config (config.lua)
+[28/07/2009 20:26:17] > Using plaintext passwords
+[28/07/2009 20:26:17] >> Loading RSA key
+[28/07/2009 20:26:17] >> Starting SQL connection
+[28/07/2009 20:26:17] >> Running Database Manager
+[28/07/2009 20:26:18] > Optimized database.
+[28/07/2009 20:26:18] >> Loading items
+[28/07/2009 20:26:18] [Warning - Items::loadFromXml] Unknown key value elementFlam
+[28/07/2009 20:26:18] >> Loading groups
+[28/07/2009 20:26:18] >> Loading vocations
+[28/07/2009 20:26:18] >> Loading script systems
+[28/07/2009 20:26:19] >> Loading chat channels
+[28/07/2009 20:26:19] >> Loading outfits
+[28/07/2009 20:26:19] >> Loading experience stages
+[28/07/2009 20:26:19] >> Loading monsters
+[28/07/2009 20:26:19] >> Loading map and spawns...
+[28/07/2009 20:26:19] > Map size: 512x512.
+[28/07/2009 20:26:19] > Map descriptions: 
+[28/07/2009 20:26:19] Saved with Remere's Map Editor 1.1.7 BETA
+[28/07/2009 20:26:19] Remere 's Map Editor Beta
+[28/07/2009 20:26:20] Duplicate uniqueId 2471
+[28/07/2009 20:26:21] > Map loading time: 1.875 seconds.
+[28/07/2009 20:26:21] [Warning - Houses::loadFromXml] House entry not set for:  (158)
+[28/07/2009 20:26:21] > Data loading time: 0.344 seconds.
+[28/07/2009 20:26:21] > Unserialization time for houses: 0 seconds.
+[28/07/2009 20:26:28] > Unserialization time for map: 6.86 seconds.
+[28/07/2009 20:26:28] >> Checking world type... PvP
+[28/07/2009 20:26:28] >> Initializing game state modules and registering services...
+[28/07/2009 20:26:28] > Global address: 127.0.0.1
+[28/07/2009 20:26:28] > Local ports:
+[28/07/2009 20:26:28] 7171	7172	
+[28/07/2009 20:26:28] >> All modules were loaded, server starting up...
+[28/07/2009 20:26:28] >> Snowz Ots server Online!
+[28/07/2009 20:26:28] 
+[28/07/2009 20:26:31] Test has logged in.
+[28/07/2009 20:29:47] Test has logged out.
+[28/07/2009 20:29:48] GOD Snowz has logged in.
+[28/07/2009 20:30:12] GOD Snowz has logged out.
+[28/07/2009 20:30:12] > Saving server...
+[28/07/2009 20:30:13] > SAVE: Complete in 0.844 seconds using relational house storage.
+[28/07/2009 20:30:13] Preparing to shutdown server..
+[28/07/2009 20:30:13] .
+[28/07/2009 20:30:13] Exiting
+[28/07/2009 20:30:22] The Forgotten Server, version 0.3.4 (Crying Damson)
+[28/07/2009 20:30:22] Sever Criado Por Alissow e Comedinha.
+[28/07/2009 20:30:22] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[28/07/2009 20:30:22] Bom Jogo!!!
+[28/07/2009 20:30:22] 
+[28/07/2009 20:30:22] >> Debugging: nothing.
+[28/07/2009 20:30:22] >> Checking software version... up to date!
+[28/07/2009 20:30:22] 
+[28/07/2009 20:30:22] >> Loading config (config.lua)
+[28/07/2009 20:30:22] > Using plaintext passwords
+[28/07/2009 20:30:22] >> Loading RSA key
+[28/07/2009 20:30:22] >> Starting SQL connection
+[28/07/2009 20:30:22] >> Running Database Manager
+[28/07/2009 20:30:22] > Optimized database.
+[28/07/2009 20:30:22] >> Loading items
+[28/07/2009 20:30:23] >> Loading groups
+[28/07/2009 20:30:23] >> Loading vocations
+[28/07/2009 20:30:23] >> Loading script systems
+[28/07/2009 20:30:23] >> Loading chat channels
+[28/07/2009 20:30:23] >> Loading outfits
+[28/07/2009 20:30:23] >> Loading experience stages
+[28/07/2009 20:30:23] >> Loading monsters
+[28/07/2009 20:30:24] >> Loading map and spawns...
+[28/07/2009 20:30:24] > Map size: 512x512.
+[28/07/2009 20:30:24] > Map descriptions: 
+[28/07/2009 20:30:24] Saved with Remere's Map Editor 1.1.7 BETA
+[28/07/2009 20:30:24] Remere 's Map Editor Beta
+[28/07/2009 20:30:25] Duplicate uniqueId 2471
+[28/07/2009 20:30:26] > Map loading time: 1.875 seconds.
+[28/07/2009 20:30:26] [Warning - Houses::loadFromXml] House entry not set for:  (158)
+[28/07/2009 20:30:26] > Data loading time: 0.39 seconds.
+[28/07/2009 20:30:26] > Unserialization time for houses: 0 seconds.
+[28/07/2009 20:30:33] > Unserialization time for map: 6.985 seconds.
+[28/07/2009 20:30:33] >> Checking world type... PvP
+[28/07/2009 20:30:33] >> Initializing game state modules and registering services...
+[28/07/2009 20:30:33] > Global address: 127.0.0.1
+[28/07/2009 20:30:33] > Local ports:
+[28/07/2009 20:30:33] 7171	7172	
+[28/07/2009 20:30:33] >> All modules were loaded, server starting up...
+[28/07/2009 20:30:33] >> Snowz Ots server Online!
+[28/07/2009 20:30:33] 
+[28/07/2009 20:30:36] GOD Snowz has logged in.
+[28/07/2009 20:30:44] GOD Snowz has logged out.
+[28/07/2009 20:30:45] Test has logged in.
+[28/07/2009 20:33:39] Test has logged out.
+[28/07/2009 20:33:41] GOD Snowz has logged in.
+[28/07/2009 20:39:24] GOD Snowz has logged out.
+[28/07/2009 20:39:24] > Saving server...
+[28/07/2009 20:39:25] > SAVE: Complete in 0.797 seconds using relational house storage.
+[28/07/2009 20:39:25] Preparing to shutdown server..
+[28/07/2009 20:39:25] .
+[28/07/2009 20:39:25] Exiting
+[28/07/2009 20:39:29] The Forgotten Server, version 0.3.4 (Crying Damson)
+[28/07/2009 20:39:29] Sever Criado Por Alissow e Comedinha.
+[28/07/2009 20:39:29] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[28/07/2009 20:39:29] Bom Jogo!!!
+[28/07/2009 20:39:29] 
+[28/07/2009 20:39:29] >> Debugging: nothing.
+[28/07/2009 20:39:29] >> Checking software version... up to date!
+[28/07/2009 20:39:29] 
+[28/07/2009 20:39:29] >> Loading config (config.lua)
+[28/07/2009 20:39:29] 
+[28/07/2009 20:39:29] > ERROR: Another instance of The Forgotten Server is already running with the same worldId.
+[28/07/2009 20:39:29] If you want to run multiple servers, please change the worldId in configuration file.
+[28/07/2009 20:39:32] The Forgotten Server, version 0.3.4 (Crying Damson)
+[28/07/2009 20:39:32] Sever Criado Por Alissow e Comedinha.
+[28/07/2009 20:39:32] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[28/07/2009 20:39:32] Bom Jogo!!!
+[28/07/2009 20:39:32] 
+[28/07/2009 20:39:32] >> Debugging: nothing.
+[28/07/2009 20:39:32] >> Checking software version... up to date!
+[28/07/2009 20:39:32] 
+[28/07/2009 20:39:32] >> Loading config (config.lua)
+[28/07/2009 20:39:32] 
+[28/07/2009 20:39:32] > ERROR: Another instance of The Forgotten Server is already running with the same worldId.
+[28/07/2009 20:39:32] If you want to run multiple servers, please change the worldId in configuration file.
+[28/07/2009 20:39:40] The Forgotten Server, version 0.3.4 (Crying Damson)
+[28/07/2009 20:39:40] Sever Criado Por Alissow e Comedinha.
+[28/07/2009 20:39:40] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[28/07/2009 20:39:40] Bom Jogo!!!
+[28/07/2009 20:39:40] 
+[28/07/2009 20:39:40] >> Debugging: nothing.
+[28/07/2009 20:39:40] >> Checking software version... up to date!
+[28/07/2009 20:39:40] 
+[28/07/2009 20:39:40] >> Loading config (config.lua)
+[28/07/2009 20:39:40] > Using plaintext passwords
+[28/07/2009 20:39:40] >> Loading RSA key
+[28/07/2009 20:39:40] >> Starting SQL connection
+[28/07/2009 20:39:40] >> Running Database Manager
+[28/07/2009 20:39:40] > Optimized database.
+[28/07/2009 20:39:40] >> Loading items
+[28/07/2009 20:39:41] >> Loading groups
+[28/07/2009 20:39:41] >> Loading vocations
+[28/07/2009 20:39:41] >> Loading script systems
+[28/07/2009 20:39:41] [Warning - Weapons::registerEvent] Duplicate registered item with id: 7410
+[28/07/2009 20:39:41] >> Loading chat channels
+[28/07/2009 20:39:42] >> Loading outfits
+[28/07/2009 20:39:42] >> Loading experience stages
+[28/07/2009 20:39:42] >> Loading monsters
+[28/07/2009 20:39:42] >> Loading map and spawns...
+[28/07/2009 20:39:42] > Map size: 512x512.
+[28/07/2009 20:39:42] > Map descriptions: 
+[28/07/2009 20:39:42] Saved with Remere's Map Editor 1.1.7 BETA
+[28/07/2009 20:39:42] Remere 's Map Editor Beta
+[28/07/2009 20:39:43] Duplicate uniqueId 2471
+[28/07/2009 20:39:44] > Map loading time: 1.844 seconds.
+[28/07/2009 20:39:44] [Warning - Houses::loadFromXml] House entry not set for:  (158)
+[28/07/2009 20:39:44] > Data loading time: 0.391 seconds.
+[28/07/2009 20:39:44] > Unserialization time for houses: 0.015 seconds.
+[28/07/2009 20:39:51] > Unserialization time for map: 6.891 seconds.
+[28/07/2009 20:39:51] >> Checking world type... PvP
+[28/07/2009 20:39:51] >> Initializing game state modules and registering services...
+[28/07/2009 20:39:51] > Global address: 127.0.0.1
+[28/07/2009 20:39:51] > Local ports:
+[28/07/2009 20:39:51] 7171	7172	
+[28/07/2009 20:39:51] >> All modules were loaded, server starting up...
+[28/07/2009 20:39:51] >> Snowz Ots server Online!
+[28/07/2009 20:39:51] 
+[28/07/2009 20:40:04] Account Manager has logged in.
+[28/07/2009 20:40:06] Account Manager has logged out.
+[28/07/2009 20:40:08] GOD Snowz has logged in.
+[28/07/2009 20:42:07] GOD Snowz has logged out.
+[28/07/2009 20:42:08] Test has logged in.
+[28/07/2009 20:43:25] Test has logged out.
+[28/07/2009 20:43:25] > Saving server...
+[28/07/2009 20:43:26] > SAVE: Complete in 0.735 seconds using relational house storage.
+[28/07/2009 20:43:26] Preparing to shutdown server..
+[28/07/2009 20:43:26] .
+[28/07/2009 20:43:26] Exiting
+[28/07/2009 20:46:04] The Forgotten Server, version 0.3.4 (Crying Damson)
+[28/07/2009 20:46:04] Sever Criado Por Alissow e Comedinha.
+[28/07/2009 20:46:04] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[28/07/2009 20:46:04] Bom Jogo!!!
+[28/07/2009 20:46:04] 
+[28/07/2009 20:46:04] >> Debugging: nothing.
+[28/07/2009 20:46:04] >> Checking software version... up to date!
+[28/07/2009 20:46:04] 
+[28/07/2009 20:46:04] >> Loading config (config.lua)
+[28/07/2009 20:46:04] > Using plaintext passwords
+[28/07/2009 20:46:04] >> Loading RSA key
+[28/07/2009 20:46:04] >> Starting SQL connection
+[28/07/2009 20:46:04] >> Running Database Manager
+[28/07/2009 20:46:05] > Optimized database.
+[28/07/2009 20:46:05] >> Loading items
+[28/07/2009 20:46:06] >> Loading groups
+[28/07/2009 20:46:06] >> Loading vocations
+[28/07/2009 20:46:06] >> Loading script systems
+[28/07/2009 20:46:06] [Warning - Weapons::registerEvent] Duplicate registered item with id: 7410
+[28/07/2009 20:46:06] >> Loading chat channels
+[28/07/2009 20:46:06] >> Loading outfits
+[28/07/2009 20:46:06] >> Loading experience stages
+[28/07/2009 20:46:06] >> Loading monsters
+[28/07/2009 20:46:06] >> Loading map and spawns...
+[28/07/2009 20:46:07] > Map size: 512x512.
+[28/07/2009 20:46:07] > Map descriptions: 
+[28/07/2009 20:46:07] Saved with Remere's Map Editor 1.1.7 BETA
+[28/07/2009 20:46:07] Remere 's Map Editor Beta
+[28/07/2009 20:46:08] Duplicate uniqueId 2471
+[28/07/2009 20:46:08] > Map loading time: 1.891 seconds.
+[28/07/2009 20:46:09] [Warning - Houses::loadFromXml] House entry not set for:  (158)
+[28/07/2009 20:46:09] > Data loading time: 0.515 seconds.
+[28/07/2009 20:46:09] > Unserialization time for houses: 0 seconds.
+[28/07/2009 20:46:16] > Unserialization time for map: 6.906 seconds.
+[28/07/2009 20:46:16] >> Checking world type... PvP
+[28/07/2009 20:46:16] >> Initializing game state modules and registering services...
+[28/07/2009 20:46:16] > Global address: 127.0.0.1
+[28/07/2009 20:46:16] > Local ports:
+[28/07/2009 20:46:16] 7171	7172	
+[28/07/2009 20:46:16] >> All modules were loaded, server starting up...
+[28/07/2009 20:46:16] >> Snowz Ots server Online!
+[28/07/2009 20:46:16] 
+[28/07/2009 20:46:26] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[28/07/2009 20:46:29] Teste has logged in.
+[28/07/2009 20:46:36] Teste has logged out.
+[28/07/2009 20:46:37] Teste dois has logged in.
+[28/07/2009 20:48:47] Teste dois has logged out.
+[28/07/2009 20:48:47] > Saving server...
+[28/07/2009 20:48:48] > SAVE: Complete in 0.765 seconds using relational house storage.
+[28/07/2009 20:48:48] Preparing to shutdown server..
+[28/07/2009 20:48:48] .
+[28/07/2009 20:48:48] Exiting
+[28/07/2009 20:49:04] The Forgotten Server, version 0.3.4 (Crying Damson)
+[28/07/2009 20:49:04] Sever Criado Por Alissow e Comedinha.
+[28/07/2009 20:49:04] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[28/07/2009 20:49:04] Bom Jogo!!!
+[28/07/2009 20:49:04] 
+[28/07/2009 20:49:04] >> Debugging: nothing.
+[28/07/2009 20:49:04] >> Checking software version... up to date!
+[28/07/2009 20:49:06] 
+[28/07/2009 20:49:06] >> Loading config (config.lua)
+[28/07/2009 20:49:06] > Using plaintext passwords
+[28/07/2009 20:49:06] >> Loading RSA key
+[28/07/2009 20:49:06] >> Starting SQL connection
+[28/07/2009 20:49:06] >> Running Database Manager
+[28/07/2009 20:49:06] > Optimized database.
+[28/07/2009 20:49:06] >> Loading items
+[28/07/2009 20:49:07] >> Loading groups
+[28/07/2009 20:49:07] >> Loading vocations
+[28/07/2009 20:49:07] >> Loading script systems
+[28/07/2009 20:49:07] [Warning - Weapons::registerEvent] Duplicate registered item with id: 7410
+[28/07/2009 20:49:07] >> Loading chat channels
+[28/07/2009 20:49:07] >> Loading outfits
+[28/07/2009 20:49:07] >> Loading experience stages
+[28/07/2009 20:49:07] >> Loading monsters
+[28/07/2009 20:49:08] >> Loading map and spawns...
+[28/07/2009 20:49:08] > Map size: 512x512.
+[28/07/2009 20:49:08] > Map descriptions: 
+[28/07/2009 20:49:08] Saved with Remere's Map Editor 1.1.7 BETA
+[28/07/2009 20:49:08] Remere 's Map Editor Beta
+[28/07/2009 20:49:09] Duplicate uniqueId 2471
+[28/07/2009 20:49:09] > Map loading time: 1.828 seconds.
+[28/07/2009 20:49:10] [Warning - Houses::loadFromXml] House entry not set for:  (158)
+[28/07/2009 20:49:10] > Data loading time: 0.329 seconds.
+[28/07/2009 20:49:10] > Unserialization time for houses: 0 seconds.
+[28/07/2009 20:49:17] > Unserialization time for map: 6.86 seconds.
+[28/07/2009 20:49:17] >> Checking world type... PvP
+[28/07/2009 20:49:17] >> Initializing game state modules and registering services...
+[28/07/2009 20:49:17] > Global address: 127.0.0.1
+[28/07/2009 20:49:17] > Local ports:
+[28/07/2009 20:49:17] 7171	7172	
+[28/07/2009 20:49:17] >> All modules were loaded, server starting up...
+[28/07/2009 20:49:17] >> Snowz Ots server Online!
+[28/07/2009 20:49:17] 
+[28/07/2009 20:49:22] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[28/07/2009 20:49:23] Test has logged in.
+[28/07/2009 20:50:53] Test has logged out.
+[28/07/2009 20:50:53] > Saving server...
+[28/07/2009 20:50:54] > SAVE: Complete in 0.719 seconds using relational house storage.
+[28/07/2009 20:50:54] Preparing to shutdown server..
+[28/07/2009 20:50:54] .
+[28/07/2009 20:50:54] Exiting
+[28/07/2009 20:51:52] The Forgotten Server, version 0.3.4 (Crying Damson)
+[28/07/2009 20:51:52] Sever Criado Por Alissow e Comedinha.
+[28/07/2009 20:51:52] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[28/07/2009 20:51:52] Bom Jogo!!!
+[28/07/2009 20:51:52] 
+[28/07/2009 20:51:52] >> Debugging: nothing.
+[28/07/2009 20:51:52] >> Checking software version... up to date!
+[28/07/2009 20:51:52] 
+[28/07/2009 20:51:52] >> Loading config (config.lua)
+[28/07/2009 20:51:52] > Using plaintext passwords
+[28/07/2009 20:51:52] >> Loading RSA key
+[28/07/2009 20:51:52] >> Starting SQL connection
+[28/07/2009 20:51:52] >> Running Database Manager
+[28/07/2009 20:51:53] > Optimized database.
+[28/07/2009 20:51:53] >> Loading items
+[28/07/2009 20:51:53] >> Loading groups
+[28/07/2009 20:51:53] >> Loading vocations
+[28/07/2009 20:51:53] >> Loading script systems
+[28/07/2009 20:51:53] [Warning - Weapons::registerEvent] Duplicate registered item with id: 7410
+[28/07/2009 20:51:54] >> Loading chat channels
+[28/07/2009 20:51:54] >> Loading outfits
+[28/07/2009 20:51:54] >> Loading experience stages
+[28/07/2009 20:51:54] >> Loading monsters
+[28/07/2009 20:51:54] >> Loading map and spawns...
+[28/07/2009 20:51:54] > Map size: 512x512.
+[28/07/2009 20:51:54] > Map descriptions: 
+[28/07/2009 20:51:54] Saved with Remere's Map Editor 1.1.7 BETA
+[28/07/2009 20:51:54] Remere 's Map Editor Beta
+[28/07/2009 20:51:55] Duplicate uniqueId 2471
+[28/07/2009 20:51:56] > Map loading time: 1.859 seconds.
+[28/07/2009 20:51:56] [Warning - Houses::loadFromXml] House entry not set for:  (158)
+[28/07/2009 20:51:56] > Data loading time: 0.39 seconds.
+[28/07/2009 20:51:56] > Unserialization time for houses: 0 seconds.
+[28/07/2009 20:52:03] > Unserialization time for map: 6.969 seconds.
+[28/07/2009 20:52:03] >> Checking world type... PvP
+[28/07/2009 20:52:03] >> Initializing game state modules and registering services...
+[28/07/2009 20:52:03] > Global address: 127.0.0.1
+[28/07/2009 20:52:03] > Local ports:
+[28/07/2009 20:52:03] 7171	7172	
+[28/07/2009 20:52:03] >> All modules were loaded, server starting up...
+[28/07/2009 20:52:03] >> Slayer Ots By Jhou server Online!
+[28/07/2009 20:52:03] 
+[28/07/2009 20:52:09] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[28/07/2009 20:52:13] Test has logged in.
+[28/07/2009 20:53:43] Test has logged out.
+[28/07/2009 20:53:44] > Saving server...
+[28/07/2009 20:53:44] > SAVE: Complete in 0.828 seconds using relational house storage.
+[28/07/2009 20:53:44] Preparing to shutdown server..
+[28/07/2009 20:53:44] .
+[28/07/2009 20:53:44] Exiting
+[28/07/2009 20:53:46] The Forgotten Server, version 0.3.4 (Crying Damson)
+[28/07/2009 20:53:46] Sever Criado Por Alissow e Comedinha.
+[28/07/2009 20:53:46] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[28/07/2009 20:53:46] Bom Jogo!!!
+[28/07/2009 20:53:46] 
+[28/07/2009 20:53:46] >> Debugging: nothing.
+[28/07/2009 20:53:46] >> Checking software version... up to date!
+[28/07/2009 20:53:46] 
+[28/07/2009 20:53:46] >> Loading config (config.lua)
+[28/07/2009 20:53:47] 
+[28/07/2009 20:53:47] > ERROR: Another instance of The Forgotten Server is already running with the same worldId.
+[28/07/2009 20:53:47] If you want to run multiple servers, please change the worldId in configuration file.
+[28/07/2009 20:53:51] The Forgotten Server, version 0.3.4 (Crying Damson)
+[28/07/2009 20:53:51] Sever Criado Por Alissow e Comedinha.
+[28/07/2009 20:53:51] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[28/07/2009 20:53:51] Bom Jogo!!!
+[28/07/2009 20:53:51] 
+[28/07/2009 20:53:51] >> Debugging: nothing.
+[28/07/2009 20:53:51] >> Checking software version... up to date!
+[28/07/2009 20:53:51] 
+[28/07/2009 20:53:51] >> Loading config (config.lua)
+[28/07/2009 20:53:51] 
+[28/07/2009 20:53:51] > ERROR: Another instance of The Forgotten Server is already running with the same worldId.
+[28/07/2009 20:53:51] If you want to run multiple servers, please change the worldId in configuration file.
+[28/07/2009 20:54:02] The Forgotten Server, version 0.3.4 (Crying Damson)
+[28/07/2009 20:54:02] Sever Criado Por Alissow e Comedinha.
+[28/07/2009 20:54:02] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[28/07/2009 20:54:02] Bom Jogo!!!
+[28/07/2009 20:54:02] 
+[28/07/2009 20:54:02] >> Debugging: nothing.
+[28/07/2009 20:54:02] >> Checking software version... up to date!
+[28/07/2009 20:54:02] 
+[28/07/2009 20:54:02] >> Loading config (config.lua)
+[28/07/2009 20:54:02] > Using plaintext passwords
+[28/07/2009 20:54:02] >> Loading RSA key
+[28/07/2009 20:54:02] >> Starting SQL connection
+[28/07/2009 20:54:02] >> Running Database Manager
+[28/07/2009 20:54:02] > Optimized database.
+[28/07/2009 20:54:02] >> Loading items
+[28/07/2009 20:54:03] >> Loading groups
+[28/07/2009 20:54:03] >> Loading vocations
+[28/07/2009 20:54:03] >> Loading script systems
+[28/07/2009 20:54:03] [Warning - Weapons::registerEvent] Duplicate registered item with id: 7410
+[28/07/2009 20:54:03] >> Loading chat channels
+[28/07/2009 20:54:03] >> Loading outfits
+[28/07/2009 20:54:03] >> Loading experience stages
+[28/07/2009 20:54:03] >> Loading monsters
+[28/07/2009 20:54:04] >> Loading map and spawns...
+[28/07/2009 20:54:04] > Map size: 512x512.
+[28/07/2009 20:54:04] > Map descriptions: 
+[28/07/2009 20:54:04] Saved with Remere's Map Editor 1.1.7 BETA
+[28/07/2009 20:54:04] Remere 's Map Editor Beta
+[28/07/2009 20:54:05] Duplicate uniqueId 2471
+[28/07/2009 20:54:05] > Map loading time: 1.875 seconds.
+[28/07/2009 20:54:06] [Warning - Houses::loadFromXml] House entry not set for:  (158)
+[28/07/2009 20:54:06] > Data loading time: 0.36 seconds.
+[28/07/2009 20:54:06] > Unserialization time for houses: 0 seconds.
+[28/07/2009 20:54:13] > Unserialization time for map: 6.953 seconds.
+[28/07/2009 20:54:13] >> Checking world type... PvP
+[28/07/2009 20:54:13] >> Initializing game state modules and registering services...
+[28/07/2009 20:54:13] > Global address: 127.0.0.1
+[28/07/2009 20:54:13] > Local ports:
+[28/07/2009 20:54:13] 7171	7172	
+[28/07/2009 20:54:13] >> All modules were loaded, server starting up...
+[28/07/2009 20:54:13] >> Slayer Ots By Jhou server Online!
+[28/07/2009 20:54:13] 
+[28/07/2009 20:54:15] GOD Jhou has logged in.
+[28/07/2009 20:54:49] GOD Jhou has logged out.
+[28/07/2009 20:54:50] Test has logged in.
+[28/07/2009 20:58:38] Test has logged out.
+[28/07/2009 20:58:38] > Saving server...
+[28/07/2009 20:58:38] > SAVE: Complete in 0.813 seconds using relational house storage.
+[28/07/2009 20:58:38] Preparing to shutdown server..
+[28/07/2009 20:58:38] .
+[28/07/2009 20:58:38] Exiting

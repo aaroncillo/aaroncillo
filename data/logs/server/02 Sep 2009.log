@@ -1,0 +1,429 @@
+[02/09/2009 16:00:05] The Forgotten Server, version 0.3.4 (Crying Damson)
+[02/09/2009 16:00:05] Sever Criado Por Alissow e Comedinha.
+[02/09/2009 16:00:05] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[02/09/2009 16:00:05] Bom Jogo!!!
+[02/09/2009 16:00:05] 
+[02/09/2009 16:00:05] >> Debugging: nothing.
+[02/09/2009 16:00:05] >> Checking software version... outdated, please consider updating!
+[02/09/2009 16:00:07] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[02/09/2009 16:00:07] > Latest version information - version: 0.3.5, patch: 1, build: 2576, timestamp: 1249584126.
+[02/09/2009 16:00:07] [Warning - ConfigManager::getBool] 62
+[02/09/2009 16:00:07] 
+[02/09/2009 16:00:07] >> Loading config (config.lua)
+[02/09/2009 16:00:07] > Using plaintext passwords
+[02/09/2009 16:00:07] >> Loading RSA key
+[02/09/2009 16:00:07] >> Starting SQL connection
+[02/09/2009 16:00:07] >> Running Database Manager
+[02/09/2009 16:00:09] > Optimized database.
+[02/09/2009 16:00:09] >> Loading items
+[02/09/2009 16:00:10] >> Loading groups
+[02/09/2009 16:00:10] >> Loading vocations
+[02/09/2009 16:00:10] >> Loading script systems
+[02/09/2009 16:00:12] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/backpack2.lua)
+[02/09/2009 16:00:12] data/actions/scripts/backpack2.lua:5: unexpected symbol near ')'
+[02/09/2009 16:00:12] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/backpack1.lua)
+[02/09/2009 16:00:12] data/actions/scripts/backpack1.lua:5: unexpected symbol near ')'
+[02/09/2009 16:00:12] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/razgos1.lua)
+[02/09/2009 16:00:13] data/actions/scripts/razgos1.lua:5: unexpected symbol near ')'
+[02/09/2009 16:00:13] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/boots.lua)
+[02/09/2009 16:00:13] data/actions/scripts/boots.lua:5: unexpected symbol near ')'
+[02/09/2009 16:00:13] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/darknessarmor.lua)
+[02/09/2009 16:00:13] cannot open data/actions/scripts/darknessarmor.lua: No such file or directory
+[02/09/2009 16:00:13] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/darknessshield.lua)
+[02/09/2009 16:00:13] cannot open data/actions/scripts/darknessshield.lua: No such file or directory
+[02/09/2009 16:00:13] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/darknesslegs.lua)
+[02/09/2009 16:00:13] cannot open data/actions/scripts/darknesslegs.lua: No such file or directory
+[02/09/2009 16:00:14] [Warning - TalkAction::configureEvent] Duplicate registered talkaction with words: /a
+[02/09/2009 16:00:14] [Warning - TalkAction::configureEvent] Duplicate registered talkaction with words: /t
+[02/09/2009 16:00:14] [Warning - TalkAction::configureEvent] Duplicate registered talkaction with words: /goto
+[02/09/2009 16:00:14] >> Loading chat channels
+[02/09/2009 16:00:14] >> Loading outfits
+[02/09/2009 16:00:15] >> Loading experience stages
+[02/09/2009 16:00:15] >> Loading monsters
+[02/09/2009 16:00:20] >> Loading map and spawns...
+[02/09/2009 16:00:21] > Map size: 512x512.
+[02/09/2009 16:00:21] > Map descriptions: 
+[02/09/2009 16:00:21] Saved with Remere's Map Editor 1.1.7 BETA
+[02/09/2009 16:00:21] SimOne MapEditor 0.5.5
+[02/09/2009 16:00:24] > Map loading time: 3.891 seconds.
+[02/09/2009 16:00:24] [Spawn::addMonster] NULL tile at spawn position (( 00589 / 00148 / 007 ))
+[02/09/2009 16:00:25] [Spawn::addMonster] NULL tile at spawn position (( 00618 / 00150 / 007 ))
+[02/09/2009 16:00:25] [Spawn::addMonster] NULL tile at spawn position (( 00617 / 00169 / 007 ))
+[02/09/2009 16:00:25] [Spawn::addMonster] NULL tile at spawn position (( 00582 / 00183 / 007 ))
+[02/09/2009 16:00:25] [Spawn::addMonster] NULL tile at spawn position (( 00576 / 00191 / 007 ))
+[02/09/2009 16:00:25] [Spawn::addMonster] NULL tile at spawn position (( 00628 / 00197 / 007 ))
+[02/09/2009 16:00:25] [Spawn::addMonster] NULL tile at spawn position (( 00601 / 00206 / 007 ))
+[02/09/2009 16:00:25] [Spawn::addMonster] NULL tile at spawn position (( 00571 / 00209 / 007 ))
+[02/09/2009 16:00:25] [Spawn::addMonster] NULL tile at spawn position (( 00594 / 00213 / 007 ))
+[02/09/2009 16:00:25] [Spawn::addMonster] NULL tile at spawn position (( 00618 / 00221 / 007 ))
+[02/09/2009 16:00:25] [Spawn::addMonster] NULL tile at spawn position (( 00595 / 00228 / 007 ))
+[02/09/2009 16:00:25] [Spawn::addMonster] NULL tile at spawn position (( 00554 / 00229 / 007 ))
+[02/09/2009 16:00:25] [Error - Houses::loadFromXml] Unknown house with id: 29
+[02/09/2009 16:00:25] > WARNING: Could not load house data.
+[02/09/2009 16:00:25] > Data loading time: 1.437 seconds.
+[02/09/2009 16:00:25] > Unserialization time for houses: 0.047 seconds.
+[02/09/2009 16:00:27] [Warning - IOMapSerialize::loadTile] NULL item at ( 00143 / 00042 / 007 ) (type = 1214, sid = 1, pid = 0)
+[02/09/2009 16:00:37] > Unserialization time for map: 11.578 seconds.
+[02/09/2009 16:00:37] >> Checking world type... PvP
+[02/09/2009 16:00:37] >> Initializing game state modules and registering services...
+[02/09/2009 16:00:38] > Global address: razgosserver.no-ip.info
+[02/09/2009 16:00:39] > Local ports:
+[02/09/2009 16:00:39] 7171	7172	
+[02/09/2009 16:00:39] >> All modules were loaded, server starting up...
+[02/09/2009 16:00:39] >> Snowz OTs server Online!
+[02/09/2009 16:00:39] 
+[02/09/2009 16:00:56] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[02/09/2009 16:00:57] [Hoster] Dee has logged in.
+[02/09/2009 16:01:16] [Admin] Boonart has logged in.
+[02/09/2009 16:01:28] > [Admin] Boonart broadcasted: "wenaaaa".
+[02/09/2009 16:01:47] [Hoster] Dee has logged out.
+[02/09/2009 16:01:49] Kina Zarprite has logged in.
+[02/09/2009 16:03:46] 
+[02/09/2009 16:03:46] Lua Script Error: [CreatureScript Interface] 
+[02/09/2009 16:03:46] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[02/09/2009 16:03:46] 
+[02/09/2009 16:03:46] luaGetCreatureName(). Creature not found
+[02/09/2009 16:03:46] 
+[02/09/2009 16:03:46] Lua Script Error: [CreatureScript Interface] 
+[02/09/2009 16:03:46] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[02/09/2009 16:03:47] 
+[02/09/2009 16:03:47] luaGetCreatureName(). Creature not found
+[02/09/2009 16:03:47] Kina Zarprite has logged out.
+[02/09/2009 16:03:50] [Hoster] Dee has logged in.
+[02/09/2009 16:09:27] [Hoster] Dee has logged out.
+[02/09/2009 16:11:30] Choro Mota has logged in.
+[02/09/2009 16:12:35] [Hoster] Dee has logged in.
+[02/09/2009 16:15:15] > Saving server...
+[02/09/2009 16:15:18] > SAVE: Complete in 2.5 seconds using relational house storage.
+[02/09/2009 16:16:17] Account Manager has logged in.
+[02/09/2009 16:16:35] Account Manager has logged in.
+[02/09/2009 16:16:49] Account Manager has logged out.
+[02/09/2009 16:16:57] Account Manager has logged in.
+[02/09/2009 16:16:58] Yectra has logged in.
+[02/09/2009 16:17:03] Account Manager has logged out.
+[02/09/2009 16:17:10] Account Manager has logged out.
+[02/09/2009 16:17:10] Account Manager has logged in.
+[02/09/2009 16:17:11] Account Manager has logged out.
+[02/09/2009 16:17:14] Account Manager has logged in.
+[02/09/2009 16:17:17] Account Manager has logged in.
+[02/09/2009 16:17:18] Account Manager has logged in.
+[02/09/2009 16:17:25] Yectra has logged out.
+[02/09/2009 16:17:27] Yectra has logged in.
+[02/09/2009 16:17:29] Yectra has logged out.
+[02/09/2009 16:17:30] Account Manager has logged out.
+[02/09/2009 16:17:31] Account Manager has logged in.
+[02/09/2009 16:17:32] Account Manager has logged out.
+[02/09/2009 16:17:34] Account Manager has logged out.
+[02/09/2009 16:17:37] Andrex has logged in.
+[02/09/2009 16:17:42] Account Manager has logged in.
+[02/09/2009 16:17:43] Account Manager has logged out.
+[02/09/2009 16:17:55] Lord Kaliz has logged in.
+[02/09/2009 16:17:55] Account Manager has logged out.
+[02/09/2009 16:18:01] Toonee has logged in.
+[02/09/2009 16:20:07] > CLEAN: Removed 89 items from 201 tiles in 0.11 seconds.
+[02/09/2009 16:20:13] [Hoster] Dee has logged out.
+[02/09/2009 16:20:52] Andrex has logged out.
+[02/09/2009 16:20:54] Andrex has logged in.
+[02/09/2009 16:21:48] Lord Kaliz has logged out.
+[02/09/2009 16:21:50] Lord Kaliz has logged in.
+[02/09/2009 16:22:10] [Hoster] Dee has logged in.
+[02/09/2009 16:23:30] [Hoster] Dee has logged out.
+[02/09/2009 16:23:32] Mono Pirata has logged in.
+[02/09/2009 16:24:32] Andrex has logged out.
+[02/09/2009 16:24:34] Andrex has logged in.
+[02/09/2009 16:25:34] Mono Pirata has logged out.
+[02/09/2009 16:26:03] Account Manager has logged in.
+[02/09/2009 16:26:24] Lord Kaliz has logged out.
+[02/09/2009 16:26:26] Lord Kaliz has logged in.
+[02/09/2009 16:26:31] Account Manager has logged out.
+[02/09/2009 16:26:44] Account Manager has logged in.
+[02/09/2009 16:27:07] Account Manager has logged out.
+[02/09/2009 16:27:18] Exterminator has logged in.
+[02/09/2009 16:28:02] Toonee has logged out.
+[02/09/2009 16:28:08] [Admin] Senik One has logged in.
+[02/09/2009 16:28:08] Toonee has logged in.
+[02/09/2009 16:28:13] > [Admin] Senik One broadcasted: "q asa caxros".
+[02/09/2009 16:28:30] [Admin] Senik One has logged out.
+[02/09/2009 16:28:31] Marmotita has logged in.
+[02/09/2009 16:29:32] Toonee has logged out.
+[02/09/2009 16:29:36] Toonee has logged in.
+[02/09/2009 16:29:52] Lord Kaliz has logged out.
+[02/09/2009 16:29:56] Lord Kaliz has logged in.
+[02/09/2009 16:30:21] Choro Mota has logged out.
+[02/09/2009 16:30:24] Choro Mota has logged in.
+[02/09/2009 16:30:43] Toonee has logged out.
+[02/09/2009 16:30:45] Toonee has logged in.
+[02/09/2009 16:30:54] Toonee has logged out.
+[02/09/2009 16:30:58] Marmotita has logged out.
+[02/09/2009 16:31:00] Marmotita has logged in.
+[02/09/2009 16:31:24] Lord Kaliz has logged out.
+[02/09/2009 16:32:06] [Hoster] Dee has logged in.
+[02/09/2009 16:32:58] Killer of the demon has logged in.
+[02/09/2009 16:33:05] Marmotita has logged out.
+[02/09/2009 16:33:07] [Admin] Senik One has logged in.
+[02/09/2009 16:33:32] > Saving server...
+[02/09/2009 16:33:36] > SAVE: Complete in 3.453 seconds using relational house storage.
+[02/09/2009 16:33:50] [Admin] Senik One has logged out.
+[02/09/2009 16:33:50] [Admin] Senik One has logged in.
+[02/09/2009 16:34:27] Knight Poderoso has logged in.
+[02/09/2009 16:34:39] [Admin] Senik One has logged out.
+[02/09/2009 16:34:39] Marmotita has logged in.
+[02/09/2009 16:35:29] Marmotita has logged out.
+[02/09/2009 16:35:30] [Admin] Senik One has logged in.
+[02/09/2009 16:35:35] [Admin] Senik One has logged out.
+[02/09/2009 16:35:36] Marmotita has logged in.
+[02/09/2009 16:36:06] Account Manager has logged in.
+[02/09/2009 16:36:28] Account Manager has logged out.
+[02/09/2009 16:36:35] Account Manager has logged in.
+[02/09/2009 16:36:37] Account Manager has logged in.
+[02/09/2009 16:36:49] Account Manager has logged in.
+[02/09/2009 16:36:51] Account Manager has logged out.
+[02/09/2009 16:36:57] Laah Katiitaah has logged in.
+[02/09/2009 16:36:58] Laah Katiitaah has logged out.
+[02/09/2009 16:36:59] Mirandahee has logged in.
+[02/09/2009 16:37:02] Account Manager has logged out.
+[02/09/2009 16:37:11] Naliu has logged in.
+[02/09/2009 16:37:33] Account Manager has logged out.
+[02/09/2009 16:37:42] Account Manager has logged in.
+[02/09/2009 16:37:58] Account Manager has logged in.
+[02/09/2009 16:38:13] Killer of the demon has logged out.
+[02/09/2009 16:38:15] Killer of the demon has logged in.
+[02/09/2009 16:38:19] Account Manager has logged out.
+[02/09/2009 16:38:24] Account Manager has logged in.
+[02/09/2009 16:38:36] Account Manager has logged out.
+[02/09/2009 16:38:41] Longixd has logged in.
+[02/09/2009 16:38:43] Naliu has logged out.
+[02/09/2009 16:38:45] Naliu has logged in.
+[02/09/2009 16:39:05] [Hoster] Dee has logged out.
+[02/09/2009 16:39:06] Mirandahee has logged out.
+[02/09/2009 16:39:10] Longixd has logged out.
+[02/09/2009 16:39:12] Account Manager has logged in.
+[02/09/2009 16:39:18] Account Manager has logged out.
+[02/09/2009 16:39:25] Longixd has logged in.
+[02/09/2009 16:39:27] Palandink has logged in.
+[02/09/2009 16:39:27] Account Manager has logged out.
+[02/09/2009 16:39:34] Dark Angel has logged in.
+[02/09/2009 16:40:02] Palandink has logged out.
+[02/09/2009 16:40:05] Palandink has logged in.
+[02/09/2009 16:40:09] Palandink has logged out.
+[02/09/2009 16:40:12] Account Manager has logged in.
+[02/09/2009 16:40:24] Dark Angel has logged out.
+[02/09/2009 16:40:29] Dark Angel has logged in.
+[02/09/2009 16:40:41] Account Manager has logged out.
+[02/09/2009 16:40:43] Dark Angel has logged out.
+[02/09/2009 16:40:50] Dark Angel has logged in.
+[02/09/2009 16:40:50] Panladinka has logged in.
+[02/09/2009 16:41:04] [Admin] Boonart has logged out.
+[02/09/2009 16:41:06] [Admin] Boonart has logged in.
+[02/09/2009 16:41:39] Marmotita has logged out.
+[02/09/2009 16:41:41] Marmotita has logged in.
+[02/09/2009 16:41:41] Account Manager has logged in.
+[02/09/2009 16:41:57] Account Manager has logged out.
+[02/09/2009 16:42:04] Account Manager has logged in.
+[02/09/2009 16:42:05] Mirandahee has logged in.
+[02/09/2009 16:42:05] Mirandahee has logged out.
+[02/09/2009 16:42:06] Mirandahee has logged in.
+[02/09/2009 16:42:08] [Hoster] Dee has logged in.
+[02/09/2009 16:42:13] Exterminator has logged out.
+[02/09/2009 16:42:15] Exterminator has logged in.
+[02/09/2009 16:42:21] Account Manager has logged out.
+[02/09/2009 16:42:28] Ghetito has logged in.
+[02/09/2009 16:43:07] Exterminator has logged out.
+[02/09/2009 16:43:10] Exterminator has logged in.
+[02/09/2009 16:43:25] Exterminator has logged out.
+[02/09/2009 16:43:26] > Mirandahee broadcasted: "bueno me presento soi la hoster del server HOT-BLACK.SYTES.NET y acabo de aser alianza con god Dee se ara un server unico nunca visto y eso po..".
+[02/09/2009 16:43:27] Exterminator has logged in.
+[02/09/2009 16:43:36] Longixd has logged out.
+[02/09/2009 16:43:37] Account Manager has logged in.
+[02/09/2009 16:43:50] 
+[02/09/2009 16:43:50] Lua Script Error: [TalkAction Interface] 
+[02/09/2009 16:43:50] data/talkactions/scripts/teleporthere.lua:onSay
+[02/09/2009 16:43:50] 
+[02/09/2009 16:43:50] luaGetClosestFreeTile(). Creature not found
+[02/09/2009 16:43:50] Account Manager has logged out.
+[02/09/2009 16:43:53] Exterminator has logged out.
+[02/09/2009 16:43:54] > [Hoster] Dee broadcasted: "no wm no se preocupen".
+[02/09/2009 16:43:54] Exterminator has logged in.
+[02/09/2009 16:43:56] Napoleon has logged in.
+[02/09/2009 16:44:15] Exterminator has logged out.
+[02/09/2009 16:44:16] Exterminator has logged in.
+[02/09/2009 16:44:27] 
+[02/09/2009 16:44:27] Lua Script Error: [TalkAction Interface] 
+[02/09/2009 16:44:27] data/talkactions/scripts/teleporthere.lua:onSay
+[02/09/2009 16:44:27] 
+[02/09/2009 16:44:27] luaGetClosestFreeTile(). Creature not found
+[02/09/2009 16:44:28] Marmotita has logged out.
+[02/09/2009 16:44:29] Marmotita has logged in.
+[02/09/2009 16:45:16] Exterminator has logged out.
+[02/09/2009 16:45:17] Exterminator has logged in.
+[02/09/2009 16:45:24] Account Manager has logged in.
+[02/09/2009 16:45:39] Account Manager has logged out.
+[02/09/2009 16:45:56] Andrex has logged out.
+[02/09/2009 16:45:58] Panladinka has logged out.
+[02/09/2009 16:46:00] Panladinka has logged in.
+[02/09/2009 16:46:01] Andrex has logged in.
+[02/09/2009 16:46:14] Killer of the demon has logged out.
+[02/09/2009 16:46:20] Killer of the demon has logged in.
+[02/09/2009 16:46:29] Dark Angel has logged out.
+[02/09/2009 16:46:31] Dark Angel has logged in.
+[02/09/2009 16:46:51] Andrex has logged out.
+[02/09/2009 16:46:53] Andrex has logged in.
+[02/09/2009 16:46:58] Exterminator has logged out.
+[02/09/2009 16:47:00] Ghetito has logged out.
+[02/09/2009 16:47:00] > [Admin] Boonart broadcasted: "16:45 You are now ignoring player Mirandahee.".
+[02/09/2009 16:47:02] Ghetito has logged in.
+[02/09/2009 16:47:05] Exterminator has logged in.
+[02/09/2009 16:47:07] Panladinka has logged out.
+[02/09/2009 16:47:09] Panladinka has logged in.
+[02/09/2009 16:47:15] Dark Angel has logged out.
+[02/09/2009 16:47:24] Account Manager has logged in.
+[02/09/2009 16:47:31] Account Manager has logged in.
+[02/09/2009 16:47:39] Killer of the demon has logged out.
+[02/09/2009 16:47:41] Killer of the demon has logged in.
+[02/09/2009 16:47:50] Panladinka has logged out.
+[02/09/2009 16:47:53] Panladinka has logged in.
+[02/09/2009 16:47:54] Account Manager has logged out.
+[02/09/2009 16:48:01] Account Manager has logged out.
+[02/09/2009 16:48:01] Account Manager has logged in.
+[02/09/2009 16:48:05] Napoleon Malaparte has logged in.
+[02/09/2009 16:48:06] Marmotita has logged out.
+[02/09/2009 16:48:08] Marmotita has logged in.
+[02/09/2009 16:48:27] Account Manager has logged in.
+[02/09/2009 16:48:33] > Saving server...
+[02/09/2009 16:48:38] > SAVE: Complete in 4.485 seconds using relational house storage.
+[02/09/2009 16:48:41] Account Manager has logged out.
+[02/09/2009 16:48:43] Account Manager has logged in.
+[02/09/2009 16:48:49] Account Manager has logged in.
+[02/09/2009 16:48:56] Account Manager has logged out.
+[02/09/2009 16:48:59] [Admin] Boonart has logged out.
+[02/09/2009 16:49:01] [Admin] Boonart has logged in.
+[02/09/2009 16:49:01] [Admin] Boonart has logged out.
+[02/09/2009 16:49:02] Account Manager has logged in.
+[02/09/2009 16:49:10] Kameloth has logged in.
+[02/09/2009 16:49:10] Account Manager has logged out.
+[02/09/2009 16:49:10] Account Manager has logged out.
+[02/09/2009 16:49:16] Nash has logged in.
+[02/09/2009 16:49:17] Account Manager has logged out.
+[02/09/2009 16:49:18] Smokieds has logged in.
+[02/09/2009 16:49:19] Account Manager has logged in.
+[02/09/2009 16:49:23] Paladin Garrero has logged in.
+[02/09/2009 16:49:44] Account Manager has logged out.
+[02/09/2009 16:49:54] Account Manager has logged in.
+[02/09/2009 16:50:04] Mirandahee has logged out.
+[02/09/2009 16:50:05] Mirandahee has logged in.
+[02/09/2009 16:50:11] Marmotita has logged out.
+[02/09/2009 16:50:11] [Admin] Senik One has logged in.
+[02/09/2009 16:50:13] Exterminator has logged out.
+[02/09/2009 16:50:15] Exterminator has logged in.
+[02/09/2009 16:50:21] Account Manager has logged out.
+[02/09/2009 16:50:33] Elx Manu has logged in.
+[02/09/2009 16:50:52] > Mirandahee broadcasted: "no se urgan x k en el nuevo server no abra mas gm's solo yo y dee!".
+[02/09/2009 16:50:56] Nash has logged out.
+[02/09/2009 16:50:58] Nash has logged in.
+[02/09/2009 16:51:10] [Admin] Senik One has logged out.
+[02/09/2009 16:51:11] [Admin] Senik One has logged in.
+[02/09/2009 16:51:12] [Admin] Senik One has logged out.
+[02/09/2009 16:51:13] Marmotita has logged in.
+[02/09/2009 16:51:30] Account Manager has logged in.
+[02/09/2009 16:51:41] Nash has logged out.
+[02/09/2009 16:51:44] Nash has logged in.
+[02/09/2009 16:51:47] Account Manager has logged out.
+[02/09/2009 16:51:48] Pipe has logged in.
+[02/09/2009 16:51:57] Nash has logged out.
+[02/09/2009 16:51:58] Account Manager has logged in.
+[02/09/2009 16:51:58] Account Manager has logged in.
+[02/09/2009 16:51:58] Nash has logged in.
+[02/09/2009 16:51:59] Knight Poderoso has logged out.
+[02/09/2009 16:52:01] Knight Poderoso has logged in.
+[02/09/2009 16:52:02] Exterminator has logged out.
+[02/09/2009 16:52:04] Exterminator has logged in.
+[02/09/2009 16:52:20] Smokieds has logged out.
+[02/09/2009 16:52:22] Smokieds has logged in.
+[02/09/2009 16:52:27] Knight Poderoso has logged out.
+[02/09/2009 16:52:29] Account Manager has logged out.
+[02/09/2009 16:52:30] Account Manager has logged in.
+[02/09/2009 16:52:30] Ghetito has logged out.
+[02/09/2009 16:52:31] Account Manager has logged out.
+[02/09/2009 16:52:32] Exterminator has logged out.
+[02/09/2009 16:52:33] Knight Poderoso has logged in.
+[02/09/2009 16:52:35] Master Killer has logged in.
+[02/09/2009 16:52:36] Exterminator has logged in.
+[02/09/2009 16:52:37] Account Manager has logged in.
+[02/09/2009 16:52:42] Luka has logged in.
+[02/09/2009 16:52:50] Nash has logged out.
+[02/09/2009 16:52:52] Nash has logged in.
+[02/09/2009 16:52:52] Account Manager has logged out.
+[02/09/2009 16:52:59] Account Manager has logged in.
+[02/09/2009 16:52:59] Exterminator has logged out.
+[02/09/2009 16:53:00] Exterminator has logged in.
+[02/09/2009 16:53:02] Kameloth has logged out.
+[02/09/2009 16:53:04] Account Manager has logged out.
+[02/09/2009 16:53:10] Account Manager has logged in.
+[02/09/2009 16:53:18] [Admin] Boonart has logged in.
+[02/09/2009 16:53:19] Account Manager has logged out.
+[02/09/2009 16:53:24] Ghetitox has logged in.
+[02/09/2009 16:53:33] Account Manager has logged out.
+[02/09/2009 16:53:33] Napoleon has logged out.
+[02/09/2009 16:53:34] Account Manager has logged in.
+[02/09/2009 16:53:34] Account Manager has logged out.
+[02/09/2009 16:53:35] Paladin Garrero has logged out.
+[02/09/2009 16:53:35] Napoleon has logged in.
+[02/09/2009 16:53:36] Account Manager has logged in.
+[02/09/2009 16:53:36] Paladin Garrero has logged in.
+[02/09/2009 16:53:42] Bali has logged in.
+[02/09/2009 16:53:43] Naliu has logged out.
+[02/09/2009 16:53:46] Naliu has logged in.
+[02/09/2009 16:53:56] Account Manager has logged out.
+[02/09/2009 16:54:03] Account Manager has logged in.
+[02/09/2009 16:54:06] Mirandahee has logged out.
+[02/09/2009 16:54:07] [Hoster] Dee has logged out.
+[02/09/2009 16:54:10] Choro Mota has logged out.
+[02/09/2009 16:54:10] Andrex has logged out.
+[02/09/2009 16:54:10] Killer of the demon has logged out.
+[02/09/2009 16:54:11] Panladinka has logged out.
+[02/09/2009 16:54:11] Napoleon Malaparte has logged out.
+[02/09/2009 16:54:11] Elx Manu has logged out.
+[02/09/2009 16:54:11] Marmotita has logged out.
+[02/09/2009 16:54:12] Pipe has logged out.
+[02/09/2009 16:54:12] Smokieds has logged out.
+[02/09/2009 16:54:12] Knight Poderoso has logged out.
+[02/09/2009 16:54:12] Master Killer has logged out.
+[02/09/2009 16:54:13] Luka has logged out.
+[02/09/2009 16:54:13] Nash has logged out.
+[02/09/2009 16:54:13] Exterminator has logged out.
+[02/09/2009 16:54:13] [Admin] Boonart has logged out.
+[02/09/2009 16:54:14] Ghetitox has logged out.
+[02/09/2009 16:54:14] Napoleon has logged out.
+[02/09/2009 16:54:14] Paladin Garrero has logged out.
+[02/09/2009 16:54:14] Bali has logged out.
+[02/09/2009 16:54:15] Naliu has logged out.
+[02/09/2009 16:54:15] Account Manager has logged out.
+[02/09/2009 16:54:15] > Saving server...
+[02/09/2009 16:54:17] > SAVE: Complete in 1.844 seconds using relational house storage.
+[02/09/2009 16:54:17] 
+[02/09/2009 16:54:17] Lua Script Error: [Spell Interface] 
+[02/09/2009 16:54:17] in a timer event called from: 
+[02/09/2009 16:54:17] data/spells/scripts/attack/razgosfury.lua:onCastSpell
+[02/09/2009 16:54:17] 
+[02/09/2009 16:54:17] luaDoCombat(). Creature not found
+[02/09/2009 16:54:17] 
+[02/09/2009 16:54:17] Lua Script Error: [Spell Interface] 
+[02/09/2009 16:54:17] in a timer event called from: 
+[02/09/2009 16:54:17] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[02/09/2009 16:54:17] 
+[02/09/2009 16:54:17] luaDoCombat(). Creature not found
+[02/09/2009 16:54:17] 
+[02/09/2009 16:54:17] Lua Script Error: [Spell Interface] 
+[02/09/2009 16:54:17] in a timer event called from: 
+[02/09/2009 16:54:17] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[02/09/2009 16:54:18] 
+[02/09/2009 16:54:18] luaDoCombat(). Creature not found
+[02/09/2009 16:54:18] 
+[02/09/2009 16:54:18] Lua Script Error: [Spell Interface] 
+[02/09/2009 16:54:18] in a timer event called from: 
+[02/09/2009 16:54:18] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[02/09/2009 16:54:18] 
+[02/09/2009 16:54:18] luaDoCombat(). Creature not found
+[02/09/2009 16:54:18] Preparing to shutdown server..
+[02/09/2009 16:54:18] .
+[02/09/2009 16:54:18] Exiting

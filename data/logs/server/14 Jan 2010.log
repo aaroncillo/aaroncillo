@@ -1,0 +1,126 @@
+[14/01/2010 05:32:41] The Forgotten Server, version 0.3.4 (Crying Damson)
+[14/01/2010 05:32:43] Sever Criado Por Alissow e Comedinha.
+[14/01/2010 05:32:44] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[14/01/2010 05:32:46] Bom Jogo!!!
+[14/01/2010 05:32:46] 
+[14/01/2010 05:32:46] >> Debugging: nothing.
+[14/01/2010 05:32:47] >> Checking software version... outdated, please consider updating!
+[14/01/2010 05:32:49] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[14/01/2010 05:32:50] > Latest version information - version: 0.3.6, patch: 0, build: 3293, timestamp: 1260652199.
+[14/01/2010 05:32:50] [Warning - ConfigManager::getBool] 62
+[14/01/2010 05:32:50] 
+[14/01/2010 05:32:50] >> Loading config (config.lua)
+[14/01/2010 05:32:50] > Using plaintext passwords
+[14/01/2010 05:32:50] >> Loading RSA key
+[14/01/2010 05:32:50] >> Starting SQL connection
+[14/01/2010 05:32:50] >> Running Database Manager
+[14/01/2010 05:32:54] > Optimized database.
+[14/01/2010 05:32:54] >> Loading items
+[14/01/2010 05:32:54] >> Loading groups
+[14/01/2010 05:32:54] >> Loading vocations
+[14/01/2010 05:32:55] >> Loading script systems
+[14/01/2010 05:33:10] >> Loading chat channels
+[14/01/2010 05:33:10] >> Loading outfits
+[14/01/2010 05:33:10] >> Loading experience stages
+[14/01/2010 05:33:10] >> Loading monsters
+[14/01/2010 05:33:20] >> Loading map and spawns...
+[14/01/2010 05:33:22] > Map size: 1100x1100.
+[14/01/2010 05:33:22] > Map descriptions: 
+[14/01/2010 05:33:22] Saved with Remere's Map Editor 1.1.10
+[14/01/2010 05:33:22] Remere 's Map Editor Beta
+[14/01/2010 05:33:23] Duplicate uniqueId 9911
+[14/01/2010 05:33:23] Duplicate uniqueId 9912
+[14/01/2010 05:33:23] Duplicate uniqueId 9913
+[14/01/2010 05:33:23] Duplicate uniqueId 9914
+[14/01/2010 05:33:24] Duplicate uniqueId 9915
+[14/01/2010 05:33:24] Duplicate uniqueId 2471
+[14/01/2010 05:33:25] Duplicate uniqueId 2471
+[14/01/2010 05:33:27] Duplicate uniqueId 8880
+[14/01/2010 05:33:28] Duplicate uniqueId 5006
+[14/01/2010 05:33:28] [Warning - IOMap::loadMap] Movable item in house: 268, item type: 2332, pos 349/825/7
+[14/01/2010 05:33:28] [Warning - IOMap::loadMap] Movable item in house: 268, item type: 2106, pos 349/827/7
+[14/01/2010 05:33:29] [Warning - IOMap::loadMap] Movable item in house: 268, item type: 2080, pos 351/826/7
+[14/01/2010 05:33:29] [Warning - IOMap::loadMap] Movable item in house: 268, item type: 1650, pos 351/826/7
+[14/01/2010 05:33:29] [Warning - IOMap::loadMap] Movable item in house: 268, item type: 2104, pos 348/829/7
+[14/01/2010 05:33:29] [Warning - IOMap::loadMap] Movable item in house: 268, item type: 6111, pos 350/831/7
+[14/01/2010 05:33:29] [Warning - IOMap::loadMap] Movable item in house: 268, item type: 2084, pos 352/824/7
+[14/01/2010 05:33:29] [Warning - IOMap::loadMap] Movable item in house: 268, item type: 3951, pos 352/826/7
+[14/01/2010 05:33:29] [Warning - IOMap::loadMap] Movable item in house: 268, item type: 1666, pos 358/825/7
+[14/01/2010 05:33:29] [Warning - IOMap::loadMap] Movable item in house: 268, item type: 1614, pos 358/826/7
+[14/01/2010 05:33:29] [Warning - IOMap::loadMap] Movable item in house: 268, item type: 3941, pos 358/826/7
+[14/01/2010 05:33:29] [Warning - IOMap::loadMap] Movable item in house: 268, item type: 1671, pos 358/827/7
+[14/01/2010 05:33:29] [Warning - IOMap::loadMap] Movable item in house: 268, item type: 1666, pos 359/825/7
+[14/01/2010 05:33:30] [Warning - IOMap::loadMap] Movable item in house: 268, item type: 1614, pos 359/826/7
+[14/01/2010 05:33:30] [Warning - IOMap::loadMap] Movable item in house: 268, item type: 3941, pos 359/826/7
+[14/01/2010 05:33:30] [Warning - IOMap::loadMap] Movable item in house: 268, item type: 1671, pos 359/827/7
+[14/01/2010 05:33:30] [Warning - IOMap::loadMap] Movable item in house: 268, item type: 1666, pos 360/825/7
+[14/01/2010 05:33:30] [Warning - IOMap::loadMap] Movable item in house: 268, item type: 1614, pos 360/826/7
+[14/01/2010 05:33:30] [Warning - IOMap::loadMap] Movable item in house: 268, item type: 3941, pos 360/826/7
+[14/01/2010 05:33:30] [Warning - IOMap::loadMap] Movable item in house: 268, item type: 1671, pos 360/827/7
+[14/01/2010 05:33:30] [Warning - IOMap::loadMap] Movable item in house: 268, item type: 1666, pos 361/825/7
+[14/01/2010 05:33:30] [Warning - IOMap::loadMap] Movable item in house: 268, item type: 1614, pos 361/826/7
+[14/01/2010 05:33:30] [Warning - IOMap::loadMap] Movable item in house: 268, item type: 3941, pos 361/826/7
+[14/01/2010 05:33:30] [Warning - IOMap::loadMap] Movable item in house: 268, item type: 1671, pos 361/827/7
+[14/01/2010 05:33:30] [Warning - IOMap::loadMap] Movable item in house: 268, item type: 2562, pos 362/824/7
+[14/01/2010 05:33:30] [Warning - IOMap::loadMap] Movable item in house: 268, item type: 1666, pos 362/825/7
+[14/01/2010 05:33:31] [Warning - IOMap::loadMap] Movable item in house: 268, item type: 1614, pos 362/826/7
+[14/01/2010 05:33:31] [Warning - IOMap::loadMap] Movable item in house: 268, item type: 3941, pos 362/826/7
+[14/01/2010 05:33:31] [Warning - IOMap::loadMap] Movable item in house: 268, item type: 1671, pos 362/827/7
+[14/01/2010 05:33:31] [Warning - IOMap::loadMap] Movable item in house: 268, item type: 6109, pos 352/831/7
+[14/01/2010 05:33:31] [Warning - IOMap::loadMap] Movable item in house: 268, item type: 1729, pos 348/835/7
+[14/01/2010 05:33:31] [Warning - IOMap::loadMap] Movable item in house: 268, item type: 1729, pos 348/840/7
+[14/01/2010 05:33:31] [Warning - IOMap::loadMap] Movable item in house: 268, item type: 1724, pos 348/844/7
+[14/01/2010 05:33:31] [Warning - IOMap::loadMap] Movable item in house: 268, item type: 1746, pos 349/844/7
+[14/01/2010 05:33:31] [Warning - IOMap::loadMap] Movable item in house: 268, item type: 6109, pos 350/844/7
+[14/01/2010 05:33:33] > Map loading time: 13.625 seconds.
+[14/01/2010 05:33:51] > Data loading time: 18.062 seconds.
+[14/01/2010 05:33:55] > Unserialization time for houses: 4 seconds.
+[14/01/2010 05:35:40] > Unserialization time for map: 104.39 seconds.
+[14/01/2010 05:35:40] >> Checking world type... PvP
+[14/01/2010 05:35:40] >> Initializing game state modules and registering services...
+[14/01/2010 05:36:41] > Global address: 201.246.36.209
+[14/01/2010 05:36:47] > Local ports:
+[14/01/2010 05:36:47] 7171	7172	
+[14/01/2010 05:36:47] >> All modules were loaded, server starting up...
+[14/01/2010 05:36:48] >> Aggrox metal server Online!
+[14/01/2010 05:36:48] 
+[14/01/2010 05:43:11] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[14/01/2010 05:43:33] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[14/01/2010 05:43:41] Hoster Aggresor has logged in.
+[14/01/2010 05:43:41] > Broadcasted message: "Hoster Aggresor se conecto (el es: rei aggresor)".
+[14/01/2010 05:48:11] > Saving server...
+[14/01/2010 05:48:42] > SAVE: Complete in 31.156 seconds using relational house storage.
+[14/01/2010 05:50:11] Hoster Aggresor has logged out.
+[14/01/2010 05:50:14] Account Manager has logged in.
+[14/01/2010 05:50:31] Account Manager has logged out.
+[14/01/2010 05:50:35] Zorra Zorrienta has logged in.
+[14/01/2010 05:50:39] Zorra Zorrienta has logged out.
+[14/01/2010 05:50:41] Pro Pro has logged in.
+[14/01/2010 05:50:55] Pro Pro has logged out.
+[14/01/2010 05:50:57] Zorra Zorrienta has logged in.
+[14/01/2010 05:51:02] Zorra Zorrienta has logged out.
+[14/01/2010 05:51:04] Account Manager has logged in.
+[14/01/2010 05:51:23] Account Manager has logged out.
+[14/01/2010 05:51:35] Zerox has logged in.
+[14/01/2010 05:53:11] > Broadcasted message: "[SYSTEMA DE LOTERIA] ganador: Zerox, recompensa: 100k! - felicitaciones! (siguiente Loteria en media Hora)".
+[14/01/2010 05:53:12] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[14/01/2010 05:53:36] > Broadcasted message: "Zerox [139] Murio por Espanta pajaros!!".
+[14/01/2010 05:53:36] > Broadcasted message: "Zerox [139] Murio por Espanta pajaros!!".
+[14/01/2010 05:53:37] Zerox has logged out.
+[14/01/2010 05:53:38] Zerox has logged in.
+[14/01/2010 06:01:54] Zerox has logged out.
+[14/01/2010 06:01:56] Hoster Aggresor has logged in.
+[14/01/2010 06:01:56] > Broadcasted message: "Hoster Aggresor se conecto (el es: rei aggresor)".
+[14/01/2010 06:03:12] > Saving server...
+[14/01/2010 06:03:21] > SAVE: Complete in 9.062 seconds using relational house storage.
+[14/01/2010 06:03:21] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[14/01/2010 06:13:12] > Broadcasted message: "[SYSTEMA DE LOTERIA] ganador: Hoster Aggresor, recompensa: 100k! - felicitaciones! (siguiente Loteria en media Hora)".
+[14/01/2010 06:13:22] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[14/01/2010 06:18:13] > Saving server...
+[14/01/2010 06:18:22] > SAVE: Complete in 8.438 seconds using relational house storage.
+[14/01/2010 06:23:23] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[14/01/2010 06:24:06] > Broadcasted message: "whatafuck csm invaden Slayer city".
+[14/01/2010 06:26:27] Hoster Aggresor has logged out.
+[14/01/2010 06:26:30] > Saving server...
+[14/01/2010 06:27:34] > SAVE: Complete in 64.516 seconds using relational house storage.
+[14/01/2010 06:27:34] Preparing to shutdown server.

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Mastah" script="data/npc/scripts/mastah.lua" speed="1200" walkinterval="0" floorchange="0">
+	<health now="1500" max="1500"/>
+	<look type="289" addons="3" head="0" body="0" legs="0" feet="0" corpse="2317"/>
+</npc>

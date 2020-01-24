@@ -1,0 +1,840 @@
+[19/10/2009 16:05:55] The Forgotten Server, version 0.3.4 (Crying Damson)
+[19/10/2009 16:05:55] Sever Criado Por Alissow e Comedinha.
+[19/10/2009 16:05:55] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[19/10/2009 16:05:55] Bom Jogo!!!
+[19/10/2009 16:05:55] 
+[19/10/2009 16:05:55] >> Debugging: nothing.
+[19/10/2009 16:05:55] >> Checking software version... outdated, please consider updating!
+[19/10/2009 16:05:56] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[19/10/2009 16:05:56] > Latest version information - version: 0.3.5, patch: 1, build: 2576, timestamp: 1249584126.
+[19/10/2009 16:05:56] [Warning - ConfigManager::getBool] 62
+[19/10/2009 16:05:56] 
+[19/10/2009 16:05:56] >> Loading config (config.lua)
+[19/10/2009 16:05:56] > Using plaintext passwords
+[19/10/2009 16:05:56] >> Loading RSA key
+[19/10/2009 16:05:56] >> Starting SQL connection
+[19/10/2009 16:05:57] >> Running Database Manager
+[19/10/2009 16:05:57] > Optimized database.
+[19/10/2009 16:05:58] >> Loading items
+[19/10/2009 16:05:58] >> Loading groups
+[19/10/2009 16:05:58] >> Loading vocations
+[19/10/2009 16:05:58] >> Loading script systems
+[19/10/2009 16:05:58] [Warning - Weapons::registerEvent] Duplicate registered item with id: 7410
+[19/10/2009 16:06:03] [Warning - Event::loadScript] Cannot load script (data/spells/scripts/gen.lua)
+[19/10/2009 16:06:03] cannot open data/spells/scripts/gen.lua: No such file or directory
+[19/10/2009 16:06:06] [Warning - Event::loadScript] Cannot load script (data/creaturescripts/scripts/playerdeath.lua)
+[19/10/2009 16:06:07] cannot open data/creaturescripts/scripts/playerdeath.lua: No such file or directory
+[19/10/2009 16:06:07] >> Loading chat channels
+[19/10/2009 16:06:07] >> Loading outfits
+[19/10/2009 16:06:07] >> Loading experience stages
+[19/10/2009 16:06:07] >> Loading monsters
+[19/10/2009 16:06:07] [Warning - Monsters::loadMonster] Cannot load monster (Snow soul) file (data/monster/8.5/Snown Soul.xml).
+[19/10/2009 16:06:07] Info: failed to load external entity "data/monster/8.5/Snown Soul.xml"
+[19/10/2009 16:06:07] 
+[19/10/2009 16:06:07] 
+[19/10/2009 16:06:07] [Warning - Monsters::loadMonster] Cannot load monster (Crazigm) file (data/monster/8.5/crazigm.xml).
+[19/10/2009 16:06:08] Info: failed to load external entity "data/monster/8.5/crazigm.xml"
+[19/10/2009 16:06:08] 
+[19/10/2009 16:06:08] 
+[19/10/2009 16:06:08] [Warning - Monsters::loadMonster] Unknown attribute type - combat. (data/monster/8.5/Durin.xml)
+[19/10/2009 16:06:08] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Durin.xml)
+[19/10/2009 16:06:08] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Durin.xml)
+[19/10/2009 16:06:08] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Durin.xml)
+[19/10/2009 16:06:08] [Warning - Monsters::loadMonster] Unknown attribute type - combat. (data/monster/8.5/Evil Elf Arcanist.xml)
+[19/10/2009 16:06:08] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Evil Elf Arcanist.xml)
+[19/10/2009 16:06:09] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Evil Elf Arcanist.xml)
+[19/10/2009 16:06:09] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Evil Elf Arcanist.xml)
+[19/10/2009 16:06:09] [Warning - Monsters::loadMonster] Unknown attribute type - combat. (data/monster/8.5/Minotaur King.xml)
+[19/10/2009 16:06:09] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Minotaur King.xml)
+[19/10/2009 16:06:09] Error: [Monsters::deserializeSpell] - Minotaur King - Unknown spell name: Soul fire
+[19/10/2009 16:06:09] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Minotaur King.xml)
+[19/10/2009 16:06:09] Error: [Monsters::deserializeSpell] - Minotaur King - Unknown spell name: Soul fire
+[19/10/2009 16:06:10] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Minotaur King.xml)
+[19/10/2009 16:06:10] Error: [Monsters::deserializeSpell] - Minotaur King - Unknown spell name: Soul fire
+[19/10/2009 16:06:10] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Minotaur King.xml)
+[19/10/2009 16:06:10] Error: [Monsters::deserializeSpell] - Minotaur King - Unknown spell name: Soul fire
+[19/10/2009 16:06:10] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Minotaur King.xml)
+[19/10/2009 16:06:10] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Minotaur King.xml)
+[19/10/2009 16:06:10] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Minotaur King.xml)
+[19/10/2009 16:06:11] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Minotaur King.xml)
+[19/10/2009 16:06:11] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Minotaur King.xml)
+[19/10/2009 16:06:11] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Minotaur King.xml)
+[19/10/2009 16:06:11] [Warning - Monsters::loadMonster] Unknown attribute type - combat. (data/monster/8.5/Cycdracha.xml)
+[19/10/2009 16:06:11] Error: [Monsters::deserializeSpell] - Cycdracha - Unknown spell name: invis
+[19/10/2009 16:06:11] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Cycdracha.xml)
+[19/10/2009 16:06:11] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Cycdracha.xml)
+[19/10/2009 16:06:11] Error: [Monsters::deserializeSpell] - Cycdracha - Unknown spell name: exori ball
+[19/10/2009 16:06:12] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Cycdracha.xml)
+[19/10/2009 16:06:12] Error: [Monsters::deserializeSpell] - Cycdracha - Unknown spell name: exori ball
+[19/10/2009 16:06:12] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Cycdracha.xml)
+[19/10/2009 16:06:12] Error: [Monsters::deserializeSpell] - Cycdracha - Unknown spell name: exori ball
+[19/10/2009 16:06:12] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Cycdracha.xml)
+[19/10/2009 16:06:12] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Cycdracha.xml)
+[19/10/2009 16:06:12] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Cycdracha.xml)
+[19/10/2009 16:06:12] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Cycdracha.xml)
+[19/10/2009 16:06:13] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Cycdracha.xml)
+[19/10/2009 16:06:13] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Cycdracha.xml)
+[19/10/2009 16:06:13] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Cycdracha.xml)
+[19/10/2009 16:06:13] [Warning - Monsters::loadMonster] Unknown attribute type - combat. (data/monster/8.5/Force Element.xml)
+[19/10/2009 16:06:13] Error: [Monsters::deserializeSpell] - Force Element - Unknown spell name: exori_mini
+[19/10/2009 16:06:13] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Force Element.xml)
+[19/10/2009 16:06:13] Error: [Monsters::deserializeSpell] - Force Element - Unknown spell name: exori_gfb
+[19/10/2009 16:06:13] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Force Element.xml)
+[19/10/2009 16:06:14] Error: [Monsters::deserializeSpell] - Force Element - Unknown spell name: exori_sd
+[19/10/2009 16:06:14] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Force Element.xml)
+[19/10/2009 16:06:14] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Force Element.xml)
+[19/10/2009 16:06:14] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Force Element.xml)
+[19/10/2009 16:06:14] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Force Element.xml)
+[19/10/2009 16:06:14] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Force Element.xml)
+[19/10/2009 16:06:14] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Force Element.xml)
+[19/10/2009 16:06:14] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Force Element.xml)
+[19/10/2009 16:06:15] [Warning - Monsters::loadMonster] Unknown attribute type - combat. (data/monster/8.5/Poison Element.xml)
+[19/10/2009 16:06:15] Error: [Monsters::deserializeSpell] - Poison Element - Unknown spell name: water_mini
+[19/10/2009 16:06:15] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Poison Element.xml)
+[19/10/2009 16:06:15] Error: [Monsters::deserializeSpell] - Poison Element - Unknown spell name: water_gfb
+[19/10/2009 16:06:15] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Poison Element.xml)
+[19/10/2009 16:06:15] Error: [Monsters::deserializeSpell] - Poison Element - Unknown spell name: water_sd
+[19/10/2009 16:06:15] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Poison Element.xml)
+[19/10/2009 16:06:16] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Poison Element.xml)
+[19/10/2009 16:06:16] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Poison Element.xml)
+[19/10/2009 16:06:16] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Poison Element.xml)
+[19/10/2009 16:06:16] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Poison Element.xml)
+[19/10/2009 16:06:16] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Poison Element.xml)
+[19/10/2009 16:06:16] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Poison Element.xml)
+[19/10/2009 16:06:16] [Warning - Monsters::loadMonster] Unknown attribute type - combat. (data/monster/8.5/Forgotten Hero.xml)
+[19/10/2009 16:06:17] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Forgotten Hero.xml)
+[19/10/2009 16:06:17] Error: [Monsters::deserializeSpell] - Forgotten Hero - Unknown spell name: powerbolt
+[19/10/2009 16:06:17] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Forgotten Hero.xml)
+[19/10/2009 16:06:17] Error: [Monsters::deserializeSpell] - Forgotten Hero - Unknown spell name: exura gran
+[19/10/2009 16:06:17] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Forgotten Hero.xml)
+[19/10/2009 16:06:17] Error: [Monsters::deserializeSpell] - Forgotten Hero - Unknown spell name: exori
+[19/10/2009 16:06:18] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Forgotten Hero.xml)
+[19/10/2009 16:06:18] Error: [Monsters::deserializeSpell] - Forgotten Hero - Unknown spell name: exori
+[19/10/2009 16:06:18] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Forgotten Hero.xml)
+[19/10/2009 16:06:18] Error: [Monsters::deserializeSpell] - Forgotten Hero - Unknown spell name: utani gran hur
+[19/10/2009 16:06:18] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Forgotten Hero.xml)
+[19/10/2009 16:06:18] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Forgotten Hero.xml)
+[19/10/2009 16:06:18] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Forgotten Hero.xml)
+[19/10/2009 16:06:19] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Forgotten Hero.xml)
+[19/10/2009 16:06:19] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Forgotten Hero.xml)
+[19/10/2009 16:06:19] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Forgotten Hero.xml)
+[19/10/2009 16:06:19] [Warning - Monsters::loadMonster] Missing voices.speed. (data/monster/8.5/Forgotten Hero.xml)
+[19/10/2009 16:06:19] [Warning - Monsters::loadMonster] Missing voices.chance. (data/monster/8.5/Forgotten Hero.xml)
+[19/10/2009 16:06:19] [Warning - Monsters::loadMonster] Unknown attribute type - combat. (data/monster/8.5/Orc strafer.xml)
+[19/10/2009 16:06:19] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orc strafer.xml)
+[19/10/2009 16:06:20] Error: [Monsters::deserializeSpell] - Orc strafer - Unknown spell name: utani gran hur
+[19/10/2009 16:06:20] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orc strafer.xml)
+[19/10/2009 16:06:20] Error: [Monsters::deserializeSpell] - Orc strafer - Unknown spell name: utani gran hur
+[19/10/2009 16:06:20] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orc strafer.xml)
+[19/10/2009 16:06:20] Error: [Monsters::deserializeSpell] - Orc strafer - Unknown spell name: exura vita
+[19/10/2009 16:06:20] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orc strafer.xml)
+[19/10/2009 16:06:20] Error: [Monsters::deserializeSpell] - Orc strafer - Unknown spell name: dlfbomb
+[19/10/2009 16:06:20] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orc strafer.xml)
+[19/10/2009 16:06:21] Error: [Monsters::deserializeSpell] - Orc strafer - Unknown spell name: dlfbomb
+[19/10/2009 16:06:21] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orc strafer.xml)
+[19/10/2009 16:06:21] Error: [Monsters::deserializeSpell] - Orc strafer - Unknown spell name: poisonbomb
+[19/10/2009 16:06:21] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orc strafer.xml)
+[19/10/2009 16:06:21] Error: [Monsters::deserializeSpell] - Orc strafer - Unknown spell name: poisonbomb
+[19/10/2009 16:06:21] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orc strafer.xml)
+[19/10/2009 16:06:21] Error: [Monsters::deserializeSpell] - Orc strafer - Unknown spell name: missile poison
+[19/10/2009 16:06:22] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orc strafer.xml)
+[19/10/2009 16:06:22] Error: [Monsters::deserializeSpell] - Orc strafer - Unknown spell name: invis
+[19/10/2009 16:06:22] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orc strafer.xml)
+[19/10/2009 16:06:22] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orc strafer.xml)
+[19/10/2009 16:06:22] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orc strafer.xml)
+[19/10/2009 16:06:22] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orc strafer.xml)
+[19/10/2009 16:06:22] [Warning - Monsters::loadMonster] Cant load loot. (data/monster/8.5/Orc strafer.xml)
+[19/10/2009 16:06:22] [Warning - Monsters::loadMonster] Missing voices.speed. (data/monster/8.5/Orc strafer.xml)
+[19/10/2009 16:06:23] [Warning - Monsters::loadMonster] Missing voices.chance. (data/monster/8.5/Orc strafer.xml)
+[19/10/2009 16:06:23] [Warning - Monsters::loadMonster] Unknown attribute type - combat. (data/monster/8.5/necrogod.xml)
+[19/10/2009 16:06:23] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/necrogod.xml)
+[19/10/2009 16:06:23] Error: [Monsters::deserializeSpell] - Necrogod - Unknown spell name: exura gran
+[19/10/2009 16:06:23] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/necrogod.xml)
+[19/10/2009 16:06:23] Error: [Monsters::deserializeSpell] - Necrogod - Unknown spell name: envenom
+[19/10/2009 16:06:23] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/necrogod.xml)
+[19/10/2009 16:06:24] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/necrogod.xml)
+[19/10/2009 16:06:24] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/necrogod.xml)
+[19/10/2009 16:06:24] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/necrogod.xml)
+[19/10/2009 16:06:24] [Warning - Monsters::loadMonster] Missing voices.speed. (data/monster/8.5/necrogod.xml)
+[19/10/2009 16:06:24] [Warning - Monsters::loadMonster] Missing voices.chance. (data/monster/8.5/necrogod.xml)
+[19/10/2009 16:06:24] [Warning - Monsters::loadMonster] Unknown attribute type - combat. (data/monster/8.5/guido.xml)
+[19/10/2009 16:06:24] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/guido.xml)
+[19/10/2009 16:06:24] Error: [Monsters::deserializeSpell] - Guido - Unknown spell name: largerock
+[19/10/2009 16:06:25] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/guido.xml)
+[19/10/2009 16:06:25] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/guido.xml)
+[19/10/2009 16:06:25] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/guido.xml)
+[19/10/2009 16:06:25] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/guido.xml)
+[19/10/2009 16:06:25] [Warning - Monsters::loadMonster] Missing voices.speed. (data/monster/8.5/guido.xml)
+[19/10/2009 16:06:25] [Warning - Monsters::loadMonster] Missing voices.chance. (data/monster/8.5/guido.xml)
+[19/10/2009 16:06:25] [Warning - Monsters::loadMonster] Unknown attribute type - combat. (data/monster/8.5/Dark Elf.xml)
+[19/10/2009 16:06:25] Error: [Monsters::deserializeSpell] - Dark Elf - Unknown spell name: sudden death arc
+[19/10/2009 16:06:26] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Dark Elf.xml)
+[19/10/2009 16:06:26] Error: [Monsters::deserializeSpell] - Dark Elf - Unknown spell name: exevo gran mas circle vis
+[19/10/2009 16:06:26] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Dark Elf.xml)
+[19/10/2009 16:06:26] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Dark Elf.xml)
+[19/10/2009 16:06:26] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Dark Elf.xml)
+[19/10/2009 16:06:26] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Dark Elf.xml)
+[19/10/2009 16:06:26] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Dark Elf.xml)
+[19/10/2009 16:06:27] [Warning - Monsters::loadMonster] Unknown attribute type - combat. (data/monster/8.5/Orshabaal Lord.xml)
+[19/10/2009 16:06:27] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orshabaal Lord.xml)
+[19/10/2009 16:06:27] Error: [Monsters::deserializeSpell] - Orshabaal Lord - Unknown spell name: utani gran hur
+[19/10/2009 16:06:27] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orshabaal Lord.xml)
+[19/10/2009 16:06:27] Error: [Monsters::deserializeSpell] - Orshabaal Lord - Unknown spell name: exura vita
+[19/10/2009 16:06:27] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orshabaal Lord.xml)
+[19/10/2009 16:06:27] Error: [Monsters::deserializeSpell] - Orshabaal Lord - Unknown spell name: GFBorshabaal
+[19/10/2009 16:06:28] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orshabaal Lord.xml)
+[19/10/2009 16:06:28] Error: [Monsters::deserializeSpell] - Orshabaal Lord - Unknown spell name: exoriorsha
+[19/10/2009 16:06:28] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orshabaal Lord.xml)
+[19/10/2009 16:06:28] Error: [Monsters::deserializeSpell] - Orshabaal Lord - Unknown spell name: verdinhu
+[19/10/2009 16:06:28] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orshabaal Lord.xml)
+[19/10/2009 16:06:28] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orshabaal Lord.xml)
+[19/10/2009 16:06:28] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orshabaal Lord.xml)
+[19/10/2009 16:06:28] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orshabaal Lord.xml)
+[19/10/2009 16:06:29] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orshabaal Lord.xml)
+[19/10/2009 16:06:29] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orshabaal Lord.xml)
+[19/10/2009 16:06:29] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orshabaal Lord.xml)
+[19/10/2009 16:06:29] [Warning - Monsters::loadMonster] Missing voices.speed. (data/monster/8.5/Orshabaal Lord.xml)
+[19/10/2009 16:06:29] [Warning - Monsters::loadMonster] Missing voices.chance. (data/monster/8.5/Orshabaal Lord.xml)
+[19/10/2009 16:06:29] [Warning - Monsters::loadMonster] Unknown attribute type - combat. (data/monster/8.5/Angry Flamingo.xml)
+[19/10/2009 16:06:29] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Angry Flamingo.xml)
+[19/10/2009 16:06:30] Error: [Monsters::deserializeSpell] - Angry Flamingo - Unknown spell name: verdinhu
+[19/10/2009 16:06:30] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Angry Flamingo.xml)
+[19/10/2009 16:06:30] Error: [Monsters::deserializeSpell] - Angry Flamingo - Unknown spell name: exura vita
+[19/10/2009 16:06:30] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Angry Flamingo.xml)
+[19/10/2009 16:06:30] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Angry Flamingo.xml)
+[19/10/2009 16:06:30] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Angry Flamingo.xml)
+[19/10/2009 16:06:30] [Warning - Monsters::loadMonster] Missing voices.speed. (data/monster/8.5/Angry Flamingo.xml)
+[19/10/2009 16:06:31] [Warning - Monsters::loadMonster] Missing voices.chance. (data/monster/8.5/Angry Flamingo.xml)
+[19/10/2009 16:06:31] [Warning - Monsters::loadMonster] Unknown attribute type - combat. (data/monster/8.5/Black Devil.xml)
+[19/10/2009 16:06:31] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Black Devil.xml)
+[19/10/2009 16:06:31] Error: [Monsters::deserializeSpell] - Black Devil - Unknown spell name: exura vita
+[19/10/2009 16:06:31] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Black Devil.xml)
+[19/10/2009 16:06:31] Error: [Monsters::deserializeSpell] - Black Devil - Unknown spell name: snowball
+[19/10/2009 16:06:31] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Black Devil.xml)
+[19/10/2009 16:06:31] [Warning - Monsters::loadMonster] Missing voices.speed. (data/monster/8.5/Black Devil.xml)
+[19/10/2009 16:06:32] [Warning - Monsters::loadMonster] Missing voices.chance. (data/monster/8.5/Black Devil.xml)
+[19/10/2009 16:06:32] [Warning - Monsters::loadMonster] Unknown attribute type - combat. (data/monster/8.5/Spellcaster.xml)
+[19/10/2009 16:06:32] Error: [Monsters::deserializeSpell] - Spellcaster - Unknown spell name: exura vita
+[19/10/2009 16:06:32] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Spellcaster.xml)
+[19/10/2009 16:06:32] Error: [Monsters::deserializeSpell] - Spellcaster - Unknown spell name: utani gran hur
+[19/10/2009 16:06:32] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Spellcaster.xml)
+[19/10/2009 16:06:33] Error: [Monsters::deserializeSpell] - Spellcaster - Unknown spell name: invis
+[19/10/2009 16:06:33] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Spellcaster.xml)
+[19/10/2009 16:06:33] Error: [Monsters::deserializeSpell] - Spellcaster - Unknown spell name: exevo gran mas pox
+[19/10/2009 16:06:33] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Spellcaster.xml)
+[19/10/2009 16:06:33] Error: [Monsters::deserializeSpell] - Spellcaster - Unknown spell name: exevo gran mas vis
+[19/10/2009 16:06:33] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Spellcaster.xml)
+[19/10/2009 16:06:33] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Spellcaster.xml)
+[19/10/2009 16:06:33] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Spellcaster.xml)
+[19/10/2009 16:06:34] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Spellcaster.xml)
+[19/10/2009 16:06:34] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Spellcaster.xml)
+[19/10/2009 16:06:34] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Spellcaster.xml)
+[19/10/2009 16:06:34] [Warning - Monsters::loadMonster] Missing voices.speed. (data/monster/8.5/Spellcaster.xml)
+[19/10/2009 16:06:34] [Warning - Monsters::loadMonster] Missing voices.chance. (data/monster/8.5/Spellcaster.xml)
+[19/10/2009 16:06:34] [Warning - Monsters::loadMonster] Unknown attribute type - combat. (data/monster/8.5/spiderman.xml)
+[19/10/2009 16:06:35] [Warning - Monsters::loadMonster] Unknown attribute type - blood. (data/monster/8.5/spiderman.xml)
+[19/10/2009 16:06:35] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/spiderman.xml)
+[19/10/2009 16:06:35] Error: [Monsters::deserializeSpell] - Spiderman - Unknown spell name: old widow pox
+[19/10/2009 16:06:35] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/spiderman.xml)
+[19/10/2009 16:06:35] Error: [Monsters::deserializeSpell] - Spiderman - Unknown spell name: gs_haste
+[19/10/2009 16:06:35] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/spiderman.xml)
+[19/10/2009 16:06:35] Error: [Monsters::deserializeSpell] - Spiderman - Unknown spell name: exura
+[19/10/2009 16:06:35] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/spiderman.xml)
+[19/10/2009 16:06:36] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/spiderman.xml)
+[19/10/2009 16:06:36] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/spiderman.xml)
+[19/10/2009 16:06:36] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/spiderman.xml)
+[19/10/2009 16:06:36] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/spiderman.xml)
+[19/10/2009 16:06:36] [Warning - Monsters::loadMonster] Unknown attribute type - combat. (data/monster/8.5/robin.xml)
+[19/10/2009 16:06:36] Error: [Monsters::deserializeSpell] - Robin - Unknown spell name: largerock
+[19/10/2009 16:06:36] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/robin.xml)
+[19/10/2009 16:06:37] Error: [Monsters::deserializeSpell] - Robin - Unknown spell name: exura
+[19/10/2009 16:06:37] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/robin.xml)
+[19/10/2009 16:06:37] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/robin.xml)
+[19/10/2009 16:06:37] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/robin.xml)
+[19/10/2009 16:06:37] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/robin.xml)
+[19/10/2009 16:06:37] [Warning - Monsters::loadMonster] Missing voices.speed. (data/monster/8.5/robin.xml)
+[19/10/2009 16:06:37] [Warning - Monsters::loadMonster] Missing voices.chance. (data/monster/8.5/robin.xml)
+[19/10/2009 16:06:38] [Warning - Monsters::loadMonster] Unknown attribute type - combat. (data/monster/8.5/Batman.xml)
+[19/10/2009 16:06:38] Error: [Monsters::deserializeSpell] - Batman - Unknown spell name: largerock
+[19/10/2009 16:06:38] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Batman.xml)
+[19/10/2009 16:06:38] Error: [Monsters::deserializeSpell] - Batman - Unknown spell name: exura
+[19/10/2009 16:06:38] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Batman.xml)
+[19/10/2009 16:06:38] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Batman.xml)
+[19/10/2009 16:06:38] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Batman.xml)
+[19/10/2009 16:06:39] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Batman.xml)
+[19/10/2009 16:06:39] [Warning - Monsters::loadMonster] Missing voices.speed. (data/monster/8.5/Batman.xml)
+[19/10/2009 16:06:39] [Warning - Monsters::loadMonster] Missing voices.chance. (data/monster/8.5/Batman.xml)
+[19/10/2009 16:06:39] [Warning - Monsters::loadMonster] Unknown attribute type - combat. (data/monster/8.5/BoSS.xml)
+[19/10/2009 16:06:39] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/BoSS.xml)
+[19/10/2009 16:06:39] Error: [Monsters::deserializeSpell] - BoSS - Unknown spell name: exoriorsha
+[19/10/2009 16:06:39] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/BoSS.xml)
+[19/10/2009 16:06:40] Error: [Monsters::deserializeSpell] - BoSS - Unknown spell name: verdinhu
+[19/10/2009 16:06:40] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/BoSS.xml)
+[19/10/2009 16:06:40] Error: [Monsters::deserializeSpell] - BoSS - Unknown spell name: GFBorshabaal
+[19/10/2009 16:06:40] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/BoSS.xml)
+[19/10/2009 16:06:40] Error: [Monsters::deserializeSpell] - BoSS - Unknown spell name: exura vita
+[19/10/2009 16:06:40] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/BoSS.xml)
+[19/10/2009 16:06:40] Error: [Monsters::deserializeSpell] - BoSS - Unknown spell name: banshee_sonar
+[19/10/2009 16:06:40] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/BoSS.xml)
+[19/10/2009 16:06:41] Error: [Monsters::deserializeSpell] - BoSS - Unknown spell name: exevo gran mas pox
+[19/10/2009 16:06:41] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/BoSS.xml)
+[19/10/2009 16:06:41] Error: [Monsters::deserializeSpell] - BoSS - Unknown spell name: exevo gran mas vis
+[19/10/2009 16:06:41] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/BoSS.xml)
+[19/10/2009 16:06:41] Error: [Monsters::deserializeSpell] - BoSS - Unknown spell name: sonar
+[19/10/2009 16:06:41] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/BoSS.xml)
+[19/10/2009 16:06:41] Error: [Monsters::deserializeSpell] - BoSS - Unknown spell name: invis
+[19/10/2009 16:06:41] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/BoSS.xml)
+[19/10/2009 16:06:42] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/BoSS.xml)
+[19/10/2009 16:06:42] [Warning - Monsters::loadMonster] Missing voices.speed. (data/monster/8.5/BoSS.xml)
+[19/10/2009 16:06:42] [Warning - Monsters::loadMonster] Missing voices.chance. (data/monster/8.5/BoSS.xml)
+[19/10/2009 16:06:44] >> Loading map and spawns...
+[19/10/2009 16:06:46] > Map size: 512x512.
+[19/10/2009 16:06:46] > Map descriptions: 
+[19/10/2009 16:06:46] Saved with Remere's Map Editor 1.1.9
+[19/10/2009 16:06:46] Remere 's Map Editor Beta
+[19/10/2009 16:06:47] Duplicate uniqueId 2471
+[19/10/2009 16:06:49] > Map loading time: 4.319 seconds.
+[19/10/2009 16:06:50] [Warning - Houses::loadFromXml] House entry not set for:  (158)
+[19/10/2009 16:06:50] > Data loading time: 0.873 seconds.
+[19/10/2009 16:06:50] > Unserialization time for houses: 0.038 seconds.
+[19/10/2009 16:07:02] > Unserialization time for map: 12.445 seconds.
+[19/10/2009 16:07:02] >> Checking world type... PvP
+[19/10/2009 16:07:03] >> Initializing game state modules and registering services...
+[19/10/2009 16:07:03] > Global address: 201.246.35.251
+[19/10/2009 16:07:03] > Local ports:
+[19/10/2009 16:07:03] 7171	7172	
+[19/10/2009 16:07:03] >> All modules were loaded, server starting up...
+[19/10/2009 16:07:04] >> Aggrometal server server Online!
+[19/10/2009 16:07:04] 
+[19/10/2009 16:07:06] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[19/10/2009 16:12:50] GOD Aggro has logged in.
+[19/10/2009 16:13:48] GOD Aggro has logged out.
+[19/10/2009 16:13:50] Test has logged in.
+[19/10/2009 16:14:12] Test has logged out.
+[19/10/2009 16:14:13] Test has logged in.
+[19/10/2009 16:17:28] Test has logged out.
+[19/10/2009 16:17:30] GOD Aggro has logged in.
+[19/10/2009 16:19:06] [Warning - Monsters::loadMonster] Cannot load monster (Snow soul) file (data/monster/8.5/Snown Soul.xml).
+[19/10/2009 16:19:06] Info: failed to load external entity "data/monster/8.5/Snown Soul.xml"
+[19/10/2009 16:19:06] 
+[19/10/2009 16:19:06] 
+[19/10/2009 16:19:06] [Warning - Monsters::loadMonster] Cannot load monster (Crazigm) file (data/monster/8.5/crazigm.xml).
+[19/10/2009 16:19:06] Info: failed to load external entity "data/monster/8.5/crazigm.xml"
+[19/10/2009 16:19:06] 
+[19/10/2009 16:19:06] 
+[19/10/2009 16:19:07] [Warning - Monsters::loadMonster] Unknown attribute type - combat. (data/monster/8.5/Durin.xml)
+[19/10/2009 16:19:07] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Durin.xml)
+[19/10/2009 16:19:07] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Durin.xml)
+[19/10/2009 16:19:07] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Durin.xml)
+[19/10/2009 16:19:07] [Warning - Monsters::loadMonster] Unknown attribute type - combat. (data/monster/8.5/Evil Elf Arcanist.xml)
+[19/10/2009 16:19:07] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Evil Elf Arcanist.xml)
+[19/10/2009 16:19:08] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Evil Elf Arcanist.xml)
+[19/10/2009 16:19:08] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Evil Elf Arcanist.xml)
+[19/10/2009 16:19:08] [Warning - Monsters::loadMonster] Unknown attribute type - combat. (data/monster/8.5/Minotaur King.xml)
+[19/10/2009 16:19:08] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Minotaur King.xml)
+[19/10/2009 16:19:08] Error: [Monsters::deserializeSpell] - Minotaur King - Unknown spell name: Soul fire
+[19/10/2009 16:19:09] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Minotaur King.xml)
+[19/10/2009 16:19:09] Error: [Monsters::deserializeSpell] - Minotaur King - Unknown spell name: Soul fire
+[19/10/2009 16:19:09] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Minotaur King.xml)
+[19/10/2009 16:19:09] Error: [Monsters::deserializeSpell] - Minotaur King - Unknown spell name: Soul fire
+[19/10/2009 16:19:09] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Minotaur King.xml)
+[19/10/2009 16:19:09] Error: [Monsters::deserializeSpell] - Minotaur King - Unknown spell name: Soul fire
+[19/10/2009 16:19:10] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Minotaur King.xml)
+[19/10/2009 16:19:10] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Minotaur King.xml)
+[19/10/2009 16:19:10] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Minotaur King.xml)
+[19/10/2009 16:19:10] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Minotaur King.xml)
+[19/10/2009 16:19:10] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Minotaur King.xml)
+[19/10/2009 16:19:10] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Minotaur King.xml)
+[19/10/2009 16:19:11] [Warning - Monsters::loadMonster] Unknown attribute type - combat. (data/monster/8.5/Cycdracha.xml)
+[19/10/2009 16:19:11] Error: [Monsters::deserializeSpell] - Cycdracha - Unknown spell name: invis
+[19/10/2009 16:19:11] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Cycdracha.xml)
+[19/10/2009 16:19:11] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Cycdracha.xml)
+[19/10/2009 16:19:11] Error: [Monsters::deserializeSpell] - Cycdracha - Unknown spell name: exori ball
+[19/10/2009 16:19:11] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Cycdracha.xml)
+[19/10/2009 16:19:12] Error: [Monsters::deserializeSpell] - Cycdracha - Unknown spell name: exori ball
+[19/10/2009 16:19:12] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Cycdracha.xml)
+[19/10/2009 16:19:12] Error: [Monsters::deserializeSpell] - Cycdracha - Unknown spell name: exori ball
+[19/10/2009 16:19:12] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Cycdracha.xml)
+[19/10/2009 16:19:12] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Cycdracha.xml)
+[19/10/2009 16:19:12] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Cycdracha.xml)
+[19/10/2009 16:19:13] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Cycdracha.xml)
+[19/10/2009 16:19:13] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Cycdracha.xml)
+[19/10/2009 16:19:13] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Cycdracha.xml)
+[19/10/2009 16:19:13] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Cycdracha.xml)
+[19/10/2009 16:19:13] [Warning - Monsters::loadMonster] Unknown attribute type - combat. (data/monster/8.5/Force Element.xml)
+[19/10/2009 16:19:13] Error: [Monsters::deserializeSpell] - Force Element - Unknown spell name: exori_mini
+[19/10/2009 16:19:14] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Force Element.xml)
+[19/10/2009 16:19:14] Error: [Monsters::deserializeSpell] - Force Element - Unknown spell name: exori_gfb
+[19/10/2009 16:19:14] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Force Element.xml)
+[19/10/2009 16:19:14] Error: [Monsters::deserializeSpell] - Force Element - Unknown spell name: exori_sd
+[19/10/2009 16:19:14] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Force Element.xml)
+[19/10/2009 16:19:14] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Force Element.xml)
+[19/10/2009 16:19:15] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Force Element.xml)
+[19/10/2009 16:19:15] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Force Element.xml)
+[19/10/2009 16:19:15] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Force Element.xml)
+[19/10/2009 16:19:15] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Force Element.xml)
+[19/10/2009 16:19:15] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Force Element.xml)
+[19/10/2009 16:19:16] [Warning - Monsters::loadMonster] Unknown attribute type - combat. (data/monster/8.5/Poison Element.xml)
+[19/10/2009 16:19:16] Error: [Monsters::deserializeSpell] - Poison Element - Unknown spell name: water_mini
+[19/10/2009 16:19:16] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Poison Element.xml)
+[19/10/2009 16:19:16] Error: [Monsters::deserializeSpell] - Poison Element - Unknown spell name: water_gfb
+[19/10/2009 16:19:16] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Poison Element.xml)
+[19/10/2009 16:19:16] Error: [Monsters::deserializeSpell] - Poison Element - Unknown spell name: water_sd
+[19/10/2009 16:19:17] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Poison Element.xml)
+[19/10/2009 16:19:17] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Poison Element.xml)
+[19/10/2009 16:19:17] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Poison Element.xml)
+[19/10/2009 16:19:17] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Poison Element.xml)
+[19/10/2009 16:19:17] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Poison Element.xml)
+[19/10/2009 16:19:18] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Poison Element.xml)
+[19/10/2009 16:19:18] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Poison Element.xml)
+[19/10/2009 16:19:18] [Warning - Monsters::loadMonster] Unknown attribute type - combat. (data/monster/8.5/Forgotten Hero.xml)
+[19/10/2009 16:19:18] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Forgotten Hero.xml)
+[19/10/2009 16:19:18] Error: [Monsters::deserializeSpell] - Forgotten Hero - Unknown spell name: powerbolt
+[19/10/2009 16:19:19] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Forgotten Hero.xml)
+[19/10/2009 16:19:19] Error: [Monsters::deserializeSpell] - Forgotten Hero - Unknown spell name: exura gran
+[19/10/2009 16:19:19] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Forgotten Hero.xml)
+[19/10/2009 16:19:19] Error: [Monsters::deserializeSpell] - Forgotten Hero - Unknown spell name: exori
+[19/10/2009 16:19:19] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Forgotten Hero.xml)
+[19/10/2009 16:19:20] Error: [Monsters::deserializeSpell] - Forgotten Hero - Unknown spell name: exori
+[19/10/2009 16:19:20] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Forgotten Hero.xml)
+[19/10/2009 16:19:20] Error: [Monsters::deserializeSpell] - Forgotten Hero - Unknown spell name: utani gran hur
+[19/10/2009 16:19:20] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Forgotten Hero.xml)
+[19/10/2009 16:19:20] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Forgotten Hero.xml)
+[19/10/2009 16:19:20] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Forgotten Hero.xml)
+[19/10/2009 16:19:21] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Forgotten Hero.xml)
+[19/10/2009 16:19:21] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Forgotten Hero.xml)
+[19/10/2009 16:19:21] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Forgotten Hero.xml)
+[19/10/2009 16:19:21] [Warning - Monsters::loadMonster] Missing voices.speed. (data/monster/8.5/Forgotten Hero.xml)
+[19/10/2009 16:19:21] [Warning - Monsters::loadMonster] Missing voices.chance. (data/monster/8.5/Forgotten Hero.xml)
+[19/10/2009 16:19:22] [Warning - Monsters::loadMonster] Unknown attribute type - combat. (data/monster/8.5/Orc strafer.xml)
+[19/10/2009 16:19:22] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orc strafer.xml)
+[19/10/2009 16:19:22] Error: [Monsters::deserializeSpell] - Orc strafer - Unknown spell name: utani gran hur
+[19/10/2009 16:19:22] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orc strafer.xml)
+[19/10/2009 16:19:22] Error: [Monsters::deserializeSpell] - Orc strafer - Unknown spell name: utani gran hur
+[19/10/2009 16:19:23] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orc strafer.xml)
+[19/10/2009 16:19:23] Error: [Monsters::deserializeSpell] - Orc strafer - Unknown spell name: exura vita
+[19/10/2009 16:19:23] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orc strafer.xml)
+[19/10/2009 16:19:23] Error: [Monsters::deserializeSpell] - Orc strafer - Unknown spell name: dlfbomb
+[19/10/2009 16:19:23] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orc strafer.xml)
+[19/10/2009 16:19:23] Error: [Monsters::deserializeSpell] - Orc strafer - Unknown spell name: dlfbomb
+[19/10/2009 16:19:24] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orc strafer.xml)
+[19/10/2009 16:19:24] Error: [Monsters::deserializeSpell] - Orc strafer - Unknown spell name: poisonbomb
+[19/10/2009 16:19:24] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orc strafer.xml)
+[19/10/2009 16:19:24] Error: [Monsters::deserializeSpell] - Orc strafer - Unknown spell name: poisonbomb
+[19/10/2009 16:19:24] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orc strafer.xml)
+[19/10/2009 16:19:24] Error: [Monsters::deserializeSpell] - Orc strafer - Unknown spell name: missile poison
+[19/10/2009 16:19:25] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orc strafer.xml)
+[19/10/2009 16:19:25] Error: [Monsters::deserializeSpell] - Orc strafer - Unknown spell name: invis
+[19/10/2009 16:19:25] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orc strafer.xml)
+[19/10/2009 16:19:25] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orc strafer.xml)
+[19/10/2009 16:19:25] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orc strafer.xml)
+[19/10/2009 16:19:26] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orc strafer.xml)
+[19/10/2009 16:19:26] [Warning - Monsters::loadMonster] Cant load loot. (data/monster/8.5/Orc strafer.xml)
+[19/10/2009 16:19:26] [Warning - Monsters::loadMonster] Missing voices.speed. (data/monster/8.5/Orc strafer.xml)
+[19/10/2009 16:19:26] [Warning - Monsters::loadMonster] Missing voices.chance. (data/monster/8.5/Orc strafer.xml)
+[19/10/2009 16:19:26] [Warning - Monsters::loadMonster] Unknown attribute type - combat. (data/monster/8.5/necrogod.xml)
+[19/10/2009 16:19:27] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/necrogod.xml)
+[19/10/2009 16:19:27] Error: [Monsters::deserializeSpell] - Necrogod - Unknown spell name: exura gran
+[19/10/2009 16:19:27] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/necrogod.xml)
+[19/10/2009 16:19:27] Error: [Monsters::deserializeSpell] - Necrogod - Unknown spell name: envenom
+[19/10/2009 16:19:27] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/necrogod.xml)
+[19/10/2009 16:19:27] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/necrogod.xml)
+[19/10/2009 16:19:28] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/necrogod.xml)
+[19/10/2009 16:19:28] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/necrogod.xml)
+[19/10/2009 16:19:28] [Warning - Monsters::loadMonster] Missing voices.speed. (data/monster/8.5/necrogod.xml)
+[19/10/2009 16:19:28] [Warning - Monsters::loadMonster] Missing voices.chance. (data/monster/8.5/necrogod.xml)
+[19/10/2009 16:19:28] [Warning - Monsters::loadMonster] Unknown attribute type - combat. (data/monster/8.5/guido.xml)
+[19/10/2009 16:19:29] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/guido.xml)
+[19/10/2009 16:19:29] Error: [Monsters::deserializeSpell] - Guido - Unknown spell name: largerock
+[19/10/2009 16:19:29] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/guido.xml)
+[19/10/2009 16:19:29] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/guido.xml)
+[19/10/2009 16:19:29] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/guido.xml)
+[19/10/2009 16:19:29] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/guido.xml)
+[19/10/2009 16:19:30] [Warning - Monsters::loadMonster] Missing voices.speed. (data/monster/8.5/guido.xml)
+[19/10/2009 16:19:30] [Warning - Monsters::loadMonster] Missing voices.chance. (data/monster/8.5/guido.xml)
+[19/10/2009 16:19:30] [Warning - Monsters::loadMonster] Unknown attribute type - combat. (data/monster/8.5/Dark Elf.xml)
+[19/10/2009 16:19:30] Error: [Monsters::deserializeSpell] - Dark Elf - Unknown spell name: sudden death arc
+[19/10/2009 16:19:30] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Dark Elf.xml)
+[19/10/2009 16:19:30] Error: [Monsters::deserializeSpell] - Dark Elf - Unknown spell name: exevo gran mas circle vis
+[19/10/2009 16:19:31] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Dark Elf.xml)
+[19/10/2009 16:19:31] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Dark Elf.xml)
+[19/10/2009 16:19:31] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Dark Elf.xml)
+[19/10/2009 16:19:31] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Dark Elf.xml)
+[19/10/2009 16:19:31] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Dark Elf.xml)
+[19/10/2009 16:19:31] [Warning - Monsters::loadMonster] Unknown attribute type - combat. (data/monster/8.5/Orshabaal Lord.xml)
+[19/10/2009 16:19:32] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orshabaal Lord.xml)
+[19/10/2009 16:19:32] Error: [Monsters::deserializeSpell] - Orshabaal Lord - Unknown spell name: utani gran hur
+[19/10/2009 16:19:32] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orshabaal Lord.xml)
+[19/10/2009 16:19:32] Error: [Monsters::deserializeSpell] - Orshabaal Lord - Unknown spell name: exura vita
+[19/10/2009 16:19:32] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orshabaal Lord.xml)
+[19/10/2009 16:19:33] Error: [Monsters::deserializeSpell] - Orshabaal Lord - Unknown spell name: GFBorshabaal
+[19/10/2009 16:19:33] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orshabaal Lord.xml)
+[19/10/2009 16:19:33] Error: [Monsters::deserializeSpell] - Orshabaal Lord - Unknown spell name: exoriorsha
+[19/10/2009 16:19:33] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orshabaal Lord.xml)
+[19/10/2009 16:19:33] Error: [Monsters::deserializeSpell] - Orshabaal Lord - Unknown spell name: verdinhu
+[19/10/2009 16:19:33] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orshabaal Lord.xml)
+[19/10/2009 16:19:34] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orshabaal Lord.xml)
+[19/10/2009 16:19:34] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orshabaal Lord.xml)
+[19/10/2009 16:19:34] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orshabaal Lord.xml)
+[19/10/2009 16:19:34] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orshabaal Lord.xml)
+[19/10/2009 16:19:34] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orshabaal Lord.xml)
+[19/10/2009 16:19:35] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orshabaal Lord.xml)
+[19/10/2009 16:19:35] [Warning - Monsters::loadMonster] Missing voices.speed. (data/monster/8.5/Orshabaal Lord.xml)
+[19/10/2009 16:19:35] [Warning - Monsters::loadMonster] Missing voices.chance. (data/monster/8.5/Orshabaal Lord.xml)
+[19/10/2009 16:19:35] [Warning - Monsters::loadMonster] Unknown attribute type - combat. (data/monster/8.5/Angry Flamingo.xml)
+[19/10/2009 16:19:35] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Angry Flamingo.xml)
+[19/10/2009 16:19:36] Error: [Monsters::deserializeSpell] - Angry Flamingo - Unknown spell name: verdinhu
+[19/10/2009 16:19:36] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Angry Flamingo.xml)
+[19/10/2009 16:19:36] Error: [Monsters::deserializeSpell] - Angry Flamingo - Unknown spell name: exura vita
+[19/10/2009 16:19:36] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Angry Flamingo.xml)
+[19/10/2009 16:19:36] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Angry Flamingo.xml)
+[19/10/2009 16:19:36] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Angry Flamingo.xml)
+[19/10/2009 16:19:37] [Warning - Monsters::loadMonster] Missing voices.speed. (data/monster/8.5/Angry Flamingo.xml)
+[19/10/2009 16:19:37] [Warning - Monsters::loadMonster] Missing voices.chance. (data/monster/8.5/Angry Flamingo.xml)
+[19/10/2009 16:19:37] [Warning - Monsters::loadMonster] Unknown attribute type - combat. (data/monster/8.5/Black Devil.xml)
+[19/10/2009 16:19:37] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Black Devil.xml)
+[19/10/2009 16:19:37] Error: [Monsters::deserializeSpell] - Black Devil - Unknown spell name: exura vita
+[19/10/2009 16:19:38] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Black Devil.xml)
+[19/10/2009 16:19:38] Error: [Monsters::deserializeSpell] - Black Devil - Unknown spell name: snowball
+[19/10/2009 16:19:38] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Black Devil.xml)
+[19/10/2009 16:19:38] [Warning - Monsters::loadMonster] Missing voices.speed. (data/monster/8.5/Black Devil.xml)
+[19/10/2009 16:19:38] [Warning - Monsters::loadMonster] Missing voices.chance. (data/monster/8.5/Black Devil.xml)
+[19/10/2009 16:19:38] [Warning - Monsters::loadMonster] Unknown attribute type - combat. (data/monster/8.5/Spellcaster.xml)
+[19/10/2009 16:19:39] Error: [Monsters::deserializeSpell] - Spellcaster - Unknown spell name: exura vita
+[19/10/2009 16:19:39] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Spellcaster.xml)
+[19/10/2009 16:19:39] Error: [Monsters::deserializeSpell] - Spellcaster - Unknown spell name: utani gran hur
+[19/10/2009 16:19:39] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Spellcaster.xml)
+[19/10/2009 16:19:39] Error: [Monsters::deserializeSpell] - Spellcaster - Unknown spell name: invis
+[19/10/2009 16:19:40] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Spellcaster.xml)
+[19/10/2009 16:19:40] Error: [Monsters::deserializeSpell] - Spellcaster - Unknown spell name: exevo gran mas pox
+[19/10/2009 16:19:40] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Spellcaster.xml)
+[19/10/2009 16:19:40] Error: [Monsters::deserializeSpell] - Spellcaster - Unknown spell name: exevo gran mas vis
+[19/10/2009 16:19:40] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Spellcaster.xml)
+[19/10/2009 16:19:40] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Spellcaster.xml)
+[19/10/2009 16:19:41] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Spellcaster.xml)
+[19/10/2009 16:19:41] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Spellcaster.xml)
+[19/10/2009 16:19:41] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Spellcaster.xml)
+[19/10/2009 16:19:41] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Spellcaster.xml)
+[19/10/2009 16:19:41] [Warning - Monsters::loadMonster] Missing voices.speed. (data/monster/8.5/Spellcaster.xml)
+[19/10/2009 16:19:42] [Warning - Monsters::loadMonster] Missing voices.chance. (data/monster/8.5/Spellcaster.xml)
+[19/10/2009 16:19:42] [Warning - Monsters::loadMonster] Unknown attribute type - combat. (data/monster/8.5/spiderman.xml)
+[19/10/2009 16:19:42] [Warning - Monsters::loadMonster] Unknown attribute type - blood. (data/monster/8.5/spiderman.xml)
+[19/10/2009 16:19:42] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/spiderman.xml)
+[19/10/2009 16:19:42] Error: [Monsters::deserializeSpell] - Spiderman - Unknown spell name: old widow pox
+[19/10/2009 16:19:43] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/spiderman.xml)
+[19/10/2009 16:19:43] Error: [Monsters::deserializeSpell] - Spiderman - Unknown spell name: gs_haste
+[19/10/2009 16:19:43] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/spiderman.xml)
+[19/10/2009 16:19:43] Error: [Monsters::deserializeSpell] - Spiderman - Unknown spell name: exura
+[19/10/2009 16:19:43] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/spiderman.xml)
+[19/10/2009 16:19:43] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/spiderman.xml)
+[19/10/2009 16:19:44] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/spiderman.xml)
+[19/10/2009 16:19:44] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/spiderman.xml)
+[19/10/2009 16:19:44] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/spiderman.xml)
+[19/10/2009 16:19:44] [Warning - Monsters::loadMonster] Unknown attribute type - combat. (data/monster/8.5/robin.xml)
+[19/10/2009 16:19:44] Error: [Monsters::deserializeSpell] - Robin - Unknown spell name: largerock
+[19/10/2009 16:19:45] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/robin.xml)
+[19/10/2009 16:19:45] Error: [Monsters::deserializeSpell] - Robin - Unknown spell name: exura
+[19/10/2009 16:19:45] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/robin.xml)
+[19/10/2009 16:19:45] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/robin.xml)
+[19/10/2009 16:19:45] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/robin.xml)
+[19/10/2009 16:19:45] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/robin.xml)
+[19/10/2009 16:19:46] [Warning - Monsters::loadMonster] Missing voices.speed. (data/monster/8.5/robin.xml)
+[19/10/2009 16:19:46] [Warning - Monsters::loadMonster] Missing voices.chance. (data/monster/8.5/robin.xml)
+[19/10/2009 16:19:46] [Warning - Monsters::loadMonster] Unknown attribute type - combat. (data/monster/8.5/Batman.xml)
+[19/10/2009 16:19:46] Error: [Monsters::deserializeSpell] - Batman - Unknown spell name: largerock
+[19/10/2009 16:19:46] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Batman.xml)
+[19/10/2009 16:19:47] Error: [Monsters::deserializeSpell] - Batman - Unknown spell name: exura
+[19/10/2009 16:19:47] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Batman.xml)
+[19/10/2009 16:19:47] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Batman.xml)
+[19/10/2009 16:19:47] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Batman.xml)
+[19/10/2009 16:19:47] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Batman.xml)
+[19/10/2009 16:19:47] [Warning - Monsters::loadMonster] Missing voices.speed. (data/monster/8.5/Batman.xml)
+[19/10/2009 16:19:48] [Warning - Monsters::loadMonster] Missing voices.chance. (data/monster/8.5/Batman.xml)
+[19/10/2009 16:19:48] [Warning - Monsters::loadMonster] Unknown attribute type - combat. (data/monster/8.5/BoSS.xml)
+[19/10/2009 16:19:48] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/BoSS.xml)
+[19/10/2009 16:19:48] Error: [Monsters::deserializeSpell] - BoSS - Unknown spell name: exoriorsha
+[19/10/2009 16:19:48] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/BoSS.xml)
+[19/10/2009 16:19:48] Error: [Monsters::deserializeSpell] - BoSS - Unknown spell name: verdinhu
+[19/10/2009 16:19:49] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/BoSS.xml)
+[19/10/2009 16:19:49] Error: [Monsters::deserializeSpell] - BoSS - Unknown spell name: GFBorshabaal
+[19/10/2009 16:19:49] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/BoSS.xml)
+[19/10/2009 16:19:49] Error: [Monsters::deserializeSpell] - BoSS - Unknown spell name: exura vita
+[19/10/2009 16:19:49] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/BoSS.xml)
+[19/10/2009 16:19:50] Error: [Monsters::deserializeSpell] - BoSS - Unknown spell name: banshee_sonar
+[19/10/2009 16:19:50] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/BoSS.xml)
+[19/10/2009 16:19:50] Error: [Monsters::deserializeSpell] - BoSS - Unknown spell name: exevo gran mas pox
+[19/10/2009 16:19:50] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/BoSS.xml)
+[19/10/2009 16:19:50] Error: [Monsters::deserializeSpell] - BoSS - Unknown spell name: exevo gran mas vis
+[19/10/2009 16:19:50] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/BoSS.xml)
+[19/10/2009 16:19:51] Error: [Monsters::deserializeSpell] - BoSS - Unknown spell name: sonar
+[19/10/2009 16:19:51] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/BoSS.xml)
+[19/10/2009 16:19:51] Error: [Monsters::deserializeSpell] - BoSS - Unknown spell name: invis
+[19/10/2009 16:19:51] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/BoSS.xml)
+[19/10/2009 16:19:51] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/BoSS.xml)
+[19/10/2009 16:19:52] [Warning - Monsters::loadMonster] Missing voices.speed. (data/monster/8.5/BoSS.xml)
+[19/10/2009 16:19:52] [Warning - Monsters::loadMonster] Missing voices.chance. (data/monster/8.5/BoSS.xml)
+[19/10/2009 16:20:46] GOD Aggro has logged out.
+[19/10/2009 16:21:09] > Saving server...
+[19/10/2009 16:21:11] > SAVE: Complete in 2.804 seconds using relational house storage.
+[19/10/2009 16:36:09] > Saving server...
+[19/10/2009 16:36:11] > SAVE: Complete in 1.441 seconds using relational house storage.
+[19/10/2009 16:44:12] [Warning - Monsters::loadMonster] Cannot load monster (Snow soul) file (data/monster/8.5/Snown Soul.xml).
+[19/10/2009 16:44:12] Info: failed to load external entity "data/monster/8.5/Snown Soul.xml"
+[19/10/2009 16:44:12] 
+[19/10/2009 16:44:13] 
+[19/10/2009 16:44:13] [Warning - Monsters::loadMonster] Cannot load monster (Crazigm) file (data/monster/8.5/crazigm.xml).
+[19/10/2009 16:44:13] Info: failed to load external entity "data/monster/8.5/crazigm.xml"
+[19/10/2009 16:44:13] 
+[19/10/2009 16:44:13] 
+[19/10/2009 16:44:13] [Warning - Monsters::loadMonster] Unknown attribute type - combat. (data/monster/8.5/Durin.xml)
+[19/10/2009 16:44:13] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Durin.xml)
+[19/10/2009 16:44:13] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Durin.xml)
+[19/10/2009 16:44:14] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Durin.xml)
+[19/10/2009 16:44:14] [Warning - Monsters::loadMonster] Unknown attribute type - combat. (data/monster/8.5/Evil Elf Arcanist.xml)
+[19/10/2009 16:44:14] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Evil Elf Arcanist.xml)
+[19/10/2009 16:44:14] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Evil Elf Arcanist.xml)
+[19/10/2009 16:44:14] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Evil Elf Arcanist.xml)
+[19/10/2009 16:44:14] [Warning - Monsters::loadMonster] Unknown attribute type - combat. (data/monster/8.5/Minotaur King.xml)
+[19/10/2009 16:44:15] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Minotaur King.xml)
+[19/10/2009 16:44:15] Error: [Monsters::deserializeSpell] - Minotaur King - Unknown spell name: Soul fire
+[19/10/2009 16:44:15] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Minotaur King.xml)
+[19/10/2009 16:44:15] Error: [Monsters::deserializeSpell] - Minotaur King - Unknown spell name: Soul fire
+[19/10/2009 16:44:15] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Minotaur King.xml)
+[19/10/2009 16:44:15] Error: [Monsters::deserializeSpell] - Minotaur King - Unknown spell name: Soul fire
+[19/10/2009 16:44:16] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Minotaur King.xml)
+[19/10/2009 16:44:16] Error: [Monsters::deserializeSpell] - Minotaur King - Unknown spell name: Soul fire
+[19/10/2009 16:44:16] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Minotaur King.xml)
+[19/10/2009 16:44:16] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Minotaur King.xml)
+[19/10/2009 16:44:16] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Minotaur King.xml)
+[19/10/2009 16:44:16] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Minotaur King.xml)
+[19/10/2009 16:44:16] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Minotaur King.xml)
+[19/10/2009 16:44:17] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Minotaur King.xml)
+[19/10/2009 16:44:17] [Warning - Monsters::loadMonster] Unknown attribute type - combat. (data/monster/8.5/Cycdracha.xml)
+[19/10/2009 16:44:17] Error: [Monsters::deserializeSpell] - Cycdracha - Unknown spell name: invis
+[19/10/2009 16:44:17] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Cycdracha.xml)
+[19/10/2009 16:44:17] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Cycdracha.xml)
+[19/10/2009 16:44:17] Error: [Monsters::deserializeSpell] - Cycdracha - Unknown spell name: exori ball
+[19/10/2009 16:44:18] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Cycdracha.xml)
+[19/10/2009 16:44:18] Error: [Monsters::deserializeSpell] - Cycdracha - Unknown spell name: exori ball
+[19/10/2009 16:44:18] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Cycdracha.xml)
+[19/10/2009 16:44:18] Error: [Monsters::deserializeSpell] - Cycdracha - Unknown spell name: exori ball
+[19/10/2009 16:44:18] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Cycdracha.xml)
+[19/10/2009 16:44:18] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Cycdracha.xml)
+[19/10/2009 16:44:18] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Cycdracha.xml)
+[19/10/2009 16:44:19] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Cycdracha.xml)
+[19/10/2009 16:44:19] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Cycdracha.xml)
+[19/10/2009 16:44:19] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Cycdracha.xml)
+[19/10/2009 16:44:19] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Cycdracha.xml)
+[19/10/2009 16:44:19] [Warning - Monsters::loadMonster] Unknown attribute type - combat. (data/monster/8.5/Force Element.xml)
+[19/10/2009 16:44:19] Error: [Monsters::deserializeSpell] - Force Element - Unknown spell name: exori_mini
+[19/10/2009 16:44:20] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Force Element.xml)
+[19/10/2009 16:44:20] Error: [Monsters::deserializeSpell] - Force Element - Unknown spell name: exori_gfb
+[19/10/2009 16:44:20] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Force Element.xml)
+[19/10/2009 16:44:20] Error: [Monsters::deserializeSpell] - Force Element - Unknown spell name: exori_sd
+[19/10/2009 16:44:20] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Force Element.xml)
+[19/10/2009 16:44:20] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Force Element.xml)
+[19/10/2009 16:44:21] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Force Element.xml)
+[19/10/2009 16:44:21] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Force Element.xml)
+[19/10/2009 16:44:21] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Force Element.xml)
+[19/10/2009 16:44:21] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Force Element.xml)
+[19/10/2009 16:44:21] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Force Element.xml)
+[19/10/2009 16:44:21] [Warning - Monsters::loadMonster] Unknown attribute type - combat. (data/monster/8.5/Poison Element.xml)
+[19/10/2009 16:44:22] Error: [Monsters::deserializeSpell] - Poison Element - Unknown spell name: water_mini
+[19/10/2009 16:44:22] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Poison Element.xml)
+[19/10/2009 16:44:22] Error: [Monsters::deserializeSpell] - Poison Element - Unknown spell name: water_gfb
+[19/10/2009 16:44:22] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Poison Element.xml)
+[19/10/2009 16:44:22] Error: [Monsters::deserializeSpell] - Poison Element - Unknown spell name: water_sd
+[19/10/2009 16:44:22] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Poison Element.xml)
+[19/10/2009 16:44:23] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Poison Element.xml)
+[19/10/2009 16:44:23] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Poison Element.xml)
+[19/10/2009 16:44:23] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Poison Element.xml)
+[19/10/2009 16:44:23] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Poison Element.xml)
+[19/10/2009 16:44:23] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Poison Element.xml)
+[19/10/2009 16:44:23] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Poison Element.xml)
+[19/10/2009 16:44:24] [Warning - Monsters::loadMonster] Unknown attribute type - combat. (data/monster/8.5/Forgotten Hero.xml)
+[19/10/2009 16:44:24] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Forgotten Hero.xml)
+[19/10/2009 16:44:24] Error: [Monsters::deserializeSpell] - Forgotten Hero - Unknown spell name: powerbolt
+[19/10/2009 16:44:24] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Forgotten Hero.xml)
+[19/10/2009 16:44:24] Error: [Monsters::deserializeSpell] - Forgotten Hero - Unknown spell name: exura gran
+[19/10/2009 16:44:24] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Forgotten Hero.xml)
+[19/10/2009 16:44:25] Error: [Monsters::deserializeSpell] - Forgotten Hero - Unknown spell name: exori
+[19/10/2009 16:44:25] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Forgotten Hero.xml)
+[19/10/2009 16:44:25] Error: [Monsters::deserializeSpell] - Forgotten Hero - Unknown spell name: exori
+[19/10/2009 16:44:25] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Forgotten Hero.xml)
+[19/10/2009 16:44:25] Error: [Monsters::deserializeSpell] - Forgotten Hero - Unknown spell name: utani gran hur
+[19/10/2009 16:44:25] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Forgotten Hero.xml)
+[19/10/2009 16:44:25] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Forgotten Hero.xml)
+[19/10/2009 16:44:26] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Forgotten Hero.xml)
+[19/10/2009 16:44:26] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Forgotten Hero.xml)
+[19/10/2009 16:44:26] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Forgotten Hero.xml)
+[19/10/2009 16:44:26] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Forgotten Hero.xml)
+[19/10/2009 16:44:26] [Warning - Monsters::loadMonster] Missing voices.speed. (data/monster/8.5/Forgotten Hero.xml)
+[19/10/2009 16:44:26] [Warning - Monsters::loadMonster] Missing voices.chance. (data/monster/8.5/Forgotten Hero.xml)
+[19/10/2009 16:44:27] [Warning - Monsters::loadMonster] Unknown attribute type - combat. (data/monster/8.5/Orc strafer.xml)
+[19/10/2009 16:44:27] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orc strafer.xml)
+[19/10/2009 16:44:27] Error: [Monsters::deserializeSpell] - Orc strafer - Unknown spell name: utani gran hur
+[19/10/2009 16:44:27] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orc strafer.xml)
+[19/10/2009 16:44:27] Error: [Monsters::deserializeSpell] - Orc strafer - Unknown spell name: utani gran hur
+[19/10/2009 16:44:27] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orc strafer.xml)
+[19/10/2009 16:44:28] Error: [Monsters::deserializeSpell] - Orc strafer - Unknown spell name: exura vita
+[19/10/2009 16:44:28] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orc strafer.xml)
+[19/10/2009 16:44:28] Error: [Monsters::deserializeSpell] - Orc strafer - Unknown spell name: dlfbomb
+[19/10/2009 16:44:28] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orc strafer.xml)
+[19/10/2009 16:44:28] Error: [Monsters::deserializeSpell] - Orc strafer - Unknown spell name: dlfbomb
+[19/10/2009 16:44:28] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orc strafer.xml)
+[19/10/2009 16:44:29] Error: [Monsters::deserializeSpell] - Orc strafer - Unknown spell name: poisonbomb
+[19/10/2009 16:44:29] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orc strafer.xml)
+[19/10/2009 16:44:29] Error: [Monsters::deserializeSpell] - Orc strafer - Unknown spell name: poisonbomb
+[19/10/2009 16:44:29] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orc strafer.xml)
+[19/10/2009 16:44:29] Error: [Monsters::deserializeSpell] - Orc strafer - Unknown spell name: missile poison
+[19/10/2009 16:44:29] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orc strafer.xml)
+[19/10/2009 16:44:30] Error: [Monsters::deserializeSpell] - Orc strafer - Unknown spell name: invis
+[19/10/2009 16:44:30] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orc strafer.xml)
+[19/10/2009 16:44:30] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orc strafer.xml)
+[19/10/2009 16:44:30] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orc strafer.xml)
+[19/10/2009 16:44:30] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orc strafer.xml)
+[19/10/2009 16:44:30] [Warning - Monsters::loadMonster] Cant load loot. (data/monster/8.5/Orc strafer.xml)
+[19/10/2009 16:44:30] [Warning - Monsters::loadMonster] Missing voices.speed. (data/monster/8.5/Orc strafer.xml)
+[19/10/2009 16:44:31] [Warning - Monsters::loadMonster] Missing voices.chance. (data/monster/8.5/Orc strafer.xml)
+[19/10/2009 16:44:31] [Warning - Monsters::loadMonster] Unknown attribute type - combat. (data/monster/8.5/necrogod.xml)
+[19/10/2009 16:44:31] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/necrogod.xml)
+[19/10/2009 16:44:31] Error: [Monsters::deserializeSpell] - Necrogod - Unknown spell name: exura gran
+[19/10/2009 16:44:31] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/necrogod.xml)
+[19/10/2009 16:44:31] Error: [Monsters::deserializeSpell] - Necrogod - Unknown spell name: envenom
+[19/10/2009 16:44:32] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/necrogod.xml)
+[19/10/2009 16:44:32] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/necrogod.xml)
+[19/10/2009 16:44:32] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/necrogod.xml)
+[19/10/2009 16:44:32] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/necrogod.xml)
+[19/10/2009 16:44:32] [Warning - Monsters::loadMonster] Missing voices.speed. (data/monster/8.5/necrogod.xml)
+[19/10/2009 16:44:32] [Warning - Monsters::loadMonster] Missing voices.chance. (data/monster/8.5/necrogod.xml)
+[19/10/2009 16:44:33] [Warning - Monsters::loadMonster] Unknown attribute type - combat. (data/monster/8.5/guido.xml)
+[19/10/2009 16:44:33] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/guido.xml)
+[19/10/2009 16:44:33] Error: [Monsters::deserializeSpell] - Guido - Unknown spell name: largerock
+[19/10/2009 16:44:33] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/guido.xml)
+[19/10/2009 16:44:33] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/guido.xml)
+[19/10/2009 16:44:33] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/guido.xml)
+[19/10/2009 16:44:34] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/guido.xml)
+[19/10/2009 16:44:34] [Warning - Monsters::loadMonster] Missing voices.speed. (data/monster/8.5/guido.xml)
+[19/10/2009 16:44:34] [Warning - Monsters::loadMonster] Missing voices.chance. (data/monster/8.5/guido.xml)
+[19/10/2009 16:44:34] [Warning - Monsters::loadMonster] Unknown attribute type - combat. (data/monster/8.5/Dark Elf.xml)
+[19/10/2009 16:44:34] Error: [Monsters::deserializeSpell] - Dark Elf - Unknown spell name: sudden death arc
+[19/10/2009 16:44:34] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Dark Elf.xml)
+[19/10/2009 16:44:35] Error: [Monsters::deserializeSpell] - Dark Elf - Unknown spell name: exevo gran mas circle vis
+[19/10/2009 16:44:35] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Dark Elf.xml)
+[19/10/2009 16:44:35] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Dark Elf.xml)
+[19/10/2009 16:44:35] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Dark Elf.xml)
+[19/10/2009 16:44:35] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Dark Elf.xml)
+[19/10/2009 16:44:35] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Dark Elf.xml)
+[19/10/2009 16:44:36] [Warning - Monsters::loadMonster] Unknown attribute type - combat. (data/monster/8.5/Orshabaal Lord.xml)
+[19/10/2009 16:44:36] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orshabaal Lord.xml)
+[19/10/2009 16:44:36] Error: [Monsters::deserializeSpell] - Orshabaal Lord - Unknown spell name: utani gran hur
+[19/10/2009 16:44:36] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orshabaal Lord.xml)
+[19/10/2009 16:44:36] Error: [Monsters::deserializeSpell] - Orshabaal Lord - Unknown spell name: exura vita
+[19/10/2009 16:44:36] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orshabaal Lord.xml)
+[19/10/2009 16:44:37] Error: [Monsters::deserializeSpell] - Orshabaal Lord - Unknown spell name: GFBorshabaal
+[19/10/2009 16:44:37] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orshabaal Lord.xml)
+[19/10/2009 16:44:37] Error: [Monsters::deserializeSpell] - Orshabaal Lord - Unknown spell name: exoriorsha
+[19/10/2009 16:44:37] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orshabaal Lord.xml)
+[19/10/2009 16:44:37] Error: [Monsters::deserializeSpell] - Orshabaal Lord - Unknown spell name: verdinhu
+[19/10/2009 16:44:37] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orshabaal Lord.xml)
+[19/10/2009 16:44:38] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orshabaal Lord.xml)
+[19/10/2009 16:44:38] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orshabaal Lord.xml)
+[19/10/2009 16:44:38] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orshabaal Lord.xml)
+[19/10/2009 16:44:38] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orshabaal Lord.xml)
+[19/10/2009 16:44:38] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orshabaal Lord.xml)
+[19/10/2009 16:44:38] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Orshabaal Lord.xml)
+[19/10/2009 16:44:39] [Warning - Monsters::loadMonster] Missing voices.speed. (data/monster/8.5/Orshabaal Lord.xml)
+[19/10/2009 16:44:39] [Warning - Monsters::loadMonster] Missing voices.chance. (data/monster/8.5/Orshabaal Lord.xml)
+[19/10/2009 16:44:39] [Warning - Monsters::loadMonster] Unknown attribute type - combat. (data/monster/8.5/Angry Flamingo.xml)
+[19/10/2009 16:44:39] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Angry Flamingo.xml)
+[19/10/2009 16:44:39] Error: [Monsters::deserializeSpell] - Angry Flamingo - Unknown spell name: verdinhu
+[19/10/2009 16:44:40] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Angry Flamingo.xml)
+[19/10/2009 16:44:40] Error: [Monsters::deserializeSpell] - Angry Flamingo - Unknown spell name: exura vita
+[19/10/2009 16:44:40] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Angry Flamingo.xml)
+[19/10/2009 16:44:40] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Angry Flamingo.xml)
+[19/10/2009 16:44:40] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Angry Flamingo.xml)
+[19/10/2009 16:44:41] [Warning - Monsters::loadMonster] Missing voices.speed. (data/monster/8.5/Angry Flamingo.xml)
+[19/10/2009 16:44:41] [Warning - Monsters::loadMonster] Missing voices.chance. (data/monster/8.5/Angry Flamingo.xml)
+[19/10/2009 16:44:41] [Warning - Monsters::loadMonster] Unknown attribute type - combat. (data/monster/8.5/Black Devil.xml)
+[19/10/2009 16:44:41] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Black Devil.xml)
+[19/10/2009 16:44:41] Error: [Monsters::deserializeSpell] - Black Devil - Unknown spell name: exura vita
+[19/10/2009 16:44:41] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Black Devil.xml)
+[19/10/2009 16:44:42] Error: [Monsters::deserializeSpell] - Black Devil - Unknown spell name: snowball
+[19/10/2009 16:44:42] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Black Devil.xml)
+[19/10/2009 16:44:42] [Warning - Monsters::loadMonster] Missing voices.speed. (data/monster/8.5/Black Devil.xml)
+[19/10/2009 16:44:42] [Warning - Monsters::loadMonster] Missing voices.chance. (data/monster/8.5/Black Devil.xml)
+[19/10/2009 16:44:42] [Warning - Monsters::loadMonster] Cannot load monster (Spellcaster) file (data/monster/8.5/Spellcaster.xml).
+[19/10/2009 16:44:42] Info: failed to load external entity "data/monster/8.5/Spellcaster.xml"
+[19/10/2009 16:44:43] 
+[19/10/2009 16:44:43] 
+[19/10/2009 16:44:43] [Warning - Monsters::loadMonster] Unknown attribute type - combat. (data/monster/8.5/spiderman.xml)
+[19/10/2009 16:44:43] [Warning - Monsters::loadMonster] Unknown attribute type - blood. (data/monster/8.5/spiderman.xml)
+[19/10/2009 16:44:43] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/spiderman.xml)
+[19/10/2009 16:44:43] Error: [Monsters::deserializeSpell] - Spiderman - Unknown spell name: old widow pox
+[19/10/2009 16:44:43] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/spiderman.xml)
+[19/10/2009 16:44:44] Error: [Monsters::deserializeSpell] - Spiderman - Unknown spell name: gs_haste
+[19/10/2009 16:44:44] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/spiderman.xml)
+[19/10/2009 16:44:44] Error: [Monsters::deserializeSpell] - Spiderman - Unknown spell name: exura
+[19/10/2009 16:44:44] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/spiderman.xml)
+[19/10/2009 16:44:44] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/spiderman.xml)
+[19/10/2009 16:44:45] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/spiderman.xml)
+[19/10/2009 16:44:45] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/spiderman.xml)
+[19/10/2009 16:44:45] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/spiderman.xml)
+[19/10/2009 16:44:45] [Warning - Monsters::loadMonster] Cannot load monster (Robin) file (data/monster/8.5/robin.xml).
+[19/10/2009 16:44:45] Line: 2, Info: Extra content at the end of the document
+[19/10/2009 16:44:46] 
+[19/10/2009 16:44:46] 
+[19/10/2009 16:44:46] [Warning - Monsters::loadMonster] Unknown attribute type - combat. (data/monster/8.5/Batman.xml)
+[19/10/2009 16:44:46] Error: [Monsters::deserializeSpell] - Batman - Unknown spell name: largerock
+[19/10/2009 16:44:46] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Batman.xml)
+[19/10/2009 16:44:46] Error: [Monsters::deserializeSpell] - Batman - Unknown spell name: exura
+[19/10/2009 16:44:46] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Batman.xml)
+[19/10/2009 16:44:46] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Batman.xml)
+[19/10/2009 16:44:47] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Batman.xml)
+[19/10/2009 16:44:47] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/Batman.xml)
+[19/10/2009 16:44:47] [Warning - Monsters::loadMonster] Missing voices.speed. (data/monster/8.5/Batman.xml)
+[19/10/2009 16:44:47] [Warning - Monsters::loadMonster] Missing voices.chance. (data/monster/8.5/Batman.xml)
+[19/10/2009 16:44:47] [Warning - Monsters::loadMonster] Unknown attribute type - combat. (data/monster/8.5/BoSS.xml)
+[19/10/2009 16:44:47] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/BoSS.xml)
+[19/10/2009 16:44:48] Error: [Monsters::deserializeSpell] - BoSS - Unknown spell name: exoriorsha
+[19/10/2009 16:44:48] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/BoSS.xml)
+[19/10/2009 16:44:48] Error: [Monsters::deserializeSpell] - BoSS - Unknown spell name: verdinhu
+[19/10/2009 16:44:48] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/BoSS.xml)
+[19/10/2009 16:44:48] Error: [Monsters::deserializeSpell] - BoSS - Unknown spell name: GFBorshabaal
+[19/10/2009 16:44:48] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/BoSS.xml)
+[19/10/2009 16:44:49] Error: [Monsters::deserializeSpell] - BoSS - Unknown spell name: exura vita
+[19/10/2009 16:44:49] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/BoSS.xml)
+[19/10/2009 16:44:49] Error: [Monsters::deserializeSpell] - BoSS - Unknown spell name: banshee_sonar
+[19/10/2009 16:44:49] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/BoSS.xml)
+[19/10/2009 16:44:49] Error: [Monsters::deserializeSpell] - BoSS - Unknown spell name: exevo gran mas pox
+[19/10/2009 16:44:49] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/BoSS.xml)
+[19/10/2009 16:44:49] Error: [Monsters::deserializeSpell] - BoSS - Unknown spell name: exevo gran mas vis
+[19/10/2009 16:44:50] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/BoSS.xml)
+[19/10/2009 16:44:50] Error: [Monsters::deserializeSpell] - BoSS - Unknown spell name: sonar
+[19/10/2009 16:44:50] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/BoSS.xml)
+[19/10/2009 16:44:50] Error: [Monsters::deserializeSpell] - BoSS - Unknown spell name: invis
+[19/10/2009 16:44:50] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/BoSS.xml)
+[19/10/2009 16:44:50] [Warning - Monsters::loadMonster] Cant load spell. (data/monster/8.5/BoSS.xml)
+[19/10/2009 16:44:51] [Warning - Monsters::loadMonster] Missing voices.speed. (data/monster/8.5/BoSS.xml)
+[19/10/2009 16:44:51] [Warning - Monsters::loadMonster] Missing voices.chance. (data/monster/8.5/BoSS.xml)
+[19/10/2009 16:44:53] Reloaded monsters.
+[19/10/2009 16:46:07] GOD Aggro has logged in.
+[19/10/2009 16:51:10] > Saving server...
+[19/10/2009 16:51:13] > SAVE: Complete in 3.215 seconds using relational house storage.
+[19/10/2009 16:51:28] GOD Aggro has logged out.
+[19/10/2009 16:51:29] Test has logged in.
+[19/10/2009 16:55:30] Test has logged out.
+[19/10/2009 16:55:32] GOD Aggro has logged in.
+[19/10/2009 16:58:40] GOD Aggro has logged out.
+[19/10/2009 16:58:42] Test has logged in.
+[19/10/2009 17:01:35] Test has logged out.
+[19/10/2009 17:01:37] GOD Aggro has logged in.
+[19/10/2009 17:03:28] GOD Aggro has logged out.
+[19/10/2009 17:03:31] Test has logged in.
+[19/10/2009 17:06:11] > Saving server...
+[19/10/2009 17:06:13] > SAVE: Complete in 2.01 seconds using relational house storage.
+[19/10/2009 17:08:34] Test has logged out.
+[19/10/2009 17:08:35] GOD Aggro has logged in.
+[19/10/2009 17:10:45] [Warning - Event::loadScript] Cannot load script (data/spells/scripts/gen.lua)
+[19/10/2009 17:10:45] cannot open data/spells/scripts/gen.lua: No such file or directory
+[19/10/2009 17:11:06] GOD Aggro has logged out.

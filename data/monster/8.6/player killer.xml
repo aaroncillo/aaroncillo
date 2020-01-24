@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Player Killer" nameDescription="a Player Killer" race="blood" experience="180000" speed="9000" manacost="0">
+	<health now="8500000" max="8500000"/>
+	<look type="31" head="114" body="114" legs="114" feet="114" corpse="3058"/>
+	<targetchange interval="4000" chance="50"/>
+	<strategy attack="80" defense="10"/>
+	<flags>
+		<flag summonable="0"/>
+		<flag attackable="0"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="0"/>
+		<flag pushable="0"/>
+		<flag canpushitems="0"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag runonhealth="0"/>
+	</flags>
+	<attacks>
+		<attack name="melee" interval="500" skill="25000" attack="40000"/>
+	</attacks>
+	<defenses armor="420" defense="600">
+	<defense name="healing" interval="5000" chance="300" min="30000" max="50000">
+      <attribute key="areaEffect" value="blueshimmer"/>
+    </defense>
+	</defenses>
+	<immunities>
+		<immunity physical="1"/>
+		<immunity energy="1"/>
+		<immunity fire="1"/>
+		<immunity poison="1"/>
+		<immunity lifedrain="1"/>
+		<immunity paralyze="1"/>
+		<immunity outfit="1"/>
+		<immunity drunk="1"/>
+		<immunity invisible="1"/>
+	</immunities>
+	<voices interval="9000" chance="100">
+		<voice sentence="Corre que te cojo" />
+	</voices>
+	<loot capacity="1900">
+		<item id="7391" countmax="1" chance="30000"/>
+		<item id="2160" countmax="50" chance="30000"/>
+		<item id="2400" countmax="1" chance="30000"/>
+		<item id="2393" countmax="1" chance="30000"/>
+		<item id="2408" countmax="1" chance="30000"/>
+		<item id="2523" countmax="1" chance="30000"/>
+	</loot>
+</monster>

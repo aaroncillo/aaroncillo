@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<globalevents>
+        <globalevent name="CTFStart" type="start" event="script" value="CTFMax.lua"/>
+        <globalevent name="save" interval="2500" script="save.lua"/>
+	<globalevent name="clean" interval="2000" script="clean.lua"/>
+        <globalevent name="animatedtexto" interval="2" script="texto.lua"/>
+        <globalevent name="magiceffects" interval="5" script="espejo.lua"/>
+        <globalevent name="magiceffectd" interval="2" script="bienvenida.lua"/>
+        <globalevent name="magiceffecf" interval="2" script="murcielagos.lua"/>
+        <globalevent name="magiceffectg" interval="2" script="flecha qlia.lua"/>
+        <globalevent name="animatedtext" interval="2" script="texto2.lua"/>
+        <globalevent name="magiceffectsas" interval="5" script="efeitoagua.lua"/>
+        <globalevent name="magiceffectj" interval="2" script="hielo.lua"/>
+        <globalevent name="magiceffectk" interval="2" script="jungla.lua"/>
+        <globalevent name="magiceffectl" interval="2" script="amor.lua"/>
+        <globalevent name="magiceffectp" interval="2" script="fuego.lua"/>
+        <globalevent name="magiceffectps" interval="2" script="zzz.lua"/>
+        <globalevent name="magiceffectz" interval="2" script="templo.lua"/>
+        <globalevent name="magiceffectc" interval="2" script="fuegosartificiales.lua"/>
+        <globalevent name="magiceffectv" interval="2" script="pasteles.lua"/>
+        <globalevent name="magiceffectb" interval="2" script="trueno.lua"/>
+        <globalevent name="magiceffectn" interval="2" script="rayos.lua"/>
+        <globalevent name="magiceffectm" interval="2" script="cruzqlia.lua"/>
+        <globalevent name="lottery" interval="1200" event="script" value="lottery.lua"/>
+        <globalevent name="magiceffect" interval="2" script="firex.lua"/>
+        <globalevent name="animatedtextow" interval="2" script="texto3.lua"/>
+        <globalevent name="info" interval="1000" script="info.lua"/>
+        <globalevent name="infoz" interval="500" script="info2.lua"/>
+        <globalevent name="infox" interval="1020" script="info3.lua"/>
+</globalevents>

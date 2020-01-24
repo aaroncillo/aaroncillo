@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<npc name="Addoner quest" script="data/npc/scripts/boat_mystic.lua" access="3" walkinterval="0" floorchange="0">
+ 	<look type="134" head="78" body="88" legs="0" feet="88" addons="3"/>
+<parameters>
+      <parameter key="module_travel" value="1"/>
+		<parameter key="message_greet" value="Hola |PLAYERNAME|.esta quest es de (4 o 1 jugador de lvl(s) 1000) si vences a los ushuriel ganaras lindos addons di {quest addons}"/>
+        <parameter key="travel_destinations" value="quest addon,578,68,7,100"/>
+</parameters>
+</npc>

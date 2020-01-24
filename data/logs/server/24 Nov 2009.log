@@ -1,0 +1,2631 @@
+[24/11/2009 16:13:28] The Forgotten Server, version 0.3.4 (Crying Damson)
+[24/11/2009 16:13:28] Sever Criado Por Alissow e Comedinha.
+[24/11/2009 16:13:28] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[24/11/2009 16:13:28] Bom Jogo!!!
+[24/11/2009 16:13:28] 
+[24/11/2009 16:13:28] >> Debugging: nothing.
+[24/11/2009 16:13:28] >> Checking software version... outdated, please consider updating!
+[24/11/2009 16:13:29] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[24/11/2009 16:13:29] > Latest version information - version: 0.3.5, patch: 1, build: 2576, timestamp: 1249584126.
+[24/11/2009 16:13:30] [Warning - ConfigManager::getBool] 62
+[24/11/2009 16:13:30] 
+[24/11/2009 16:13:30] >> Loading config (config.lua)
+[24/11/2009 16:13:30] > Using plaintext passwords
+[24/11/2009 16:13:30] >> Loading RSA key
+[24/11/2009 16:13:30] >> Starting SQL connection
+[24/11/2009 16:13:30] >> Running Database Manager
+[24/11/2009 16:13:32] > Optimized database.
+[24/11/2009 16:13:32] >> Loading items
+[24/11/2009 16:13:33] [Warning - Items::loadFromXml] Unknown key value skillDistance
+[24/11/2009 16:13:33] >> Loading groups
+[24/11/2009 16:13:33] >> Loading vocations
+[24/11/2009 16:13:33] >> Loading script systems
+[24/11/2009 16:13:37] [Warning - Spells::registerEvent] Duplicate registered instant spell with words: exevo con
+[24/11/2009 16:13:38] [Warning - Actions::registerEvent] Duplicate registered item with id: 7131, in fromid: 7131 and toid: 7132
+[24/11/2009 16:13:38] [Warning - Actions::registerEvent] Duplicate registered item with id: 7132, in fromid: 7131 and toid: 7132
+[24/11/2009 16:13:41] [Warning - Event::loadScript] Cannot load script (data/talkactions/scripts/poll.lua)
+[24/11/2009 16:13:41] cannot open data/talkactions/scripts/poll.lua: No such file or directory
+[24/11/2009 16:13:41] [Warning - Event::loadScript] Cannot load script (data/talkactions/scripts/poll.lua)
+[24/11/2009 16:13:41] cannot open data/talkactions/scripts/poll.lua: No such file or directory
+[24/11/2009 16:13:44] >> Loading chat channels
+[24/11/2009 16:13:44] >> Loading outfits
+[24/11/2009 16:13:44] >> Loading experience stages
+[24/11/2009 16:13:44] >> Loading monsters
+[24/11/2009 16:13:56] >> Loading map and spawns...
+[24/11/2009 16:13:59] > Map size: 1000x1000.
+[24/11/2009 16:13:59] > Map descriptions: 
+[24/11/2009 16:13:59] Saved with Remere's Map Editor 1.1.9
+[24/11/2009 16:13:59] Remere 's Map Editor Beta
+[24/11/2009 16:14:01] Duplicate uniqueId 9911
+[24/11/2009 16:14:01] Duplicate uniqueId 9912
+[24/11/2009 16:14:01] Duplicate uniqueId 9913
+[24/11/2009 16:14:01] Duplicate uniqueId 9914
+[24/11/2009 16:14:01] Duplicate uniqueId 9915
+[24/11/2009 16:14:03] Duplicate uniqueId 2471
+[24/11/2009 16:14:05] Duplicate uniqueId 5006
+[24/11/2009 16:14:05] > Map loading time: 8.953 seconds.
+[24/11/2009 16:14:07] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/Catapult Manager.xml).
+[24/11/2009 16:14:07] Info: failed to load external entity "data/npc/Catapult Manager.xml"
+[24/11/2009 16:14:07] 
+[24/11/2009 16:14:07] 
+[24/11/2009 16:14:08] [Warning - Spawns::loadFromXml] Demonio ( 00029 / 00168 / 007 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:14:08] [Warning - Spawns::loadFromXml] Demonio ( 00033 / 00168 / 007 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:14:08] [Warning - Spawns::loadFromXml] Demonio ( 00029 / 00169 / 007 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:14:08] [Warning - Spawns::loadFromXml] Demonio ( 00033 / 00169 / 007 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:14:08] [Warning - Spawns::loadFromXml] Demonio ( 00034 / 00169 / 007 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:14:08] [Warning - Spawns::loadFromXml] Demonio ( 00029 / 00170 / 007 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:14:09] [Warning - Spawns::loadFromXml] Demonio ( 00034 / 00170 / 007 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:14:09] [Warning - Spawns::loadFromXml] Demonio ( 00029 / 00171 / 007 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:14:09] [Warning - Spawns::loadFromXml] Demonio ( 00035 / 00171 / 007 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:14:09] [Warning - Spawns::loadFromXml] Demonio ( 00036 / 00171 / 007 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:14:09] [Warning - Spawns::loadFromXml] Demonio ( 00036 / 00172 / 007 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:14:09] [Warning - Spawns::loadFromXml] Demonio ( 00028 / 00173 / 007 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:14:09] [Warning - Spawns::loadFromXml] Demonio ( 00036 / 00173 / 007 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:14:10] [Warning - Spawns::loadFromXml] Demonio ( 00028 / 00174 / 007 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:14:10] [Warning - Spawns::loadFromXml] Demonio ( 00032 / 00174 / 007 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:14:10] [Warning - Spawns::loadFromXml] Demonio ( 00036 / 00174 / 007 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:14:10] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/Catapult Manager.xml).
+[24/11/2009 16:14:10] Info: failed to load external entity "data/npc/Catapult Manager.xml"
+[24/11/2009 16:14:11] 
+[24/11/2009 16:14:11] 
+[24/11/2009 16:14:11] [Warning - Spawns::loadFromXml] Snow Soul ( 00044 / 00277 / 007 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:14:11] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/Catapult Manager.xml).
+[24/11/2009 16:14:11] Info: failed to load external entity "data/npc/Catapult Manager.xml"
+[24/11/2009 16:14:11] 
+[24/11/2009 16:14:11] 
+[24/11/2009 16:14:11] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/Catapult Manager.xml).
+[24/11/2009 16:14:11] Info: failed to load external entity "data/npc/Catapult Manager.xml"
+[24/11/2009 16:14:12] 
+[24/11/2009 16:14:12] 
+[24/11/2009 16:14:12] [Warning - Spawns::loadFromXml] Whatafuck ( 00058 / 00310 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:14:12] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00310 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:14:12] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00311 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:14:12] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00312 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:14:12] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00313 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:14:13] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00314 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:14:13] [Warning - Spawns::loadFromXml] Whatafuck ( 00041 / 00314 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:14:13] [Warning - Spawns::loadFromXml] Whatafuck ( 00042 / 00314 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:14:13] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00315 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:14:13] [Warning - Spawns::loadFromXml] Whatafuck ( 00041 / 00315 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:14:13] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00316 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:14:14] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00317 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:14:14] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00318 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:14:14] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00319 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:14:14] [Warning - Spawns::loadFromXml] Whatafuck ( 00041 / 00319 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:14:14] [Warning - Spawns::loadFromXml] Whatafuck ( 00042 / 00319 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:14:14] [Warning - Spawns::loadFromXml] Whatafuck ( 00053 / 00324 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:14:14] [Warning - Spawns::loadFromXml] Whatafuck ( 00052 / 00325 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:14:14] [Warning - Spawns::loadFromXml] Whatafuck ( 00053 / 00325 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:14:15] [Warning - Spawns::loadFromXml] Whatafuck ( 00052 / 00326 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:14:15] [Warning - Spawns::loadFromXml] Whatafuck ( 00037 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:14:15] [Warning - Spawns::loadFromXml] Whatafuck ( 00038 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:14:15] [Warning - Spawns::loadFromXml] Whatafuck ( 00039 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:14:15] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:14:15] [Warning - Spawns::loadFromXml] Gorg Bosh ( 00146 / 00343 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:14:15] [Warning - Spawns::loadFromXml] Saddam Hussein ( 00098 / 00385 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:14:16] [Warning - Spawns::loadFromXml] Rotworm ( 00073 / 00030 / 012 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:14:16] [Warning - Spawns::loadFromXml] Rotworm ( 00067 / 00034 / 012 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:14:16] [Warning - Spawns::loadFromXml] Carrion Worm ( 00046 / 00046 / 012 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:14:16] [Warning - Spawns::loadFromXml] Rotworm ( 00086 / 00047 / 012 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:14:16] [Warning - Spawns::loadFromXml] Rotworm ( 00055 / 00058 / 012 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:14:16] [Warning - Spawns::loadFromXml] Rotworm ( 00056 / 00058 / 012 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:14:16] [Warning - Spawns::loadFromXml] Rotworm ( 00057 / 00060 / 012 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:14:17] [Warning - Spawns::loadFromXml] Rotworm ( 00067 / 00061 / 012 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:14:17] [Warning - Spawns::loadFromXml] Michael Jackson ( 00049 / 00026 / 013 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:14:17] [Warning - Spawns::loadFromXml] Love Demon ( 00060 / 00096 / 013 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:14:17] [Warning - Spawns::loadFromXml] Batman ( 00061 / 00143 / 013 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:14:17] [Warning - Spawns::loadFromXml] Batman ( 00044 / 00153 / 013 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:14:17] [Warning - Spawns::loadFromXml] Batman ( 00056 / 00155 / 013 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:14:17] [Warning - Spawns::loadFromXml] Batman ( 00045 / 00162 / 013 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:14:18] [Warning - Spawns::loadFromXml] Hell Dragon ( 00042 / 00234 / 013 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:14:18] [Warning - Spawns::loadFromXml] Hell Dragon ( 00043 / 00234 / 013 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:14:18] [Warning - Spawns::loadFromXml] Hell Dragon ( 00055 / 00242 / 013 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:14:18] [Warning - Spawns::loadFromXml] Hell Dragon ( 00059 / 00247 / 013 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:14:18] [Warning - Houses::loadFromXml] House entry not set for:  (5)
+[24/11/2009 16:14:19] [Warning - Houses::loadFromXml] House entry not set for:  (33)
+[24/11/2009 16:14:19] [Warning - Houses::loadFromXml] House entry not set for:  (34)
+[24/11/2009 16:14:19] [Warning - Houses::loadFromXml] House entry not set for:  (36)
+[24/11/2009 16:14:20] [Warning - Houses::loadFromXml] House entry not set for:  (158)
+[24/11/2009 16:14:20] > Data loading time: 14.203 seconds.
+[24/11/2009 16:14:21] > Unserialization time for houses: 1.219 seconds.
+[24/11/2009 16:15:06] > Unserialization time for map: 45.188 seconds.
+[24/11/2009 16:15:06] >> Checking world type... PvP
+[24/11/2009 16:15:06] >> Initializing game state modules and registering services...
+[24/11/2009 16:15:08] > Global address: 201.246.46.57
+[24/11/2009 16:15:08] > Local ports:
+[24/11/2009 16:15:08] 7171	7172	
+[24/11/2009 16:15:08] >> All modules were loaded, server starting up...
+[24/11/2009 16:15:08] >> aggrometal ot server Online!
+[24/11/2009 16:15:08] 
+[24/11/2009 16:16:12] > Broadcasted message: "whatafuck csm invaden Slayer city".
+[24/11/2009 16:16:23] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[24/11/2009 16:16:25] Hoster Aggresor has logged in.
+[24/11/2009 16:16:36] [Error - SingleSpawnEvent::executeEvent] Cannot spawn monster Diblis The Fair
+[24/11/2009 16:18:08] > CLEAN: Removed 19 items from 113 tiles in 0.156 seconds.
+[24/11/2009 16:21:29] Tomithoxz has logged in.
+[24/11/2009 16:21:49] Fulgor Rolo has logged in.
+[24/11/2009 16:22:47] 
+[24/11/2009 16:22:47] Lua Script Error: [Spell Interface] 
+[24/11/2009 16:22:47] in a timer event called from: 
+[24/11/2009 16:22:47] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 16:22:47] 
+[24/11/2009 16:22:47] luaDoCombat(). Creature not found
+[24/11/2009 16:22:47] 
+[24/11/2009 16:22:47] Lua Script Error: [Spell Interface] 
+[24/11/2009 16:22:47] in a timer event called from: 
+[24/11/2009 16:22:47] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 16:22:47] 
+[24/11/2009 16:22:47] luaDoCombat(). Creature not found
+[24/11/2009 16:22:47] 
+[24/11/2009 16:22:47] Lua Script Error: [Spell Interface] 
+[24/11/2009 16:22:47] in a timer event called from: 
+[24/11/2009 16:22:47] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 16:22:47] 
+[24/11/2009 16:22:47] luaDoCombat(). Creature not found
+[24/11/2009 16:22:59] 
+[24/11/2009 16:22:59] Lua Script Error: [Spell Interface] 
+[24/11/2009 16:22:59] in a timer event called from: 
+[24/11/2009 16:22:59] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 16:22:59] 
+[24/11/2009 16:22:59] luaDoCombat(). Creature not found
+[24/11/2009 16:22:59] 
+[24/11/2009 16:22:59] Lua Script Error: [Spell Interface] 
+[24/11/2009 16:22:59] in a timer event called from: 
+[24/11/2009 16:22:59] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 16:22:59] 
+[24/11/2009 16:22:59] luaDoCombat(). Creature not found
+[24/11/2009 16:22:59] 
+[24/11/2009 16:22:59] Lua Script Error: [Spell Interface] 
+[24/11/2009 16:22:59] in a timer event called from: 
+[24/11/2009 16:22:59] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 16:22:59] 
+[24/11/2009 16:22:59] luaDoCombat(). Creature not found
+[24/11/2009 16:23:07] > Broadcasted message: "Dracola, o dragao morto vivo veio em busca de mais almas para dar em oferendas a seu mestre Ashfalor, um drago que ninguem nunca viveu para contar historia.".
+[24/11/2009 16:23:08] [Error - SingleSpawnEvent::executeEvent] Cannot spawn monster Dracola
+[24/11/2009 16:23:45] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !notice, foro del server http://aggrometal.foroactivo.net".
+[24/11/2009 16:24:35] 
+[24/11/2009 16:24:35] Lua Script Error: [Action Interface] 
+[24/11/2009 16:24:35] data/actions/scripts/second promotion.lua:onUse
+[24/11/2009 16:24:35] 
+[24/11/2009 16:24:35] data/actions/scripts/second promotion.lua:13: attempt to compare number with boolean
+[24/11/2009 16:24:35] stack traceback:
+[24/11/2009 16:24:35] 	data/actions/scripts/second promotion.lua:13: in function <data/actions/scripts/second promotion.lua:2>
+[24/11/2009 16:24:39] 
+[24/11/2009 16:24:39] Lua Script Error: [Action Interface] 
+[24/11/2009 16:24:39] data/actions/scripts/second promotion.lua:onUse
+[24/11/2009 16:24:39] 
+[24/11/2009 16:24:39] data/actions/scripts/second promotion.lua:13: attempt to compare number with boolean
+[24/11/2009 16:24:39] stack traceback:
+[24/11/2009 16:24:39] 	data/actions/scripts/second promotion.lua:13: in function <data/actions/scripts/second promotion.lua:2>
+[24/11/2009 16:24:44] 
+[24/11/2009 16:24:44] Lua Script Error: [Action Interface] 
+[24/11/2009 16:24:44] data/actions/scripts/second promotion.lua:onUse
+[24/11/2009 16:24:44] 
+[24/11/2009 16:24:44] data/actions/scripts/second promotion.lua:13: attempt to compare number with boolean
+[24/11/2009 16:24:44] stack traceback:
+[24/11/2009 16:24:44] 	data/actions/scripts/second promotion.lua:13: in function <data/actions/scripts/second promotion.lua:2>
+[24/11/2009 16:26:08] 
+[24/11/2009 16:26:08] Lua Script Error: [Spell Interface] 
+[24/11/2009 16:26:08] data/spells/scripts/summon/animate dead rune.lua:onCastSpell
+[24/11/2009 16:26:09] 
+[24/11/2009 16:26:09] luaDoCreateMonster(). Monster with name '268441401' not found
+[24/11/2009 16:26:09] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/268441401.xml).
+[24/11/2009 16:26:09] Info: failed to load external entity "data/npc/268441401.xml"
+[24/11/2009 16:26:09] 
+[24/11/2009 16:26:09] 
+[24/11/2009 16:26:09] 
+[24/11/2009 16:26:09] Lua Script Error: [Spell Interface] 
+[24/11/2009 16:26:09] data/spells/scripts/summon/animate dead rune.lua:onCastSpell
+[24/11/2009 16:26:09] 
+[24/11/2009 16:26:09] luaDoCreateNpc(). Npc name(268441401) not found
+[24/11/2009 16:26:09] 
+[24/11/2009 16:26:09] Lua Script Error: [Spell Interface] 
+[24/11/2009 16:26:09] data/spells/scripts/summon/animate dead rune.lua:onCastSpell
+[24/11/2009 16:26:09] 
+[24/11/2009 16:26:09] luaDoConvinceCreature(). Creature not found
+[24/11/2009 16:26:17] 
+[24/11/2009 16:26:17] Lua Script Error: [Spell Interface] 
+[24/11/2009 16:26:17] data/spells/scripts/summon/animate dead rune.lua:onCastSpell
+[24/11/2009 16:26:17] 
+[24/11/2009 16:26:17] luaDoCreateMonster(). Monster with name '268441401' not found
+[24/11/2009 16:26:17] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/268441401.xml).
+[24/11/2009 16:26:17] Info: failed to load external entity "data/npc/268441401.xml"
+[24/11/2009 16:26:17] 
+[24/11/2009 16:26:17] 
+[24/11/2009 16:26:17] 
+[24/11/2009 16:26:17] Lua Script Error: [Spell Interface] 
+[24/11/2009 16:26:17] data/spells/scripts/summon/animate dead rune.lua:onCastSpell
+[24/11/2009 16:26:17] 
+[24/11/2009 16:26:17] luaDoCreateNpc(). Npc name(268441401) not found
+[24/11/2009 16:26:17] 
+[24/11/2009 16:26:17] Lua Script Error: [Spell Interface] 
+[24/11/2009 16:26:17] data/spells/scripts/summon/animate dead rune.lua:onCastSpell
+[24/11/2009 16:26:17] 
+[24/11/2009 16:26:17] luaDoConvinceCreature(). Creature not found
+[24/11/2009 16:26:51] 
+[24/11/2009 16:26:51] Lua Script Error: [Spell Interface] 
+[24/11/2009 16:26:51] in a timer event called from: 
+[24/11/2009 16:26:51] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 16:26:51] 
+[24/11/2009 16:26:51] luaDoCombat(). Creature not found
+[24/11/2009 16:26:51] 
+[24/11/2009 16:26:51] Lua Script Error: [Spell Interface] 
+[24/11/2009 16:26:52] in a timer event called from: 
+[24/11/2009 16:26:52] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 16:26:52] 
+[24/11/2009 16:26:52] luaDoCombat(). Creature not found
+[24/11/2009 16:26:52] 
+[24/11/2009 16:26:52] Lua Script Error: [Spell Interface] 
+[24/11/2009 16:26:52] in a timer event called from: 
+[24/11/2009 16:26:52] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 16:26:52] 
+[24/11/2009 16:26:52] luaDoCombat(). Creature not found
+[24/11/2009 16:28:02] Account Manager has logged in.
+[24/11/2009 16:28:02] Account Manager has logged out.
+[24/11/2009 16:28:09] Lolix has logged in.
+[24/11/2009 16:28:46] > Saving server...
+[24/11/2009 16:28:59] > SAVE: Complete in 13.312 seconds using relational house storage.
+[24/11/2009 16:29:38] > Broadcasted message: "Tomithoxz [95555] Murio por Whatafuck!!".
+[24/11/2009 16:29:38] > Broadcasted message: "Tomithoxz [95555] Murio por Whatafuck!!".
+[24/11/2009 16:29:38] Tomithoxz has logged out.
+[24/11/2009 16:29:42] Tomithoxz has logged in.
+[24/11/2009 16:29:53] [Warning - Actions::registerEvent] Duplicate registered item with id: 7131, in fromid: 7131 and toid: 7132
+[24/11/2009 16:29:53] [Warning - Actions::registerEvent] Duplicate registered item with id: 7132, in fromid: 7131 and toid: 7132
+[24/11/2009 16:30:23] 
+[24/11/2009 16:30:23] Lua Script Error: [Spell Interface] 
+[24/11/2009 16:30:23] in a timer event called from: 
+[24/11/2009 16:30:24] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 16:30:24] 
+[24/11/2009 16:30:24] luaDoCombat(). Creature not found
+[24/11/2009 16:30:24] 
+[24/11/2009 16:30:24] Lua Script Error: [Spell Interface] 
+[24/11/2009 16:30:24] in a timer event called from: 
+[24/11/2009 16:30:24] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 16:30:24] 
+[24/11/2009 16:30:24] luaDoCombat(). Creature not found
+[24/11/2009 16:30:24] 
+[24/11/2009 16:30:24] Lua Script Error: [Spell Interface] 
+[24/11/2009 16:30:24] in a timer event called from: 
+[24/11/2009 16:30:24] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 16:30:24] 
+[24/11/2009 16:30:24] luaDoCombat(). Creature not found
+[24/11/2009 16:30:44] 
+[24/11/2009 16:30:44] Lua Script Error: [Spell Interface] 
+[24/11/2009 16:30:44] in a timer event called from: 
+[24/11/2009 16:30:44] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 16:30:44] 
+[24/11/2009 16:30:45] luaDoCombat(). Creature not found
+[24/11/2009 16:30:45] 
+[24/11/2009 16:30:45] Lua Script Error: [Spell Interface] 
+[24/11/2009 16:30:45] in a timer event called from: 
+[24/11/2009 16:30:45] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 16:30:45] 
+[24/11/2009 16:30:45] luaDoCombat(). Creature not found
+[24/11/2009 16:30:45] 
+[24/11/2009 16:30:45] Lua Script Error: [Spell Interface] 
+[24/11/2009 16:30:45] in a timer event called from: 
+[24/11/2009 16:30:45] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 16:30:45] 
+[24/11/2009 16:30:45] luaDoCombat(). Creature not found
+[24/11/2009 16:33:11] > Broadcasted message: "Tomithoxz [96444] Murio por Whatafuck!!".
+[24/11/2009 16:33:12] > Broadcasted message: "Tomithoxz [96444] Murio por Whatafuck!!".
+[24/11/2009 16:33:12] Tomithoxz has logged out.
+[24/11/2009 16:33:14] Tomithoxz has logged in.
+[24/11/2009 16:33:20] Assassin Croos has logged in.
+[24/11/2009 16:33:26] > Assassin Croos broadcasted: "wenas".
+[24/11/2009 16:33:31] 
+[24/11/2009 16:33:31] Lua Script Error: [Spell Interface] 
+[24/11/2009 16:33:31] in a timer event called from: 
+[24/11/2009 16:33:31] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 16:33:31] 
+[24/11/2009 16:33:31] luaDoCombat(). Creature not found
+[24/11/2009 16:33:31] 
+[24/11/2009 16:33:31] Lua Script Error: [Spell Interface] 
+[24/11/2009 16:33:31] in a timer event called from: 
+[24/11/2009 16:33:31] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 16:33:31] 
+[24/11/2009 16:33:31] luaDoCombat(). Creature not found
+[24/11/2009 16:33:31] 
+[24/11/2009 16:33:31] Lua Script Error: [Spell Interface] 
+[24/11/2009 16:33:31] in a timer event called from: 
+[24/11/2009 16:33:31] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 16:33:31] 
+[24/11/2009 16:33:31] luaDoCombat(). Creature not found
+[24/11/2009 16:33:42] 
+[24/11/2009 16:33:42] Lua Script Error: [Spell Interface] 
+[24/11/2009 16:33:42] in a timer event called from: 
+[24/11/2009 16:33:43] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 16:33:43] 
+[24/11/2009 16:33:43] luaDoCombat(). Creature not found
+[24/11/2009 16:33:43] 
+[24/11/2009 16:33:43] Lua Script Error: [Spell Interface] 
+[24/11/2009 16:33:43] in a timer event called from: 
+[24/11/2009 16:33:43] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 16:33:43] 
+[24/11/2009 16:33:43] luaDoCombat(). Creature not found
+[24/11/2009 16:33:43] 
+[24/11/2009 16:33:43] Lua Script Error: [Spell Interface] 
+[24/11/2009 16:33:43] in a timer event called from: 
+[24/11/2009 16:33:43] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 16:33:43] 
+[24/11/2009 16:33:43] luaDoCombat(). Creature not found
+[24/11/2009 16:33:46] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !notice, foro del server http://aggrometal.foroactivo.net".
+[24/11/2009 16:33:49] 
+[24/11/2009 16:33:49] Lua Script Error: [Spell Interface] 
+[24/11/2009 16:33:49] in a timer event called from: 
+[24/11/2009 16:33:49] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 16:33:49] 
+[24/11/2009 16:33:49] luaDoCombat(). Creature not found
+[24/11/2009 16:33:49] 
+[24/11/2009 16:33:49] Lua Script Error: [Spell Interface] 
+[24/11/2009 16:33:49] in a timer event called from: 
+[24/11/2009 16:33:49] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 16:33:49] 
+[24/11/2009 16:33:49] luaDoCombat(). Creature not found
+[24/11/2009 16:33:49] 
+[24/11/2009 16:33:49] Lua Script Error: [Spell Interface] 
+[24/11/2009 16:33:49] in a timer event called from: 
+[24/11/2009 16:33:49] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 16:33:49] 
+[24/11/2009 16:33:49] luaDoCombat(). Creature not found
+[24/11/2009 16:35:18] Tomithoxz has logged out.
+[24/11/2009 16:35:20] Tomithox has logged in.
+[24/11/2009 16:35:34] Assassin Croos has logged out.
+[24/11/2009 16:35:44] CM Joey jordison has logged in.
+[24/11/2009 16:36:09] > CM Joey jordison broadcasted: "wenas".
+[24/11/2009 16:37:01] Tomithox has logged out.
+[24/11/2009 16:37:04] CM Joey jordison has logged out.
+[24/11/2009 16:37:09] Fulgor Rolo has logged out.
+[24/11/2009 16:37:17] Tomithox has logged in.
+[24/11/2009 16:37:17] Fulgor Rolo has logged in.
+[24/11/2009 16:37:18] Tomithox has logged out.
+[24/11/2009 16:37:20] Tomithoxz has logged in.
+[24/11/2009 16:37:28] CM Joey jordison has logged in.
+[24/11/2009 16:37:50] Hoster Aggresor has logged out.
+[24/11/2009 16:38:02] CM Joey jordison has logged out.
+[24/11/2009 16:38:02] Fulgor Rolo has logged out.
+[24/11/2009 16:38:02] Tomithoxz has logged out.
+[24/11/2009 16:38:13] Tomithoxz has logged in.
+[24/11/2009 16:38:14] Fulgor Rolo has logged in.
+[24/11/2009 16:38:15] Account Manager has logged in.
+[24/11/2009 16:38:17] CM Joey jordison has logged in.
+[24/11/2009 16:38:37] > CLEAN: Removed 107 items from 134 tiles in 0.047 seconds.
+[24/11/2009 16:38:40] Account Manager has logged out.
+[24/11/2009 16:38:48] Account Manager has logged in.
+[24/11/2009 16:38:57] 
+[24/11/2009 16:38:57] Lua Script Error: [Spell Interface] 
+[24/11/2009 16:38:57] in a timer event called from: 
+[24/11/2009 16:38:57] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 16:38:57] 
+[24/11/2009 16:38:57] luaDoCombat(). Creature not found
+[24/11/2009 16:38:57] 
+[24/11/2009 16:38:57] Lua Script Error: [Spell Interface] 
+[24/11/2009 16:38:57] in a timer event called from: 
+[24/11/2009 16:38:57] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 16:38:57] 
+[24/11/2009 16:38:57] luaDoCombat(). Creature not found
+[24/11/2009 16:38:57] 
+[24/11/2009 16:38:57] Lua Script Error: [Spell Interface] 
+[24/11/2009 16:38:57] in a timer event called from: 
+[24/11/2009 16:38:57] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 16:38:57] 
+[24/11/2009 16:38:57] luaDoCombat(). Creature not found
+[24/11/2009 16:39:09] Account Manager has logged out.
+[24/11/2009 16:39:17] Zedobatos has logged in.
+[24/11/2009 16:39:25] Account Manager has logged in.
+[24/11/2009 16:39:32] 
+[24/11/2009 16:39:32] Lua Script Error: [Spell Interface] 
+[24/11/2009 16:39:32] in a timer event called from: 
+[24/11/2009 16:39:32] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 16:39:32] 
+[24/11/2009 16:39:32] luaDoCombat(). Creature not found
+[24/11/2009 16:39:32] 
+[24/11/2009 16:39:32] Lua Script Error: [Spell Interface] 
+[24/11/2009 16:39:32] in a timer event called from: 
+[24/11/2009 16:39:32] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 16:39:32] 
+[24/11/2009 16:39:32] luaDoCombat(). Creature not found
+[24/11/2009 16:39:33] 
+[24/11/2009 16:39:33] Lua Script Error: [Spell Interface] 
+[24/11/2009 16:39:33] in a timer event called from: 
+[24/11/2009 16:39:33] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 16:39:33] 
+[24/11/2009 16:39:33] luaDoCombat(). Creature not found
+[24/11/2009 16:39:34] 
+[24/11/2009 16:39:34] Lua Script Error: [Spell Interface] 
+[24/11/2009 16:39:34] in a timer event called from: 
+[24/11/2009 16:39:34] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 16:39:34] 
+[24/11/2009 16:39:34] luaDoCombat(). Creature not found
+[24/11/2009 16:39:34] 
+[24/11/2009 16:39:34] Lua Script Error: [Spell Interface] 
+[24/11/2009 16:39:34] in a timer event called from: 
+[24/11/2009 16:39:34] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 16:39:34] 
+[24/11/2009 16:39:34] luaDoCombat(). Creature not found
+[24/11/2009 16:39:34] 
+[24/11/2009 16:39:34] Lua Script Error: [Spell Interface] 
+[24/11/2009 16:39:35] in a timer event called from: 
+[24/11/2009 16:39:35] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 16:39:35] 
+[24/11/2009 16:39:35] luaDoCombat(). Creature not found
+[24/11/2009 16:39:40] Account Manager has logged out.
+[24/11/2009 16:39:57] Account Manager has logged in.
+[24/11/2009 16:40:06] Account Manager has logged out.
+[24/11/2009 16:40:12] Account Manager has logged in.
+[24/11/2009 16:40:33] Account Manager has logged out.
+[24/11/2009 16:40:40] Nazhito has logged in.
+[24/11/2009 16:40:57] Zebaah has logged in.
+[24/11/2009 16:41:08] > Broadcasted message: "Fulgor Rolo [51232] Murio por Whatafuck!!".
+[24/11/2009 16:41:08] > Broadcasted message: "Fulgor Rolo [51232] Murio por Whatafuck!!".
+[24/11/2009 16:41:09] Fulgor Rolo has logged out.
+[24/11/2009 16:41:12] Fulgor Rolo has logged in.
+[24/11/2009 16:41:44] 
+[24/11/2009 16:41:44] Lua Script Error: [Spell Interface] 
+[24/11/2009 16:41:44] in a timer event called from: 
+[24/11/2009 16:41:44] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 16:41:44] 
+[24/11/2009 16:41:44] luaDoCombat(). Creature not found
+[24/11/2009 16:41:44] 
+[24/11/2009 16:41:44] Lua Script Error: [Spell Interface] 
+[24/11/2009 16:41:44] in a timer event called from: 
+[24/11/2009 16:41:44] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 16:41:44] 
+[24/11/2009 16:41:44] luaDoCombat(). Creature not found
+[24/11/2009 16:41:44] 
+[24/11/2009 16:41:44] Lua Script Error: [Spell Interface] 
+[24/11/2009 16:41:44] in a timer event called from: 
+[24/11/2009 16:41:44] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 16:41:44] 
+[24/11/2009 16:41:44] luaDoCombat(). Creature not found
+[24/11/2009 16:41:44] Hoster Aggresor has logged in.
+[24/11/2009 16:41:59] 
+[24/11/2009 16:41:59] Lua Script Error: [Spell Interface] 
+[24/11/2009 16:41:59] in a timer event called from: 
+[24/11/2009 16:41:59] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 16:41:59] 
+[24/11/2009 16:41:59] luaDoCombat(). Creature not found
+[24/11/2009 16:41:59] 
+[24/11/2009 16:41:59] Lua Script Error: [Spell Interface] 
+[24/11/2009 16:41:59] in a timer event called from: 
+[24/11/2009 16:41:59] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 16:41:59] 
+[24/11/2009 16:41:59] luaDoCombat(). Creature not found
+[24/11/2009 16:41:59] 
+[24/11/2009 16:41:59] Lua Script Error: [Spell Interface] 
+[24/11/2009 16:41:59] in a timer event called from: 
+[24/11/2009 16:41:59] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 16:41:59] 
+[24/11/2009 16:41:59] luaDoCombat(). Creature not found
+[24/11/2009 16:42:31] 
+[24/11/2009 16:42:31] Lua Script Error: [Spell Interface] 
+[24/11/2009 16:42:31] in a timer event called from: 
+[24/11/2009 16:42:31] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 16:42:31] 
+[24/11/2009 16:42:31] luaDoCombat(). Creature not found
+[24/11/2009 16:42:31] 
+[24/11/2009 16:42:31] Lua Script Error: [Spell Interface] 
+[24/11/2009 16:42:31] in a timer event called from: 
+[24/11/2009 16:42:31] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 16:42:32] 
+[24/11/2009 16:42:32] luaDoCombat(). Creature not found
+[24/11/2009 16:42:32] 
+[24/11/2009 16:42:32] Lua Script Error: [Spell Interface] 
+[24/11/2009 16:42:32] in a timer event called from: 
+[24/11/2009 16:42:32] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 16:42:32] 
+[24/11/2009 16:42:32] luaDoCombat(). Creature not found
+[24/11/2009 16:43:15] CM Joey jordison has logged out.
+[24/11/2009 16:43:21] Zuko has logged in.
+[24/11/2009 16:43:47] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !notice, foro del server http://aggrometal.foroactivo.net".
+[24/11/2009 16:43:47] > Saving server...
+[24/11/2009 16:44:06] > SAVE: Complete in 18.718 seconds using relational house storage.
+[24/11/2009 16:45:00] Account Manager has logged in.
+[24/11/2009 16:45:02] Account Manager has logged out.
+[24/11/2009 16:45:11] Trivium has logged in.
+[24/11/2009 16:46:49] Elias xx has logged in.
+[24/11/2009 16:46:57] > Broadcasted message: "Trivium [2185] Murio por Monster Of Anihilator!!".
+[24/11/2009 16:46:57] > Broadcasted message: "Trivium [2185] Murio por Monster Of Anihilator!!".
+[24/11/2009 16:46:57] Trivium has logged out.
+[24/11/2009 16:46:59] Trivium has logged in.
+[24/11/2009 16:47:09] 
+[24/11/2009 16:47:09] Lua Script Error: [Spell Interface] 
+[24/11/2009 16:47:09] in a timer event called from: 
+[24/11/2009 16:47:09] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 16:47:09] 
+[24/11/2009 16:47:09] luaDoCombat(). Creature not found
+[24/11/2009 16:47:09] 
+[24/11/2009 16:47:09] Lua Script Error: [Spell Interface] 
+[24/11/2009 16:47:09] in a timer event called from: 
+[24/11/2009 16:47:09] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 16:47:09] 
+[24/11/2009 16:47:09] luaDoCombat(). Creature not found
+[24/11/2009 16:47:09] 
+[24/11/2009 16:47:09] Lua Script Error: [Spell Interface] 
+[24/11/2009 16:47:09] in a timer event called from: 
+[24/11/2009 16:47:09] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 16:47:09] 
+[24/11/2009 16:47:09] luaDoCombat(). Creature not found
+[24/11/2009 16:47:37] > Broadcasted message: "Trivium [2688] Murio por Monster Of Anihilator!!".
+[24/11/2009 16:47:38] > Broadcasted message: "Trivium [2688] Murio por Monster Of Anihilator!!".
+[24/11/2009 16:47:38] Trivium has logged out.
+[24/11/2009 16:47:42] Trivium has logged in.
+[24/11/2009 16:47:48] Trivium has logged out.
+[24/11/2009 16:47:49] Assassin Croos has logged in.
+[24/11/2009 16:48:12] > Broadcasted message: "Zuko [209] Murio por Orshabaal!!".
+[24/11/2009 16:48:13] > Broadcasted message: "Zuko [209] Murio por Orshabaal!!".
+[24/11/2009 16:48:13] Zuko has logged out.
+[24/11/2009 16:48:14] Zuko has logged in.
+[24/11/2009 16:48:27] > Broadcasted message: "Fulgor Rolo [54417] Murio por Whatafuck!!".
+[24/11/2009 16:48:28] > Broadcasted message: "Fulgor Rolo [54417] Murio por Whatafuck!!".
+[24/11/2009 16:48:28] Fulgor Rolo has logged out.
+[24/11/2009 16:48:31] Fulgor Rolo has logged in.
+[24/11/2009 16:48:34] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:48:35] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:48:35] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:48:35] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:48:35] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:48:35] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:48:35] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:48:35] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:48:35] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:48:35] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:48:35] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:48:35] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:48:36] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:48:36] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:48:36] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:48:36] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:48:36] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:48:36] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:48:36] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:48:36] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:48:36] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:48:36] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:48:37] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:48:37] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:48:37] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:48:37] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:48:37] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:48:37] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:48:37] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:48:37] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:48:37] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:48:37] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:48:38] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:48:38] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:48:38] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:48:38] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:48:38] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:48:38] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:48:38] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:48:38] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:48:38] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:48:38] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:48:39] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:48:39] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:48:39] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:48:39] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:48:39] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:48:39] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:48:39] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:48:39] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:48:39] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:48:39] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:48:40] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:48:40] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:48:40] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:48:40] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:48:40] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:48:40] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:48:40] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:48:40] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:48:40] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:48:41] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:48:41] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:48:41] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:48:41] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:48:41] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:48:41] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:48:41] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:48:41] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:48:41] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:48:42] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:48:42] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:48:42] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:48:42] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:48:42] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:48:42] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:48:42] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:48:42] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:48:42] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:48:42] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:48:43] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:48:43] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:48:43] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:48:43] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:48:43] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:48:43] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:48:43] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:48:43] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:48:43] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:48:44] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:48:44] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:48:44] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:48:44] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:48:44] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:48:44] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:48:44] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:48:44] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:48:44] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:48:45] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:48:45] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:48:45] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:48:45] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:48:45] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:48:45] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:48:45] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:48:45] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:48:45] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:48:46] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:48:46] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:48:46] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:48:46] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:48:46] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:48:46] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:48:46] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:48:46] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:48:46] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:48:46] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:48:47] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:48:47] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:48:47] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:48:47] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:48:47] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:48:47] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:48:47] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:48:47] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:48:47] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:48:48] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:48:48] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:48:48] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Socerer
+[24/11/2009 16:48:48] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:48:48] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:48:48] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:48:48] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:48:48] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:48:48] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:48:49] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:48:49] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:48:49] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:48:49] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:48:49] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:48:49] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:48:49] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:48:50] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:48:50] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:48:50] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:48:50] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:48:50] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:48:50] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:48:50] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:48:50] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:48:51] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:48:51] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:48:51] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:48:51] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:48:51] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:48:51] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:48:51] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:48:52] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:48:52] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:48:52] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:48:52] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:48:52] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:48:52] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:48:52] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:48:52] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:48:52] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:48:53] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:48:53] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:48:53] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:48:53] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:48:53] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:48:53] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:48:53] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:48:53] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:48:53] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:48:54] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:48:54] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:48:54] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:48:54] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:48:54] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:48:54] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:48:54] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:48:54] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:48:54] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:48:54] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:48:55] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:48:55] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:48:55] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:48:55] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:48:55] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:48:55] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:48:55] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:48:55] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:48:55] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:48:56] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:48:56] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:48:56] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:48:56] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:48:56] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:48:56] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:48:56] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:48:56] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:48:56] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:48:56] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:48:57] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:48:57] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:48:57] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:48:57] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:48:57] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:48:57] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:48:57] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:48:57] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:49:03] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:49:03] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:49:03] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:49:03] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:49:03] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:49:04] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:49:04] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:49:04] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:49:04] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:49:04] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:49:04] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:49:04] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:49:04] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:49:04] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:49:04] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:49:05] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:49:05] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:49:05] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:49:05] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:49:05] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:49:05] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:49:05] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:49:05] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:49:05] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:49:05] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:49:06] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:49:06] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:49:06] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:49:06] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:49:06] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:49:06] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:49:06] [Warning - Spells::registerEvent] Duplicate registered instant spell with words: exevo con
+[24/11/2009 16:49:06] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:49:06] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:49:07] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:49:07] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:49:07] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:49:07] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:49:07] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:49:07] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:49:07] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:49:07] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:49:07] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:49:07] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:49:08] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:49:08] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:49:08] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:49:08] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:49:08] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:49:08] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:49:08] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:49:08] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:49:08] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:49:08] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:49:09] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:49:09] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:49:09] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:49:09] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:49:09] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:49:09] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:49:09] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:49:09] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:49:09] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:49:10] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:49:10] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:49:10] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:49:10] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:49:10] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:49:10] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:49:10] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:49:10] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:49:10] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:49:10] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:49:11] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:49:11] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:49:11] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:49:11] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:49:11] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:49:11] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:49:11] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:49:11] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:49:12] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:49:12] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:49:12] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:49:12] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:49:12] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:49:12] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:49:12] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:49:12] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:49:12] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:49:12] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:49:12] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:49:13] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:49:13] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:49:13] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:49:13] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:49:13] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:49:13] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:49:13] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:49:13] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:49:13] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:49:13] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:49:14] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:49:14] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:49:14] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:49:14] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:49:14] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:49:14] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:49:14] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:49:25] Zebaah has logged out.
+[24/11/2009 16:49:25] Nazhito has logged out.
+[24/11/2009 16:49:35] Zebaah has logged in.
+[24/11/2009 16:49:45] Zuko has logged out.
+[24/11/2009 16:50:26] Sponcer has logged in.
+[24/11/2009 16:50:51] Zedobatos has logged out.
+[24/11/2009 16:50:58] > Broadcasted message: "Zebaah [1826] Murio por The Punisher!!".
+[24/11/2009 16:50:59] > Broadcasted message: "Zebaah [1826] Murio por The Punisher!!".
+[24/11/2009 16:50:59] Zebaah has logged out.
+[24/11/2009 16:51:01] Zebaah has logged in.
+[24/11/2009 16:51:13] Lolix has logged out.
+[24/11/2009 16:51:14] Lolix has logged in.
+[24/11/2009 16:51:24] Reloaded vocations.
+[24/11/2009 16:51:27] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:51:28] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:51:28] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:51:28] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:51:28] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:51:28] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:51:28] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:51:28] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:51:28] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:51:28] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:51:28] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:51:29] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:51:29] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:51:29] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:51:29] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:51:29] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:51:29] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:51:29] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:51:29] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:51:29] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:51:30] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:51:30] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:51:30] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:51:30] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:51:30] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:51:30] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:51:30] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:51:30] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:51:30] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:51:30] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:51:31] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:51:31] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:51:31] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:51:31] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:51:31] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:51:31] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:51:31] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:51:31] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:51:31] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:51:31] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:51:32] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:51:32] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:51:32] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:51:32] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:51:32] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:51:32] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:51:32] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:51:32] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:51:32] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:51:32] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:51:33] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:51:33] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:51:33] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:51:33] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:51:33] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:51:33] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:51:33] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:51:33] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:51:33] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:51:33] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:51:34] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:51:34] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:51:34] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:51:34] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:51:34] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:51:34] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:51:34] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:51:34] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:51:34] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:51:34] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:51:35] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:51:35] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:51:35] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:51:35] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:51:35] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:51:35] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:51:35] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:51:35] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:51:35] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:51:35] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:51:36] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:51:36] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:51:36] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:51:36] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:51:36] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:51:36] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:51:36] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:51:36] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:51:36] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:51:37] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:51:37] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:51:37] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:51:37] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:51:37] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:51:37] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:51:37] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:51:37] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:51:37] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:51:37] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:51:38] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:51:38] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:51:38] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:51:38] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:51:38] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:51:38] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:51:38] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:51:38] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:51:38] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:51:39] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:51:39] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:51:39] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:51:39] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:51:39] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:51:39] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:51:39] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:51:40] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:51:40] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:51:40] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:51:40] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:51:40] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:51:40] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:51:40] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:51:40] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:51:40] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:51:41] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:51:41] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:51:41] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:51:41] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:51:41] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Socerer
+[24/11/2009 16:51:41] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:51:41] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:51:41] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:51:41] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:51:41] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:51:42] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:51:43] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:51:43] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:51:43] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:51:44] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:51:44] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:51:45] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:51:45] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:51:45] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:51:45] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:51:45] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:51:45] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:51:45] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:51:46] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:51:46] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:51:46] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:51:46] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:51:46] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:51:46] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:51:47] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:51:47] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:51:47] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:51:47] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:51:47] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:51:47] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:51:47] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:51:48] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:51:48] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:51:48] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:51:48] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:51:48] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:51:48] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:51:48] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:51:48] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:51:48] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Sorcerer
+[24/11/2009 16:51:49] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Druid
+[24/11/2009 16:51:49] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Paladin
+[24/11/2009 16:51:50] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Knight
+[24/11/2009 16:51:50] [Warning - Spell::configureSpell] Wrong[24/11/2009 16:53:18] The Forgotten Server, version 0.3.4 (Crying Damson)
+[24/11/2009 16:53:18] Sever Criado Por Alissow e Comedinha.
+[24/11/2009 16:53:18] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[24/11/2009 16:53:18] Bom Jogo!!!
+[24/11/2009 16:53:18] 
+[24/11/2009 16:53:18] >> Debugging: nothing.
+[24/11/2009 16:53:18] >> Checking software version... outdated, please consider updating!
+[24/11/2009 16:53:19] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[24/11/2009 16:53:19] > Latest version information - version: 0.3.5, patch: 1, build: 2576, timestamp: 1249584126.
+[24/11/2009 16:53:19] [Warning - ConfigManager::getBool] 62
+[24/11/2009 16:53:19] 
+[24/11/2009 16:53:19] >> Loading config (config.lua)
+[24/11/2009 16:53:19] > Using plaintext passwords
+[24/11/2009 16:53:19] >> Loading RSA key
+[24/11/2009 16:53:19] >> Starting SQL connection
+[24/11/2009 16:53:20] >> Running Database Manager
+[24/11/2009 16:53:22] > Optimized database.
+[24/11/2009 16:53:22] >> Loading items
+[24/11/2009 16:53:23] [Warning - Items::loadFromXml] Unknown key value skillDistance
+[24/11/2009 16:53:23] >> Loading groups
+[24/11/2009 16:53:23] >> Loading vocations
+[24/11/2009 16:53:23] >> Loading script systems
+[24/11/2009 16:53:24] [Warning - Weapon::configureEvent] Wrong vocation name: Slayer Druid
+[24/11/2009 16:53:24] [Warning - Weapon::configureEvent] Wrong vocation name: Slayer Druid
+[24/11/2009 16:53:24] [Warning - Weapon::configureEvent] Wrong vocation name: Slayer Druid
+[24/11/2009 16:53:24] [Warning - Weapon::configureEvent] Wrong vocation name: Slayer Druid
+[24/11/2009 16:53:24] [Warning - Weapon::configureEvent] Wrong vocation name: Slayer Druid
+[24/11/2009 16:53:24] [Warning - Weapon::configureEvent] Wrong vocation name: Slayer Druid
+[24/11/2009 16:53:24] [Warning - Weapon::configureEvent] Wrong vocation name: Slayer Druid
+[24/11/2009 16:53:24] [Warning - Weapon::configureEvent] Wrong vocation name: Slayer Druid
+[24/11/2009 16:53:24] [Warning - Weapon::configureEvent] Wrong vocation name: Slayer Sorcerer
+[24/11/2009 16:53:25] [Warning - Weapon::configureEvent] Wrong vocation name: Slayer Sorcerer
+[24/11/2009 16:53:25] [Warning - Weapon::configureEvent] Wrong vocation name: Slayer Sorcerer
+[24/11/2009 16:53:25] [Warning - Weapon::configureEvent] Wrong vocation name: Slayer Sorcerer
+[24/11/2009 16:53:25] [Warning - Weapon::configureEvent] Wrong vocation name: Slayer Sorcerer
+[24/11/2009 16:53:25] [Warning - Weapon::configureEvent] Wrong vocation name: Slayer Sorcerer
+[24/11/2009 16:53:25] [Warning - Weapon::configureEvent] Wrong vocation name: Slayer Sorcerer
+[24/11/2009 16:53:25] [Warning - Weapon::configureEvent] Wrong vocation name: Slayer Sorcerer
+[24/11/2009 16:53:25] [Warning - Weapon::configureEvent] Wrong vocation name: Slayer Sorcerer
+[24/11/2009 16:53:25] [Warning - Weapon::configureEvent] Wrong vocation name: Slayer Druid
+[24/11/2009 16:53:25] [Warning - Weapon::configureEvent] Wrong vocation name: Slayer Sorcerer
+[24/11/2009 16:53:26] [Warning - Weapon::configureEvent] Wrong vocation name: Slayer Druid
+[24/11/2009 16:53:26] [Warning - Weapon::configureEvent] Wrong vocation name: Slayer Sorcerer
+[24/11/2009 16:53:26] [Warning - Weapon::configureEvent] Wrong vocation name: Slayer Druid
+[24/11/2009 16:53:26] [Warning - Weapon::configureEvent] Wrong vocation name: Slayer Knight
+[24/11/2009 16:53:26] [Warning - Weapon::configureEvent] Wrong vocation name: Slayer Knight
+[24/11/2009 16:53:26] [Warning - Weapon::configureEvent] Wrong vocation name: Slayer Knight
+[24/11/2009 16:53:26] [Warning - Weapon::configureEvent] Wrong vocation name: Slayer Knight
+[24/11/2009 16:53:26] [Warning - Weapon::configureEvent] Wrong vocation name: Slayer Knight
+[24/11/2009 16:53:26] [Warning - Weapon::configureEvent] Wrong vocation name: Slayer Knight
+[24/11/2009 16:53:26] [Warning - Weapon::configureEvent] Wrong vocation name: Slayer Knight
+[24/11/2009 16:53:27] [Warning - Weapon::configureEvent] Wrong vocation name: Slayer Knight
+[24/11/2009 16:53:27] [Warning - Weapon::configureEvent] Wrong vocation name: Slayer Knight
+[24/11/2009 16:53:27] [Warning - Weapon::configureEvent] Wrong vocation name: Slayer Knight
+[24/11/2009 16:53:27] [Warning - Weapon::configureEvent] Wrong vocation name: Slayer Knight
+[24/11/2009 16:53:27] [Warning - Weapon::configureEvent] Wrong vocation name: Slayer Knight
+[24/11/2009 16:53:27] [Warning - Weapon::configureEvent] Wrong vocation name: Slayer Knight
+[24/11/2009 16:53:27] [Warning - Weapon::configureEvent] Wrong vocation name: Slayer Knight
+[24/11/2009 16:53:27] [Warning - Weapon::configureEvent] Wrong vocation name: Slayer Knight
+[24/11/2009 16:53:27] [Warning - Weapon::configureEvent] Wrong vocation name: Slayer Knight
+[24/11/2009 16:53:27] [Warning - Weapon::configureEvent] Wrong vocation name: Slayer Knight
+[24/11/2009 16:53:28] [Warning - Weapon::configureEvent] Wrong vocation name: Slayer Knight
+[24/11/2009 16:53:28] [Warning - Weapon::configureEvent] Wrong vocation name: Slayer Knight
+[24/11/2009 16:53:28] [Warning - Weapon::configureEvent] Wrong vocation name: Slayer Knight
+[24/11/2009 16:53:28] [Warning - Weapon::configureEvent] Wrong vocation name: Slayer Knight
+[24/11/2009 16:53:28] [Warning - Weapon::configureEvent] Wrong vocation name: Slayer Knight
+[24/11/2009 16:53:28] [Warning - Weapon::configureEvent] Wrong vocation name: Slayer Knight
+[24/11/2009 16:53:28] [Warning - Weapon::configureEvent] Wrong vocation name: Slayer Knight
+[24/11/2009 16:53:28] [Warning - Weapon::configureEvent] Wrong vocation name: Slayer Knight
+[24/11/2009 16:53:28] [Warning - Weapon::configureEvent] Wrong vocation name: Slayer Knight
+[24/11/2009 16:53:28] [Warning - Weapon::configureEvent] Wrong vocation name: Slayer Knight
+[24/11/2009 16:53:29] [Warning - Weapon::configureEvent] Wrong vocation name: Slayer Knight
+[24/11/2009 16:53:29] [Warning - Weapon::configureEvent] Wrong vocation name: Slayer Knight
+[24/11/2009 16:53:29] [Warning - Weapon::configureEvent] Wrong vocation name: Slayer Knight
+[24/11/2009 16:53:29] [Warning - Weapon::configureEvent] Wrong vocation name: Slayer Knight
+[24/11/2009 16:53:29] [Warning - Weapon::configureEvent] Wrong vocation name: Slayer Knight
+[24/11/2009 16:53:29] [Warning - Weapon::configureEvent] Wrong vocation name: Slayer Knight
+[24/11/2009 16:53:29] [Warning - Weapon::configureEvent] Wrong vocation name: Slayer Knight
+[24/11/2009 16:53:29] [Warning - Weapon::configureEvent] Wrong vocation name: Slayer Knight
+[24/11/2009 16:53:29] [Warning - Weapon::configureEvent] Wrong vocation name: Slayer Knight
+[24/11/2009 16:53:30] [Warning - Weapon::configureEvent] Wrong vocation name: Slayer Knight
+[24/11/2009 16:53:30] [Warning - Weapon::configureEvent] Wrong vocation name: Slayer Paladin
+[24/11/2009 16:53:30] [Warning - Weapon::configureEvent] Wrong vocation name: Slayer Paladin
+[24/11/2009 16:53:30] [Warning - Weapon::configureEvent] Wrong vocation name: Slayer Paladin
+[24/11/2009 16:53:30] [Warning - Weapon::configureEvent] Wrong vocation name: Slayer Paladin
+[24/11/2009 16:53:30] [Warning - Weapon::configureEvent] Wrong vocation name: Slayer Paladin
+[24/11/2009 16:53:30] [Warning - Weapon::configureEvent] Wrong vocation name: Slayer Paladin
+[24/11/2009 16:53:30] [Warning - Weapon::configureEvent] Wrong vocation name: Slayer Paladin
+[24/11/2009 16:53:30] [Warning - Weapon::configureEvent] Wrong vocation name: Slayer Paladin
+[24/11/2009 16:53:30] [Warning - Weapon::configureEvent] Wrong vocation name: Slayer Paladin
+[24/11/2009 16:53:31] [Warning - Weapon::configureEvent] Wrong vocation name: Slayer Paladin
+[24/11/2009 16:53:31] [Warning - Weapon::configureEvent] Wrong vocation name: Slayer Paladin
+[24/11/2009 16:53:31] [Warning - Spell::configureSpell] Wrong vocation name: Slayer Knight
+[24/11/2009 16:53:31] [Warning - Spell::configureSpell] Wrong vocation name: Aggro Socerer
+[24/11/2009 16:53:31] [Warning - Spells::registerEvent] Duplicate registered instant spell with words: exevo con
+[24/11/2009 16:53:32] [Warning - Spell::configureSpell] Wrong vocation name: Slayer Paladin
+[24/11/2009 16:53:32] [Warning - Spell::configureSpell] Wrong vocation name: Slayer Paladin
+[24/11/2009 16:53:32] [Warning - Actions::registerEvent] Duplicate registered item with id: 7131, in fromid: 7131 and toid: 7132
+[24/11/2009 16:53:32] [Warning - Actions::registerEvent] Duplicate registered item with id: 7132, in fromid: 7131 and toid: 7132
+[24/11/2009 16:53:34] [Warning - Event::loadScript] Cannot load script (data/talkactions/scripts/poll.lua)
+[24/11/2009 16:53:34] cannot open data/talkactions/scripts/poll.lua: No such file or directory
+[24/11/2009 16:53:34] [Warning - Event::loadScript] Cannot load script (data/talkactions/scripts/poll.lua)
+[24/11/2009 16:53:35] cannot open data/talkactions/scripts/poll.lua: No such file or directory
+[24/11/2009 16:53:35] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Knight
+[24/11/2009 16:53:35] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Paladin
+[24/11/2009 16:53:35] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Druid
+[24/11/2009 16:53:36] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Sorcerer
+[24/11/2009 16:53:36] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Druid
+[24/11/2009 16:53:36] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Sorcerer
+[24/11/2009 16:53:36] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Knight
+[24/11/2009 16:53:36] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Paladin
+[24/11/2009 16:53:36] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Druid
+[24/11/2009 16:53:36] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Sorcerer
+[24/11/2009 16:53:37] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Druid
+[24/11/2009 16:53:37] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Sorcerer
+[24/11/2009 16:53:37] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Knight
+[24/11/2009 16:53:37] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Paladin
+[24/11/2009 16:53:37] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Druid
+[24/11/2009 16:53:37] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Sorcerer
+[24/11/2009 16:53:37] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Druid
+[24/11/2009 16:53:37] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Sorcerer
+[24/11/2009 16:53:37] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Knight
+[24/11/2009 16:53:37] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Knight
+[24/11/2009 16:53:38] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Paladin
+[24/11/2009 16:53:38] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Druid
+[24/11/2009 16:53:38] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Sorcerer
+[24/11/2009 16:53:38] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Druid
+[24/11/2009 16:53:38] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Sorcerer
+[24/11/2009 16:53:38] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Druid
+[24/11/2009 16:53:38] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Sorcerer
+[24/11/2009 16:53:38] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Druid
+[24/11/2009 16:53:39] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Sorcerer
+[24/11/2009 16:53:39] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Druid
+[24/11/2009 16:53:39] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Sorcerer
+[24/11/2009 16:53:39] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Druid
+[24/11/2009 16:53:39] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Sorcerer
+[24/11/2009 16:53:39] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Druid
+[24/11/2009 16:53:39] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Sorcerer
+[24/11/2009 16:53:39] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Druid
+[24/11/2009 16:53:39] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Sorcerer
+[24/11/2009 16:53:39] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Sorcerer
+[24/11/2009 16:53:40] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Druid
+[24/11/2009 16:53:40] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Sorcerer
+[24/11/2009 16:53:40] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Druid
+[24/11/2009 16:53:40] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Sorcerer
+[24/11/2009 16:53:40] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Druid
+[24/11/2009 16:53:40] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Sorcerer
+[24/11/2009 16:53:40] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Druid
+[24/11/2009 16:53:40] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Sorcerer
+[24/11/2009 16:53:40] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Druid
+[24/11/2009 16:53:40] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Sorcerer
+[24/11/2009 16:53:41] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Druid
+[24/11/2009 16:53:41] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Sorcerer
+[24/11/2009 16:53:41] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Druid
+[24/11/2009 16:53:41] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Sorcerer
+[24/11/2009 16:53:41] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Druid
+[24/11/2009 16:53:41] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Sorcerer
+[24/11/2009 16:53:41] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Druid
+[24/11/2009 16:53:41] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Sorcerer
+[24/11/2009 16:53:41] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Druid
+[24/11/2009 16:53:42] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Sorcerer
+[24/11/2009 16:53:42] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Druid
+[24/11/2009 16:53:42] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Sorcerer
+[24/11/2009 16:53:42] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Druid
+[24/11/2009 16:53:42] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Sorcerer
+[24/11/2009 16:53:42] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Druid
+[24/11/2009 16:53:42] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Sorcerer
+[24/11/2009 16:53:42] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Druid
+[24/11/2009 16:53:42] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Sorcerer
+[24/11/2009 16:53:42] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Druid
+[24/11/2009 16:53:43] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Sorcerer
+[24/11/2009 16:53:43] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Druid
+[24/11/2009 16:53:43] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Sorcerer
+[24/11/2009 16:53:43] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Druid
+[24/11/2009 16:53:43] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Sorcerer
+[24/11/2009 16:53:43] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Druid
+[24/11/2009 16:53:43] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Sorcerer
+[24/11/2009 16:53:43] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Druid
+[24/11/2009 16:53:43] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Sorcerer
+[24/11/2009 16:53:44] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Druid
+[24/11/2009 16:53:44] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Sorcerer
+[24/11/2009 16:53:44] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Druid
+[24/11/2009 16:53:44] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Sorcerer
+[24/11/2009 16:53:44] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Druid
+[24/11/2009 16:53:44] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Paladin
+[24/11/2009 16:53:44] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Knight
+[24/11/2009 16:53:44] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Paladin
+[24/11/2009 16:53:44] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Knight
+[24/11/2009 16:53:44] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Paladin
+[24/11/2009 16:53:45] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Knight
+[24/11/2009 16:53:45] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Paladin
+[24/11/2009 16:53:45] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Knight
+[24/11/2009 16:53:45] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Knight
+[24/11/2009 16:53:45] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Knight
+[24/11/2009 16:53:45] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Knight
+[24/11/2009 16:53:45] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Paladin
+[24/11/2009 16:53:45] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Paladin
+[24/11/2009 16:53:46] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Knight
+[24/11/2009 16:53:46] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Sorcerer
+[24/11/2009 16:53:46] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Paladin
+[24/11/2009 16:53:46] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Sorcerer
+[24/11/2009 16:53:46] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Druid
+[24/11/2009 16:53:46] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Sorcerer
+[24/11/2009 16:53:46] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Druid
+[24/11/2009 16:53:46] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Sorcerer
+[24/11/2009 16:53:46] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Druid
+[24/11/2009 16:53:47] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Sorcerer
+[24/11/2009 16:53:47] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Druid
+[24/11/2009 16:53:47] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Sorcerer
+[24/11/2009 16:53:47] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Druid
+[24/11/2009 16:53:47] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Knight
+[24/11/2009 16:53:47] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Knight
+[24/11/2009 16:53:47] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Sorcerer
+[24/11/2009 16:53:47] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Druid
+[24/11/2009 16:53:47] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Knight
+[24/11/2009 16:53:48] [Warning - MoveEvent::configureEvent] Wrong vocation name: Slayer Paladin
+[24/11/2009 16:53:48] >> Loading chat channels
+[24/11/2009 16:53:48] >> Loading outfits
+[24/11/2009 16:53:48] >> Loading experience stages
+[24/11/2009 16:53:48] >> Loading monsters
+[24/11/2009 16:53:51] >> Loading map and spawns...
+[24/11/2009 16:53:52] > Map size: 1000x1000.
+[24/11/2009 16:53:52] > Map descriptions: 
+[24/11/2009 16:53:52] Saved with Remere's Map Editor 1.1.9
+[24/11/2009 16:53:52] Remere 's Map Editor Beta
+[24/11/2009 16:53:54] Duplicate uniqueId 9911
+[24/11/2009 16:53:55] Duplicate uniqueId 9912
+[24/11/2009 16:53:55] Duplicate uniqueId 9913
+[24/11/2009 16:53:55] Duplicate uniqueId 9914
+[24/11/2009 16:53:55] Duplicate uniqueId 9915
+[24/11/2009 16:53:56] Duplicate uniqueId 2471
+[24/11/2009 16:53:59] Duplicate uniqueId 5006
+[24/11/2009 16:54:00] > Map loading time: 8.671 seconds.
+[24/11/2009 16:54:01] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/Catapult Manager.xml).
+[24/11/2009 16:54:01] Info: failed to load external entity "data/npc/Catapult Manager.xml"
+[24/11/2009 16:54:01] 
+[24/11/2009 16:54:01] 
+[24/11/2009 16:54:01] [Warning - Spawns::loadFromXml] Demonio ( 00029 / 00168 / 007 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:54:01] [Warning - Spawns::loadFromXml] Demonio ( 00033 / 00168 / 007 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:54:01] [Warning - Spawns::loadFromXml] Demonio ( 00029 / 00169 / 007 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:54:02] [Warning - Spawns::loadFromXml] Demonio ( 00033 / 00169 / 007 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:54:02] [Warning - Spawns::loadFromXml] Demonio ( 00034 / 00169 / 007 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:54:02] [Warning - Spawns::loadFromXml] Demonio ( 00029 / 00170 / 007 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:54:02] [Warning - Spawns::loadFromXml] Demonio ( 00034 / 00170 / 007 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:54:02] [Warning - Spawns::loadFromXml] Demonio ( 00029 / 00171 / 007 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:54:02] [Warning - Spawns::loadFromXml] Demonio ( 00035 / 00171 / 007 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:54:02] [Warning - Spawns::loadFromXml] Demonio ( 00036 / 00171 / 007 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:54:03] [Warning - Spawns::loadFromXml] Demonio ( 00036 / 00172 / 007 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:54:03] [Warning - Spawns::loadFromXml] Demonio ( 00028 / 00173 / 007 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:54:03] [Warning - Spawns::loadFromXml] Demonio ( 00036 / 00173 / 007 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:54:03] [Warning - Spawns::loadFromXml] Demonio ( 00028 / 00174 / 007 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:54:03] [Warning - Spawns::loadFromXml] Demonio ( 00032 / 00174 / 007 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:54:03] [Warning - Spawns::loadFromXml] Demonio ( 00036 / 00174 / 007 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:54:04] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/Catapult Manager.xml).
+[24/11/2009 16:54:04] Info: failed to load external entity "data/npc/Catapult Manager.xml"
+[24/11/2009 16:54:04] 
+[24/11/2009 16:54:04] 
+[24/11/2009 16:54:04] [Warning - Spawns::loadFromXml] Snow Soul ( 00044 / 00277 / 007 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:54:04] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/Catapult Manager.xml).
+[24/11/2009 16:54:04] Info: failed to load external entity "data/npc/Catapult Manager.xml"
+[24/11/2009 16:54:04] 
+[24/11/2009 16:54:04] 
+[24/11/2009 16:54:04] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/Catapult Manager.xml).
+[24/11/2009 16:54:05] Info: failed to load external entity "data/npc/Catapult Manager.xml"
+[24/11/2009 16:54:05] 
+[24/11/2009 16:54:05] 
+[24/11/2009 16:54:05] [Warning - Spawns::loadFromXml] Whatafuck ( 00058 / 00310 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:54:05] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00310 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:54:05] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00311 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:54:05] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00312 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:54:05] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00313 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:54:06] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00314 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:54:06] [Warning - Spawns::loadFromXml] Whatafuck ( 00041 / 00314 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:54:06] [Warning - Spawns::loadFromXml] Whatafuck ( 00042 / 00314 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:54:06] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00315 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:54:06] [Warning - Spawns::loadFromXml] Whatafuck ( 00041 / 00315 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:54:06] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00316 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:54:06] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00317 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:54:07] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00318 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:54:07] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00319 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:54:07] [Warning - Spawns::loadFromXml] Whatafuck ( 00041 / 00319 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:54:07] [Warning - Spawns::loadFromXml] Whatafuck ( 00042 / 00319 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:54:07] [Warning - Spawns::loadFromXml] Whatafuck ( 00053 / 00324 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:54:07] [Warning - Spawns::loadFromXml] Whatafuck ( 00052 / 00325 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:54:08] [Warning - Spawns::loadFromXml] Whatafuck ( 00053 / 00325 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:54:08] [Warning - Spawns::loadFromXml] Whatafuck ( 00052 / 00326 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:54:08] [Warning - Spawns::loadFromXml] Whatafuck ( 00037 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:54:08] [Warning - Spawns::loadFromXml] Whatafuck ( 00038 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:54:08] [Warning - Spawns::loadFromXml] Whatafuck ( 00039 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:54:08] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:54:08] [Warning - Spawns::loadFromXml] Gorg Bosh ( 00146 / 00343 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:54:09] [Warning - Spawns::loadFromXml] Saddam Hussein ( 00098 / 00385 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:54:09] [Warning - Spawns::loadFromXml] Rotworm ( 00073 / 00030 / 012 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:54:09] [Warning - Spawns::loadFromXml] Rotworm ( 00067 / 00034 / 012 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:54:09] [Warning - Spawns::loadFromXml] Carrion Worm ( 00046 / 00046 / 012 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:54:09] [Warning - Spawns::loadFromXml] Rotworm ( 00086 / 00047 / 012 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:54:09] [Warning - Spawns::loadFromXml] Rotworm ( 00055 / 00058 / 012 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:54:10] [Warning - Spawns::loadFromXml] Rotworm ( 00056 / 00058 / 012 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:54:10] [Warning - Spawns::loadFromXml] Rotworm ( 00057 / 00060 / 012 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:54:10] [Warning - Spawns::loadFromXml] Rotworm ( 00067 / 00061 / 012 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:54:10] [Warning - Spawns::loadFromXml] Michael Jackson ( 00049 / 00026 / 013 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:54:10] [Warning - Spawns::loadFromXml] Love Demon ( 00060 / 00096 / 013 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:54:10] [Warning - Spawns::loadFromXml] Batman ( 00061 / 00143 / 013 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:54:11] [Warning - Spawns::loadFromXml] Batman ( 00044 / 00153 / 013 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:54:11] [Warning - Spawns::loadFromXml] Batman ( 00056 / 00155 / 013 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:54:11] [Warning - Spawns::loadFromXml] Batman ( 00045 / 00162 / 013 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:54:11] [Warning - Spawns::loadFromXml] Hell Dragon ( 00042 / 00234 / 013 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:54:11] [Warning - Spawns::loadFromXml] Hell Dragon ( 00043 / 00234 / 013 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:54:11] [Warning - Spawns::loadFromXml] Hell Dragon ( 00055 / 00242 / 013 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:54:11] [Warning - Spawns::loadFromXml] Hell Dragon ( 00059 / 00247 / 013 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 16:54:12] [Warning - Houses::loadFromXml] House entry not set for:  (5)
+[24/11/2009 16:54:12] [Warning - Houses::loadFromXml] House entry not set for:  (33)
+[24/11/2009 16:54:12] [Warning - Houses::loadFromXml] House entry not set for:  (34)
+[24/11/2009 16:54:12] [Warning - Houses::loadFromXml] House entry not set for:  (36)
+[24/11/2009 16:54:12] [Warning - Houses::loadFromXml] House entry not set for:  (158)
+[24/11/2009 16:54:12] > Data loading time: 12.422 seconds.
+[24/11/2009 16:54:13] > Unserialization time for houses: 0.281 seconds.
+[24/11/2009 16:55:00] > Unserialization time for map: 47.344 seconds.
+[24/11/2009 16:55:00] >> Checking world type... PvP
+[24/11/2009 16:55:00] >> Initializing game state modules and registering services...
+[24/11/2009 16:55:02] > Global address: 201.246.46.57
+[24/11/2009 16:55:03] > Local ports:
+[24/11/2009 16:55:03] 7171	7172	
+[24/11/2009 16:55:03] >> All modules were loaded, server starting up...
+[24/11/2009 16:55:03] >> aggrometal ot server Online!
+[24/11/2009 16:55:03] 
+[24/11/2009 16:55:07] Tomithoxz has logged in.
+[24/11/2009 16:55:19] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[24/11/2009 16:55:20] Account Manager has logged in.
+[24/11/2009 16:55:23] Account Manager has logged out.
+[24/11/2009 16:55:26] Lolix has logged in.
+[24/11/2009 16:55:30] Tomithoxz has logged out.
+[24/11/2009 16:55:31] Lolix has logged out.
+[24/11/2009 16:55:31] > Saving server...
+[24/11/2009 16:55:40] > SAVE: Complete in 9.219 seconds using relational house storage.
+[24/11/2009 16:55:40] Preparing to shutdown server..
+[24/11/2009 16:55:40] .
+[24/11/2009 16:55:40] Exiting
+[24/11/2009 22:33:16] The Forgotten Server, version 0.3.4 (Crying Damson)
+[24/11/2009 22:33:16] Sever Criado Por Alissow e Comedinha.
+[24/11/2009 22:33:16] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[24/11/2009 22:33:16] Bom Jogo!!!
+[24/11/2009 22:33:16] 
+[24/11/2009 22:33:16] >> Debugging: nothing.
+[24/11/2009 22:33:16] >> Checking software version... outdated, please consider updating!
+[24/11/2009 22:33:17] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[24/11/2009 22:33:17] > Latest version information - version: 0.3.5, patch: 1, build: 2576, timestamp: 1249584126.
+[24/11/2009 22:33:17] [Warning - ConfigManager::getBool] 62
+[24/11/2009 22:33:17] 
+[24/11/2009 22:33:17] >> Loading config (config.lua)
+[24/11/2009 22:33:17] > Using plaintext passwords
+[24/11/2009 22:33:17] >> Loading RSA key
+[24/11/2009 22:33:17] >> Starting SQL connection
+[24/11/2009 22:33:17] >> Running Database Manager
+[24/11/2009 22:33:20] > Optimized database.
+[24/11/2009 22:33:20] >> Loading items
+[24/11/2009 22:33:20] [Warning - Items::loadFromXml] Unknown key value skillDistance
+[24/11/2009 22:33:21] >> Loading groups
+[24/11/2009 22:33:21] >> Loading vocations
+[24/11/2009 22:33:21] >> Loading script systems
+[24/11/2009 22:33:23] [Warning - Spells::registerEvent] Duplicate registered instant spell with words: exevo con
+[24/11/2009 22:33:23] [Warning - Actions::registerEvent] Duplicate registered item with id: 7131, in fromid: 7131 and toid: 7132
+[24/11/2009 22:33:23] [Warning - Actions::registerEvent] Duplicate registered item with id: 7132, in fromid: 7131 and toid: 7132
+[24/11/2009 22:33:26] [Warning - Event::loadScript] Cannot load script (data/talkactions/scripts/poll.lua)
+[24/11/2009 22:33:26] cannot open data/talkactions/scripts/poll.lua: No such file or directory
+[24/11/2009 22:33:26] [Warning - Event::loadScript] Cannot load script (data/talkactions/scripts/poll.lua)
+[24/11/2009 22:33:26] cannot open data/talkactions/scripts/poll.lua: No such file or directory
+[24/11/2009 22:33:27] >> Loading chat channels
+[24/11/2009 22:33:27] >> Loading outfits
+[24/11/2009 22:33:27] >> Loading experience stages
+[24/11/2009 22:33:27] >> Loading monsters
+[24/11/2009 22:33:33] >> Loading map and spawns...
+[24/11/2009 22:33:34] > Map size: 1000x1000.
+[24/11/2009 22:33:34] > Map descriptions: 
+[24/11/2009 22:33:34] Saved with Remere's Map Editor 1.1.9
+[24/11/2009 22:33:34] Remere 's Map Editor Beta
+[24/11/2009 22:33:36] Duplicate uniqueId 9911
+[24/11/2009 22:33:37] Duplicate uniqueId 9912
+[24/11/2009 22:33:37] Duplicate uniqueId 9913
+[24/11/2009 22:33:37] Duplicate uniqueId 9914
+[24/11/2009 22:33:37] Duplicate uniqueId 9915
+[24/11/2009 22:33:40] Duplicate uniqueId 2471
+[24/11/2009 22:34:05] Duplicate uniqueId 5006
+[24/11/2009 22:34:10] > Map loading time: 36.922 seconds.
+[24/11/2009 22:34:54] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/Catapult Manager.xml).
+[24/11/2009 22:34:54] Info: failed to load external entity "data/npc/Catapult Manager.xml"
+[24/11/2009 22:34:54] 
+[24/11/2009 22:34:54] 
+[24/11/2009 22:34:54] [Warning - Spawns::loadFromXml] Demonio ( 00029 / 00168 / 007 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 22:34:54] [Warning - Spawns::loadFromXml] Demonio ( 00033 / 00168 / 007 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 22:34:54] [Warning - Spawns::loadFromXml] Demonio ( 00029 / 00169 / 007 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 22:34:54] [Warning - Spawns::loadFromXml] Demonio ( 00033 / 00169 / 007 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 22:34:54] [Warning - Spawns::loadFromXml] Demonio ( 00034 / 00169 / 007 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 22:34:55] [Warning - Spawns::loadFromXml] Demonio ( 00029 / 00170 / 007 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 22:34:55] [Warning - Spawns::loadFromXml] Demonio ( 00034 / 00170 / 007 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 22:34:55] [Warning - Spawns::loadFromXml] Demonio ( 00029 / 00171 / 007 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 22:34:55] [Warning - Spawns::loadFromXml] Demonio ( 00035 / 00171 / 007 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 22:34:55] [Warning - Spawns::loadFromXml] Demonio ( 00036 / 00171 / 007 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 22:34:55] [Warning - Spawns::loadFromXml] Demonio ( 00036 / 00172 / 007 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 22:34:55] [Warning - Spawns::loadFromXml] Demonio ( 00028 / 00173 / 007 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 22:34:55] [Warning - Spawns::loadFromXml] Demonio ( 00036 / 00173 / 007 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 22:34:56] [Warning - Spawns::loadFromXml] Demonio ( 00028 / 00174 / 007 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 22:34:56] [Warning - Spawns::loadFromXml] Demonio ( 00032 / 00174 / 007 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 22:34:56] [Warning - Spawns::loadFromXml] Demonio ( 00036 / 00174 / 007 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 22:34:56] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/Catapult Manager.xml).
+[24/11/2009 22:34:56] Info: failed to load external entity "data/npc/Catapult Manager.xml"
+[24/11/2009 22:34:56] 
+[24/11/2009 22:34:56] 
+[24/11/2009 22:34:56] [Warning - Spawns::loadFromXml] Snow Soul ( 00044 / 00277 / 007 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 22:34:56] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/Catapult Manager.xml).
+[24/11/2009 22:34:56] Info: failed to load external entity "data/npc/Catapult Manager.xml"
+[24/11/2009 22:34:56] 
+[24/11/2009 22:34:56] 
+[24/11/2009 22:34:56] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/Catapult Manager.xml).
+[24/11/2009 22:34:57] Info: failed to load external entity "data/npc/Catapult Manager.xml"
+[24/11/2009 22:34:57] 
+[24/11/2009 22:34:57] 
+[24/11/2009 22:34:57] [Warning - Spawns::loadFromXml] Whatafuck ( 00058 / 00310 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 22:34:57] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00310 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 22:34:57] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00311 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 22:34:57] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00312 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 22:34:57] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00313 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 22:34:58] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00314 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 22:34:58] [Warning - Spawns::loadFromXml] Whatafuck ( 00041 / 00314 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 22:34:58] [Warning - Spawns::loadFromXml] Whatafuck ( 00042 / 00314 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 22:34:58] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00315 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 22:34:58] [Warning - Spawns::loadFromXml] Whatafuck ( 00041 / 00315 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 22:34:58] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00316 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 22:34:58] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00317 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 22:34:58] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00318 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 22:34:58] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00319 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 22:34:58] [Warning - Spawns::loadFromXml] Whatafuck ( 00041 / 00319 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 22:34:59] [Warning - Spawns::loadFromXml] Whatafuck ( 00042 / 00319 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 22:34:59] [Warning - Spawns::loadFromXml] Whatafuck ( 00053 / 00324 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 22:34:59] [Warning - Spawns::loadFromXml] Whatafuck ( 00052 / 00325 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 22:34:59] [Warning - Spawns::loadFromXml] Whatafuck ( 00053 / 00325 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 22:34:59] [Warning - Spawns::loadFromXml] Whatafuck ( 00052 / 00326 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 22:34:59] [Warning - Spawns::loadFromXml] Whatafuck ( 00037 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 22:34:59] [Warning - Spawns::loadFromXml] Whatafuck ( 00038 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 22:34:59] [Warning - Spawns::loadFromXml] Whatafuck ( 00039 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 22:34:59] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 22:34:59] [Warning - Spawns::loadFromXml] Gorg Bosh ( 00146 / 00343 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 22:35:00] [Warning - Spawns::loadFromXml] Saddam Hussein ( 00098 / 00385 / 008 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 22:35:00] [Warning - Spawns::loadFromXml] Rotworm ( 00073 / 00030 / 012 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 22:35:00] [Warning - Spawns::loadFromXml] Rotworm ( 00067 / 00034 / 012 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 22:35:00] [Warning - Spawns::loadFromXml] Carrion Worm ( 00046 / 00046 / 012 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 22:35:00] [Warning - Spawns::loadFromXml] Rotworm ( 00086 / 00047 / 012 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 22:35:00] [Warning - Spawns::loadFromXml] Rotworm ( 00055 / 00058 / 012 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 22:35:01] [Warning - Spawns::loadFromXml] Rotworm ( 00056 / 00058 / 012 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 22:35:01] [Warning - Spawns::loadFromXml] Rotworm ( 00057 / 00060 / 012 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 22:35:01] [Warning - Spawns::loadFromXml] Rotworm ( 00067 / 00061 / 012 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 22:35:01] [Warning - Spawns::loadFromXml] Michael Jackson ( 00049 / 00026 / 013 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 22:35:01] [Warning - Spawns::loadFromXml] Love Demon ( 00060 / 00096 / 013 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 22:35:01] [Warning - Spawns::loadFromXml] Batman ( 00061 / 00143 / 013 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 22:35:01] [Warning - Spawns::loadFromXml] Batman ( 00044 / 00153 / 013 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 22:35:02] [Warning - Spawns::loadFromXml] Batman ( 00056 / 00155 / 013 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 22:35:02] [Warning - Spawns::loadFromXml] Batman ( 00045 / 00162 / 013 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 22:35:02] [Warning - Spawns::loadFromXml] Hell Dragon ( 00042 / 00234 / 013 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 22:35:02] [Warning - Spawns::loadFromXml] Hell Dragon ( 00043 / 00234 / 013 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 22:35:02] [Warning - Spawns::loadFromXml] Hell Dragon ( 00055 / 00242 / 013 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 22:35:02] [Warning - Spawns::loadFromXml] Hell Dragon ( 00059 / 00247 / 013 ) spawntime cannot be less than 1 seconds.
+[24/11/2009 22:35:03] [Warning - Houses::loadFromXml] House entry not set for:  (5)
+[24/11/2009 22:35:03] [Warning - Houses::loadFromXml] House entry not set for:  (33)
+[24/11/2009 22:35:03] [Warning - Houses::loadFromXml] House entry not set for:  (34)
+[24/11/2009 22:35:03] [Warning - Houses::loadFromXml] House entry not set for:  (36)
+[24/11/2009 22:35:03] [Warning - Houses::loadFromXml] House entry not set for:  (158)
+[24/11/2009 22:35:03] > Data loading time: 53.078 seconds.
+[24/11/2009 22:35:04] > Unserialization time for houses: 1.218 seconds.
+[24/11/2009 22:35:38] > Unserialization time for map: 34.297 seconds.
+[24/11/2009 22:35:39] >> Checking world type... PvP
+[24/11/2009 22:35:39] >> Initializing game state modules and registering services...
+[24/11/2009 22:35:46] > Global address: 201.246.46.57
+[24/11/2009 22:35:46] > Local ports:
+[24/11/2009 22:35:46] 7171	7172	
+[24/11/2009 22:35:46] >> All modules were loaded, server starting up...
+[24/11/2009 22:35:46] >> aggrometal ot server Online!
+[24/11/2009 22:35:46] 
+[24/11/2009 22:36:08] > Saving server...
+[24/11/2009 22:36:16] > SAVE: Complete in 7.75 seconds using relational house storage.
+[24/11/2009 22:38:16] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[24/11/2009 22:38:45] Hoster Aggresor has logged in.
+[24/11/2009 22:39:31] Albo pally has logged in.
+[24/11/2009 22:39:31] Aggriento has logged in.
+[24/11/2009 22:39:41] > Broadcasted message: "Dracola, o dragao morto vivo veio em busca de mais almas para dar em oferendas a seu mestre Ashfalor, um drago que ninguem nunca viveu para contar historia.".
+[24/11/2009 22:39:42] [Error - SingleSpawnEvent::executeEvent] Cannot spawn monster Dracola
+[24/11/2009 22:40:12] Aggriento has logged out.
+[24/11/2009 22:40:16] 
+[24/11/2009 22:40:16] Lua Script Error: [Spell Interface] 
+[24/11/2009 22:40:16] in a timer event called from: 
+[24/11/2009 22:40:16] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 22:40:17] 
+[24/11/2009 22:40:17] luaDoCombat(). Creature not found
+[24/11/2009 22:40:17] 
+[24/11/2009 22:40:17] Lua Script Error: [Spell Interface] 
+[24/11/2009 22:40:17] in a timer event called from: 
+[24/11/2009 22:40:17] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 22:40:17] 
+[24/11/2009 22:40:17] luaDoCombat(). Creature not found
+[24/11/2009 22:40:17] 
+[24/11/2009 22:40:17] Lua Script Error: [Spell Interface] 
+[24/11/2009 22:40:17] in a timer event called from: 
+[24/11/2009 22:40:17] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 22:40:17] 
+[24/11/2009 22:40:17] luaDoCombat(). Creature not found
+[24/11/2009 22:43:28] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !notice, foro del server http://aggrometal.foroactivo.net".
+[24/11/2009 22:47:03] Account Manager has logged in.
+[24/11/2009 22:47:33] Account Manager has logged out.
+[24/11/2009 22:47:40] Account Manager has logged in.
+[24/11/2009 22:48:10] Oliver Sykes has logged in.
+[24/11/2009 22:48:15] Account Manager has logged out.
+[24/11/2009 22:48:21] Hizaky has logged in.
+[24/11/2009 22:48:22] Kratos has logged in.
+[24/11/2009 22:48:28] > Saving server...
+[24/11/2009 22:48:40] > SAVE: Complete in 11.813 seconds using relational house storage.
+[24/11/2009 22:49:08] 
+[24/11/2009 22:49:08] Lua Script Error: [Spell Interface] 
+[24/11/2009 22:49:08] in a timer event called from: 
+[24/11/2009 22:49:08] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 22:49:08] 
+[24/11/2009 22:49:08] luaDoCombat(). Creature not found
+[24/11/2009 22:49:08] 
+[24/11/2009 22:49:08] Lua Script Error: [Spell Interface] 
+[24/11/2009 22:49:08] in a timer event called from: 
+[24/11/2009 22:49:08] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 22:49:08] 
+[24/11/2009 22:49:08] luaDoCombat(). Creature not found
+[24/11/2009 22:49:08] 
+[24/11/2009 22:49:08] Lua Script Error: [Spell Interface] 
+[24/11/2009 22:49:08] in a timer event called from: 
+[24/11/2009 22:49:08] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 22:49:08] 
+[24/11/2009 22:49:08] luaDoCombat(). Creature not found
+[24/11/2009 22:49:55] Nazhito has logged in.
+[24/11/2009 22:50:48] Nazhito has logged out.
+[24/11/2009 22:50:52] Nazhito has logged in.
+[24/11/2009 22:50:54] > Broadcasted message: "Kratos [91] Murio por Zugurosh!!".
+[24/11/2009 22:50:54] > Broadcasted message: "Kratos [91] Murio por Zugurosh!!".
+[24/11/2009 22:50:54] Kratos has logged out.
+[24/11/2009 22:51:52] Dada druid has logged in.
+[24/11/2009 22:53:22] > Broadcasted message: "Albo pally [7329] Murio por Mu!!".
+[24/11/2009 22:53:22] > Broadcasted message: "Albo pally [7329] Murio por Mu!!".
+[24/11/2009 22:53:22] Albo pally has logged out.
+[24/11/2009 22:53:29] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !notice, foro del server http://aggrometal.foroactivo.net".
+[24/11/2009 22:57:31] Dada druid has logged out.
+[24/11/2009 22:58:45] Dada druid has logged in.
+[24/11/2009 23:00:49] Paisanoo has logged in.
+[24/11/2009 23:01:46] Paladin Of Dragons has logged in.
+[24/11/2009 23:02:53] 
+[24/11/2009 23:02:53] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:02:53] in a timer event called from: 
+[24/11/2009 23:02:53] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 23:02:53] 
+[24/11/2009 23:02:53] luaDoCombat(). Creature not found
+[24/11/2009 23:02:53] 
+[24/11/2009 23:02:53] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:02:53] in a timer event called from: 
+[24/11/2009 23:02:53] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 23:02:53] 
+[24/11/2009 23:02:53] luaDoCombat(). Creature not found
+[24/11/2009 23:02:54] 
+[24/11/2009 23:02:54] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:02:54] in a timer event called from: 
+[24/11/2009 23:02:54] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 23:02:54] 
+[24/11/2009 23:02:54] luaDoCombat(). Creature not found
+[24/11/2009 23:02:54] 
+[24/11/2009 23:02:54] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:02:54] in a timer event called from: 
+[24/11/2009 23:02:54] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 23:02:54] 
+[24/11/2009 23:02:54] luaDoCombat(). Creature not found
+[24/11/2009 23:02:54] 
+[24/11/2009 23:02:54] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:02:54] in a timer event called from: 
+[24/11/2009 23:02:54] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 23:02:54] 
+[24/11/2009 23:02:54] luaDoCombat(). Creature not found
+[24/11/2009 23:02:54] 
+[24/11/2009 23:02:54] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:02:54] in a timer event called from: 
+[24/11/2009 23:02:54] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 23:02:54] 
+[24/11/2009 23:02:54] luaDoCombat(). Creature not found
+[24/11/2009 23:03:29] > Saving server...
+[24/11/2009 23:03:47] > SAVE: Complete in 18.172 seconds using relational house storage.
+[24/11/2009 23:03:47] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !notice, foro del server http://aggrometal.foroactivo.net".
+[24/11/2009 23:03:48] Paisanoo has logged out.
+[24/11/2009 23:03:50] Paisaano has logged in.
+[24/11/2009 23:04:26] Paisaano has logged out.
+[24/11/2009 23:04:28] Paisanoo has logged in.
+[24/11/2009 23:05:11] > Broadcasted message: "Oliver Sykes [103162] Murio por Dada druid [32403]!!".
+[24/11/2009 23:05:12] > Broadcasted message: "Dada druid [32403] mato al wn de Oliver Sykes [103162]!".
+[24/11/2009 23:05:12] > Broadcasted message: "Oliver Sykes [103162] Murio por Dada druid [32403]!!".
+[24/11/2009 23:05:12] Oliver Sykes has logged out.
+[24/11/2009 23:05:17] Oliver Sykes has logged in.
+[24/11/2009 23:07:13] 
+[24/11/2009 23:07:13] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:07:13] in a timer event called from: 
+[24/11/2009 23:07:13] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 23:07:13] 
+[24/11/2009 23:07:13] luaDoCombat(). Creature not found
+[24/11/2009 23:07:13] 
+[24/11/2009 23:07:13] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:07:13] in a timer event called from: 
+[24/11/2009 23:07:13] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 23:07:13] 
+[24/11/2009 23:07:13] luaDoCombat(). Creature not found
+[24/11/2009 23:07:13] 
+[24/11/2009 23:07:13] Lua Script Error: [CreatureScript Interface] 
+[24/11/2009 23:07:13] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[24/11/2009 23:07:13] 
+[24/11/2009 23:07:13] luaGetCreatureName(). Creature not found
+[24/11/2009 23:07:14] 
+[24/11/2009 23:07:14] Lua Script Error: [CreatureScript Interface] 
+[24/11/2009 23:07:14] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[24/11/2009 23:07:14] 
+[24/11/2009 23:07:14] luaGetCreatureName(). Creature not found
+[24/11/2009 23:07:14] > Broadcasted message: "Dada druid [33807] Murio por Paisanoo [113670]!!".
+[24/11/2009 23:07:14] > Broadcasted message: "Paisanoo [113670] mato al wn de Dada druid [33807]!".
+[24/11/2009 23:07:14] 
+[24/11/2009 23:07:14] Lua Script Error: [CreatureScript Interface] 
+[24/11/2009 23:07:14] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[24/11/2009 23:07:14] 
+[24/11/2009 23:07:14] luaGetCreatureName(). Creature not found
+[24/11/2009 23:07:14] 
+[24/11/2009 23:07:14] Lua Script Error: [CreatureScript Interface] 
+[24/11/2009 23:07:14] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[24/11/2009 23:07:15] 
+[24/11/2009 23:07:15] luaGetCreatureName(). Creature not found
+[24/11/2009 23:07:15] > Broadcasted message: "Dada druid [33807] Murio por Paisanoo [113670]!!".
+[24/11/2009 23:07:15] Dada druid has logged out.
+[24/11/2009 23:07:15] 
+[24/11/2009 23:07:15] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:07:15] in a timer event called from: 
+[24/11/2009 23:07:15] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 23:07:15] 
+[24/11/2009 23:07:15] luaDoCombat(). Creature not found
+[24/11/2009 23:07:16] 
+[24/11/2009 23:07:16] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:07:16] in a timer event called from: 
+[24/11/2009 23:07:16] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 23:07:16] 
+[24/11/2009 23:07:16] luaDoCombat(). Creature not found
+[24/11/2009 23:07:16] 
+[24/11/2009 23:07:16] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:07:16] in a timer event called from: 
+[24/11/2009 23:07:16] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 23:07:16] 
+[24/11/2009 23:07:16] luaDoCombat(). Creature not found
+[24/11/2009 23:07:16] 
+[24/11/2009 23:07:16] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:07:16] in a timer event called from: 
+[24/11/2009 23:07:16] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 23:07:16] 
+[24/11/2009 23:07:16] luaDoCombat(). Creature not found
+[24/11/2009 23:07:19] Dada druid has logged in.
+[24/11/2009 23:07:26] Nazhito has logged out.
+[24/11/2009 23:07:27] Nazhito has logged in.
+[24/11/2009 23:07:28] 
+[24/11/2009 23:07:28] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:07:28] in a timer event called from: 
+[24/11/2009 23:07:28] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 23:07:28] 
+[24/11/2009 23:07:28] luaDoCombat(). Creature not found
+[24/11/2009 23:07:28] 
+[24/11/2009 23:07:28] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:07:28] in a timer event called from: 
+[24/11/2009 23:07:28] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 23:07:28] 
+[24/11/2009 23:07:28] luaDoCombat(). Creature not found
+[24/11/2009 23:07:29] 
+[24/11/2009 23:07:29] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:07:29] in a timer event called from: 
+[24/11/2009 23:07:29] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 23:07:29] 
+[24/11/2009 23:07:29] luaDoCombat(). Creature not found
+[24/11/2009 23:08:59] Paisanoo has logged out.
+[24/11/2009 23:10:01] > Broadcasted message: "Hizaky [71813] Murio por Hitler!!".
+[24/11/2009 23:10:01] > Broadcasted message: "Hizaky [71813] Murio por Hitler!!".
+[24/11/2009 23:10:02] Hizaky has logged out.
+[24/11/2009 23:10:04] Hizaky has logged in.
+[24/11/2009 23:10:06] Account Manager has logged in.
+[24/11/2009 23:10:07] Account Manager has logged out.
+[24/11/2009 23:10:17] Geraldine has logged in.
+[24/11/2009 23:11:55] 
+[24/11/2009 23:11:55] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:11:55] in a timer event called from: 
+[24/11/2009 23:11:55] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 23:11:55] 
+[24/11/2009 23:11:55] luaDoCombat(). Creature not found
+[24/11/2009 23:11:55] 
+[24/11/2009 23:11:55] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:11:55] in a timer event called from: 
+[24/11/2009 23:11:55] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 23:11:56] 
+[24/11/2009 23:11:56] luaDoCombat(). Creature not found
+[24/11/2009 23:11:56] 
+[24/11/2009 23:11:56] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:11:56] in a timer event called from: 
+[24/11/2009 23:11:56] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 23:11:56] 
+[24/11/2009 23:11:56] luaDoCombat(). Creature not found
+[24/11/2009 23:12:00] 
+[24/11/2009 23:12:00] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:12:00] in a timer event called from: 
+[24/11/2009 23:12:00] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 23:12:00] 
+[24/11/2009 23:12:00] luaDoCombat(). Creature not found
+[24/11/2009 23:12:00] 
+[24/11/2009 23:12:00] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:12:00] in a timer event called from: 
+[24/11/2009 23:12:00] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 23:12:00] 
+[24/11/2009 23:12:00] luaDoCombat(). Creature not found
+[24/11/2009 23:12:05] 
+[24/11/2009 23:12:05] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:12:05] in a timer event called from: 
+[24/11/2009 23:12:05] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 23:12:05] 
+[24/11/2009 23:12:05] luaDoCombat(). Creature not found
+[24/11/2009 23:13:48] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !notice, foro del server http://aggrometal.foroactivo.net".
+[24/11/2009 23:13:56] Account Manager has logged in.
+[24/11/2009 23:14:00] Account Manager has logged out.
+[24/11/2009 23:14:14] Hizaky has logged out.
+[24/11/2009 23:14:25] 
+[24/11/2009 23:14:25] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:14:25] in a timer event called from: 
+[24/11/2009 23:14:25] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 23:14:25] 
+[24/11/2009 23:14:25] luaDoCombat(). Creature not found
+[24/11/2009 23:14:25] 
+[24/11/2009 23:14:25] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:14:25] in a timer event called from: 
+[24/11/2009 23:14:25] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 23:14:25] 
+[24/11/2009 23:14:25] luaDoCombat(). Creature not found
+[24/11/2009 23:14:25] 
+[24/11/2009 23:14:25] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:14:25] in a timer event called from: 
+[24/11/2009 23:14:25] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 23:14:25] 
+[24/11/2009 23:14:25] luaDoCombat(). Creature not found
+[24/11/2009 23:14:29] 
+[24/11/2009 23:14:29] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:14:29] in a timer event called from: 
+[24/11/2009 23:14:29] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 23:14:29] 
+[24/11/2009 23:14:29] luaDoCombat(). Creature not found
+[24/11/2009 23:14:29] 
+[24/11/2009 23:14:29] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:14:30] in a timer event called from: 
+[24/11/2009 23:14:30] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 23:14:30] 
+[24/11/2009 23:14:30] luaDoCombat(). Creature not found
+[24/11/2009 23:14:30] 
+[24/11/2009 23:14:30] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:14:30] in a timer event called from: 
+[24/11/2009 23:14:30] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 23:14:30] 
+[24/11/2009 23:14:30] luaDoCombat(). Creature not found
+[24/11/2009 23:14:54] > Broadcasted message: "Dada druid [33776] Murio por Saddam Hussein!!".
+[24/11/2009 23:14:55] > Broadcasted message: "Dada druid [33776] Murio por Saddam Hussein!!".
+[24/11/2009 23:14:55] Dada druid has logged out.
+[24/11/2009 23:14:57] Dada druid has logged in.
+[24/11/2009 23:15:54] 
+[24/11/2009 23:15:54] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:15:54] in a timer event called from: 
+[24/11/2009 23:15:54] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 23:15:54] 
+[24/11/2009 23:15:54] luaDoCombat(). Creature not found
+[24/11/2009 23:15:55] 
+[24/11/2009 23:15:55] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:15:55] in a timer event called from: 
+[24/11/2009 23:15:55] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 23:15:55] 
+[24/11/2009 23:15:55] luaDoCombat(). Creature not found
+[24/11/2009 23:15:55] 
+[24/11/2009 23:15:55] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:15:55] in a timer event called from: 
+[24/11/2009 23:15:55] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 23:15:55] 
+[24/11/2009 23:15:55] luaDoCombat(). Creature not found
+[24/11/2009 23:15:55] 
+[24/11/2009 23:15:55] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:15:55] in a timer event called from: 
+[24/11/2009 23:15:55] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 23:15:55] 
+[24/11/2009 23:15:55] luaDoCombat(). Creature not found
+[24/11/2009 23:16:44] > Broadcasted message: "Dada druid [33743] Murio por Saddam Hussein!!".
+[24/11/2009 23:16:45] > Broadcasted message: "Dada druid [33743] Murio por Saddam Hussein!!".
+[24/11/2009 23:16:45] Dada druid has logged out.
+[24/11/2009 23:16:48] Dada druid has logged in.
+[24/11/2009 23:16:56] Hades has logged in.
+[24/11/2009 23:17:42] 
+[24/11/2009 23:17:42] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:17:42] in a timer event called from: 
+[24/11/2009 23:17:42] data/spells/scripts/attack/wrath of nature.lua:onCastSpell
+[24/11/2009 23:17:42] 
+[24/11/2009 23:17:42] luaDoCombat(). Creature not found
+[24/11/2009 23:17:42] 
+[24/11/2009 23:17:42] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:17:42] in a timer event called from: 
+[24/11/2009 23:17:42] data/spells/scripts/attack/wrath of nature.lua:onCastSpell
+[24/11/2009 23:17:42] 
+[24/11/2009 23:17:42] luaDoCombat(). Creature not found
+[24/11/2009 23:17:42] 
+[24/11/2009 23:17:42] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:17:42] in a timer event called from: 
+[24/11/2009 23:17:42] data/spells/scripts/attack/wrath of nature.lua:onCastSpell
+[24/11/2009 23:17:43] 
+[24/11/2009 23:17:43] luaDoCombat(). Creature not found
+[24/11/2009 23:17:43] 
+[24/11/2009 23:17:43] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:17:43] in a timer event called from: 
+[24/11/2009 23:17:43] data/spells/scripts/attack/wrath of nature.lua:onCastSpell
+[24/11/2009 23:17:43] 
+[24/11/2009 23:17:43] luaDoCombat(). Creature not found
+[24/11/2009 23:17:43] 
+[24/11/2009 23:17:43] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:17:43] in a timer event called from: 
+[24/11/2009 23:17:43] data/spells/scripts/attack/wrath of nature.lua:onCastSpell
+[24/11/2009 23:17:43] 
+[24/11/2009 23:17:43] luaDoCombat(). Creature not found
+[24/11/2009 23:17:43] 
+[24/11/2009 23:17:43] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:17:43] in a timer event called from: 
+[24/11/2009 23:17:43] data/spells/scripts/attack/wrath of nature.lua:onCastSpell
+[24/11/2009 23:17:43] 
+[24/11/2009 23:17:43] luaDoCombat(). Creature not found
+[24/11/2009 23:17:43] 
+[24/11/2009 23:17:43] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:17:43] in a timer event called from: 
+[24/11/2009 23:17:43] data/spells/scripts/attack/wrath of nature.lua:onCastSpell
+[24/11/2009 23:17:44] 
+[24/11/2009 23:17:44] luaDoCombat(). Creature not found
+[24/11/2009 23:17:44] 
+[24/11/2009 23:17:44] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:17:44] in a timer event called from: 
+[24/11/2009 23:17:44] data/spells/scripts/attack/wrath of nature.lua:onCastSpell
+[24/11/2009 23:17:44] 
+[24/11/2009 23:17:44] luaDoCombat(). Creature not found
+[24/11/2009 23:17:50] 
+[24/11/2009 23:17:50] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:17:50] in a timer event called from: 
+[24/11/2009 23:17:50] data/spells/scripts/attack/wrath of nature.lua:onCastSpell
+[24/11/2009 23:17:50] 
+[24/11/2009 23:17:50] luaDoCombat(). Creature not found
+[24/11/2009 23:17:52] 
+[24/11/2009 23:17:52] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:17:52] in a timer event called from: 
+[24/11/2009 23:17:52] data/spells/scripts/attack/wrath of nature.lua:onCastSpell
+[24/11/2009 23:17:52] 
+[24/11/2009 23:17:52] luaDoCombat(). Creature not found
+[24/11/2009 23:17:52] 
+[24/11/2009 23:17:52] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:17:52] in a timer event called from: 
+[24/11/2009 23:17:52] data/spells/scripts/attack/wrath of nature.lua:onCastSpell
+[24/11/2009 23:17:52] 
+[24/11/2009 23:17:52] luaDoCombat(). Creature not found
+[24/11/2009 23:17:52] 
+[24/11/2009 23:17:52] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:17:52] in a timer event called from: 
+[24/11/2009 23:17:52] data/spells/scripts/attack/wrath of nature.lua:onCastSpell
+[24/11/2009 23:17:52] 
+[24/11/2009 23:17:52] luaDoCombat(). Creature not found
+[24/11/2009 23:17:53] 
+[24/11/2009 23:17:53] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:17:53] in a timer event called from: 
+[24/11/2009 23:17:53] data/spells/scripts/attack/wrath of nature.lua:onCastSpell
+[24/11/2009 23:17:53] 
+[24/11/2009 23:17:53] luaDoCombat(). Creature not found
+[24/11/2009 23:17:53] 
+[24/11/2009 23:17:53] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:17:53] in a timer event called from: 
+[24/11/2009 23:17:53] data/spells/scripts/attack/wrath of nature.lua:onCastSpell
+[24/11/2009 23:17:53] 
+[24/11/2009 23:17:53] luaDoCombat(). Creature not found
+[24/11/2009 23:17:58] 
+[24/11/2009 23:17:58] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:17:58] in a timer event called from: 
+[24/11/2009 23:17:58] data/spells/scripts/attack/wrath of nature.lua:onCastSpell
+[24/11/2009 23:17:58] 
+[24/11/2009 23:17:58] luaDoCombat(). Creature not found
+[24/11/2009 23:17:58] 
+[24/11/2009 23:17:58] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:17:58] in a timer event called from: 
+[24/11/2009 23:17:58] data/spells/scripts/attack/wrath of nature.lua:onCastSpell
+[24/11/2009 23:17:58] 
+[24/11/2009 23:17:58] luaDoCombat(). Creature not found
+[24/11/2009 23:17:58] 
+[24/11/2009 23:17:58] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:17:58] in a timer event called from: 
+[24/11/2009 23:17:58] data/spells/scripts/attack/wrath of nature.lua:onCastSpell
+[24/11/2009 23:17:59] 
+[24/11/2009 23:17:59] luaDoCombat(). Creature not found
+[24/11/2009 23:17:59] 
+[24/11/2009 23:17:59] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:17:59] in a timer event called from: 
+[24/11/2009 23:17:59] data/spells/scripts/attack/wrath of nature.lua:onCastSpell
+[24/11/2009 23:17:59] 
+[24/11/2009 23:17:59] luaDoCombat(). Creature not found
+[24/11/2009 23:17:59] 
+[24/11/2009 23:17:59] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:17:59] in a timer event called from: 
+[24/11/2009 23:17:59] data/spells/scripts/attack/wrath of nature.lua:onCastSpell
+[24/11/2009 23:17:59] 
+[24/11/2009 23:17:59] luaDoCombat(). Creature not found
+[24/11/2009 23:18:09] 
+[24/11/2009 23:18:09] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:18:09] in a timer event called from: 
+[24/11/2009 23:18:09] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 23:18:09] 
+[24/11/2009 23:18:09] luaDoCombat(). Creature not found
+[24/11/2009 23:18:09] 
+[24/11/2009 23:18:09] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:18:09] in a timer event called from: 
+[24/11/2009 23:18:09] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 23:18:09] 
+[24/11/2009 23:18:09] luaDoCombat(). Creature not found
+[24/11/2009 23:18:09] 
+[24/11/2009 23:18:09] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:18:10] in a timer event called from: 
+[24/11/2009 23:18:10] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 23:18:10] 
+[24/11/2009 23:18:10] luaDoCombat(). Creature not found
+[24/11/2009 23:18:13] 
+[24/11/2009 23:18:13] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:18:13] in a timer event called from: 
+[24/11/2009 23:18:13] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 23:18:13] 
+[24/11/2009 23:18:13] luaDoCombat(). Creature not found
+[24/11/2009 23:18:13] 
+[24/11/2009 23:18:13] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:18:13] in a timer event called from: 
+[24/11/2009 23:18:13] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 23:18:13] 
+[24/11/2009 23:18:13] luaDoCombat(). Creature not found
+[24/11/2009 23:18:13] 
+[24/11/2009 23:18:13] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:18:14] in a timer event called from: 
+[24/11/2009 23:18:14] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 23:18:14] 
+[24/11/2009 23:18:14] luaDoCombat(). Creature not found
+[24/11/2009 23:18:30] > Saving server...
+[24/11/2009 23:18:44] > SAVE: Complete in 14.391 seconds using relational house storage.
+[24/11/2009 23:19:27] 
+[24/11/2009 23:19:27] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:19:27] in a timer event called from: 
+[24/11/2009 23:19:27] data/spells/scripts/attack/wrath of nature.lua:onCastSpell
+[24/11/2009 23:19:27] 
+[24/11/2009 23:19:27] luaDoCombat(). Creature not found
+[24/11/2009 23:19:27] 
+[24/11/2009 23:19:27] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:19:27] in a timer event called from: 
+[24/11/2009 23:19:27] data/spells/scripts/attack/wrath of nature.lua:onCastSpell
+[24/11/2009 23:19:27] 
+[24/11/2009 23:19:27] luaDoCombat(). Creature not found
+[24/11/2009 23:19:27] 
+[24/11/2009 23:19:27] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:19:27] in a timer event called from: 
+[24/11/2009 23:19:27] data/spells/scripts/attack/wrath of nature.lua:onCastSpell
+[24/11/2009 23:19:28] 
+[24/11/2009 23:19:28] luaDoCombat(). Creature not found
+[24/11/2009 23:19:28] 
+[24/11/2009 23:19:28] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:19:28] in a timer event called from: 
+[24/11/2009 23:19:28] data/spells/scripts/attack/wrath of nature.lua:onCastSpell
+[24/11/2009 23:19:28] 
+[24/11/2009 23:19:28] luaDoCombat(). Creature not found
+[24/11/2009 23:19:28] 
+[24/11/2009 23:19:28] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:19:28] in a timer event called from: 
+[24/11/2009 23:19:28] data/spells/scripts/attack/wrath of nature.lua:onCastSpell
+[24/11/2009 23:19:28] 
+[24/11/2009 23:19:28] luaDoCombat(). Creature not found
+[24/11/2009 23:19:36] 
+[24/11/2009 23:19:36] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:19:36] in a timer event called from: 
+[24/11/2009 23:19:36] data/spells/scripts/attack/wrath of nature.lua:onCastSpell
+[24/11/2009 23:19:36] 
+[24/11/2009 23:19:36] luaDoCombat(). Creature not found
+[24/11/2009 23:19:53] 
+[24/11/2009 23:19:53] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:19:53] in a timer event called from: 
+[24/11/2009 23:19:53] data/spells/scripts/attack/wrath of nature.lua:onCastSpell
+[24/11/2009 23:19:53] 
+[24/11/2009 23:19:53] luaDoCombat(). Creature not found
+[24/11/2009 23:20:46] 
+[24/11/2009 23:20:46] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:20:46] in a timer event called from: 
+[24/11/2009 23:20:46] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 23:20:46] 
+[24/11/2009 23:20:46] luaDoCombat(). Creature not found
+[24/11/2009 23:20:46] 
+[24/11/2009 23:20:46] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:20:46] in a timer event called from: 
+[24/11/2009 23:20:46] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 23:20:47] 
+[24/11/2009 23:20:47] luaDoCombat(). Creature not found
+[24/11/2009 23:20:47] 
+[24/11/2009 23:20:47] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:20:47] in a timer event called from: 
+[24/11/2009 23:20:47] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 23:20:47] 
+[24/11/2009 23:20:47] luaDoCombat(). Creature not found
+[24/11/2009 23:20:47] 
+[24/11/2009 23:20:47] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:20:47] in a timer event called from: 
+[24/11/2009 23:20:47] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 23:20:47] 
+[24/11/2009 23:20:47] luaDoCombat(). Creature not found
+[24/11/2009 23:20:47] 
+[24/11/2009 23:20:47] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:20:47] in a timer event called from: 
+[24/11/2009 23:20:47] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 23:20:47] 
+[24/11/2009 23:20:47] luaDoCombat(). Creature not found
+[24/11/2009 23:20:47] 
+[24/11/2009 23:20:47] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:20:47] in a timer event called from: 
+[24/11/2009 23:20:48] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 23:20:48] 
+[24/11/2009 23:20:48] luaDoCombat(). Creature not found
+[24/11/2009 23:22:21] > Broadcasted message: "Dada druid [33767] Murio por Espanta pajaros!!".
+[24/11/2009 23:22:21] > Broadcasted message: "Dada druid [33767] Murio por Espanta pajaros!!".
+[24/11/2009 23:22:21] Dada druid has logged out.
+[24/11/2009 23:22:24] Dada druid has logged in.
+[24/11/2009 23:22:42] 
+[24/11/2009 23:22:42] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:22:42] in a timer event called from: 
+[24/11/2009 23:22:42] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 23:22:42] 
+[24/11/2009 23:22:42] luaDoCombat(). Creature not found
+[24/11/2009 23:22:42] 
+[24/11/2009 23:22:42] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:22:42] in a timer event called from: 
+[24/11/2009 23:22:42] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 23:22:42] 
+[24/11/2009 23:22:42] luaDoCombat(). Creature not found
+[24/11/2009 23:22:42] 
+[24/11/2009 23:22:42] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:22:42] in a timer event called from: 
+[24/11/2009 23:22:42] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 23:22:42] 
+[24/11/2009 23:22:42] luaDoCombat(). Creature not found
+[24/11/2009 23:22:47] 
+[24/11/2009 23:22:47] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:22:47] in a timer event called from: 
+[24/11/2009 23:22:47] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 23:22:47] 
+[24/11/2009 23:22:47] luaDoCombat(). Creature not found
+[24/11/2009 23:22:47] 
+[24/11/2009 23:22:47] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:22:47] in a timer event called from: 
+[24/11/2009 23:22:47] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 23:22:47] 
+[24/11/2009 23:22:47] luaDoCombat(). Creature not found
+[24/11/2009 23:22:47] 
+[24/11/2009 23:22:47] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:22:48] in a timer event called from: 
+[24/11/2009 23:22:48] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 23:22:48] 
+[24/11/2009 23:22:48] luaDoCombat(). Creature not found
+[24/11/2009 23:23:01] > Broadcasted message: "Dada druid [33734] Murio por Gorg Bosh!!".
+[24/11/2009 23:23:02] > Broadcasted message: "Dada druid [33734] Murio por Gorg Bosh!!".
+[24/11/2009 23:23:02] Dada druid has logged out.
+[24/11/2009 23:23:04] Dada druid has logged in.
+[24/11/2009 23:23:49] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !notice, foro del server http://aggrometal.foroactivo.net".
+[24/11/2009 23:24:10] Nazhito has logged out.
+[24/11/2009 23:24:20] Nazhito has logged in.
+[24/11/2009 23:24:20] Nazhito has logged out.
+[24/11/2009 23:24:55] Nazhito has logged in.
+[24/11/2009 23:24:56] Nazhito has logged out.
+[24/11/2009 23:25:01] Account Manager has logged in.
+[24/11/2009 23:25:02] 
+[24/11/2009 23:25:02] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:25:02] in a timer event called from: 
+[24/11/2009 23:25:03] data/spells/scripts/attack/KINADOIS.lua:onCastSpell
+[24/11/2009 23:25:03] 
+[24/11/2009 23:25:03] luaDoCombat(). Creature not found
+[24/11/2009 23:25:03] 
+[24/11/2009 23:25:03] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:25:03] in a timer event called from: 
+[24/11/2009 23:25:03] data/spells/scripts/attack/KINADOIS.lua:onCastSpell
+[24/11/2009 23:25:03] 
+[24/11/2009 23:25:03] luaDoCombat(). Creature not found
+[24/11/2009 23:25:03] 
+[24/11/2009 23:25:03] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:25:03] in a timer event called from: 
+[24/11/2009 23:25:03] data/spells/scripts/attack/KINADOIS.lua:onCastSpell
+[24/11/2009 23:25:03] 
+[24/11/2009 23:25:03] luaDoCombat(). Creature not found
+[24/11/2009 23:25:12] Account Manager has logged out.
+[24/11/2009 23:25:19] 
+[24/11/2009 23:25:19] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:25:20] in a timer event called from: 
+[24/11/2009 23:25:20] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 23:25:20] 
+[24/11/2009 23:25:20] luaDoCombat(). Creature not found
+[24/11/2009 23:25:20] 
+[24/11/2009 23:25:20] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:25:20] in a timer event called from: 
+[24/11/2009 23:25:20] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 23:25:20] 
+[24/11/2009 23:25:20] luaDoCombat(). Creature not found
+[24/11/2009 23:25:20] 
+[24/11/2009 23:25:20] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:25:20] in a timer event called from: 
+[24/11/2009 23:25:20] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 23:25:20] 
+[24/11/2009 23:25:20] luaDoCombat(). Creature not found
+[24/11/2009 23:29:33] 
+[24/11/2009 23:29:33] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:29:33] in a timer event called from: 
+[24/11/2009 23:29:33] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 23:29:33] 
+[24/11/2009 23:29:33] luaDoCombat(). Creature not found
+[24/11/2009 23:29:33] 
+[24/11/2009 23:29:33] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:29:33] in a timer event called from: 
+[24/11/2009 23:29:33] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 23:29:33] 
+[24/11/2009 23:29:33] luaDoCombat(). Creature not found
+[24/11/2009 23:29:33] 
+[24/11/2009 23:29:33] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:29:33] in a timer event called from: 
+[24/11/2009 23:29:33] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 23:29:33] 
+[24/11/2009 23:29:33] luaDoCombat(). Creature not found
+[24/11/2009 23:29:34] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/slayer promotion selleer.xml).
+[24/11/2009 23:29:34] Info: failed to load external entity "data/npc/slayer promotion selleer.xml"
+[24/11/2009 23:29:35] 
+[24/11/2009 23:29:35] 
+[24/11/2009 23:29:36] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/slayer promotion sellr.xml).
+[24/11/2009 23:29:36] Info: failed to load external entity "data/npc/slayer promotion sellr.xml"
+[24/11/2009 23:29:36] 
+[24/11/2009 23:29:36] 
+[24/11/2009 23:33:20] 
+[24/11/2009 23:33:20] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:33:20] in a timer event called from: 
+[24/11/2009 23:33:20] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 23:33:20] 
+[24/11/2009 23:33:20] luaDoCombat(). Creature not found
+[24/11/2009 23:33:20] 
+[24/11/2009 23:33:20] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:33:20] in a timer event called from: 
+[24/11/2009 23:33:21] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 23:33:21] 
+[24/11/2009 23:33:21] luaDoCombat(). Creature not found
+[24/11/2009 23:33:21] Dada druid has logged out.
+[24/11/2009 23:33:21] 
+[24/11/2009 23:33:21] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:33:21] in a timer event called from: 
+[24/11/2009 23:33:21] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 23:33:21] 
+[24/11/2009 23:33:21] luaDoCombat(). Creature not found
+[24/11/2009 23:33:31] > Saving server...
+[24/11/2009 23:33:43] > SAVE: Complete in 12.063 seconds using relational house storage.
+[24/11/2009 23:33:50] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !notice, foro del server http://aggrometal.foroactivo.net".
+[24/11/2009 23:34:48] > Broadcasted message: "Oliver Sykes [108101] Murio por Hades [81206]!!".
+[24/11/2009 23:34:48] > Broadcasted message: "Hades [81206] mato al wn de Oliver Sykes [108101]!".
+[24/11/2009 23:34:49] > Broadcasted message: "Oliver Sykes [108101] Murio por Hades [81206]!!".
+[24/11/2009 23:34:49] Oliver Sykes has logged out.
+[24/11/2009 23:34:51] Oliver Sykes has logged in.
+[24/11/2009 23:35:21] Dada druid has logged in.
+[24/11/2009 23:36:22] 
+[24/11/2009 23:36:22] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:36:22] in a timer event called from: 
+[24/11/2009 23:36:22] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 23:36:23] 
+[24/11/2009 23:36:23] luaDoCombat(). Creature not found
+[24/11/2009 23:36:23] 
+[24/11/2009 23:36:23] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:36:23] in a timer event called from: 
+[24/11/2009 23:36:23] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 23:36:23] 
+[24/11/2009 23:36:23] luaDoCombat(). Creature not found
+[24/11/2009 23:36:23] 
+[24/11/2009 23:36:23] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:36:23] in a timer event called from: 
+[24/11/2009 23:36:23] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 23:36:23] 
+[24/11/2009 23:36:23] luaDoCombat(). Creature not found
+[24/11/2009 23:36:27] 
+[24/11/2009 23:36:27] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:36:27] in a timer event called from: 
+[24/11/2009 23:36:27] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 23:36:27] 
+[24/11/2009 23:36:27] luaDoCombat(). Creature not found
+[24/11/2009 23:36:27] 
+[24/11/2009 23:36:27] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:36:27] in a timer event called from: 
+[24/11/2009 23:36:27] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 23:36:27] 
+[24/11/2009 23:36:27] luaDoCombat(). Creature not found
+[24/11/2009 23:36:28] 
+[24/11/2009 23:36:28] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:36:28] in a timer event called from: 
+[24/11/2009 23:36:28] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 23:36:28] 
+[24/11/2009 23:36:28] luaDoCombat(). Creature not found
+[24/11/2009 23:36:53] Dada druid has logged out.
+[24/11/2009 23:37:40] > Broadcasted message: "Oliver Sykes [108471] Murio por Hades [81735]!!".
+[24/11/2009 23:37:40] > Broadcasted message: "Hades [81735] mato al wn de Oliver Sykes [108471]!".
+[24/11/2009 23:37:41] > Broadcasted message: "Oliver Sykes [108471] Murio por Hades [81735]!!".
+[24/11/2009 23:37:41] Oliver Sykes has logged out.
+[24/11/2009 23:37:43] Dada druid has logged in.
+[24/11/2009 23:37:45] Oliver Sykes has logged in.
+[24/11/2009 23:38:40] 
+[24/11/2009 23:38:40] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:38:40] in a timer event called from: 
+[24/11/2009 23:38:40] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 23:38:40] 
+[24/11/2009 23:38:40] luaDoCombat(). Creature not found
+[24/11/2009 23:38:40] 
+[24/11/2009 23:38:40] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:38:40] in a timer event called from: 
+[24/11/2009 23:38:40] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 23:38:40] 
+[24/11/2009 23:38:40] luaDoCombat(). Creature not found
+[24/11/2009 23:38:40] 
+[24/11/2009 23:38:40] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:38:41] in a timer event called from: 
+[24/11/2009 23:38:41] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 23:38:41] 
+[24/11/2009 23:38:41] luaDoCombat(). Creature not found
+[24/11/2009 23:38:41] 
+[24/11/2009 23:38:41] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:38:41] in a timer event called from: 
+[24/11/2009 23:38:41] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 23:38:41] 
+[24/11/2009 23:38:41] luaDoCombat(). Creature not found
+[24/11/2009 23:38:41] 
+[24/11/2009 23:38:41] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:38:41] in a timer event called from: 
+[24/11/2009 23:38:41] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 23:38:41] 
+[24/11/2009 23:38:41] luaDoCombat(). Creature not found
+[24/11/2009 23:38:41] 
+[24/11/2009 23:38:41] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:38:41] in a timer event called from: 
+[24/11/2009 23:38:41] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 23:38:41] 
+[24/11/2009 23:38:41] luaDoCombat(). Creature not found
+[24/11/2009 23:39:14] 
+[24/11/2009 23:39:14] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:39:14] in a timer event called from: 
+[24/11/2009 23:39:14] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 23:39:14] 
+[24/11/2009 23:39:14] luaDoCombat(). Creature not found
+[24/11/2009 23:39:14] 
+[24/11/2009 23:39:14] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:39:14] in a timer event called from: 
+[24/11/2009 23:39:14] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 23:39:14] 
+[24/11/2009 23:39:14] luaDoCombat(). Creature not found
+[24/11/2009 23:39:14] 
+[24/11/2009 23:39:14] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:39:14] in a timer event called from: 
+[24/11/2009 23:39:14] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 23:39:14] 
+[24/11/2009 23:39:14] luaDoCombat(). Creature not found
+[24/11/2009 23:40:57] 
+[24/11/2009 23:40:57] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:40:57] in a timer event called from: 
+[24/11/2009 23:40:58] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 23:40:58] 
+[24/11/2009 23:40:58] luaDoCombat(). Creature not found
+[24/11/2009 23:40:58] 
+[24/11/2009 23:40:58] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:40:58] in a timer event called from: 
+[24/11/2009 23:40:58] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 23:40:58] 
+[24/11/2009 23:40:58] luaDoCombat(). Creature not found
+[24/11/2009 23:40:58] 
+[24/11/2009 23:40:58] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:40:58] in a timer event called from: 
+[24/11/2009 23:40:58] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 23:40:58] 
+[24/11/2009 23:40:58] luaDoCombat(). Creature not found
+[24/11/2009 23:41:01] Account Manager has logged in.
+[24/11/2009 23:41:04] Account Manager has logged out.
+[24/11/2009 23:41:20] Nacho has logged in.
+[24/11/2009 23:42:06] Aggriento has logged in.
+[24/11/2009 23:42:33] Aggriento has logged out.
+[24/11/2009 23:42:34] Teste has logged in.
+[24/11/2009 23:42:49] > Broadcasted message: "Nacho [2190] Murio por Mafiry!!".
+[24/11/2009 23:42:49] > Broadcasted message: "Nacho [2190] Murio por Mafiry!!".
+[24/11/2009 23:42:49] Nacho has logged out.
+[24/11/2009 23:42:50] Account Manager has logged in.
+[24/11/2009 23:42:52] Nacho has logged in.
+[24/11/2009 23:43:11] Account Manager has logged out.
+[24/11/2009 23:43:11] 
+[24/11/2009 23:43:11] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:43:11] in a timer event called from: 
+[24/11/2009 23:43:12] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 23:43:12] 
+[24/11/2009 23:43:12] luaDoCombat(). Creature not found
+[24/11/2009 23:43:12] 
+[24/11/2009 23:43:12] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:43:12] in a timer event called from: 
+[24/11/2009 23:43:12] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 23:43:12] 
+[24/11/2009 23:43:12] luaDoCombat(). Creature not found
+[24/11/2009 23:43:21] Account Manager has logged in.
+[24/11/2009 23:43:48] 
+[24/11/2009 23:43:48] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:43:48] in a timer event called from: 
+[24/11/2009 23:43:48] data/spells/scripts/attack/KINADOIS.lua:onCastSpell
+[24/11/2009 23:43:48] 
+[24/11/2009 23:43:48] luaDoCombat(). Creature not found
+[24/11/2009 23:43:48] 
+[24/11/2009 23:43:48] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:43:48] in a timer event called from: 
+[24/11/2009 23:43:48] data/spells/scripts/attack/KINADOIS.lua:onCastSpell
+[24/11/2009 23:43:49] 
+[24/11/2009 23:43:49] luaDoCombat(). Creature not found
+[24/11/2009 23:43:49] 
+[24/11/2009 23:43:49] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:43:49] in a timer event called from: 
+[24/11/2009 23:43:49] data/spells/scripts/attack/KINADOIS.lua:onCastSpell
+[24/11/2009 23:43:49] 
+[24/11/2009 23:43:49] luaDoCombat(). Creature not found
+[24/11/2009 23:43:51] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !notice, foro del server http://aggrometal.foroactivo.net".
+[24/11/2009 23:44:02] Account Manager has logged out.
+[24/11/2009 23:44:07] [Warning - Spells::registerEvent] Duplicate registered instant spell with words: exevo con
+[24/11/2009 23:44:15] Master dark has logged in.
+[24/11/2009 23:45:23] 
+[24/11/2009 23:45:23] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:45:23] in a timer event called from: 
+[24/11/2009 23:45:23] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 23:45:23] 
+[24/11/2009 23:45:23] luaDoCombat(). Creature not found
+[24/11/2009 23:45:23] 
+[24/11/2009 23:45:23] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:45:23] in a timer event called from: 
+[24/11/2009 23:45:23] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 23:45:23] 
+[24/11/2009 23:45:23] luaDoCombat(). Creature not found
+[24/11/2009 23:45:23] 
+[24/11/2009 23:45:23] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:45:23] in a timer event called from: 
+[24/11/2009 23:45:23] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 23:45:23] 
+[24/11/2009 23:45:23] luaDoCombat(). Creature not found
+[24/11/2009 23:46:20] > Broadcasted message: "Nacho [2206] Murio por Devil Flamebeast!!".
+[24/11/2009 23:46:20] > Broadcasted message: "Nacho [2206] Murio por Devil Flamebeast!!".
+[24/11/2009 23:46:21] Nacho has logged out.
+[24/11/2009 23:46:24] Nacho has logged in.
+[24/11/2009 23:46:25] Nacho has logged out.
+[24/11/2009 23:46:41] Nacho has logged in.
+[24/11/2009 23:47:06] > Broadcasted message: "Nacho [2203] Murio por Mago merlin!!".
+[24/11/2009 23:47:06] > Broadcasted message: "Nacho [2203] Murio por Mago merlin!!".
+[24/11/2009 23:47:07] Nacho has logged out.
+[24/11/2009 23:47:09] Nacho has logged in.
+[24/11/2009 23:47:49] 
+[24/11/2009 23:47:49] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:47:49] in a timer event called from: 
+[24/11/2009 23:47:49] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 23:47:50] 
+[24/11/2009 23:47:50] luaDoCombat(). Creature not found
+[24/11/2009 23:47:50] 
+[24/11/2009 23:47:50] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:47:50] in a timer event called from: 
+[24/11/2009 23:47:50] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 23:47:50] 
+[24/11/2009 23:47:50] luaDoCombat(). Creature not found
+[24/11/2009 23:47:50] 
+[24/11/2009 23:47:50] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:47:50] in a timer event called from: 
+[24/11/2009 23:47:50] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 23:47:50] 
+[24/11/2009 23:47:50] luaDoCombat(). Creature not found
+[24/11/2009 23:48:32] > Saving server...
+[24/11/2009 23:48:45] > SAVE: Complete in 13.468 seconds using relational house storage.
+[24/11/2009 23:49:55] 
+[24/11/2009 23:49:55] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:49:55] in a timer event called from: 
+[24/11/2009 23:49:55] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 23:49:55] 
+[24/11/2009 23:49:55] luaDoCombat(). Creature not found
+[24/11/2009 23:49:55] 
+[24/11/2009 23:49:55] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:49:55] in a timer event called from: 
+[24/11/2009 23:49:55] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 23:49:55] 
+[24/11/2009 23:49:55] luaDoCombat(). Creature not found
+[24/11/2009 23:49:55] 
+[24/11/2009 23:49:55] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:49:56] in a timer event called from: 
+[24/11/2009 23:49:56] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 23:49:56] 
+[24/11/2009 23:49:56] luaDoCombat(). Creature not found
+[24/11/2009 23:49:56] 
+[24/11/2009 23:49:56] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:49:56] in a timer event called from: 
+[24/11/2009 23:49:56] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 23:49:56] 
+[24/11/2009 23:49:56] luaDoCombat(). Creature not found
+[24/11/2009 23:49:56] 
+[24/11/2009 23:49:56] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:49:56] in a timer event called from: 
+[24/11/2009 23:49:56] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 23:49:56] 
+[24/11/2009 23:49:56] luaDoCombat(). Creature not found
+[24/11/2009 23:49:56] 
+[24/11/2009 23:49:56] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:49:56] in a timer event called from: 
+[24/11/2009 23:49:56] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 23:49:56] 
+[24/11/2009 23:49:56] luaDoCombat(). Creature not found
+[24/11/2009 23:50:56] > Broadcasted message: "whatafuck csm invaden Slayer city".
+[24/11/2009 23:51:10] > Broadcasted message: "Geraldine [801] Murio por Whatafuck!!".
+[24/11/2009 23:51:10] > Broadcasted message: "Geraldine [801] Murio por Whatafuck!!".
+[24/11/2009 23:51:10] Geraldine has logged out.
+[24/11/2009 23:51:11] 
+[24/11/2009 23:51:11] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:51:11] in a timer event called from: 
+[24/11/2009 23:51:11] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 23:51:11] 
+[24/11/2009 23:51:11] luaDoCombat(). Creature not found
+[24/11/2009 23:51:11] 
+[24/11/2009 23:51:11] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:51:12] in a timer event called from: 
+[24/11/2009 23:51:12] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 23:51:12] 
+[24/11/2009 23:51:12] luaDoCombat(). Creature not found
+[24/11/2009 23:51:12] 
+[24/11/2009 23:51:12] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:51:12] in a timer event called from: 
+[24/11/2009 23:51:12] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 23:51:12] 
+[24/11/2009 23:51:12] luaDoCombat(). Creature not found
+[24/11/2009 23:51:14] Geraldine has logged in.
+[24/11/2009 23:51:16] 
+[24/11/2009 23:51:16] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:51:16] in a timer event called from: 
+[24/11/2009 23:51:16] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 23:51:16] 
+[24/11/2009 23:51:16] luaDoCombat(). Creature not found
+[24/11/2009 23:51:16] 
+[24/11/2009 23:51:16] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:51:16] in a timer event called from: 
+[24/11/2009 23:51:16] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 23:51:16] 
+[24/11/2009 23:51:16] luaDoCombat(). Creature not found
+[24/11/2009 23:51:16] 
+[24/11/2009 23:51:16] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:51:16] in a timer event called from: 
+[24/11/2009 23:51:16] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 23:51:16] 
+[24/11/2009 23:51:16] luaDoCombat(). Creature not found
+[24/11/2009 23:51:19] 
+[24/11/2009 23:51:19] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:51:19] in a timer event called from: 
+[24/11/2009 23:51:19] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 23:51:19] 
+[24/11/2009 23:51:19] luaDoCombat(). Creature not found
+[24/11/2009 23:51:20] 
+[24/11/2009 23:51:20] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:51:20] in a timer event called from: 
+[24/11/2009 23:51:20] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 23:51:20] 
+[24/11/2009 23:51:20] luaDoCombat(). Creature not found
+[24/11/2009 23:51:20] 
+[24/11/2009 23:51:20] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:51:20] in a timer event called from: 
+[24/11/2009 23:51:20] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[24/11/2009 23:51:20] 
+[24/11/2009 23:51:20] luaDoCombat(). Creature not found
+[24/11/2009 23:51:21] [Error - SingleSpawnEvent::executeEvent] Cannot spawn monster Diblis The Fair
+[24/11/2009 23:51:25] 
+[24/11/2009 23:51:25] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:51:25] in a timer event called from: 
+[24/11/2009 23:51:25] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 23:51:25] 
+[24/11/2009 23:51:25] luaDoCombat(). Creature not found
+[24/11/2009 23:51:25] 
+[24/11/2009 23:51:25] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:51:25] in a timer event called from: 
+[24/11/2009 23:51:25] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 23:51:25] 
+[24/11/2009 23:51:25] luaDoCombat(). Creature not found
+[24/11/2009 23:51:25] 
+[24/11/2009 23:51:25] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:51:25] in a timer event called from: 
+[24/11/2009 23:51:25] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 23:51:25] 
+[24/11/2009 23:51:25] luaDoCombat(). Creature not found
+[24/11/2009 23:51:50] > Broadcasted message: "Master dark [141] Murio por Demonio!!".
+[24/11/2009 23:51:50] > Broadcasted message: "Master dark [141] Murio por Demonio!!".
+[24/11/2009 23:51:50] Master dark has logged out.
+[24/11/2009 23:51:53] Master dark has logged in.
+[24/11/2009 23:52:44] > Broadcasted message: "Nacho [2201] Murio por Dada druid [40649]!!".
+[24/11/2009 23:52:44] > Broadcasted message: "Dada druid [40649] mato al wn de Nacho [2201]!".
+[24/11/2009 23:52:44] > Broadcasted message: "Nacho [2201] Murio por Dada druid [40649]!!".
+[24/11/2009 23:52:44] Nacho has logged out.
+[24/11/2009 23:52:48] Nacho has logged in.
+[24/11/2009 23:52:48] > Broadcasted message: "Dada druid [40649] Murio por Oliver Sykes [110623]!!".
+[24/11/2009 23:52:48] > Broadcasted message: "Oliver Sykes [110623] mato al wn de Dada druid [40649]!".
+[24/11/2009 23:52:49] > Broadcasted message: "Dada druid [40649] Murio por Oliver Sykes [110623]!!".
+[24/11/2009 23:52:49] Dada druid has logged out.
+[24/11/2009 23:53:02] Dada druid has logged in.
+[24/11/2009 23:53:47] > Broadcasted message: "Nacho [2199] Murio por Hombre Lobo!!".
+[24/11/2009 23:53:47] > Broadcasted message: "Nacho [2199] Murio por Hombre Lobo!!".
+[24/11/2009 23:53:48] Nacho has logged out.
+[24/11/2009 23:53:50] Nacho has logged in.
+[24/11/2009 23:53:52] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !notice, foro del server http://aggrometal.foroactivo.net".
+[24/11/2009 23:54:01] Albo pally has logged in.
+[24/11/2009 23:54:12] > Broadcasted message: "Master dark [141] Murio por Orshabaal!!".
+[24/11/2009 23:54:12] > Broadcasted message: "Master dark [141] Murio por Orshabaal!!".
+[24/11/2009 23:54:12] Master dark has logged out.
+[24/11/2009 23:54:15] Master dark has logged in.
+[24/11/2009 23:55:41] 
+[24/11/2009 23:55:41] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:55:41] in a timer event called from: 
+[24/11/2009 23:55:41] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 23:55:41] 
+[24/11/2009 23:55:41] luaDoCombat(). Creature not found
+[24/11/2009 23:55:41] 
+[24/11/2009 23:55:41] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:55:41] in a timer event called from: 
+[24/11/2009 23:55:41] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 23:55:41] 
+[24/11/2009 23:55:41] luaDoCombat(). Creature not found
+[24/11/2009 23:55:42] 
+[24/11/2009 23:55:42] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:55:42] in a timer event called from: 
+[24/11/2009 23:55:42] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 23:55:42] 
+[24/11/2009 23:55:42] luaDoCombat(). Creature not found
+[24/11/2009 23:55:48] 
+[24/11/2009 23:55:48] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:55:48] in a timer event called from: 
+[24/11/2009 23:55:48] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 23:55:48] 
+[24/11/2009 23:55:48] luaDoCombat(). Creature not found
+[24/11/2009 23:55:48] 
+[24/11/2009 23:55:48] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:55:48] in a timer event called from: 
+[24/11/2009 23:55:48] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 23:55:48] 
+[24/11/2009 23:55:48] luaDoCombat(). Creature not found
+[24/11/2009 23:55:48] 
+[24/11/2009 23:55:48] Lua Script Error: [Spell Interface] 
+[24/11/2009 23:55:48] in a timer event called from: 
+[24/11/2009 23:55:48] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[24/11/2009 23:55:48] 
+[24/11/2009 23:55:48] luaDoCombat(). Creature not found
+[24/11/2009 23:56:40] > Broadcasted message: "Nacho [2304] Murio por The Punisher!!".
+[24/11/2009 23:56:41] > Broadcasted message: "Nacho [2304] Murio por The Punisher!!".
+[24/11/2009 23:56:41] Nacho has logged out.
+[24/11/2009 23:56:43] Nacho has logged in.
+[24/11/2009 23:56:49] Nacho has logged out.
+[24/11/2009 23:56:51] Nacho has logged in.
+[24/11/2009 23:56:51] Nacho has logged out.
+[24/11/2009 23:57:10] Zyte has logged in.
+[24/11/2009 23:57:24] Teste has logged out.
+[24/11/2009 23:58:48] > Broadcasted message: "Albo pally [7370] Murio por Dada druid [40627]!!".
+[24/11/2009 23:58:49] > Broadcasted message: "Dada druid [40627] mato al wn de Albo pally [7370]!".
+[24/11/2009 23:58:49] > Broadcasted message: "Albo pally [7370] Murio por Dada druid [40627]!!".
+[24/11/2009 23:58:49] Albo pally has logged out.
+[24/11/2009 23:59:30] Albo pally has logged in.

@@ -1,0 +1,996 @@
+[15/01/2010 02:09:05] The Forgotten Server, version 0.3.4 (Crying Damson)
+[15/01/2010 02:09:06] Sever Criado Por Alissow e Comedinha.
+[15/01/2010 02:09:06] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[15/01/2010 02:09:06] Bom Jogo!!!
+[15/01/2010 02:09:06] 
+[15/01/2010 02:09:06] >> Debugging: nothing.
+[15/01/2010 02:09:06] >> Checking software version... outdated, please consider updating!
+[15/01/2010 02:09:07] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[15/01/2010 02:09:07] > Latest version information - version: 0.3.6, patch: 0, build: 3293, timestamp: 1260652199.
+[15/01/2010 02:09:07] [Warning - ConfigManager::getBool] 62
+[15/01/2010 02:09:07] 
+[15/01/2010 02:09:07] >> Loading config (config.lua)
+[15/01/2010 02:09:07] > Using plaintext passwords
+[15/01/2010 02:09:07] >> Loading RSA key
+[15/01/2010 02:09:07] >> Starting SQL connection
+[15/01/2010 02:09:07] >> Running Database Manager
+[15/01/2010 02:09:09] > Optimized database.
+[15/01/2010 02:09:09] >> Loading items
+[15/01/2010 02:09:10] >> Loading groups
+[15/01/2010 02:09:10] >> Loading vocations
+[15/01/2010 02:09:10] >> Loading script systems
+[15/01/2010 02:09:26] >> Loading chat channels
+[15/01/2010 02:09:26] >> Loading outfits
+[15/01/2010 02:09:27] >> Loading experience stages
+[15/01/2010 02:09:27] >> Loading monsters
+[15/01/2010 02:09:38] >> Loading map and spawns...
+[15/01/2010 02:09:39] > Map size: 1100x1100.
+[15/01/2010 02:09:40] > Map descriptions: 
+[15/01/2010 02:09:40] Saved with Remere's Map Editor 1.1.10
+[15/01/2010 02:09:40] Remere 's Map Editor Beta
+[15/01/2010 02:09:42] Duplicate uniqueId 9911
+[15/01/2010 02:09:42] Duplicate uniqueId 9912
+[15/01/2010 02:09:42] Duplicate uniqueId 9913
+[15/01/2010 02:09:42] Duplicate uniqueId 9914
+[15/01/2010 02:09:42] Duplicate uniqueId 9915
+[15/01/2010 02:09:43] Duplicate uniqueId 2471
+[15/01/2010 02:09:45] Duplicate uniqueId 2471
+[15/01/2010 02:09:48] Duplicate uniqueId 8880
+[15/01/2010 02:09:49] Duplicate uniqueId 5006
+[15/01/2010 02:09:51] > Map loading time: 13.796 seconds.
+[15/01/2010 02:09:57] > Data loading time: 5.828 seconds.
+[15/01/2010 02:10:01] > Unserialization time for houses: 3.219 seconds.
+[15/01/2010 02:11:29] [Warning - IOMapSerialize::loadTile] NULL item at ( 00351 / 00844 / 007 ) (type = 3823, sid = 1, pid = 0)
+[15/01/2010 02:11:35] [Warning - IOMapSerialize::loadTile] NULL item at ( 00352 / 00844 / 007 ) (type = 3822, sid = 1, pid = 0)
+[15/01/2010 02:12:39] > Unserialization time for map: 157.984 seconds.
+[15/01/2010 02:12:40] >> Checking world type... PvP
+[15/01/2010 02:12:40] >> Initializing game state modules and registering services...
+[15/01/2010 02:15:11] > Global address: 201.246.36.209
+[15/01/2010 02:15:13] > Local ports:
+[15/01/2010 02:15:13] 7171	7172	
+[15/01/2010 02:15:14] >> All modules were loaded, server starting up...
+[15/01/2010 02:15:14] >> Aggrox metal server Online!
+[15/01/2010 02:15:14] 
+[15/01/2010 02:15:27] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[15/01/2010 02:15:36] Hoster Aggresor has logged in.
+[15/01/2010 02:15:37] > Broadcasted message: "Hoster Aggresor se conecto (el es: rei aggresor)".
+[15/01/2010 02:19:26] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[15/01/2010 02:24:15] Hoster Aggresor has logged out.
+[15/01/2010 02:24:18] Zerox has logged in.
+[15/01/2010 02:24:26] > Saving server...
+[15/01/2010 02:24:46] > SAVE: Complete in 20.594 seconds using relational house storage.
+[15/01/2010 02:28:14] Zerox has logged out.
+[15/01/2010 02:28:16] Hoster Aggresor has logged in.
+[15/01/2010 02:28:16] > Broadcasted message: "Hoster Aggresor se conecto (el es: rei aggresor)".
+[15/01/2010 02:29:27] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[15/01/2010 02:29:27] > Broadcasted message: "[SYSTEMA DE LOTERIA] ganador: Hoster Aggresor, recompensa: 100k! - felicitaciones! (siguiente Loteria en media Hora)".
+[15/01/2010 02:29:29] Hoster Aggresor has logged out.
+[15/01/2010 02:29:31] Zerox has logged in.
+[15/01/2010 02:33:36] Zerox has logged out.
+[15/01/2010 02:33:38] Hoster Aggresor has logged in.
+[15/01/2010 02:33:38] > Broadcasted message: "Hoster Aggresor se conecto (el es: rei aggresor)".
+[15/01/2010 02:36:01] [Warning - Event::loadScript] Cannot load script (data/creaturescripts/scripts/rat.lua)
+[15/01/2010 02:36:01] data/creaturescripts/scripts/rat.lua:13: ')' expected near '='
+[15/01/2010 02:37:48] [Warning - Event::loadScript] Cannot load script (data/creaturescripts/scripts/rat.lua)
+[15/01/2010 02:37:48] data/creaturescripts/scripts/rat.lua:13: ')' expected near '='
+[15/01/2010 02:39:27] > Saving server...
+[15/01/2010 02:39:38] > SAVE: Complete in 10.875 seconds using relational house storage.
+[15/01/2010 02:39:38] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[15/01/2010 02:43:52] [Error - GlobalEvent::configureEvent] No interval for GlobalEvent.
+[15/01/2010 02:43:52] [Warning - BaseEvents::loadFromXml] Cannot configure event
+[15/01/2010 02:44:08] [Error - GlobalEvent::configureEvent] No interval for GlobalEvent.
+[15/01/2010 02:44:08] [Warning - BaseEvents::loadFromXml] Cannot configure event
+[15/01/2010 02:44:32] Hoster Aggresor has logged out.
+[15/01/2010 02:44:39] Teste has logged in.
+[15/01/2010 02:51:21] Teste has logged out.
+[15/01/2010 02:51:29] Hoster Aggresor has logged in.
+[15/01/2010 02:51:29] > Broadcasted message: "Hoster Aggresor se conecto (el es: rei aggresor)".
+[15/01/2010 02:51:39] [Warning - Event::loadScript] Event onThink not found (data/globalevents/scripts/delete_players.lua)
+[15/01/2010 02:55:23] Hoster Aggresor has logged out.
+[15/01/2010 02:55:26] Pro Pro has logged in.
+[15/01/2010 02:57:45] Pro Pro has logged out.
+[15/01/2010 02:57:48] Hoster Aggresor has logged in.
+[15/01/2010 02:57:48] > Broadcasted message: "Hoster Aggresor se conecto (el es: rei aggresor)".
+[15/01/2010 03:01:40] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[15/01/2010 03:06:40] > Saving server...
+[15/01/2010 03:08:29] > SAVE: Complete in 108.312 seconds using relational house storage.
+[15/01/2010 03:11:40] > Broadcasted message: "[SYSTEMA DE LOTERIA] ganador: Hoster Aggresor, recompensa: 100k! - felicitaciones! (siguiente Loteria en media Hora)".
+[15/01/2010 03:11:42] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[15/01/2010 03:21:16] Hoster Aggresor has logged out.
+[15/01/2010 03:21:19] Pro Pro has logged in.
+[15/01/2010 03:21:41] > Saving server...
+[15/01/2010 03:22:12] > SAVE: Complete in 31.421 seconds using relational house storage.
+[15/01/2010 03:22:12] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[15/01/2010 03:22:15] Teste has logged in.
+[15/01/2010 03:22:50] Pro Pro has logged out.
+[15/01/2010 03:22:52] Hoster Aggresor has logged in.
+[15/01/2010 03:22:52] > Broadcasted message: "Hoster Aggresor se conecto (el es: rei aggresor)".
+[15/01/2010 03:23:08] Hoster Aggresor has logged out.
+[15/01/2010 03:23:10] Pro Pro has logged in.
+[15/01/2010 03:24:57] Pro Pro has logged out.
+[15/01/2010 03:24:59] Hoster Aggresor has logged in.
+[15/01/2010 03:24:59] > Broadcasted message: "Hoster Aggresor se conecto (el es: rei aggresor)".
+[15/01/2010 03:25:05] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/scroll.lua)
+[15/01/2010 03:25:05] data/actions/scripts/scroll.lua:79: 'end' expected (to close 'function' at line 65) near 'else'
+[15/01/2010 03:25:16] Hoster Aggresor has logged out.
+[15/01/2010 03:25:18] Zerox has logged in.
+[15/01/2010 03:25:22] Zerox has logged out.
+[15/01/2010 03:25:24] Pro Pro has logged in.
+[15/01/2010 03:25:57] Pro Pro has logged out.
+[15/01/2010 03:25:58] Hoster Aggresor has logged in.
+[15/01/2010 03:25:59] > Broadcasted message: "Hoster Aggresor se conecto (el es: rei aggresor)".
+[15/01/2010 03:26:06] Hoster Aggresor has logged out.
+[15/01/2010 03:26:08] Pro Pro has logged in.
+[15/01/2010 03:28:10] Pro Pro has logged out.
+[15/01/2010 03:28:12] Hoster Aggresor has logged in.
+[15/01/2010 03:28:12] > Broadcasted message: "Hoster Aggresor se conecto (el es: rei aggresor)".
+[15/01/2010 03:30:43] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/scroll.lua)
+[15/01/2010 03:30:44] data/actions/scripts/scroll.lua:3: ')' expected near '='
+[15/01/2010 03:30:48] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/scroll.lua)
+[15/01/2010 03:30:48] data/actions/scripts/scroll.lua:3: ')' expected near '='
+[15/01/2010 03:31:12] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/scroll.lua)
+[15/01/2010 03:31:12] data/actions/scripts/scroll.lua:3: ')' expected near '='
+[15/01/2010 03:31:41] > Broadcasted message: "[SYSTEMA DE LOTERIA] ganador: Teste, recompensa: 100k! - felicitaciones! (siguiente Loteria en media Hora)".
+[15/01/2010 03:32:13] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[15/01/2010 03:32:58] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/scroll.lua)
+[15/01/2010 03:32:58] data/actions/scripts/scroll.lua:3: ')' expected near '='
+[15/01/2010 03:36:42] > Saving server...
+[15/01/2010 03:37:16] > SAVE: Complete in 33.75 seconds using relational house storage.
+[15/01/2010 03:38:07] 
+[15/01/2010 03:38:07] Lua Script Error: [Action Interface] 
+[15/01/2010 03:38:07] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 03:38:07] 
+[15/01/2010 03:38:07] data/actions/scripts/scroll.lua:5: attempt to compare number with boolean
+[15/01/2010 03:38:07] stack traceback:
+[15/01/2010 03:38:07] 	data/actions/scripts/scroll.lua:5: in function <data/actions/scripts/scroll.lua:3>
+[15/01/2010 03:38:08] 
+[15/01/2010 03:38:08] Lua Script Error: [Action Interface] 
+[15/01/2010 03:38:08] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 03:38:08] 
+[15/01/2010 03:38:08] data/actions/scripts/scroll.lua:5: attempt to compare number with boolean
+[15/01/2010 03:38:08] stack traceback:
+[15/01/2010 03:38:08] 	data/actions/scripts/scroll.lua:5: in function <data/actions/scripts/scroll.lua:3>
+[15/01/2010 03:38:09] 
+[15/01/2010 03:38:09] Lua Script Error: [Action Interface] 
+[15/01/2010 03:38:09] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 03:38:09] 
+[15/01/2010 03:38:09] data/actions/scripts/scroll.lua:5: attempt to compare number with boolean
+[15/01/2010 03:38:09] stack traceback:
+[15/01/2010 03:38:09] 	data/actions/scripts/scroll.lua:5: in function <data/actions/scripts/scroll.lua:3>
+[15/01/2010 03:38:09] 
+[15/01/2010 03:38:09] Lua Script Error: [Action Interface] 
+[15/01/2010 03:38:09] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 03:38:09] 
+[15/01/2010 03:38:09] data/actions/scripts/scroll.lua:5: attempt to compare number with boolean
+[15/01/2010 03:38:09] stack traceback:
+[15/01/2010 03:38:09] 	data/actions/scripts/scroll.lua:5: in function <data/actions/scripts/scroll.lua:3>
+[15/01/2010 03:38:45] 
+[15/01/2010 03:38:45] Lua Script Error: [Action Interface] 
+[15/01/2010 03:38:45] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 03:38:45] 
+[15/01/2010 03:38:45] data/actions/scripts/scroll.lua:5: attempt to compare number with boolean
+[15/01/2010 03:38:45] stack traceback:
+[15/01/2010 03:38:45] 	data/actions/scripts/scroll.lua:5: in function <data/actions/scripts/scroll.lua:3>
+[15/01/2010 03:39:12] 
+[15/01/2010 03:39:12] Lua Script Error: [Action Interface] 
+[15/01/2010 03:39:12] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 03:39:12] 
+[15/01/2010 03:39:12] data/actions/scripts/scroll.lua:5: attempt to compare number with boolean
+[15/01/2010 03:39:12] stack traceback:
+[15/01/2010 03:39:12] 	data/actions/scripts/scroll.lua:5: in function <data/actions/scripts/scroll.lua:3>
+[15/01/2010 03:40:35] > Broadcasted message: "whatafuck csm invaden Slayer city".
+[15/01/2010 03:41:00] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/scroll.lua)
+[15/01/2010 03:41:00] data/actions/scripts/scroll.lua:35: unfinished string near '"You can't use '
+[15/01/2010 03:42:14] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[15/01/2010 03:45:42] Hoster Aggresor has logged out.
+[15/01/2010 03:45:47] Pro Pro has logged in.
+[15/01/2010 03:51:42] > Broadcasted message: "[SYSTEMA DE LOTERIA] ganador: Teste, recompensa: 100k! - felicitaciones! (siguiente Loteria en media Hora)".
+[15/01/2010 03:51:43] > Saving server...
+[15/01/2010 03:52:07] > SAVE: Complete in 23.25 seconds using relational house storage.
+[15/01/2010 03:52:15] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[15/01/2010 03:58:47] Pro Pro has logged out.
+[15/01/2010 03:59:04] Hoster Aggresor has logged in.
+[15/01/2010 03:59:04] > Broadcasted message: "Hoster Aggresor se conecto (el es: rei aggresor)".
+[15/01/2010 04:02:16] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[15/01/2010 04:03:35] Hoster Aggresor has logged out.
+[15/01/2010 04:03:41] Zerox has logged in.
+[15/01/2010 04:04:05] Zerox has logged out.
+[15/01/2010 04:04:08] Pro Pro has logged in.
+[15/01/2010 04:06:13] Pro Pro has logged out.
+[15/01/2010 04:06:17] Hoster Aggresor has logged in.
+[15/01/2010 04:06:17] > Broadcasted message: "Hoster Aggresor se conecto (el es: rei aggresor)".
+[15/01/2010 04:07:10] > Saving server...
+[15/01/2010 04:08:01] > SAVE: Complete in 51.563 seconds using relational house storage.
+[15/01/2010 04:08:13] 
+[15/01/2010 04:08:13] Lua Script Error: [Action Interface] 
+[15/01/2010 04:08:13] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 04:08:13] 
+[15/01/2010 04:08:13] data/actions/scripts/scroll.lua:5: attempt to compare number with boolean
+[15/01/2010 04:08:13] stack traceback:
+[15/01/2010 04:08:13] 	data/actions/scripts/scroll.lua:5: in function <data/actions/scripts/scroll.lua:3>
+[15/01/2010 04:08:14] 
+[15/01/2010 04:08:14] Lua Script Error: [Action Interface] 
+[15/01/2010 04:08:14] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 04:08:14] 
+[15/01/2010 04:08:14] data/actions/scripts/scroll.lua:5: attempt to compare number with boolean
+[15/01/2010 04:08:15] stack traceback:
+[15/01/2010 04:08:15] 	data/actions/scripts/scroll.lua:5: in function <data/actions/scripts/scroll.lua:3>
+[15/01/2010 04:08:15] 
+[15/01/2010 04:08:15] Lua Script Error: [Action Interface] 
+[15/01/2010 04:08:15] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 04:08:15] 
+[15/01/2010 04:08:15] data/actions/scripts/scroll.lua:5: attempt to compare number with boolean
+[15/01/2010 04:08:15] stack traceback:
+[15/01/2010 04:08:15] 	data/actions/scripts/scroll.lua:5: in function <data/actions/scripts/scroll.lua:3>
+[15/01/2010 04:08:15] 
+[15/01/2010 04:08:15] Lua Script Error: [Action Interface] 
+[15/01/2010 04:08:16] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 04:08:16] 
+[15/01/2010 04:08:16] data/actions/scripts/scroll.lua:5: attempt to compare number with boolean
+[15/01/2010 04:08:16] stack traceback:
+[15/01/2010 04:08:16] 	data/actions/scripts/scroll.lua:5: in function <data/actions/scripts/scroll.lua:3>
+[15/01/2010 04:08:18] 
+[15/01/2010 04:08:18] Lua Script Error: [Action Interface] 
+[15/01/2010 04:08:18] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 04:08:18] 
+[15/01/2010 04:08:18] data/actions/scripts/scroll.lua:5: attempt to compare number with boolean
+[15/01/2010 04:08:18] stack traceback:
+[15/01/2010 04:08:18] 	data/actions/scripts/scroll.lua:5: in function <data/actions/scripts/scroll.lua:3>
+[15/01/2010 04:08:18] 
+[15/01/2010 04:08:18] Lua Script Error: [Action Interface] 
+[15/01/2010 04:08:18] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 04:08:18] 
+[15/01/2010 04:08:18] data/actions/scripts/scroll.lua:5: attempt to compare number with boolean
+[15/01/2010 04:08:18] stack traceback:
+[15/01/2010 04:08:19] 	data/actions/scripts/scroll.lua:5: in function <data/actions/scripts/scroll.lua:3>
+[15/01/2010 04:08:19] 
+[15/01/2010 04:08:19] Lua Script Error: [Action Interface] 
+[15/01/2010 04:08:19] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 04:08:19] 
+[15/01/2010 04:08:19] data/actions/scripts/scroll.lua:5: attempt to compare number with boolean
+[15/01/2010 04:08:19] stack traceback:
+[15/01/2010 04:08:19] 	data/actions/scripts/scroll.lua:5: in function <data/actions/scripts/scroll.lua:3>
+[15/01/2010 04:08:19] 
+[15/01/2010 04:08:19] Lua Script Error: [Action Interface] 
+[15/01/2010 04:08:19] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 04:08:20] 
+[15/01/2010 04:08:20] data/actions/scripts/scroll.lua:5: attempt to compare number with boolean
+[15/01/2010 04:08:20] stack traceback:
+[15/01/2010 04:08:20] 	data/actions/scripts/scroll.lua:5: in function <data/actions/scripts/scroll.lua:3>
+[15/01/2010 04:11:43] > Broadcasted message: "[SYSTEMA DE LOTERIA] ganador: Hoster Aggresor, recompensa: 100k! - felicitaciones! (siguiente Loteria en media Hora)".
+[15/01/2010 04:12:17] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[15/01/2010 04:13:38] 
+[15/01/2010 04:13:38] Lua Script Error: [Action Interface] 
+[15/01/2010 04:13:38] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 04:13:38] 
+[15/01/2010 04:13:38] data/actions/scripts/scroll.lua:5: attempt to compare number with boolean
+[15/01/2010 04:13:38] stack traceback:
+[15/01/2010 04:13:38] 	data/actions/scripts/scroll.lua:5: in function <data/actions/scripts/scroll.lua:3>
+[15/01/2010 04:13:39] 
+[15/01/2010 04:13:39] Lua Script Error: [Action Interface] 
+[15/01/2010 04:13:39] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 04:13:39] 
+[15/01/2010 04:13:39] data/actions/scripts/scroll.lua:5: attempt to compare number with boolean
+[15/01/2010 04:13:39] stack traceback:
+[15/01/2010 04:13:39] 	data/actions/scripts/scroll.lua:5: in function <data/actions/scripts/scroll.lua:3>
+[15/01/2010 04:13:40] 
+[15/01/2010 04:13:40] Lua Script Error: [Action Interface] 
+[15/01/2010 04:13:40] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 04:13:40] 
+[15/01/2010 04:13:40] data/actions/scripts/scroll.lua:5: attempt to compare number with boolean
+[15/01/2010 04:13:40] stack traceback:
+[15/01/2010 04:13:40] 	data/actions/scripts/scroll.lua:5: in function <data/actions/scripts/scroll.lua:3>
+[15/01/2010 04:13:40] 
+[15/01/2010 04:13:40] Lua Script Error: [Action Interface] 
+[15/01/2010 04:13:41] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 04:13:41] 
+[15/01/2010 04:13:41] data/actions/scripts/scroll.lua:5: attempt to compare number with boolean
+[15/01/2010 04:13:41] stack traceback:
+[15/01/2010 04:13:41] 	data/actions/scripts/scroll.lua:5: in function <data/actions/scripts/scroll.lua:3>
+[15/01/2010 04:13:41] 
+[15/01/2010 04:13:41] Lua Script Error: [Action Interface] 
+[15/01/2010 04:13:41] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 04:13:41] 
+[15/01/2010 04:13:41] data/actions/scripts/scroll.lua:5: attempt to compare number with boolean
+[15/01/2010 04:13:41] stack traceback:
+[15/01/2010 04:13:41] 	data/actions/scripts/scroll.lua:5: in function <data/actions/scripts/scroll.lua:3>
+[15/01/2010 04:13:42] 
+[15/01/2010 04:13:42] Lua Script Error: [Action Interface] 
+[15/01/2010 04:13:42] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 04:13:42] 
+[15/01/2010 04:13:42] data/actions/scripts/scroll.lua:5: attempt to compare number with boolean
+[15/01/2010 04:13:42] stack traceback:
+[15/01/2010 04:13:42] 	data/actions/scripts/scroll.lua:5: in function <data/actions/scripts/scroll.lua:3>
+[15/01/2010 04:15:42] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/scroll.lua)
+[15/01/2010 04:15:42] data/actions/scripts/scroll.lua:1: '=' expected near 'onUse'
+[15/01/2010 04:22:11] > Saving server...
+[15/01/2010 04:22:28] > SAVE: Complete in 16.203 seconds using relational house storage.
+[15/01/2010 04:22:28] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[15/01/2010 04:31:44] > Broadcasted message: "[SYSTEMA DE LOTERIA] ganador: Hoster Aggresor, recompensa: 100k! - felicitaciones! (siguiente Loteria en media Hora)".
+[15/01/2010 04:32:29] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[15/01/2010 04:37:12] > Saving server...
+[15/01/2010 04:37:35] > SAVE: Complete in 23.11 seconds using relational house storage.
+[15/01/2010 04:40:03] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/scroll.lua)
+[15/01/2010 04:40:03] data/actions/scripts/scroll.lua:1: '=' expected near 'onUse'
+[15/01/2010 04:41:01] 
+[15/01/2010 04:41:01] Lua Script Error: [Action Interface] 
+[15/01/2010 04:41:02] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 04:41:02] 
+[15/01/2010 04:41:02] attempt to index a number value
+[15/01/2010 04:41:02] stack traceback:
+[15/01/2010 04:41:02] 	[C]: in function 'doSendMagicEffect'
+[15/01/2010 04:41:02] 	data/actions/scripts/scroll.lua:23: in function <data/actions/scripts/scroll.lua:1>
+[15/01/2010 04:41:03] 
+[15/01/2010 04:41:03] Lua Script Error: [Action Interface] 
+[15/01/2010 04:41:03] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 04:41:03] 
+[15/01/2010 04:41:03] attempt to index a number value
+[15/01/2010 04:41:03] stack traceback:
+[15/01/2010 04:41:03] 	[C]: in function 'doSendMagicEffect'
+[15/01/2010 04:41:03] 	data/actions/scripts/scroll.lua:23: in function <data/actions/scripts/scroll.lua:1>
+[15/01/2010 04:41:03] 
+[15/01/2010 04:41:03] Lua Script Error: [Action Interface] 
+[15/01/2010 04:41:03] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 04:41:03] 
+[15/01/2010 04:41:03] attempt to index a number value
+[15/01/2010 04:41:03] stack traceback:
+[15/01/2010 04:41:03] 	[C]: in function 'doSendMagicEffect'
+[15/01/2010 04:41:03] 	data/actions/scripts/scroll.lua:23: in function <data/actions/scripts/scroll.lua:1>
+[15/01/2010 04:41:04] 
+[15/01/2010 04:41:04] Lua Script Error: [Action Interface] 
+[15/01/2010 04:41:04] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 04:41:04] 
+[15/01/2010 04:41:04] attempt to index a number value
+[15/01/2010 04:41:04] stack traceback:
+[15/01/2010 04:41:04] 	[C]: in function 'doSendMagicEffect'
+[15/01/2010 04:41:04] 	data/actions/scripts/scroll.lua:23: in function <data/actions/scripts/scroll.lua:1>
+[15/01/2010 04:41:05] 
+[15/01/2010 04:41:05] Lua Script Error: [Action Interface] 
+[15/01/2010 04:41:05] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 04:41:05] 
+[15/01/2010 04:41:05] attempt to index a number value
+[15/01/2010 04:41:05] stack traceback:
+[15/01/2010 04:41:05] 	[C]: in function 'doSendMagicEffect'
+[15/01/2010 04:41:05] 	data/actions/scripts/scroll.lua:23: in function <data/actions/scripts/scroll.lua:1>
+[15/01/2010 04:41:05] 
+[15/01/2010 04:41:05] Lua Script Error: [Action Interface] 
+[15/01/2010 04:41:05] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 04:41:06] 
+[15/01/2010 04:41:06] attempt to index a number value
+[15/01/2010 04:41:06] stack traceback:
+[15/01/2010 04:41:06] 	[C]: in function 'doSendMagicEffect'
+[15/01/2010 04:41:06] 	data/actions/scripts/scroll.lua:23: in function <data/actions/scripts/scroll.lua:1>
+[15/01/2010 04:41:06] 
+[15/01/2010 04:41:06] Lua Script Error: [Action Interface] 
+[15/01/2010 04:41:06] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 04:41:06] 
+[15/01/2010 04:41:06] attempt to index a number value
+[15/01/2010 04:41:06] stack traceback:
+[15/01/2010 04:41:06] 	[C]: in function 'doSendMagicEffect'
+[15/01/2010 04:41:06] 	data/actions/scripts/scroll.lua:23: in function <data/actions/scripts/scroll.lua:1>
+[15/01/2010 04:41:44] 
+[15/01/2010 04:41:44] Lua Script Error: [Action Interface] 
+[15/01/2010 04:41:44] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 04:41:44] 
+[15/01/2010 04:41:44] attempt to index a nil value
+[15/01/2010 04:41:44] stack traceback:
+[15/01/2010 04:41:44] 	[C]: in function 'doSendMagicEffect'
+[15/01/2010 04:41:44] 	data/actions/scripts/scroll.lua:24: in function <data/actions/scripts/scroll.lua:1>
+[15/01/2010 04:41:45] 
+[15/01/2010 04:41:45] Lua Script Error: [Action Interface] 
+[15/01/2010 04:41:45] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 04:41:45] 
+[15/01/2010 04:41:45] attempt to index a nil value
+[15/01/2010 04:41:45] stack traceback:
+[15/01/2010 04:41:45] 	[C]: in function 'doSendMagicEffect'
+[15/01/2010 04:41:45] 	data/actions/scripts/scroll.lua:24: in function <data/actions/scripts/scroll.lua:1>
+[15/01/2010 04:41:46] 
+[15/01/2010 04:41:46] Lua Script Error: [Action Interface] 
+[15/01/2010 04:41:46] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 04:41:46] 
+[15/01/2010 04:41:46] attempt to index a nil value
+[15/01/2010 04:41:46] stack traceback:
+[15/01/2010 04:41:46] 	[C]: in function 'doSendMagicEffect'
+[15/01/2010 04:41:46] 	data/actions/scripts/scroll.lua:24: in function <data/actions/scripts/scroll.lua:1>
+[15/01/2010 04:41:54] 
+[15/01/2010 04:41:54] Lua Script Error: [Action Interface] 
+[15/01/2010 04:41:54] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 04:41:54] 
+[15/01/2010 04:41:54] attempt to index a nil value
+[15/01/2010 04:41:54] stack traceback:
+[15/01/2010 04:41:54] 	[C]: in function 'doSendMagicEffect'
+[15/01/2010 04:41:54] 	data/actions/scripts/scroll.lua:24: in function <data/actions/scripts/scroll.lua:1>
+[15/01/2010 04:41:57] 
+[15/01/2010 04:41:57] Lua Script Error: [Action Interface] 
+[15/01/2010 04:41:57] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 04:41:57] 
+[15/01/2010 04:41:57] attempt to index a nil value
+[15/01/2010 04:41:57] stack traceback:
+[15/01/2010 04:41:57] 	[C]: in function 'doSendMagicEffect'
+[15/01/2010 04:41:57] 	data/actions/scripts/scroll.lua:24: in function <data/actions/scripts/scroll.lua:1>
+[15/01/2010 04:41:57] 
+[15/01/2010 04:41:57] Lua Script Error: [Action Interface] 
+[15/01/2010 04:41:57] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 04:41:57] 
+[15/01/2010 04:41:57] attempt to index a nil value
+[15/01/2010 04:41:57] stack traceback:
+[15/01/2010 04:41:58] 	[C]: in function 'doSendMagicEffect'
+[15/01/2010 04:41:58] 	data/actions/scripts/scroll.lua:24: in function <data/actions/scripts/scroll.lua:1>
+[15/01/2010 04:41:58] 
+[15/01/2010 04:41:58] Lua Script Error: [Action Interface] 
+[15/01/2010 04:41:58] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 04:41:58] 
+[15/01/2010 04:41:58] attempt to index a nil value
+[15/01/2010 04:41:58] stack traceback:
+[15/01/2010 04:41:58] 	[C]: in function 'doSendMagicEffect'
+[15/01/2010 04:41:58] 	data/actions/scripts/scroll.lua:24: in function <data/actions/scripts/scroll.lua:1>
+[15/01/2010 04:41:58] 
+[15/01/2010 04:41:58] Lua Script Error: [Action Interface] 
+[15/01/2010 04:41:59] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 04:41:59] 
+[15/01/2010 04:41:59] attempt to index a nil value
+[15/01/2010 04:41:59] stack traceback:
+[15/01/2010 04:41:59] 	[C]: in function 'doSendMagicEffect'
+[15/01/2010 04:41:59] 	data/actions/scripts/scroll.lua:24: in function <data/actions/scripts/scroll.lua:1>
+[15/01/2010 04:42:04] 
+[15/01/2010 04:42:04] Lua Script Error: [Action Interface] 
+[15/01/2010 04:42:05] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 04:42:05] 
+[15/01/2010 04:42:05] attempt to index a nil value
+[15/01/2010 04:42:05] stack traceback:
+[15/01/2010 04:42:05] 	[C]: in function 'doSendMagicEffect'
+[15/01/2010 04:42:05] 	data/actions/scripts/scroll.lua:24: in function <data/actions/scripts/scroll.lua:1>
+[15/01/2010 04:42:15] Hoster Aggresor has logged out.
+[15/01/2010 04:42:18] Pro Pro has logged in.
+[15/01/2010 04:42:25] 
+[15/01/2010 04:42:25] Lua Script Error: [Action Interface] 
+[15/01/2010 04:42:25] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 04:42:25] 
+[15/01/2010 04:42:25] attempt to index a nil value
+[15/01/2010 04:42:25] stack traceback:
+[15/01/2010 04:42:25] 	[C]: in function 'doSendMagicEffect'
+[15/01/2010 04:42:25] 	data/actions/scripts/scroll.lua:24: in function <data/actions/scripts/scroll.lua:1>
+[15/01/2010 04:42:30] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[15/01/2010 04:45:01] 
+[15/01/2010 04:45:01] Lua Script Error: [Action Interface] 
+[15/01/2010 04:45:01] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 04:45:01] 
+[15/01/2010 04:45:01] attempt to index a nil value
+[15/01/2010 04:45:01] stack traceback:
+[15/01/2010 04:45:01] 	[C]: in function 'doSendMagicEffect'
+[15/01/2010 04:45:01] 	data/actions/scripts/scroll.lua:24: in function <data/actions/scripts/scroll.lua:1>
+[15/01/2010 04:45:04] 
+[15/01/2010 04:45:04] Lua Script Error: [Action Interface] 
+[15/01/2010 04:45:04] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 04:45:04] 
+[15/01/2010 04:45:04] attempt to index a nil value
+[15/01/2010 04:45:04] stack traceback:
+[15/01/2010 04:45:04] 	[C]: in function 'doSendMagicEffect'
+[15/01/2010 04:45:04] 	data/actions/scripts/scroll.lua:24: in function <data/actions/scripts/scroll.lua:1>
+[15/01/2010 04:50:33] Pro Pro has logged out.
+[15/01/2010 04:50:36] Hoster Aggresor has logged in.
+[15/01/2010 04:50:36] > Broadcasted message: "Hoster Aggresor se conecto (el es: rei aggresor)".
+[15/01/2010 04:51:13] 
+[15/01/2010 04:51:13] Lua Script Error: [Action Interface] 
+[15/01/2010 04:51:13] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 04:51:13] 
+[15/01/2010 04:51:13] data/actions/scripts/scroll.lua:5: attempt to compare number with boolean
+[15/01/2010 04:51:13] stack traceback:
+[15/01/2010 04:51:13] 	data/actions/scripts/scroll.lua:5: in function <data/actions/scripts/scroll.lua:3>
+[15/01/2010 04:51:15] 
+[15/01/2010 04:51:15] Lua Script Error: [Action Interface] 
+[15/01/2010 04:51:15] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 04:51:15] 
+[15/01/2010 04:51:15] data/actions/scripts/scroll.lua:5: attempt to compare number with boolean
+[15/01/2010 04:51:15] stack traceback:
+[15/01/2010 04:51:15] 	data/actions/scripts/scroll.lua:5: in function <data/actions/scripts/scroll.lua:3>
+[15/01/2010 04:51:16] 
+[15/01/2010 04:51:16] Lua Script Error: [Action Interface] 
+[15/01/2010 04:51:16] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 04:51:16] 
+[15/01/2010 04:51:16] data/actions/scripts/scroll.lua:5: attempt to compare number with boolean
+[15/01/2010 04:51:16] stack traceback:
+[15/01/2010 04:51:16] 	data/actions/scripts/scroll.lua:5: in function <data/actions/scripts/scroll.lua:3>
+[15/01/2010 04:51:16] 
+[15/01/2010 04:51:16] Lua Script Error: [Action Interface] 
+[15/01/2010 04:51:16] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 04:51:16] 
+[15/01/2010 04:51:16] data/actions/scripts/scroll.lua:5: attempt to compare number with boolean
+[15/01/2010 04:51:16] stack traceback:
+[15/01/2010 04:51:16] 	data/actions/scripts/scroll.lua:5: in function <data/actions/scripts/scroll.lua:3>
+[15/01/2010 04:51:17] 
+[15/01/2010 04:51:17] Lua Script Error: [Action Interface] 
+[15/01/2010 04:51:17] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 04:51:17] 
+[15/01/2010 04:51:17] data/actions/scripts/scroll.lua:5: attempt to compare number with boolean
+[15/01/2010 04:51:17] stack traceback:
+[15/01/2010 04:51:17] 	data/actions/scripts/scroll.lua:5: in function <data/actions/scripts/scroll.lua:3>
+[15/01/2010 04:51:17] 
+[15/01/2010 04:51:17] Lua Script Error: [Action Interface] 
+[15/01/2010 04:51:17] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 04:51:18] 
+[15/01/2010 04:51:18] data/actions/scripts/scroll.lua:5: attempt to compare number with boolean
+[15/01/2010 04:51:18] stack traceback:
+[15/01/2010 04:51:18] 	data/actions/scripts/scroll.lua:5: in function <data/actions/scripts/scroll.lua:3>
+[15/01/2010 04:51:19] 
+[15/01/2010 04:51:19] Lua Script Error: [Action Interface] 
+[15/01/2010 04:51:19] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 04:51:19] 
+[15/01/2010 04:51:19] data/actions/scripts/scroll.lua:5: attempt to compare number with boolean
+[15/01/2010 04:51:20] stack traceback:
+[15/01/2010 04:51:20] 	data/actions/scripts/scroll.lua:5: in function <data/actions/scripts/scroll.lua:3>
+[15/01/2010 04:51:20] 
+[15/01/2010 04:51:20] Lua Script Error: [Action Interface] 
+[15/01/2010 04:51:20] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 04:51:21] 
+[15/01/2010 04:51:21] data/actions/scripts/scroll.lua:5: attempt to compare number with boolean
+[15/01/2010 04:51:21] stack traceback:
+[15/01/2010 04:51:21] 	data/actions/scripts/scroll.lua:5: in function <data/actions/scripts/scroll.lua:3>
+[15/01/2010 04:51:40] > Broadcasted message: "la limpieza del mapa empieza en 30 segundos, por favor wn recoje tus items!".
+[15/01/2010 04:51:43] 
+[15/01/2010 04:51:43] Lua Script Error: [Action Interface] 
+[15/01/2010 04:51:43] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 04:51:43] 
+[15/01/2010 04:51:43] data/actions/scripts/scroll.lua:5: attempt to compare number with boolean
+[15/01/2010 04:51:43] stack traceback:
+[15/01/2010 04:51:43] 	data/actions/scripts/scroll.lua:5: in function <data/actions/scripts/scroll.lua:3>
+[15/01/2010 04:51:44] 
+[15/01/2010 04:51:44] Lua Script Error: [Action Interface] 
+[15/01/2010 04:51:44] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 04:51:44] 
+[15/01/2010 04:51:44] data/actions/scripts/scroll.lua:5: attempt to compare number with boolean
+[15/01/2010 04:51:44] stack traceback:
+[15/01/2010 04:51:44] 	data/actions/scripts/scroll.lua:5: in function <data/actions/scripts/scroll.lua:3>
+[15/01/2010 04:51:45] > Broadcasted message: "[SYSTEMA DE LOTERIA] ganador: Teste, recompensa: 100k! - felicitaciones! (siguiente Loteria en media Hora)".
+[15/01/2010 04:51:52] 
+[15/01/2010 04:51:52] Lua Script Error: [Action Interface] 
+[15/01/2010 04:51:52] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 04:51:52] 
+[15/01/2010 04:51:52] data/actions/scripts/scroll.lua:5: attempt to compare number with boolean
+[15/01/2010 04:51:52] stack traceback:
+[15/01/2010 04:51:52] 	data/actions/scripts/scroll.lua:5: in function <data/actions/scripts/scroll.lua:3>
+[15/01/2010 04:51:52] 
+[15/01/2010 04:51:52] Lua Script Error: [Action Interface] 
+[15/01/2010 04:51:52] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 04:51:52] 
+[15/01/2010 04:51:52] data/actions/scripts/scroll.lua:5: attempt to compare number with boolean
+[15/01/2010 04:51:52] stack traceback:
+[15/01/2010 04:51:52] 	data/actions/scripts/scroll.lua:5: in function <data/actions/scripts/scroll.lua:3>
+[15/01/2010 04:51:53] 
+[15/01/2010 04:51:53] Lua Script Error: [Action Interface] 
+[15/01/2010 04:51:53] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 04:51:53] 
+[15/01/2010 04:51:53] data/actions/scripts/scroll.lua:5: attempt to compare number with boolean
+[15/01/2010 04:51:53] stack traceback:
+[15/01/2010 04:51:53] 	data/actions/scripts/scroll.lua:5: in function <data/actions/scripts/scroll.lua:3>
+[15/01/2010 04:51:53] 
+[15/01/2010 04:51:53] Lua Script Error: [Action Interface] 
+[15/01/2010 04:51:53] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 04:51:53] 
+[15/01/2010 04:51:53] data/actions/scripts/scroll.lua:5: attempt to compare number with boolean
+[15/01/2010 04:51:53] stack traceback:
+[15/01/2010 04:51:53] 	data/actions/scripts/scroll.lua:5: in function <data/actions/scripts/scroll.lua:3>
+[15/01/2010 04:51:54] 
+[15/01/2010 04:51:54] Lua Script Error: [Action Interface] 
+[15/01/2010 04:51:54] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 04:51:54] 
+[15/01/2010 04:51:54] data/actions/scripts/scroll.lua:5: attempt to compare number with boolean
+[15/01/2010 04:51:54] stack traceback:
+[15/01/2010 04:51:54] 	data/actions/scripts/scroll.lua:5: in function <data/actions/scripts/scroll.lua:3>
+[15/01/2010 04:51:54] 
+[15/01/2010 04:51:54] Lua Script Error: [Action Interface] 
+[15/01/2010 04:51:54] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 04:51:54] 
+[15/01/2010 04:51:54] data/actions/scripts/scroll.lua:5: attempt to compare number with boolean
+[15/01/2010 04:51:55] stack traceback:
+[15/01/2010 04:51:55] 	data/actions/scripts/scroll.lua:5: in function <data/actions/scripts/scroll.lua:3>
+[15/01/2010 04:51:55] 
+[15/01/2010 04:51:55] Lua Script Error: [Action Interface] 
+[15/01/2010 04:51:55] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 04:51:55] 
+[15/01/2010 04:51:55] data/actions/scripts/scroll.lua:5: attempt to compare number with boolean
+[15/01/2010 04:51:55] stack traceback:
+[15/01/2010 04:51:55] 	data/actions/scripts/scroll.lua:5: in function <data/actions/scripts/scroll.lua:3>
+[15/01/2010 04:51:55] 
+[15/01/2010 04:51:55] Lua Script Error: [Action Interface] 
+[15/01/2010 04:51:56] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 04:51:56] 
+[15/01/2010 04:51:56] data/actions/scripts/scroll.lua:5: attempt to compare number with boolean
+[15/01/2010 04:51:56] stack traceback:
+[15/01/2010 04:51:56] 	data/actions/scripts/scroll.lua:5: in function <data/actions/scripts/scroll.lua:3>
+[15/01/2010 04:52:12] > CLEAN: Removed 4 items from 189 tiles in 1.015 seconds.
+[15/01/2010 04:52:12] > Broadcasted message: "el mapa se limpio :P, siguiente limpieza en 2 horas.".
+[15/01/2010 04:52:13] > Saving server...
+[15/01/2010 04:52:31] > SAVE: Complete in 18.5 seconds using relational house storage.
+[15/01/2010 04:52:32] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[15/01/2010 04:53:37] 
+[15/01/2010 04:53:37] Lua Script Error: [Action Interface] 
+[15/01/2010 04:53:37] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 04:53:37] 
+[15/01/2010 04:53:37] data/actions/scripts/scroll.lua:5: attempt to compare number with boolean
+[15/01/2010 04:53:38] stack traceback:
+[15/01/2010 04:53:38] 	data/actions/scripts/scroll.lua:5: in function <data/actions/scripts/scroll.lua:3>
+[15/01/2010 04:53:38] 
+[15/01/2010 04:53:38] Lua Script Error: [Action Interface] 
+[15/01/2010 04:53:38] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 04:53:38] 
+[15/01/2010 04:53:38] data/actions/scripts/scroll.lua:5: attempt to compare number with boolean
+[15/01/2010 04:53:38] stack traceback:
+[15/01/2010 04:53:38] 	data/actions/scripts/scroll.lua:5: in function <data/actions/scripts/scroll.lua:3>
+[15/01/2010 04:53:39] 
+[15/01/2010 04:53:39] Lua Script Error: [Action Interface] 
+[15/01/2010 04:53:39] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 04:53:39] 
+[15/01/2010 04:53:39] data/actions/scripts/scroll.lua:5: attempt to compare number with boolean
+[15/01/2010 04:53:39] stack traceback:
+[15/01/2010 04:53:39] 	data/actions/scripts/scroll.lua:5: in function <data/actions/scripts/scroll.lua:3>
+[15/01/2010 04:53:39] 
+[15/01/2010 04:53:39] Lua Script Error: [Action Interface] 
+[15/01/2010 04:53:39] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 04:53:39] 
+[15/01/2010 04:53:39] data/actions/scripts/scroll.lua:5: attempt to compare number with boolean
+[15/01/2010 04:53:39] stack traceback:
+[15/01/2010 04:53:39] 	data/actions/scripts/scroll.lua:5: in function <data/actions/scripts/scroll.lua:3>
+[15/01/2010 04:53:40] 
+[15/01/2010 04:53:40] Lua Script Error: [Action Interface] 
+[15/01/2010 04:53:40] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 04:53:40] 
+[15/01/2010 04:53:40] data/actions/scripts/scroll.lua:5: attempt to compare number with boolean
+[15/01/2010 04:53:40] stack traceback:
+[15/01/2010 04:53:40] 	data/actions/scripts/scroll.lua:5: in function <data/actions/scripts/scroll.lua:3>
+[15/01/2010 04:56:01] 
+[15/01/2010 04:56:02] Lua Script Error: [Action Interface] 
+[15/01/2010 04:56:02] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 04:56:02] 
+[15/01/2010 04:56:02] data/actions/scripts/scroll.lua:5: attempt to compare number with boolean
+[15/01/2010 04:56:02] stack traceback:
+[15/01/2010 04:56:02] 	data/actions/scripts/scroll.lua:5: in function <data/actions/scripts/scroll.lua:3>
+[15/01/2010 05:02:34] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[15/01/2010 05:03:39] Teste has logged out.
+[15/01/2010 05:07:14] > Saving server...
+[15/01/2010 05:08:33] > SAVE: Complete in 78.532 seconds using relational house storage.
+[15/01/2010 05:11:46] > Broadcasted message: "[SYSTEMA DE LOTERIA] ganador: Hoster Aggresor, recompensa: 100k! - felicitaciones! (siguiente Loteria en media Hora)".
+[15/01/2010 05:12:34] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[15/01/2010 05:16:40] Hoster Aggresor has logged out.
+[15/01/2010 05:16:43] Pro Pro has logged in.
+[15/01/2010 05:16:49] Pro Pro has logged out.
+[15/01/2010 05:16:51] Hoster Aggresor has logged in.
+[15/01/2010 05:16:51] > Broadcasted message: "Hoster Aggresor se conecto (el es: rei aggresor)".
+[15/01/2010 05:17:13] Hoster Aggresor has logged out.
+[15/01/2010 05:17:15] Pro Pro has logged in.
+[15/01/2010 05:18:14] Pro Pro has logged out.
+[15/01/2010 05:18:17] Hoster Aggresor has logged in.
+[15/01/2010 05:18:17] > Broadcasted message: "Hoster Aggresor se conecto (el es: rei aggresor)".
+[15/01/2010 05:22:15] > Saving server...
+[15/01/2010 05:22:24] > SAVE: Complete in 9.188 seconds using relational house storage.
+[15/01/2010 05:22:35] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[15/01/2010 05:26:25] 
+[15/01/2010 05:26:25] Lua Script Error: [Action Interface] 
+[15/01/2010 05:26:25] data/actions/scripts/scroll.lua
+[15/01/2010 05:26:25] 
+[15/01/2010 05:26:25] luaCreateConditionObject(). Condition not found
+[15/01/2010 05:26:25] 
+[15/01/2010 05:26:25] Lua Script Error: [Action Interface] 
+[15/01/2010 05:26:25] data/actions/scripts/scroll.lua
+[15/01/2010 05:26:25] 
+[15/01/2010 05:26:25] luaSetConditionParam(). Condition not found
+[15/01/2010 05:27:16] 
+[15/01/2010 05:27:16] Lua Script Error: [Action Interface] 
+[15/01/2010 05:27:16] data/actions/scripts/scroll.lua
+[15/01/2010 05:27:16] 
+[15/01/2010 05:27:17] luaCreateConditionObject(). Condition not found
+[15/01/2010 05:27:17] 
+[15/01/2010 05:27:17] Lua Script Error: [Action Interface] 
+[15/01/2010 05:27:17] data/actions/scripts/scroll.lua
+[15/01/2010 05:27:17] 
+[15/01/2010 05:27:17] luaSetConditionParam(). Condition not found
+[15/01/2010 05:28:59] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/scroll.lua)
+[15/01/2010 05:28:59] data/actions/scripts/scroll.lua:27: '<eof>' expected near 'end'
+[15/01/2010 05:31:47] > Broadcasted message: "[SYSTEMA DE LOTERIA] ganador: Hoster Aggresor, recompensa: 100k! - felicitaciones! (siguiente Loteria en media Hora)".
+[15/01/2010 05:32:36] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[15/01/2010 05:35:51] Hoster Aggresor has logged out.
+[15/01/2010 05:35:55] Pro Pro has logged in.
+[15/01/2010 05:37:16] > Saving server...
+[15/01/2010 05:37:47] > SAVE: Complete in 31.125 seconds using relational house storage.
+[15/01/2010 05:39:22] Pro Pro has logged out.
+[15/01/2010 05:39:25] Hoster Aggresor has logged in.
+[15/01/2010 05:39:25] > Broadcasted message: "Hoster Aggresor se conecto (el es: rei aggresor)".
+[15/01/2010 05:39:34] Hoster Aggresor has logged out.
+[15/01/2010 05:39:36] Pro Pro has logged in.
+[15/01/2010 05:39:38] 
+[15/01/2010 05:39:38] Lua Script Error: [Action Interface] 
+[15/01/2010 05:39:38] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 05:39:38] 
+[15/01/2010 05:39:38] data/actions/scripts/scroll.lua:6: attempt to compare number with boolean
+[15/01/2010 05:39:39] stack traceback:
+[15/01/2010 05:39:39] 	data/actions/scripts/scroll.lua:6: in function <data/actions/scripts/scroll.lua:5>
+[15/01/2010 05:39:39] 
+[15/01/2010 05:39:39] Lua Script Error: [Action Interface] 
+[15/01/2010 05:39:39] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 05:39:40] 
+[15/01/2010 05:39:40] data/actions/scripts/scroll.lua:6: attempt to compare number with boolean
+[15/01/2010 05:39:40] stack traceback:
+[15/01/2010 05:39:40] 	data/actions/scripts/scroll.lua:6: in function <data/actions/scripts/scroll.lua:5>
+[15/01/2010 05:39:40] 
+[15/01/2010 05:39:40] Lua Script Error: [Action Interface] 
+[15/01/2010 05:39:40] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 05:39:40] 
+[15/01/2010 05:39:40] data/actions/scripts/scroll.lua:6: attempt to compare number with boolean
+[15/01/2010 05:39:40] stack traceback:
+[15/01/2010 05:39:40] 	data/actions/scripts/scroll.lua:6: in function <data/actions/scripts/scroll.lua:5>
+[15/01/2010 05:39:40] 
+[15/01/2010 05:39:40] Lua Script Error: [Action Interface] 
+[15/01/2010 05:39:41] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 05:39:41] 
+[15/01/2010 05:39:41] data/actions/scripts/scroll.lua:6: attempt to compare number with boolean
+[15/01/2010 05:39:41] stack traceback:
+[15/01/2010 05:39:41] 	data/actions/scripts/scroll.lua:6: in function <data/actions/scripts/scroll.lua:5>
+[15/01/2010 05:39:42] 
+[15/01/2010 05:39:42] Lua Script Error: [Action Interface] 
+[15/01/2010 05:39:42] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 05:39:42] 
+[15/01/2010 05:39:42] data/actions/scripts/scroll.lua:6: attempt to compare number with boolean
+[15/01/2010 05:39:42] stack traceback:
+[15/01/2010 05:39:42] 	data/actions/scripts/scroll.lua:6: in function <data/actions/scripts/scroll.lua:5>
+[15/01/2010 05:39:44] 
+[15/01/2010 05:39:44] Lua Script Error: [Action Interface] 
+[15/01/2010 05:39:44] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 05:39:44] 
+[15/01/2010 05:39:44] data/actions/scripts/scroll.lua:6: attempt to compare number with boolean
+[15/01/2010 05:39:44] stack traceback:
+[15/01/2010 05:39:44] 	data/actions/scripts/scroll.lua:6: in function <data/actions/scripts/scroll.lua:5>
+[15/01/2010 05:39:44] 
+[15/01/2010 05:39:44] Lua Script Error: [Action Interface] 
+[15/01/2010 05:39:44] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 05:39:44] 
+[15/01/2010 05:39:44] data/actions/scripts/scroll.lua:6: attempt to compare number with boolean
+[15/01/2010 05:39:45] stack traceback:
+[15/01/2010 05:39:45] 	data/actions/scripts/scroll.lua:6: in function <data/actions/scripts/scroll.lua:5>
+[15/01/2010 05:39:45] 
+[15/01/2010 05:39:45] Lua Script Error: [Action Interface] 
+[15/01/2010 05:39:45] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 05:39:45] 
+[15/01/2010 05:39:45] data/actions/scripts/scroll.lua:6: attempt to compare number with boolean
+[15/01/2010 05:39:45] stack traceback:
+[15/01/2010 05:39:45] 	data/actions/scripts/scroll.lua:6: in function <data/actions/scripts/scroll.lua:5>
+[15/01/2010 05:41:17] Pro Pro has logged out.
+[15/01/2010 05:41:18] Hoster Aggresor has logged in.
+[15/01/2010 05:41:18] > Broadcasted message: "Hoster Aggresor se conecto (el es: rei aggresor)".
+[15/01/2010 05:42:37] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[15/01/2010 05:44:05] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/scroll.lua)
+[15/01/2010 05:44:05] data/actions/scripts/scroll.lua:7: 'then' expected near 'doTeleportThing'
+[15/01/2010 05:49:23] 
+[15/01/2010 05:49:23] Lua Script Error: [Action Interface] 
+[15/01/2010 05:49:23] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 05:49:23] 
+[15/01/2010 05:49:23] luaGetTileInfo(). Tile not found
+[15/01/2010 05:49:23] 
+[15/01/2010 05:49:23] Lua Script Error: [Action Interface] 
+[15/01/2010 05:49:23] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 05:49:23] 
+[15/01/2010 05:49:23] data/lib/function.lua:334: attempt to index a boolean value
+[15/01/2010 05:49:23] stack traceback:
+[15/01/2010 05:49:23] 	data/lib/function.lua:334: in function 'getTilePzInfo'
+[15/01/2010 05:49:23] 	data/actions/scripts/scroll.lua:14: in function <data/actions/scripts/scroll.lua:6>
+[15/01/2010 05:49:24] 
+[15/01/2010 05:49:24] Lua Script Error: [Action Interface] 
+[15/01/2010 05:49:24] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 05:49:24] 
+[15/01/2010 05:49:24] luaGetTileInfo(). Tile not found
+[15/01/2010 05:49:24] 
+[15/01/2010 05:49:24] Lua Script Error: [Action Interface] 
+[15/01/2010 05:49:24] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 05:49:24] 
+[15/01/2010 05:49:24] data/lib/function.lua:334: attempt to index a boolean value
+[15/01/2010 05:49:24] stack traceback:
+[15/01/2010 05:49:24] 	data/lib/function.lua:334: in function 'getTilePzInfo'
+[15/01/2010 05:49:24] 	data/actions/scripts/scroll.lua:14: in function <data/actions/scripts/scroll.lua:6>
+[15/01/2010 05:49:25] 
+[15/01/2010 05:49:25] Lua Script Error: [Action Interface] 
+[15/01/2010 05:49:25] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 05:49:25] 
+[15/01/2010 05:49:25] luaGetTileInfo(). Tile not found
+[15/01/2010 05:49:25] 
+[15/01/2010 05:49:25] Lua Script Error: [Action Interface] 
+[15/01/2010 05:49:25] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 05:49:25] 
+[15/01/2010 05:49:25] data/lib/function.lua:334: attempt to index a boolean value
+[15/01/2010 05:49:25] stack traceback:
+[15/01/2010 05:49:25] 	data/lib/function.lua:334: in function 'getTilePzInfo'
+[15/01/2010 05:49:25] 	data/actions/scripts/scroll.lua:14: in function <data/actions/scripts/scroll.lua:6>
+[15/01/2010 05:50:14] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/scroll.lua)
+[15/01/2010 05:50:14] data/actions/scripts/scroll.lua:25: 'end' expected (to close 'function' at line 6) near '<eof>'
+[15/01/2010 05:51:48] > Broadcasted message: "[SYSTEMA DE LOTERIA] ganador: Hoster Aggresor, recompensa: 100k! - felicitaciones! (siguiente Loteria en media Hora)".
+[15/01/2010 05:52:17] > Saving server...
+[15/01/2010 05:52:36] > SAVE: Complete in 18.719 seconds using relational house storage.
+[15/01/2010 05:52:38] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[15/01/2010 05:53:36] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/scroll.lua)
+[15/01/2010 05:53:36] data/actions/scripts/scroll.lua:16: 'end' expected (to close 'function' at line 5) near '<eof>'
+[15/01/2010 05:55:01] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/scroll.lua)
+[15/01/2010 05:55:01] data/actions/scripts/scroll.lua:16: 'end' expected (to close 'function' at line 5) near '<eof>'
+[15/01/2010 05:58:03] Hoster Aggresor has logged out.
+[15/01/2010 05:58:08] Zerox has logged in.
+[15/01/2010 06:02:34] Zerox has logged out.
+[15/01/2010 06:02:38] Hoster Aggresor has logged in.
+[15/01/2010 06:02:38] > Broadcasted message: "Hoster Aggresor se conecto (el es: rei aggresor)".
+[15/01/2010 06:02:39] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[15/01/2010 06:03:35] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/scroll.lua)
+[15/01/2010 06:03:35] data/actions/scripts/scroll.lua:79: 'end' expected (to close 'function' at line 65) near 'else'
+[15/01/2010 06:05:15] 
+[15/01/2010 06:05:15] Lua Script Error: [Action Interface] 
+[15/01/2010 06:05:15] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 06:05:15] 
+[15/01/2010 06:05:15] data/actions/scripts/scroll.lua:5: attempt to compare number with boolean
+[15/01/2010 06:05:15] stack traceback:
+[15/01/2010 06:05:15] 	data/actions/scripts/scroll.lua:5: in function <data/actions/scripts/scroll.lua:3>
+[15/01/2010 06:05:18] 
+[15/01/2010 06:05:19] Lua Script Error: [Action Interface] 
+[15/01/2010 06:05:19] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 06:05:19] 
+[15/01/2010 06:05:19] data/actions/scripts/scroll.lua:5: attempt to compare number with boolean
+[15/01/2010 06:05:19] stack traceback:
+[15/01/2010 06:05:19] 	data/actions/scripts/scroll.lua:5: in function <data/actions/scripts/scroll.lua:3>
+[15/01/2010 06:05:19] 
+[15/01/2010 06:05:19] Lua Script Error: [Action Interface] 
+[15/01/2010 06:05:19] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 06:05:19] 
+[15/01/2010 06:05:19] data/actions/scripts/scroll.lua:5: attempt to compare number with boolean
+[15/01/2010 06:05:19] stack traceback:
+[15/01/2010 06:05:19] 	data/actions/scripts/scroll.lua:5: in function <data/actions/scripts/scroll.lua:3>
+[15/01/2010 06:05:20] 
+[15/01/2010 06:05:20] Lua Script Error: [Action Interface] 
+[15/01/2010 06:05:20] data/actions/scripts/scroll.lua:onUse
+[15/01/2010 06:05:20] 
+[15/01/2010 06:05:20] data/actions/scripts/scroll.lua:5: attempt to compare number with boolean
+[15/01/2010 06:05:20] stack traceback:
+[15/01/2010 06:05:20] 	data/actions/scripts/scroll.lua:5: in function <data/actions/scripts/scroll.lua:3>
+[15/01/2010 06:07:18] > Saving server...
+[15/01/2010 06:07:44] > SAVE: Complete in 25.453 seconds using relational house storage.
+[15/01/2010 06:11:49] > Broadcasted message: "[SYSTEMA DE LOTERIA] ganador: Hoster Aggresor, recompensa: 100k! - felicitaciones! (siguiente Loteria en media Hora)".
+[15/01/2010 06:11:55] > Broadcasted message: "Demonios csm invaden Slayer city".
+[15/01/2010 06:12:07] [Error - SingleSpawnEvent::executeEvent] Cannot spawn monster Demonio
+[15/01/2010 06:12:37] Hoster Aggresor has logged out.
+[15/01/2010 06:12:40] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[15/01/2010 06:13:11] > Saving server...
+[15/01/2010 06:13:20] > SAVE: Complete in 9.093 seconds using relational house storage.
+[15/01/2010 06:13:20] Preparing to shutdown server.[15/01/2010 17:19:05] The Forgotten Server, version 0.3.4 (Crying Damson)
+[15/01/2010 17:19:05] Sever Criado Por Alissow e Comedinha.
+[15/01/2010 17:19:05] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[15/01/2010 17:19:05] Bom Jogo!!!
+[15/01/2010 17:19:05] 
+[15/01/2010 17:19:05] >> Debugging: nothing.
+[15/01/2010 17:19:05] >> Checking software version... outdated, please consider updating!
+[15/01/2010 17:19:06] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[15/01/2010 17:19:06] > Latest version information - version: 0.3.6, patch: 0, build: 3293, timestamp: 1260652199.
+[15/01/2010 17:19:06] [Warning - ConfigManager::getBool] 62
+[15/01/2010 17:19:06] 
+[15/01/2010 17:19:06] >> Loading config (config.lua)
+[15/01/2010 17:19:07] > Using plaintext passwords
+[15/01/2010 17:19:07] >> Loading RSA key
+[15/01/2010 17:19:07] >> Starting SQL connection
+[15/01/2010 17:19:07] >> Running Database Manager
+[15/01/2010 17:19:08] > Optimized database.
+[15/01/2010 17:19:08] >> Loading items
+[15/01/2010 17:19:09] >> Loading groups
+[15/01/2010 17:19:09] >> Loading vocations
+[15/01/2010 17:19:09] >> Loading script systems
+[15/01/2010 17:19:16] >> Loading chat channels
+[15/01/2010 17:19:16] >> Loading outfits
+[15/01/2010 17:19:16] >> Loading experience stages
+[15/01/2010 17:19:17] >> Loading monsters
+[15/01/2010 17:19:19] >> Loading map and spawns...
+[15/01/2010 17:19:21] > Map size: 1100x1100.
+[15/01/2010 17:19:21] > Map descriptions: 
+[15/01/2010 17:19:21] Saved with Remere's Map Editor 1.1.10
+[15/01/2010 17:19:21] Remere 's Map Editor Beta
+[15/01/2010 17:19:22] Duplicate uniqueId 9911
+[15/01/2010 17:19:22] Duplicate uniqueId 9912
+[15/01/2010 17:19:22] Duplicate uniqueId 9913
+[15/01/2010 17:19:22] Duplicate uniqueId 9914
+[15/01/2010 17:19:22] Duplicate uniqueId 9915
+[15/01/2010 17:19:24] Duplicate uniqueId 2471
+[15/01/2010 17:19:26] Duplicate uniqueId 2471
+[15/01/2010 17:19:32] Duplicate uniqueId 8880
+[15/01/2010 17:19:34] Duplicate uniqueId 5006
+[15/01/2010 17:19:37] > Map loading time: 17.343 seconds.
+[15/01/2010 17:19:47] > Data loading time: 10.234 seconds.
+[15/01/2010 17:19:48] > Unserialization time for houses: 0.765 seconds.
+[15/01/2010 17:21:50] > Unserialization time for map: 122.063 seconds.
+[15/01/2010 17:21:51] >> Checking world type... PvP
+[15/01/2010 17:21:51] >> Initializing game state modules and registering services...
+[15/01/2010 17:22:19] > Global address: 201.246.36.209
+[15/01/2010 17:22:22] > Local ports:
+[15/01/2010 17:22:22] 7171	7172	
+[15/01/2010 17:22:22] >> All modules were loaded, server starting up...
+[15/01/2010 17:22:22] >> Aggrox metal server Online!
+[15/01/2010 17:22:22] 
+[15/01/2010 17:23:19] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[15/01/2010 17:23:22] Hoster Aggresor has logged in.
+[15/01/2010 17:23:22] > Broadcasted message: "Hoster Aggresor se conecto (el es: rei aggresor)".
+[15/01/2010 17:24:48] Hoster Aggresor has logged out.
+[15/01/2010 17:24:52] > Saving server...
+[15/01/2010 17:25:45] > SAVE: Complete in 53 seconds using relational house storage.
+[15/01/2010 17:26:03] Preparing to shutdown server.[15/01/2010 18:03:05] The Forgotten Server, version 0.3.4 (Crying Damson)
+[15/01/2010 18:03:05] Sever Criado Por Alissow e Comedinha.
+[15/01/2010 18:03:05] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[15/01/2010 18:03:05] Bom Jogo!!!
+[15/01/2010 18:03:05] 
+[15/01/2010 18:03:05] >> Debugging: nothing.
+[15/01/2010 18:03:05] >> Checking software version... outdated, please consider updating!
+[15/01/2010 18:03:06] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[15/01/2010 18:03:06] > Latest version information - version: 0.3.6, patch: 0, build: 3293, timestamp: 1260652199.
+[15/01/2010 18:03:07] [Warning - ConfigManager::getBool] 62
+[15/01/2010 18:03:07] 
+[15/01/2010 18:03:07] >> Loading config (config.lua)
+[15/01/2010 18:03:07] > Using plaintext passwords
+[15/01/2010 18:03:07] >> Loading RSA key
+[15/01/2010 18:03:07] >> Starting SQL connection
+[15/01/2010 18:03:07] >> Running Database Manager
+[15/01/2010 18:03:09] > Optimized database.
+[15/01/2010 18:03:09] >> Loading items
+[15/01/2010 18:03:10] >> Loading groups
+[15/01/2010 18:03:10] >> Loading vocations
+[15/01/2010 18:03:10] >> Loading script systems
+[15/01/2010 18:03:16] >> Loading chat channels
+[15/01/2010 18:03:17] >> Loading outfits
+[15/01/2010 18:03:17] >> Loading experience stages
+[15/01/2010 18:03:17] >> Loading monsters
+[15/01/2010 18:03:19] >> Loading map and spawns...
+[15/01/2010 18:03:20] > Map size: 1100x1100.
+[15/01/2010 18:03:20] > Map descriptions: 
+[15/01/2010 18:03:20] Saved with Remere's Map Editor 1.1.10
+[15/01/2010 18:03:20] Remere 's Map Editor Beta
+[15/01/2010 18:03:21] Duplicate uniqueId 9911
+[15/01/2010 18:03:21] Duplicate uniqueId 9912
+[15/01/2010 18:03:21] Duplicate uniqueId 9913
+[15/01/2010 18:03:21] Duplicate uniqueId 9914
+[15/01/2010 18:03:21] Duplicate uniqueId 9915
+[15/01/2010 18:03:22] Duplicate uniqueId 2471
+[15/01/2010 18:03:22] Duplicate uniqueId 2471
+[15/01/2010 18:03:24] Duplicate uniqueId 8880
+[15/01/2010 18:03:24] Duplicate uniqueId 5006
+[15/01/2010 18:03:25] > Map loading time: 5.515 seconds.
+[15/01/2010 18:03:26] > Data loading time: 1.438 seconds.
+[15/01/2010 18:03:26] > Unserialization time for houses: 0.063 seconds.
+[15/01/2010 18:05:00] > Unserialization time for map: 93.969 seconds.
+[15/01/2010 18:05:00] >> Checking world type... PvP
+[15/01/2010 18:05:00] >> Initializing game state modules and registering services...
+[15/01/2010 18:05:01] > Global address: 201.246.36.209
+[15/01/2010 18:05:01] > Local ports:
+[15/01/2010 18:05:02] 7171	7172	
+[15/01/2010 18:05:02] >> All modules were loaded, server starting up...
+[15/01/2010 18:05:02] >> Aggrox metal server Online!
+[15/01/2010 18:05:02] 
+[15/01/2010 18:06:00] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[15/01/2010 18:06:02] Hoster Aggresor has logged in.
+[15/01/2010 18:06:02] > Broadcasted message: "Hoster Aggresor se conecto (el es: rei aggresor)".
+[15/01/2010 18:08:07] Hoster Aggresor has logged out.
+[15/01/2010 18:08:08] Hoster Aggresor has logged in.
+[15/01/2010 18:08:08] > Broadcasted message: "Hoster Aggresor se conecto (el es: rei aggresor)".
+[15/01/2010 18:13:17] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[15/01/2010 18:18:17] > Saving server...
+[15/01/2010 18:18:25] > SAVE: Complete in 8.875 seconds using relational house storage.
+[15/01/2010 18:23:17] > Broadcasted message: "[SYSTEMA DE LOTERIA] ganador: Hoster Aggresor, recompensa: 100k! - felicitaciones! (siguiente Loteria en media Hora)".
+[15/01/2010 18:23:18] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[15/01/2010 18:31:06] > Broadcasted message: "whatafuck csm invaden Slayer city".
+[15/01/2010 18:33:18] > Saving server...
+[15/01/2010 18:34:53] > SAVE: Complete in 94.703 seconds using relational house storage.
+[15/01/2010 18:34:54] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[15/01/2010 18:43:18] > Broadcasted message: "[SYSTEMA DE LOTERIA] ganador: Hoster Aggresor, recompensa: 100k! - felicitaciones! (siguiente Loteria en media Hora)".
+[15/01/2010 18:44:55] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[15/01/2010 18:48:19] > Saving server...
+[15/01/2010 18:48:44] > SAVE: Complete in 24.484 seconds using relational house storage.
+[15/01/2010 18:54:56] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[15/01/2010 19:03:19] > Broadcasted message: "[SYSTEMA DE LOTERIA] ganador: Hoster Aggresor, recompensa: 100k! - felicitaciones! (siguiente Loteria en media Hora)".
+[15/01/2010 19:03:21] > Saving server...
+[15/01/2010 19:03:48] > SAVE: Complete in 26.843 seconds using relational house storage.
+[15/01/2010 19:04:57] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[15/01/2010 19:14:58] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[15/01/2010 19:18:22] > Saving server...
+[15/01/2010 19:19:08] > SAVE: Complete in 45.422 seconds using relational house storage.
+[15/01/2010 19:21:54] Hoster Aggresor has logged out.
+[15/01/2010 19:21:54] > Saving server...
+[15/01/2010 19:22:04] > SAVE: Complete in 9.75 seconds using relational house storage.
+[15/01/2010 19:22:04] Preparing to shutdown server..
+[15/01/2010 19:22:05] .
+[15/01/2010 19:22:05] Exiting

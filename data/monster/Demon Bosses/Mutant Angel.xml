@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Infernatil" nameDescription="Infernatil" race="fire" experience="35000" speed="500" manacost="0">
+  <health now="100000" max="100000"/>
+  <look type="12" head="0" body="87" legs="0" feet="94" corpse="6068"/>
+  <targetchange interval="5000" chance="20"/>
+  <strategy attack="65" defense="5"/>
+  <flags>
+    <flag summonable="0"/>
+    <flag attackable="1"/>
+    <flag hostile="1"/>
+    <flag illusionable="0"/>
+    <flag convinceable="0"/>
+    <flag pushable="0"/>
+    <flag canpushitems="1"/>
+    <flag canpushcreatures="1"/>
+    <flag targetdistance="1"/>
+    <flag staticattack="90"/>
+    <flag runonhealth="0"/>
+  </flags>
+  <attacks>
+    <attack name="Super Zerker" interval="1000" min="-600" max="-1200"/>
+    <attack name="Frozen Wave" interval="2000" min="-600" max="-1200"/>
+    <attack name="Eternal Winter" interval="3000" min="-600" max="-1200"/>
+    <attack name="Thunderstorm" interval="4000" min="-600" max="-1200"/>
+    <attack name="Stone Shower" interval="5000" min="-600" max="-1200"/>
+    
+    <attack name="Hells Core" interval="3500" min="-600" max="-1200"/>
+
+  </attacks>
+  <defenses armor="188" defense="145">
+    <defense name="healing" interval="1000" chance="15" min="1000" max="3000">
+      <attribute key="areaEffect" value="blueshimmer"/>
+    </defense>
+    <defense name="speed" interval="2000" chance="8" speedchange="480" duration="6000">
+      <attribute key="areaEffect" value="redshimmer"/>
+    </defense>
+  </defenses>
+  <immunities>
+    <immunity physical="0"/>
+    <immunity energy="1"/>
+    <immunity fire="1"/>
+    <immunity poison="1"/>
+    <immunity lifedrain="1"/>
+    <immunity paralyze="1"/>
+    <immunity outfit="1"/>
+    <immunity drunk="1"/>
+    <immunity invisible="1"/>
+  </immunities>
+  <loot>
+    <item id="2142" countmax="1" chance="3500"/>
+    <item id="2160" countmax="10" chance="9000"/>
+    <item id="2160" countmax="5" chance="9000"/>
+    <item id="2151" countmax="40" chance="15000"/>
+    <item id="2158" countmax="1" chance="1500"/>
+    <item id="2646" countmax="1" chance="4000"/>
+    <item id="2159" countmax="50" chance="2500"/>
+    <item id="2173" countmax="1" chance="1500"/>
+    <item id="2520" countmax="1" chance="15500"/>
+    <item id="2342" countmax="1" chance="11000"/>
+    <item id="2390" countmax="1" chance="90000"/>
+    <item id="6528" countmax="1" chance="4500"/>
+    <item id="2167" countmax="1" chance="13500"/>
+    <item id="7456" countmax="1" chance="17000"/>
+    <item id="2179" countmax="1" chance="8000"/>
+    <item id="2470" countmax="1" chance="5000"/>
+    <item id="2523" countmax="1" chance="2000"/>
+    <item id="2155" countmax="1" chance="1500"/>
+    <item id="2472" countmax="1" chance="3000"/>
+    <item id="2514" countmax="1" chance="7500"/>
+    <item id="2539" countmax="1" chance="5000"/>
+    <item id="2157" countmax="10" chance="4000"/>
+    <item id="5926" chance="100000">
+      <inside>
+    <item id="2197" countmax="20" chance="4000"/>
+    <item id="7745" countmax="1" chance="2600"/>
+    <item id="2453" countmax="1" chance="12500"/>
+    <item id="7753" countmax="1" chance="13000"/>
+    <item id="7755" countmax="1" chance="3500"/>
+    <item id="8870" countmax="1" chance="13000"/>
+    <item id="8871" countmax="1" chance="15500"/>
+    <item id="8892" countmax="1" chance="5000"/>
+    <item id="8900" countmax="1" chance="13500"/>
+    <item id="8901" countmax="1" chance="9500"/>
+    <item id="8902" countmax="1" chance="15500"/>
+    <item id="8903" countmax="1" chance="13500"/>
+    <item id="8904" countmax="1" chance="3500"/>
+    <item id="8905" countmax="1" chance="3500"/>
+    <item id="8890" countmax="1" chance="2500"/>
+    <item id="8887" countmax="1" chance="14000"/>
+    <item id="8884" countmax="1" chance="14500"/>
+    <item id="8883" countmax="1" chance="13500"/>
+    <item id="8882" countmax="1" chance="20000"/>
+    <item id="8881" countmax="1" chance="3500"/>
+    <item id="8879" countmax="1" chance="3000"/>
+    <item id="8878" countmax="1" chance="2500"/>
+    <item id="8877" countmax="1" chance="12500"/>
+    <item id="8869" countmax="1" chance="3500"/>
+    <item id="8867" countmax="1" chance="3000"/>
+    <item id="8866" countmax="1" chance="2500"/>
+    <item id="8865" countmax="1" chance="2500"/>
+    <item id="8873" countmax="1" chance="3500"/>
+    <item id="8874" countmax="1" chance="3000"/>
+    <item id="8876" countmax="1" chance="2500"/>
+      </inside>
+    </item>
+  </loot>
+</monster>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Alisson" nameDescription="Alisson" race="blood" experience="25000000" speed="2000" manacost="0">
+<health now="10000000" max="10000000"/>
+<look type="266" head="0" body="104" legs="97" feet="94" corpse="3128"/>
+<targetchange interval="60000" chance="0"/>
+<strategy attack="100" defense="0"/>
+<flags>
+<flag summonable="0"/>
+<flag attackable="1"/>
+<flag hostile="1"/>
+<flag illusionable="0"/>
+<flag convinceable="0"/>
+<flag pushable="0"/>
+<flag canpushitems="1"/>
+<flag canpushcreatures="1"/>
+<flag staticattack="100"/>
+<flag targetdistance="1"/>
+<flag runonhealth="0"/>
+</flags>
+<attacks>
+<attack name="melee" interval="2000" min="-30000" max="-50000"/>
+<attack name="manadrain" interval="1000" chance="60" range="7" min="-10275" max="-20000"/>
+<attack name="Fire Field" interval="4000" chance="10"/>
+<attack name="chidori" interval="3000" chance="100" min="-3900" max="-5500"/>
+<attack name="stone shower" interval="4000" chance="60" min="-5900" max="-20275"/>
+
+<attack name="poison" interval="2000" chance="20" range="7" radius="6" target="0" min="-6305" max="-7955">
+<attribute key="areaEffect" value="bluebubble"/>
+</attack>
+</attacks>
+
+<defenses armor="32" defense="35">
+<defense name="healing" interval="1000" chance="25" min="10000" max="50000">
+<attribute key="areaEffect" value="blueshimmer"/>
+</defense>
+<defense name="strong haste" interval="2000" chance="100"/>
+<attack name="paralyze" interval="5000" chance="99"/>
+</defenses>
+<immunities>
+<immunity physical="0"/>
+<immunity energy="0"/>
+<immunity fire="1"/>
+<immunity poison="1"/>
+<immunity lifedrain="1"/>
+<immunity paralyze="1"/>
+<immunity outfit="1"/>
+<immunity drunk="1"/>
+<immunity invisible="1"/>
+</immunities>
+<summons maxSummons="1">
+<summon name="Hero" interval="2500" chance="25"/>
+</summons>
+<voices interval="5000" chance="10">
+<voice sentence="VOU BANIR VC SE N PARA DE ME MATA!!"/>
+<voice sentence="tu eres muy NOOB!"/>
+</voices>
+<loot>
+<item id="2160" chance="100000" countmax="30" /> -- crystal coin
+</loot>
+</monster>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Queen Protector" nameDescription="a Protector" race="blood" experience="4000" speed="9000" manacost="0">
+  <health now="6000000" max="6000000"/>
+  <look type="331" head="94" body="77" legs="96" feet="0" addons="3" corpse="8593"/>
+  <targetchange interval="5000" chance="8"/>
+  <strategy attack="100" defense="0"/>
+  <flags>
+    <flag summonable="0"/>
+    <flag attackable="1"/>
+    <flag hostile="1"/>
+    <flag illusionable="1"/>
+    <flag convinceable="0"/>
+    <flag pushable="0"/>
+    <flag canpushitems="1"/>
+    <flag canpushcreatures="1"/>
+    <flag targetdistance="1"/>
+    <flag staticattack="60"/>
+    <flag runonhealth="0"/>
+  </flags>
+<script>
+<event name="openteleport1"/>
+</script>
+  <attacks>
+    <attack name="melee" interval="1500" min="-30000" max="-60000"/>
+    <attack name="physical" interval="2000" chance="17" range="7" min="-140" max="-200">
+		<attribute key="shootEffect" value="throwingstar"/>
+    </attack>
+	<attack name="melee" interval="2500" chance="15" range="7" radius="3" target="0" min="-50015" max="-100000">
+		<attribute key="areaEffect" value="blackspark"/>
+	</attack>
+	<attack name="melee" interval="2000" chance="30" length="8" spread="0" min="-40000" max="-42000">
+		<attribute key="areaEffect" value="redspark"/>
+    </attack>
+    <attack name="physical" interval="2000" chance="25" range="7" min="-10070" max="-50000">
+		<attribute key="shootEffect" value="snowball"/>
+		<attribute key="areaEffect" value="poff"/>
+    </attack>
+  </attacks>
+  <defenses armor="25" defense="30">
+    <defense name="healing" interval="1000" chance="25" min="180" max="290">
+		<attribute key="areaEffect" value="blueshimmer"/>
+    </defense>
+  </defenses>
+  <elements>
+	<element firePercent="100"/>
+	<element icePercent="40"/>
+	<element holyPercent="40"/>
+	<element deathPercent="-20"/>
+	<element energyPercent="-20"/>
+	<element earthPercent="-15"/>
+	<element physicalPercent="-10"/>
+  </elements>
+  <immunities>
+    <immunity paralyze="1"/>
+	<immunity invisible="1"/>
+  </immunities>
+
+  <loot>
+	<item id="2160" countmax="100000" chance1="100000" chancemax="0"/>
+	<item id="2645" chance="400"/>
+	<item id="6558" countmax="3" chance1="5555" chancemax="0"/>
+	<item id="2666" countmax="1" chance1="25000" chancemax="0"/>
+	<item id="6500" countmax="1" chance1="2500" chancemax="0"/>
+	<item id="5944" chance="8888"/>
+	<item id="1987" chance="100000">
+       <inside>
+           <item id="2487" chance="600"/>
+           <item id="2181" chance="1333"/>
+           <item id="2143" countmax="1" chance1="12000" chancemax="0"/>
+           <item id="2156" chance="1900"/>
+           <item id="5911" chance="1800"/>
+       </inside>
+	</item>
+  </loot>
+</monster>

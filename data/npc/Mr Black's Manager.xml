@@ -1,0 +1,9 @@
+<npc name="Mr Black's Manager" script="data/npc/scripts/fichas.lua" autowalk="25" floorchange="0" access="5" level="1" maglevel="1">
+     <health now="150" max="150"/>
+     <look type="75" head="132" body="116" legs="116" feet="76" corpse="2212"/>
+     <parameters>
+         <parameter key="message_greet" value="Hola |PLAYERNAME|. Yo vendo fichas para jugar en el casino." />
+         <parameter key="message_needmoremoney" value="No tienes sufuciente dinero." />
+         <parameter key="message_decline" value="Son |TOTALCOST| gp's demasiado dinero para ti?" />
+     </parameters>
+</npc>

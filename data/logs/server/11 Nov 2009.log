@@ -1,0 +1,3058 @@
+[11/11/2009 14:54:19] The Forgotten Server, version 0.3.4 (Crying Damson)
+[11/11/2009 14:54:19] Sever Criado Por Alissow e Comedinha.
+[11/11/2009 14:54:19] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[11/11/2009 14:54:19] Bom Jogo!!!
+[11/11/2009 14:54:20] 
+[11/11/2009 14:54:20] >> Debugging: nothing.
+[11/11/2009 14:54:20] >> Checking software version... outdated, please consider updating!
+[11/11/2009 14:54:21] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[11/11/2009 14:54:21] > Latest version information - version: 0.3.5, patch: 1, build: 2576, timestamp: 1249584126.
+[11/11/2009 14:54:21] [Warning - ConfigManager::getBool] 62
+[11/11/2009 14:54:21] 
+[11/11/2009 14:54:21] >> Loading config (config.lua)
+[11/11/2009 14:54:21] > Using plaintext passwords
+[11/11/2009 14:54:21] >> Loading RSA key
+[11/11/2009 14:54:21] >> Starting SQL connection
+[11/11/2009 14:54:21] >> Running Database Manager
+[11/11/2009 14:54:26] > Optimized database.
+[11/11/2009 14:54:26] >> Loading items
+[11/11/2009 14:54:27] [Warning - Items::loadFromXml] Unknown key value skillDistance
+[11/11/2009 14:54:27] >> Loading groups
+[11/11/2009 14:54:27] >> Loading vocations
+[11/11/2009 14:54:27] >> Loading script systems
+[11/11/2009 14:54:28] 
+[11/11/2009 14:54:28] Lua Script Error: [Spell Interface] 
+[11/11/2009 14:54:28] data/spells/scripts/attack/exori mort hur.lua
+[11/11/2009 14:54:28] 
+[11/11/2009 14:54:28] luaSetCombatParam(). Combat not found
+[11/11/2009 14:54:29] 
+[11/11/2009 14:54:29] Lua Script Error: [Spell Interface] 
+[11/11/2009 14:54:29] data/spells/scripts/attack/exori mort hur.lua
+[11/11/2009 14:54:29] 
+[11/11/2009 14:54:29] luaSetCombatParam(). Combat not found
+[11/11/2009 14:54:31] [Warning - Actions::registerEvent] Duplicate registered item id: 2269
+[11/11/2009 14:54:31] [Warning - Actions::registerEvent] Duplicate registered item id: 2114
+[11/11/2009 14:54:34] >> Loading chat channels
+[11/11/2009 14:54:34] >> Loading outfits
+[11/11/2009 14:54:34] >> Loading experience stages
+[11/11/2009 14:54:34] >> Loading monsters
+[11/11/2009 14:54:41] >> Loading map and spawns...
+[11/11/2009 14:54:43] > Map size: 512x512.
+[11/11/2009 14:54:43] > Map descriptions: 
+[11/11/2009 14:54:43] Saved with Remere's Map Editor 1.1.9
+[11/11/2009 14:54:43] Remere 's Map Editor Beta
+[11/11/2009 14:54:45] Duplicate uniqueId 9911
+[11/11/2009 14:54:45] Duplicate uniqueId 9912
+[11/11/2009 14:54:45] Duplicate uniqueId 9913
+[11/11/2009 14:54:45] Duplicate uniqueId 9914
+[11/11/2009 14:54:45] Duplicate uniqueId 9915
+[11/11/2009 14:54:46] Duplicate uniqueId 2471
+[11/11/2009 14:54:48] > Map loading time: 7.359 seconds.
+[11/11/2009 14:54:50] [Warning - Spawns::loadFromXml] Snow Soul ( 00044 / 00277 / 007 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 14:54:50] [Warning - Spawns::loadFromXml] Whatafuck ( 00058 / 00310 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 14:54:50] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00310 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 14:54:51] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00311 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 14:54:51] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00312 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 14:54:51] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00313 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 14:54:51] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00314 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 14:54:51] [Warning - Spawns::loadFromXml] Whatafuck ( 00041 / 00314 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 14:54:51] [Warning - Spawns::loadFromXml] Whatafuck ( 00042 / 00314 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 14:54:51] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00315 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 14:54:51] [Warning - Spawns::loadFromXml] Whatafuck ( 00041 / 00315 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 14:54:52] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00316 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 14:54:52] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00317 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 14:54:52] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00318 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 14:54:52] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00319 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 14:54:52] [Warning - Spawns::loadFromXml] Whatafuck ( 00041 / 00319 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 14:54:52] [Warning - Spawns::loadFromXml] Whatafuck ( 00042 / 00319 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 14:54:52] [Warning - Spawns::loadFromXml] Whatafuck ( 00053 / 00324 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 14:54:52] [Warning - Spawns::loadFromXml] Whatafuck ( 00052 / 00325 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 14:54:53] [Warning - Spawns::loadFromXml] Whatafuck ( 00053 / 00325 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 14:54:53] [Warning - Spawns::loadFromXml] Whatafuck ( 00052 / 00326 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 14:54:53] [Warning - Spawns::loadFromXml] Whatafuck ( 00037 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 14:54:53] [Warning - Spawns::loadFromXml] Whatafuck ( 00038 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 14:54:53] [Warning - Spawns::loadFromXml] Whatafuck ( 00039 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 14:54:53] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 14:54:53] [Warning - Spawns::loadFromXml] Gorg Bosh ( 00146 / 00343 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 14:54:53] [Warning - Spawns::loadFromXml] Saddam Hussein ( 00098 / 00385 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 14:54:54] [Warning - Spawns::loadFromXml] Rotworm ( 00073 / 00030 / 012 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 14:54:54] [Warning - Spawns::loadFromXml] Rotworm ( 00067 / 00034 / 012 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 14:54:54] [Warning - Spawns::loadFromXml] Carrion Worm ( 00046 / 00046 / 012 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 14:54:54] [Warning - Spawns::loadFromXml] Rotworm ( 00086 / 00047 / 012 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 14:54:54] [Warning - Spawns::loadFromXml] Rotworm ( 00055 / 00058 / 012 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 14:54:54] [Warning - Spawns::loadFromXml] Rotworm ( 00056 / 00058 / 012 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 14:54:54] [Warning - Spawns::loadFromXml] Rotworm ( 00057 / 00060 / 012 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 14:54:55] [Warning - Spawns::loadFromXml] Rotworm ( 00067 / 00061 / 012 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 14:54:55] [Warning - Spawns::loadFromXml] Michael Jackson ( 00049 / 00026 / 013 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 14:54:55] [Warning - Spawns::loadFromXml] Love Demon ( 00060 / 00096 / 013 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 14:54:55] [Warning - Spawns::loadFromXml] Batman ( 00061 / 00143 / 013 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 14:54:55] [Warning - Spawns::loadFromXml] Batman ( 00044 / 00153 / 013 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 14:54:55] [Warning - Spawns::loadFromXml] Batman ( 00056 / 00155 / 013 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 14:54:55] [Warning - Spawns::loadFromXml] Batman ( 00045 / 00162 / 013 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 14:54:56] [Warning - Spawns::loadFromXml] Hell Dragon ( 00042 / 00234 / 013 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 14:54:56] [Warning - Spawns::loadFromXml] Hell Dragon ( 00043 / 00234 / 013 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 14:54:56] [Warning - Spawns::loadFromXml] Hell Dragon ( 00055 / 00242 / 013 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 14:54:56] [Warning - Spawns::loadFromXml] Hell Dragon ( 00059 / 00247 / 013 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 14:54:56] [Warning - Houses::loadFromXml] House entry not set for:  (158)
+[11/11/2009 14:54:57] > Data loading time: 8.188 seconds.
+[11/11/2009 14:54:57] > Unserialization time for houses: 0.172 seconds.
+[11/11/2009 14:55:27] > Unserialization time for map: 30.5 seconds.
+[11/11/2009 14:55:27] >> Checking world type... PvP
+[11/11/2009 14:55:27] >> Initializing game state modules and registering services...
+[11/11/2009 14:55:29] > Global address: 201.246.33.149
+[11/11/2009 14:55:29] > Local ports:
+[11/11/2009 14:55:29] 7171	7172	
+[11/11/2009 14:55:29] >> All modules were loaded, server starting up...
+[11/11/2009 14:55:29] >> Aggro server server Online!
+[11/11/2009 14:55:30] 
+[11/11/2009 14:55:33] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[11/11/2009 14:55:37] Account Manager has logged in.
+[11/11/2009 14:55:58] Account Manager has logged out.
+[11/11/2009 14:56:00] Hoster Aggresor has logged in.
+[11/11/2009 14:56:15] Account Manager has logged in.
+[11/11/2009 14:56:34] Account Manager has logged out.
+[11/11/2009 14:56:40] Tofeeer has logged in.
+[11/11/2009 14:59:33] [Error - SingleSpawnEvent::executeEvent] Cannot spawn monster Grynch Clan Goblin
+[11/11/2009 14:59:52] Tofeeer has logged out.
+[11/11/2009 14:59:56] Zerhox has logged in.
+[11/11/2009 15:04:35] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !notice".
+[11/11/2009 15:05:51] Zerhox has logged out.
+[11/11/2009 15:05:52] Zerhox has logged in.
+[11/11/2009 15:06:24] 
+[11/11/2009 15:06:24] Lua Script Error: [CreatureScript Interface] 
+[11/11/2009 15:06:24] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[11/11/2009 15:06:24] 
+[11/11/2009 15:06:24] luaGetCreatureName(). Creature not found
+[11/11/2009 15:06:24] 
+[11/11/2009 15:06:24] Lua Script Error: [CreatureScript Interface] 
+[11/11/2009 15:06:24] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[11/11/2009 15:06:24] 
+[11/11/2009 15:06:24] luaGetCreatureName(). Creature not found
+[11/11/2009 15:06:24] 
+[11/11/2009 15:06:24] Lua Script Error: [CreatureScript Interface] 
+[11/11/2009 15:06:25] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[11/11/2009 15:06:25] 
+[11/11/2009 15:06:25] luaGetCreatureName(). Creature not found
+[11/11/2009 15:06:25] 
+[11/11/2009 15:06:25] Lua Script Error: [CreatureScript Interface] 
+[11/11/2009 15:06:25] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[11/11/2009 15:06:25] 
+[11/11/2009 15:06:25] luaGetCreatureName(). Creature not found
+[11/11/2009 15:06:25] Zerhox has logged out.
+[11/11/2009 15:06:27] Zerhox has logged in.
+[11/11/2009 15:07:43] Giovanni has logged in.
+[11/11/2009 15:07:48] Account Manager has logged in.
+[11/11/2009 15:08:05] Account Manager has logged out.
+[11/11/2009 15:08:11] Account Manager has logged in.
+[11/11/2009 15:08:30] Account Manager has logged out.
+[11/11/2009 15:08:37] Goyen has logged in.
+[11/11/2009 15:09:35] > Saving server...
+[11/11/2009 15:09:45] > SAVE: Complete in 9.328 seconds using relational house storage.
+[11/11/2009 15:09:46] Nadie Sabe has logged in.
+[11/11/2009 15:09:46] Nadie Sabe has logged out.
+[11/11/2009 15:09:56] Nadie Sabe has logged in.
+[11/11/2009 15:11:10] Nadie Sabe has logged out.
+[11/11/2009 15:11:16] Nadie Sabe has logged in.
+[11/11/2009 15:11:26] Goyen has logged out.
+[11/11/2009 15:11:31] Goyen has logged in.
+[11/11/2009 15:11:58] Giovanni has logged out.
+[11/11/2009 15:12:01] Giovanni has logged in.
+[11/11/2009 15:13:48] Giovanni has logged out.
+[11/11/2009 15:14:36] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !notice".
+[11/11/2009 15:16:59] Goyen has logged out.
+[11/11/2009 15:17:00] Goyen has logged in.
+[11/11/2009 15:17:04] Goyen has logged out.
+[11/11/2009 15:17:05] Goyen has logged in.
+[11/11/2009 15:18:58] Zerhox has logged out.
+[11/11/2009 15:19:03] Zerhox has logged in.
+[11/11/2009 15:19:23] Nadie Sabe has logged out.
+[11/11/2009 15:19:25] Nadie Sabe has logged in.
+[11/11/2009 15:19:44] Goyen has logged out.
+[11/11/2009 15:19:46] Goyen has logged in.
+[11/11/2009 15:19:52] Zerhox has logged out.
+[11/11/2009 15:19:55] Zerhox has logged in.
+[11/11/2009 15:20:01] Nadie Sabe has logged out.
+[11/11/2009 15:20:04] Nadie Sabe has logged in.
+[11/11/2009 15:20:50] 
+[11/11/2009 15:20:50] Lua Script Error: [Action Interface] 
+[11/11/2009 15:20:50] data/actions/scripts/liquids/strong_health.lua:onUse
+[11/11/2009 15:20:50] 
+[11/11/2009 15:20:50] luaGetPlayerCustomFlagValue(). Player not found
+[11/11/2009 15:20:50] 
+[11/11/2009 15:20:50] Lua Script Error: [Action Interface] 
+[11/11/2009 15:20:50] data/actions/scripts/liquids/strong_health.lua:onUse
+[11/11/2009 15:20:50] 
+[11/11/2009 15:20:50] luaDoCreatureAddHealth(). Creature not found
+[11/11/2009 15:22:32] Nadie Sabe has logged out.
+[11/11/2009 15:22:34] Nadie Sabe has logged in.
+[11/11/2009 15:23:56] Nadie Sabe has logged out.
+[11/11/2009 15:23:58] Nadie Sabe has logged in.
+[11/11/2009 15:24:16] Hoster Aggresor has logged out.
+[11/11/2009 15:24:18] Nock galyck has logged in.
+[11/11/2009 15:24:36] > Saving server...
+[11/11/2009 15:24:44] > SAVE: Complete in 7.797 seconds using relational house storage.
+[11/11/2009 15:24:44] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !notice".
+[11/11/2009 15:24:45] Maik Walk Dos has logged in.
+[11/11/2009 15:25:47] Account Manager has logged in.
+[11/11/2009 15:26:16] Account Manager has logged out.
+[11/11/2009 15:31:20] Goyen has logged out.
+[11/11/2009 15:31:22] Goyen has logged in.
+[11/11/2009 15:32:49] Nock galyck has logged out.
+[11/11/2009 15:32:51] Hoster Aggresor has logged in.
+[11/11/2009 15:33:49] Sochara has logged in.
+[11/11/2009 15:34:16] Maik Walk Dos has logged out.
+[11/11/2009 15:34:16] 
+[11/11/2009 15:34:16] Lua Script Error: [Spell Interface] 
+[11/11/2009 15:34:16] in a timer event called from: 
+[11/11/2009 15:34:16] data/spells/scripts/attack/super explocion.lua:onCastSpell
+[11/11/2009 15:34:16] 
+[11/11/2009 15:34:16] luaDoCombat(). Creature not found
+[11/11/2009 15:34:16] 
+[11/11/2009 15:34:16] Lua Script Error: [Spell Interface] 
+[11/11/2009 15:34:16] in a timer event called from: 
+[11/11/2009 15:34:16] data/spells/scripts/attack/super explocion.lua:onCastSpell
+[11/11/2009 15:34:16] 
+[11/11/2009 15:34:16] luaDoCombat(). Creature not found
+[11/11/2009 15:34:17] Maik Walk Dos has logged in.
+[11/11/2009 15:34:45] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !notice".
+[11/11/2009 15:35:19] Goyen has logged out.
+[11/11/2009 15:35:20] Goyen has logged in.
+[11/11/2009 15:38:15] > CLEAN: Removed 526 items from 1118 tiles in 0.141 seconds.
+[11/11/2009 15:39:31] Assassin Croos has logged in.
+[11/11/2009 15:39:37] > Saving server...
+[11/11/2009 15:39:45] > SAVE: Complete in 8.453 seconds using relational house storage.
+[11/11/2009 15:40:09] Account Manager has logged in.
+[11/11/2009 15:40:10] Account Manager has logged out.
+[11/11/2009 15:40:12] Vegeta sayayin has logged in.
+[11/11/2009 15:40:21] Deriich Wey has logged in.
+[11/11/2009 15:41:00] Goyen has logged out.
+[11/11/2009 15:41:02] Goyen has logged in.
+[11/11/2009 15:41:17] Deriich Wey has logged out.
+[11/11/2009 15:41:19] Deriich Wey has logged in.
+[11/11/2009 15:41:25] Deriich Wey has logged out.
+[11/11/2009 15:41:30] Derich Wey has logged in.
+[11/11/2009 15:41:56] Sochara has logged out.
+[11/11/2009 15:41:57] Sochara has logged in.
+[11/11/2009 15:43:03] Goyen has logged out.
+[11/11/2009 15:43:05] Goyen has logged in.
+[11/11/2009 15:43:25] Sochara has logged out.
+[11/11/2009 15:43:27] Sochara has logged in.
+[11/11/2009 15:43:48] Account Manager has logged in.
+[11/11/2009 15:44:00] Account Manager has logged out.
+[11/11/2009 15:44:11] Account Manager has logged in.
+[11/11/2009 15:44:38] Account Manager has logged out.
+[11/11/2009 15:44:43] Account Manager has logged in.
+[11/11/2009 15:44:46] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !notice".
+[11/11/2009 15:44:58] Account Manager has logged out.
+[11/11/2009 15:44:59] Goyen has logged out.
+[11/11/2009 15:45:00] Account Manager has logged in.
+[11/11/2009 15:45:00] Goyen has logged in.
+[11/11/2009 15:45:23] Account Manager has logged out.
+[11/11/2009 15:45:29] Account Manager has logged in.
+[11/11/2009 15:46:14] Account Manager has logged out.
+[11/11/2009 15:46:20] Dark Originalll has logged in.
+[11/11/2009 15:47:23] Sochara has logged out.
+[11/11/2009 15:47:28] Sochara has logged in.
+[11/11/2009 15:48:14] Derich Wey has logged out.
+[11/11/2009 15:48:17] Derich Wey has logged in.
+[11/11/2009 15:48:39] Zerhox has logged out.
+[11/11/2009 15:48:41] Zerhox has logged in.
+[11/11/2009 15:49:01] Derich Wey has logged out.
+[11/11/2009 15:49:01] 
+[11/11/2009 15:49:01] Lua Script Error: [Spell Interface] 
+[11/11/2009 15:49:01] in a timer event called from: 
+[11/11/2009 15:49:01] data/spells/scripts/attack/meteora.lua:onCastSpell
+[11/11/2009 15:49:01] 
+[11/11/2009 15:49:01] luaDoCombat(). Creature not found
+[11/11/2009 15:49:01] 
+[11/11/2009 15:49:01] Lua Script Error: [Spell Interface] 
+[11/11/2009 15:49:01] in a timer event called from: 
+[11/11/2009 15:49:01] data/spells/scripts/attack/meteora.lua:onCastSpell
+[11/11/2009 15:49:01] 
+[11/11/2009 15:49:01] luaDoCombat(). Creature not found
+[11/11/2009 15:49:01] 
+[11/11/2009 15:49:01] Lua Script Error: [Spell Interface] 
+[11/11/2009 15:49:01] in a timer event called from: 
+[11/11/2009 15:49:01] data/spells/scripts/attack/meteora.lua:onCastSpell
+[11/11/2009 15:49:01] 
+[11/11/2009 15:49:01] luaDoCombat(). Creature not found
+[11/11/2009 15:49:02] 
+[11/11/2009 15:49:02] Lua Script Error: [Spell Interface] 
+[11/11/2009 15:49:02] in a timer event called from: 
+[11/11/2009 15:49:02] data/spells/scripts/attack/meteora.lua:onCastSpell
+[11/11/2009 15:49:02] 
+[11/11/2009 15:49:02] luaDoCombat(). Creature not found
+[11/11/2009 15:49:02] 
+[11/11/2009 15:49:02] Lua Script Error: [Spell Interface] 
+[11/11/2009 15:49:02] in a timer event called from: 
+[11/11/2009 15:49:02] data/spells/scripts/attack/meteora.lua:onCastSpell
+[11/11/2009 15:49:02] 
+[11/11/2009 15:49:02] luaDoCombat(). Creature not found
+[11/11/2009 15:49:02] 
+[11/11/2009 15:49:02] Lua Script Error: [Spell Interface] 
+[11/11/2009 15:49:02] in a timer event called from: 
+[11/11/2009 15:49:02] data/spells/scripts/attack/meteora.lua:onCastSpell
+[11/11/2009 15:49:02] 
+[11/11/2009 15:49:02] luaDoCombat(). Creature not found
+[11/11/2009 15:49:02] 
+[11/11/2009 15:49:02] Lua Script Error: [Spell Interface] 
+[11/11/2009 15:49:02] in a timer event called from: 
+[11/11/2009 15:49:02] data/spells/scripts/attack/meteora.lua:onCastSpell
+[11/11/2009 15:49:02] 
+[11/11/2009 15:49:02] luaDoCombat(). Creature not found
+[11/11/2009 15:49:02] 
+[11/11/2009 15:49:02] Lua Script Error: [Spell Interface] 
+[11/11/2009 15:49:02] in a timer event called from: 
+[11/11/2009 15:49:02] data/spells/scripts/attack/meteora.lua:onCastSpell
+[11/11/2009 15:49:02] 
+[11/11/2009 15:49:02] luaDoCombat(). Creature not found
+[11/11/2009 15:49:02] 
+[11/11/2009 15:49:02] Lua Script Error: [Spell Interface] 
+[11/11/2009 15:49:03] in a timer event called from: 
+[11/11/2009 15:49:03] data/spells/scripts/attack/meteora.lua:onCastSpell
+[11/11/2009 15:49:03] 
+[11/11/2009 15:49:03] luaDoCombat(). Creature not found
+[11/11/2009 15:49:03] 
+[11/11/2009 15:49:03] Lua Script Error: [Spell Interface] 
+[11/11/2009 15:49:03] in a timer event called from: 
+[11/11/2009 15:49:03] data/spells/scripts/attack/meteora.lua:onCastSpell
+[11/11/2009 15:49:03] 
+[11/11/2009 15:49:03] luaDoCombat(). Creature not found
+[11/11/2009 15:49:03] 
+[11/11/2009 15:49:03] Lua Script Error: [Spell Interface] 
+[11/11/2009 15:49:03] in a timer event called from: 
+[11/11/2009 15:49:03] data/spells/scripts/attack/meteora.lua:onCastSpell
+[11/11/2009 15:49:03] 
+[11/11/2009 15:49:03] luaDoCombat(). Creature not found
+[11/11/2009 15:49:03] 
+[11/11/2009 15:49:03] Lua Script Error: [Spell Interface] 
+[11/11/2009 15:49:03] in a timer event called from: 
+[11/11/2009 15:49:03] data/spells/scripts/attack/meteora.lua:onCastSpell
+[11/11/2009 15:49:03] 
+[11/11/2009 15:49:03] luaDoCombat(). Creature not found
+[11/11/2009 15:49:03] 
+[11/11/2009 15:49:03] Lua Script Error: [Spell Interface] 
+[11/11/2009 15:49:03] in a timer event called from: 
+[11/11/2009 15:49:03] data/spells/scripts/attack/meteora.lua:onCastSpell
+[11/11/2009 15:49:03] 
+[11/11/2009 15:49:03] luaDoCombat(). Creature not found
+[11/11/2009 15:49:03] 
+[11/11/2009 15:49:03] Lua Script Error: [Spell Interface] 
+[11/11/2009 15:49:03] in a timer event called from: 
+[11/11/2009 15:49:03] data/spells/scripts/attack/meteora.lua:onCastSpell
+[11/11/2009 15:49:04] 
+[11/11/2009 15:49:04] luaDoCombat(). Creature not found
+[11/11/2009 15:49:04] 
+[11/11/2009 15:49:04] Lua Script Error: [Spell Interface] 
+[11/11/2009 15:49:04] in a timer event called from: 
+[11/11/2009 15:49:04] data/spells/scripts/attack/meteora.lua:onCastSpell
+[11/11/2009 15:49:04] 
+[11/11/2009 15:49:04] luaDoCombat(). Creature not found
+[11/11/2009 15:49:04] 
+[11/11/2009 15:49:04] Lua Script Error: [Spell Interface] 
+[11/11/2009 15:49:04] in a timer event called from: 
+[11/11/2009 15:49:04] data/spells/scripts/attack/meteora.lua:onCastSpell
+[11/11/2009 15:49:04] 
+[11/11/2009 15:49:04] luaDoCombat(). Creature not found
+[11/11/2009 15:49:05] Derich Wey has logged in.
+[11/11/2009 15:49:44] Zerhox has logged out.
+[11/11/2009 15:49:53] Zerhox has logged in.
+[11/11/2009 15:49:53] 
+[11/11/2009 15:49:53] Lua Script Error: [Action Interface] 
+[11/11/2009 15:49:53] data/actions/scripts/rwitems.lua:onUse
+[11/11/2009 15:49:53] 
+[11/11/2009 15:49:53] data/actions/scripts/rwitems.lua:7: attempt to call global 'doShowTextWindow' (a nil value)
+[11/11/2009 15:49:53] stack traceback:
+[11/11/2009 15:49:53] 	data/actions/scripts/rwitems.lua:7: in function <data/actions/scripts/rwitems.lua:3>
+[11/11/2009 15:50:03] Dark Originalll has logged out.
+[11/11/2009 15:50:05] Dark Originalll has logged in.
+[11/11/2009 15:50:12] Nadie Sabe has logged out.
+[11/11/2009 15:50:15] Nadie Sabe has logged in.
+[11/11/2009 15:50:50] Derich Wey has logged out.
+[11/11/2009 15:50:52] Derich Wey has logged in.
+[11/11/2009 15:52:33] > Broadcasted message: "Mu invade aggro city".
+[11/11/2009 15:52:39] Goyen has logged out.
+[11/11/2009 15:54:10] Dark Originalll has logged out.
+[11/11/2009 15:54:11] Derich Wey has logged out.
+[11/11/2009 15:54:12] Account Manager has logged in.
+[11/11/2009 15:54:13] Account Manager has logged in.
+[11/11/2009 15:54:13] Account Manager has logged in.
+[11/11/2009 15:54:14] Account Manager has logged out.
+[11/11/2009 15:54:14] Account Manager has logged out.
+[11/11/2009 15:54:15] Account Manager has logged out.
+[11/11/2009 15:54:16] Nadie Sabe has logged out.
+[11/11/2009 15:54:18] Account Manager has logged in.
+[11/11/2009 15:54:23] Account Manager has logged out.
+[11/11/2009 15:54:25] Nadie Sabe has logged in.
+[11/11/2009 15:54:31] Derich Wey has logged in.
+[11/11/2009 15:54:38] > Saving server...
+[11/11/2009 15:54:57] > SAVE: Complete in 18.937 seconds using relational house storage.
+[11/11/2009 15:54:57] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !notice".
+[11/11/2009 15:54:57] Zerhox has logged out.
+[11/11/2009 15:55:02] Vegeta sayayin has logged out.
+[11/11/2009 15:55:08] Vegeta sayayin has logged in.
+[11/11/2009 15:55:32] Zerhox has logged in.
+[11/11/2009 15:57:12] [Error - SingleSpawnEvent::executeEvent] Cannot spawn monster Grynch Clan Goblin
+[11/11/2009 15:58:09] Assassin Croos has logged out.
+[11/11/2009 16:00:08] Assassin Croos has logged in.
+[11/11/2009 16:01:20] Derich Wey has logged out.
+[11/11/2009 16:01:22] Deriich Wey has logged in.
+[11/11/2009 16:02:24] Pan Con Queso has logged in.
+[11/11/2009 16:03:15] Deriich Wey has logged out.
+[11/11/2009 16:03:52] Deriich Wey has logged in.
+[11/11/2009 16:04:54] Deriich Wey has logged out.
+[11/11/2009 16:04:56] Derich Wey has logged in.
+[11/11/2009 16:04:58] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !notice".
+[11/11/2009 16:06:23] Account Manager has logged in.
+[11/11/2009 16:06:41] Account Manager has logged out.
+[11/11/2009 16:06:49] Account Manager has logged in.
+[11/11/2009 16:07:09] Account Manager has logged out.
+[11/11/2009 16:07:18] Lufi has logged in.
+[11/11/2009 16:07:20] Dark Originalll has logged in.
+[11/11/2009 16:07:52] Pan Con Queso has logged out.
+[11/11/2009 16:08:00] Don Sata Vuelve has logged in.
+[11/11/2009 16:09:09] Derich Wey has logged out.
+[11/11/2009 16:09:11] Deriich Wey has logged in.
+[11/11/2009 16:09:39] > Saving server...
+[11/11/2009 16:09:54] > SAVE: Complete in 14.922 seconds using relational house storage.
+[11/11/2009 16:10:17] Dark Originalll has logged out.
+[11/11/2009 16:10:19] Dark Originalll has logged in.
+[11/11/2009 16:11:44] Don Sata Vuelve has logged out.
+[11/11/2009 16:11:46] Don Sata Vuelve has logged in.
+[11/11/2009 16:12:07] Don Sata Vuelve has logged out.
+[11/11/2009 16:12:29] Account Manager has logged in.
+[11/11/2009 16:12:29] Account Manager has logged out.
+[11/11/2009 16:12:30] Vegeta sayayin has logged out.
+[11/11/2009 16:12:32] Vegeta sayayin has logged in.
+[11/11/2009 16:12:33] Vegeta sayayin has logged out.
+[11/11/2009 16:12:34] Sochara has logged out.
+[11/11/2009 16:12:41] Account Manager has logged in.
+[11/11/2009 16:12:42] Account Manager has logged out.
+[11/11/2009 16:12:43] Account Manager has logged in.
+[11/11/2009 16:13:05] Account Manager has logged in.
+[11/11/2009 16:13:06] Account Manager has logged out.
+[11/11/2009 16:13:12] Account Manager has logged out.
+[11/11/2009 16:13:21] El regreso has logged in.
+[11/11/2009 16:14:25] Dark Originalll has logged out.
+[11/11/2009 16:14:28] Dark Originalll has logged in.
+[11/11/2009 16:14:29] Maik Walk Dos has logged out.
+[11/11/2009 16:14:31] Maik Walk Dos has logged in.
+[11/11/2009 16:14:59] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !notice".
+[11/11/2009 16:15:19] Lufi has logged out.
+[11/11/2009 16:15:21] Lufi has logged in.
+[11/11/2009 16:15:32] Sochara has logged in.
+[11/11/2009 16:15:48] Maik Walk Dos has logged out.
+[11/11/2009 16:15:50] Maik Walk Dos has logged in.
+[11/11/2009 16:16:00] Druidix has logged in.
+[11/11/2009 16:16:40] Maik Walk Dos has logged out.
+[11/11/2009 16:16:41] Maik Walk Dos has logged in.
+[11/11/2009 16:16:43] Lufi has logged out.
+[11/11/2009 16:16:45] Lufi has logged in.
+[11/11/2009 16:17:08] Nadie Sabe has logged out.
+[11/11/2009 16:17:11] Nadie Sabe has logged in.
+[11/11/2009 16:17:34] Maik Walk Dos has logged out.
+[11/11/2009 16:17:36] Maik Walk Dos has logged in.
+[11/11/2009 16:17:39] Xoro Qliao has logged in.
+[11/11/2009 16:17:53] Zerhox has logged out.
+[11/11/2009 16:17:58] Maik Walk Dos has logged out.
+[11/11/2009 16:17:59] Zerhox has logged in.
+[11/11/2009 16:18:00] Maik Walk Dos has logged in.
+[11/11/2009 16:18:22] Zakrosd has logged in.
+[11/11/2009 16:19:01] Xoro Qliao has logged out.
+[11/11/2009 16:19:02] Xoro Qliao has logged in.
+[11/11/2009 16:19:14] Zakrosd has logged out.
+[11/11/2009 16:19:20] Zakrosd has logged in.
+[11/11/2009 16:19:27] Nadie Sabe has logged out.
+[11/11/2009 16:19:31] Nadie Sabe has logged in.
+[11/11/2009 16:19:34] Paisaano has logged in.
+[11/11/2009 16:19:41] Druidix has logged out.
+[11/11/2009 16:19:43] Druidix has logged in.
+[11/11/2009 16:19:57] Mastermorlan has logged in.
+[11/11/2009 16:19:59] Zerhox has logged out.
+[11/11/2009 16:20:00] Zerhox has logged in.
+[11/11/2009 16:20:01] Druidix has logged out.
+[11/11/2009 16:20:03] Druidix has logged in.
+[11/11/2009 16:20:04] Nadie Sabe has logged out.
+[11/11/2009 16:20:06] Nadie Sabe has logged in.
+[11/11/2009 16:20:28] Account Manager has logged in.
+[11/11/2009 16:20:38] Account Manager has logged in.
+[11/11/2009 16:20:55] Account Manager has logged out.
+[11/11/2009 16:20:56] Account Manager has logged out.
+[11/11/2009 16:20:56] Account Manager has logged in.
+[11/11/2009 16:20:57] Account Manager has logged in.
+[11/11/2009 16:20:58] Account Manager has logged in.
+[11/11/2009 16:21:05] Account Manager has logged out.
+[11/11/2009 16:21:12] Account Manager has logged out.
+[11/11/2009 16:21:17] Account Manager has logged in.
+[11/11/2009 16:21:19] Knight Extremo has logged in.
+[11/11/2009 16:21:24] Zakrosd has logged out.
+[11/11/2009 16:21:27] Zakrosd has logged in.
+[11/11/2009 16:21:36] Knight Extremo has logged out.
+[11/11/2009 16:21:36] Account Manager has logged out.
+[11/11/2009 16:21:37] Knight Extremo has logged in.
+[11/11/2009 16:21:38] Xoro Qliao has logged out.
+[11/11/2009 16:21:39] Xoro Qliao has logged in.
+[11/11/2009 16:21:47] Chamo has logged in.
+[11/11/2009 16:21:53] Zakrosd has logged out.
+[11/11/2009 16:21:54] Sochara has logged out.
+[11/11/2009 16:21:55] Zakrosd has logged in.
+[11/11/2009 16:21:56] Sochara has logged in.
+[11/11/2009 16:22:07] Dark Originalll has logged out.
+[11/11/2009 16:22:10] Dark Originalll has logged in.
+[11/11/2009 16:22:17] Account Manager has logged out.
+[11/11/2009 16:22:22] Mastermorlan has logged out.
+[11/11/2009 16:22:25] Account Manager has logged in.
+[11/11/2009 16:22:41] Paisaano has logged out.
+[11/11/2009 16:22:45] Paisaano has logged in.
+[11/11/2009 16:22:46] Maik Walk Dos has logged out.
+[11/11/2009 16:22:48] 
+[11/11/2009 16:22:48] Lua Script Error: [Spell Interface] 
+[11/11/2009 16:22:48] in a timer event called from: 
+[11/11/2009 16:22:48] data/spells/scripts/attack/death mort.lua:onCastSpell
+[11/11/2009 16:22:48] 
+[11/11/2009 16:22:48] luaDoCombat(). Creature not found
+[11/11/2009 16:22:48] 
+[11/11/2009 16:22:48] Lua Script Error: [Spell Interface] 
+[11/11/2009 16:22:48] in a timer event called from: 
+[11/11/2009 16:22:48] data/spells/scripts/attack/death mort.lua:onCastSpell
+[11/11/2009 16:22:48] 
+[11/11/2009 16:22:48] luaDoCombat(). Creature not found
+[11/11/2009 16:22:48] 
+[11/11/2009 16:22:48] Lua Script Error: [Spell Interface] 
+[11/11/2009 16:22:48] in a timer event called from: 
+[11/11/2009 16:22:48] data/spells/scripts/attack/death mort.lua:onCastSpell
+[11/11/2009 16:22:48] 
+[11/11/2009 16:22:48] luaDoCombat(). Creature not found
+[11/11/2009 16:22:48] 
+[11/11/2009 16:22:48] Lua Script Error: [Spell Interface] 
+[11/11/2009 16:22:48] in a timer event called from: 
+[11/11/2009 16:22:48] data/spells/scripts/attack/death mort.lua:onCastSpell
+[11/11/2009 16:22:48] 
+[11/11/2009 16:22:48] luaDoCombat(). Creature not found
+[11/11/2009 16:22:48] 
+[11/11/2009 16:22:48] Lua Script Error: [Spell Interface] 
+[11/11/2009 16:22:49] in a timer event called from: 
+[11/11/2009 16:22:49] data/spells/scripts/attack/death mort.lua:onCastSpell
+[11/11/2009 16:22:49] 
+[11/11/2009 16:22:49] luaDoCombat(). Creature not found
+[11/11/2009 16:22:49] 
+[11/11/2009 16:22:49] Lua Script Error: [Spell Interface] 
+[11/11/2009 16:22:49] in a timer event called from: 
+[11/11/2009 16:22:49] data/spells/scripts/attack/death mort.lua:onCastSpell
+[11/11/2009 16:22:49] 
+[11/11/2009 16:22:49] luaDoCombat(). Creature not found
+[11/11/2009 16:22:49] 
+[11/11/2009 16:22:49] Lua Script Error: [Spell Interface] 
+[11/11/2009 16:22:49] in a timer event called from: 
+[11/11/2009 16:22:49] data/spells/scripts/attack/death mort.lua:onCastSpell
+[11/11/2009 16:22:49] 
+[11/11/2009 16:22:49] luaDoCombat(). Creature not found
+[11/11/2009 16:22:49] 
+[11/11/2009 16:22:49] Lua Script Error: [Spell Interface] 
+[11/11/2009 16:22:49] in a timer event called from: 
+[11/11/2009 16:22:49] data/spells/scripts/attack/death mort.lua:onCastSpell
+[11/11/2009 16:22:49] 
+[11/11/2009 16:22:49] luaDoCombat(). Creature not found
+[11/11/2009 16:22:49] 
+[11/11/2009 16:22:49] Lua Script Error: [Spell Interface] 
+[11/11/2009 16:22:49] in a timer event called from: 
+[11/11/2009 16:22:49] data/spells/scripts/attack/death mort.lua:onCastSpell
+[11/11/2009 16:22:49] 
+[11/11/2009 16:22:49] luaDoCombat(). Creature not found
+[11/11/2009 16:22:49] 
+[11/11/2009 16:22:49] Lua Script Error: [Spell Interface] 
+[11/11/2009 16:22:50] in a timer event called from: 
+[11/11/2009 16:22:50] data/spells/scripts/attack/death mort.lua:onCastSpell
+[11/11/2009 16:22:50] 
+[11/11/2009 16:22:50] luaDoCombat(). Creature not found
+[11/11/2009 16:22:50] 
+[11/11/2009 16:22:50] Lua Script Error: [Spell Interface] 
+[11/11/2009 16:22:50] in a timer event called from: 
+[11/11/2009 16:22:50] data/spells/scripts/attack/death mort.lua:onCastSpell
+[11/11/2009 16:22:50] 
+[11/11/2009 16:22:50] luaDoCombat(). Creature not found
+[11/11/2009 16:22:50] 
+[11/11/2009 16:22:50] Lua Script Error: [Spell Interface] 
+[11/11/2009 16:22:50] in a timer event called from: 
+[11/11/2009 16:22:50] data/spells/scripts/attack/death mort.lua:onCastSpell
+[11/11/2009 16:22:50] 
+[11/11/2009 16:22:50] luaDoCombat(). Creature not found
+[11/11/2009 16:22:52] Maik Walk Dos has logged in.
+[11/11/2009 16:22:59] Zakrosd has logged out.
+[11/11/2009 16:23:01] Knight Extremo has logged out.
+[11/11/2009 16:23:03] Zakrosd has logged in.
+[11/11/2009 16:23:04] Knight Extremo has logged in.
+[11/11/2009 16:23:04] Account Manager has logged out.
+[11/11/2009 16:23:06] Zakrosd has logged out.
+[11/11/2009 16:23:20] Lady Knight has logged in.
+[11/11/2009 16:23:44] Paisaano has logged out.
+[11/11/2009 16:23:46] Paisanooo has logged in.
+[11/11/2009 16:23:49] Paisanooo has logged out.
+[11/11/2009 16:23:50] Paisaano has logged in.
+[11/11/2009 16:24:09] 
+[11/11/2009 16:24:09] Lua Script Error: [TalkAction Interface] 
+[11/11/2009 16:24:09] data/talkactions/scripts/leavehouse.lua:onSay
+[11/11/2009 16:24:10] 
+[11/11/2009 16:24:10] luaGetHouseOwner(). House not found
+[11/11/2009 16:24:11] Hoster Aggresor has logged out.
+[11/11/2009 16:24:13] Hoster Aggresor has logged in.
+[11/11/2009 16:24:18] 
+[11/11/2009 16:24:18] Lua Script Error: [TalkAction Interface] 
+[11/11/2009 16:24:19] data/talkactions/scripts/leavehouse.lua:onSay
+[11/11/2009 16:24:19] 
+[11/11/2009 16:24:19] luaGetHouseOwner(). House not found
+[11/11/2009 16:24:36] Account Manager has logged in.
+[11/11/2009 16:24:40] > Saving server...
+[11/11/2009 16:25:10] > SAVE: Complete in 29.782 seconds using relational house storage.
+[11/11/2009 16:25:10] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !notice".
+[11/11/2009 16:25:10] Sochara has logged out.
+[11/11/2009 16:25:14] Sochara has logged in.
+[11/11/2009 16:25:17] 
+[11/11/2009 16:25:17] Lua Script Error: [TalkAction Interface] 
+[11/11/2009 16:25:17] data/talkactions/scripts/leavehouse.lua:onSay
+[11/11/2009 16:25:18] 
+[11/11/2009 16:25:18] luaGetHouseOwner(). House not found
+[11/11/2009 16:25:19] 
+[11/11/2009 16:25:19] Lua Script Error: [TalkAction Interface] 
+[11/11/2009 16:25:19] data/talkactions/scripts/leavehouse.lua:onSay
+[11/11/2009 16:25:19] 
+[11/11/2009 16:25:19] luaGetHouseOwner(). House not found
+[11/11/2009 16:25:40] Xoro Qliao has logged out.
+[11/11/2009 16:25:41] Xoro Qliao has logged in.
+[11/11/2009 16:26:06] Sir lokitoxxx has logged in.
+[11/11/2009 16:26:12] Black Soul has logged in.
+[11/11/2009 16:26:22] Account Manager has logged out.
+[11/11/2009 16:26:26] Account Manager has logged in.
+[11/11/2009 16:26:29] > Broadcasted message: "clean".
+[11/11/2009 16:26:34] > CLEAN: Removed 790 items from 1825 tiles in 0.484 seconds.
+[11/11/2009 16:26:47] Deriich Wey has logged out.
+[11/11/2009 16:26:49] Deriich Wey has logged in.
+[11/11/2009 16:26:53] Deriich Wey has logged out.
+[11/11/2009 16:26:55] Derich Wey has logged in.
+[11/11/2009 16:27:00] Sochara has logged out.
+[11/11/2009 16:27:03] Sochara has logged in.
+[11/11/2009 16:27:30] Lady Knight has logged out.
+[11/11/2009 16:27:32] Mastermorlan has logged in.
+[11/11/2009 16:27:38] Account Manager has logged out.
+[11/11/2009 16:27:44] El regreso has logged out.
+[11/11/2009 16:27:47] El regreso has logged in.
+[11/11/2009 16:28:05] Mastermorlan has logged out.
+[11/11/2009 16:28:06] Lady Knight has logged in.
+[11/11/2009 16:28:49] El regreso has logged out.
+[11/11/2009 16:28:52] El regreso has logged in.
+[11/11/2009 16:29:16] El regreso has logged out.
+[11/11/2009 16:29:23] Maik Walk Dos has logged out.
+[11/11/2009 16:29:24] El regreso has logged in.
+[11/11/2009 16:29:27] Maik Walk Dos has logged in.
+[11/11/2009 16:29:30] Lufi has logged out.
+[11/11/2009 16:29:31] Lufi has logged in.
+[11/11/2009 16:29:50] Knight Lalo has logged in.
+[11/11/2009 16:30:51] Account Manager has logged in.
+[11/11/2009 16:31:00] Xoro Qliao has logged out.
+[11/11/2009 16:31:01] Account Manager has logged in.
+[11/11/2009 16:31:03] Xoro Qliao has logged in.
+[11/11/2009 16:31:06] Account Manager has logged out.
+[11/11/2009 16:31:20] Dwender has logged in.
+[11/11/2009 16:31:24] Account Manager has logged in.
+[11/11/2009 16:31:36] Account Manager has logged out.
+[11/11/2009 16:31:43] Account Manager has logged in.
+[11/11/2009 16:31:44] Account Manager has logged out.
+[11/11/2009 16:31:47] Account Manager has logged out.
+[11/11/2009 16:31:51] Account Manager has logged in.
+[11/11/2009 16:32:03] Ekoz has logged in.
+[11/11/2009 16:32:26] Dark Originalll has logged out.
+[11/11/2009 16:32:29] Dark Originalll has logged in.
+[11/11/2009 16:32:40] Account Manager has logged out.
+[11/11/2009 16:32:57] Dark Originalll has logged out.
+[11/11/2009 16:32:58] Dark Originalll has logged in.
+[11/11/2009 16:33:27] Knight Extremo has logged out.
+[11/11/2009 16:33:32] Knight Extremo has logged in.
+[11/11/2009 16:33:54] Derich Wey has logged out.
+[11/11/2009 16:33:58] Knight Extremo has logged out.
+[11/11/2009 16:34:00] Chamo has logged out.
+[11/11/2009 16:34:00] 
+[11/11/2009 16:34:00] Lua Script Error: [Spell Interface] 
+[11/11/2009 16:34:00] in a timer event called from: 
+[11/11/2009 16:34:00] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[11/11/2009 16:34:00] 
+[11/11/2009 16:34:00] luaDoCombat(). Creature not found
+[11/11/2009 16:34:00] 
+[11/11/2009 16:34:00] Lua Script Error: [Spell Interface] 
+[11/11/2009 16:34:00] in a timer event called from: 
+[11/11/2009 16:34:00] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[11/11/2009 16:34:00] 
+[11/11/2009 16:34:00] luaDoCombat(). Creature not found
+[11/11/2009 16:34:00] 
+[11/11/2009 16:34:00] Lua Script Error: [Spell Interface] 
+[11/11/2009 16:34:00] in a timer event called from: 
+[11/11/2009 16:34:00] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[11/11/2009 16:34:01] 
+[11/11/2009 16:34:01] luaDoCombat(). Creature not found
+[11/11/2009 16:34:01] 
+[11/11/2009 16:34:01] Lua Script Error: [Spell Interface] 
+[11/11/2009 16:34:01] in a timer event called from: 
+[11/11/2009 16:34:01] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[11/11/2009 16:34:01] 
+[11/11/2009 16:34:01] luaDoCombat(). Creature not found
+[11/11/2009 16:34:01] 
+[11/11/2009 16:34:01] Lua Script Error: [Spell Interface] 
+[11/11/2009 16:34:01] in a timer event called from: 
+[11/11/2009 16:34:01] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[11/11/2009 16:34:01] 
+[11/11/2009 16:34:01] luaDoCombat(). Creature not found
+[11/11/2009 16:34:01] 
+[11/11/2009 16:34:01] Lua Script Error: [Spell Interface] 
+[11/11/2009 16:34:01] in a timer event called from: 
+[11/11/2009 16:34:01] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[11/11/2009 16:34:01] 
+[11/11/2009 16:34:01] luaDoCombat(). Creature not found
+[11/11/2009 16:34:01] 
+[11/11/2009 16:34:01] Lua Script Error: [Spell Interface] 
+[11/11/2009 16:34:01] in a timer event called from: 
+[11/11/2009 16:34:01] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[11/11/2009 16:34:01] 
+[11/11/2009 16:34:01] luaDoCombat(). Creature not found
+[11/11/2009 16:34:02] 
+[11/11/2009 16:34:02] Lua Script Error: [Spell Interface] 
+[11/11/2009 16:34:02] in a timer event called from: 
+[11/11/2009 16:34:02] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[11/11/2009 16:34:02] 
+[11/11/2009 16:34:02] luaDoCombat(). Creature not found
+[11/11/2009 16:34:02] 
+[11/11/2009 16:34:02] Lua Script Error: [Spell Interface] 
+[11/11/2009 16:34:02] in a timer event called from: 
+[11/11/2009 16:34:02] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[11/11/2009 16:34:02] 
+[11/11/2009 16:34:02] luaDoCombat(). Creature not found
+[11/11/2009 16:34:02] 
+[11/11/2009 16:34:02] Lua Script Error: [Spell Interface] 
+[11/11/2009 16:34:02] in a timer event called from: 
+[11/11/2009 16:34:02] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[11/11/2009 16:34:02] 
+[11/11/2009 16:34:02] luaDoCombat(). Creature not found
+[11/11/2009 16:34:02] 
+[11/11/2009 16:34:02] Lua Script Error: [Spell Interface] 
+[11/11/2009 16:34:02] in a timer event called from: 
+[11/11/2009 16:34:02] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[11/11/2009 16:34:02] 
+[11/11/2009 16:34:02] luaDoCombat(). Creature not found
+[11/11/2009 16:34:02] 
+[11/11/2009 16:34:02] Lua Script Error: [Spell Interface] 
+[11/11/2009 16:34:02] in a timer event called from: 
+[11/11/2009 16:34:02] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[11/11/2009 16:34:03] 
+[11/11/2009 16:34:03] luaDoCombat(). Creature not found
+[11/11/2009 16:34:03] 
+[11/11/2009 16:34:03] Lua Script Error: [Spell Interface] 
+[11/11/2009 16:34:03] in a timer event called from: 
+[11/11/2009 16:34:03] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[11/11/2009 16:34:03] 
+[11/11/2009 16:34:03] luaDoCombat(). Creature not found
+[11/11/2009 16:34:03] 
+[11/11/2009 16:34:03] Lua Script Error: [Spell Interface] 
+[11/11/2009 16:34:03] in a timer event called from: 
+[11/11/2009 16:34:03] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[11/11/2009 16:34:03] 
+[11/11/2009 16:34:03] luaDoCombat(). Creature not found
+[11/11/2009 16:34:03] 
+[11/11/2009 16:34:03] Lua Script Error: [Spell Interface] 
+[11/11/2009 16:34:03] in a timer event called from: 
+[11/11/2009 16:34:03] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[11/11/2009 16:34:03] 
+[11/11/2009 16:34:03] luaDoCombat(). Creature not found
+[11/11/2009 16:34:03] 
+[11/11/2009 16:34:03] Lua Script Error: [Spell Interface] 
+[11/11/2009 16:34:03] in a timer event called from: 
+[11/11/2009 16:34:03] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[11/11/2009 16:34:04] 
+[11/11/2009 16:34:04] luaDoCombat(). Creature not found
+[11/11/2009 16:34:04] 
+[11/11/2009 16:34:04] Lua Script Error: [Spell Interface] 
+[11/11/2009 16:34:04] in a timer event called from: 
+[11/11/2009 16:34:04] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[11/11/2009 16:34:04] 
+[11/11/2009 16:34:04] luaDoCombat(). Creature not found
+[11/11/2009 16:34:04] 
+[11/11/2009 16:34:04] Lua Script Error: [Spell Interface] 
+[11/11/2009 16:34:04] in a timer event called from: 
+[11/11/2009 16:34:04] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[11/11/2009 16:34:04] 
+[11/11/2009 16:34:04] luaDoCombat(). Creature not found
+[11/11/2009 16:34:04] 
+[11/11/2009 16:34:04] Lua Script Error: [Spell Interface] 
+[11/11/2009 16:34:04] in a timer event called from: 
+[11/11/2009 16:34:04] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[11/11/2009 16:34:04] 
+[11/11/2009 16:34:04] luaDoCombat(). Creature not found
+[11/11/2009 16:34:04] 
+[11/11/2009 16:34:04] Lua Script Error: [Spell Interface] 
+[11/11/2009 16:34:04] in a timer event called from: 
+[11/11/2009 16:34:04] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[11/11/2009 16:34:04] 
+[11/11/2009 16:34:04] luaDoCombat(). Creature not found
+[11/11/2009 16:34:05] Account Manager has logged in.
+[11/11/2009 16:34:05] Knight Extremo has logged in.
+[11/11/2009 16:34:05] Chamo has logged in.
+[11/11/2009 16:34:22] Chamo has logged out.
+[11/11/2009 16:34:25] Knight Extremo has logged out.
+[11/11/2009 16:34:27] Knight Extremo has logged in.
+[11/11/2009 16:34:27] Chamo has logged in.
+[11/11/2009 16:34:40] Account Manager has logged out.
+[11/11/2009 16:34:41] El regreso has logged out.
+[11/11/2009 16:34:44] El regreso has logged in.
+[11/11/2009 16:34:58] Chamo has logged out.
+[11/11/2009 16:34:59] Chamo has logged in.
+[11/11/2009 16:35:04] Account Manager has logged in.
+[11/11/2009 16:35:11] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !notice".
+[11/11/2009 16:35:16] Dark Originalll has logged out.
+[11/11/2009 16:35:18] Dark Originalll has logged in.
+[11/11/2009 16:35:32] Paisaano has logged out.
+[11/11/2009 16:35:33] 
+[11/11/2009 16:35:33] Lua Script Error: [Spell Interface] 
+[11/11/2009 16:35:33] in a timer event called from: 
+[11/11/2009 16:35:33] data/spells/scripts/attack/meteora.lua:onCastSpell
+[11/11/2009 16:35:33] 
+[11/11/2009 16:35:33] luaDoCombat(). Creature not found
+[11/11/2009 16:35:33] 
+[11/11/2009 16:35:33] Lua Script Error: [Spell Interface] 
+[11/11/2009 16:35:33] in a timer event called from: 
+[11/11/2009 16:35:33] data/spells/scripts/attack/meteora.lua:onCastSpell
+[11/11/2009 16:35:33] 
+[11/11/2009 16:35:33] luaDoCombat(). Creature not found
+[11/11/2009 16:35:33] 
+[11/11/2009 16:35:33] Lua Script Error: [Spell Interface] 
+[11/11/2009 16:35:33] in a timer event called from: 
+[11/11/2009 16:35:33] data/spells/scripts/attack/meteora.lua:onCastSpell
+[11/11/2009 16:35:33] 
+[11/11/2009 16:35:33] luaDoCombat(). Creature not found
+[11/11/2009 16:35:33] 
+[11/11/2009 16:35:33] Lua Script Error: [Spell Interface] 
+[11/11/2009 16:35:33] in a timer event called from: 
+[11/11/2009 16:35:33] data/spells/scripts/attack/meteora.lua:onCastSpell
+[11/11/2009 16:35:33] 
+[11/11/2009 16:35:33] luaDoCombat(). Creature not found
+[11/11/2009 16:35:33] 
+[11/11/2009 16:35:33] Lua Script Error: [Spell Interface] 
+[11/11/2009 16:35:33] in a timer event called from: 
+[11/11/2009 16:35:33] data/spells/scripts/attack/meteora.lua:onCastSpell
+[11/11/2009 16:35:33] 
+[11/11/2009 16:35:33] luaDoCombat(). Creature not found
+[11/11/2009 16:35:34] 
+[11/11/2009 16:35:34] Lua Script Error: [Spell Interface] 
+[11/11/2009 16:35:34] in a timer event called from: 
+[11/11/2009 16:35:34] data/spells/scripts/attack/meteora.lua:onCastSpell
+[11/11/2009 16:35:34] 
+[11/11/2009 16:35:34] luaDoCombat(). Creature not found
+[11/11/2009 16:35:34] 
+[11/11/2009 16:35:34] Lua Script Error: [Spell Interface] 
+[11/11/2009 16:35:34] in a timer event called from: 
+[11/11/2009 16:35:34] data/spells/scripts/attack/meteora.lua:onCastSpell
+[11/11/2009 16:35:34] 
+[11/11/2009 16:35:34] luaDoCombat(). Creature not found
+[11/11/2009 16:35:34] 
+[11/11/2009 16:35:34] Lua Script Error: [Spell Interface] 
+[11/11/2009 16:35:34] in a timer event called from: 
+[11/11/2009 16:35:34] data/spells/scripts/attack/meteora.lua:onCastSpell
+[11/11/2009 16:35:34] 
+[11/11/2009 16:35:34] luaDoCombat(). Creature not found
+[11/11/2009 16:35:34] 
+[11/11/2009 16:35:34] Lua Script Error: [Spell Interface] 
+[11/11/2009 16:35:34] in a timer event called from: 
+[11/11/2009 16:35:34] data/spells/scripts/attack/meteora.lua:onCastSpell
+[11/11/2009 16:35:34] 
+[11/11/2009 16:35:34] luaDoCombat(). Creature not found
+[11/11/2009 16:35:34] 
+[11/11/2009 16:35:34] Lua Script Error: [Spell Interface] 
+[11/11/2009 16:35:34] in a timer event called from: 
+[11/11/2009 16:35:34] data/spells/scripts/attack/meteora.lua:onCastSpell
+[11/11/2009 16:35:34] 
+[11/11/2009 16:35:34] luaDoCombat(). Creature not found
+[11/11/2009 16:35:34] 
+[11/11/2009 16:35:34] Lua Script Error: [Spell Interface] 
+[11/11/2009 16:35:34] in a timer event called from: 
+[11/11/2009 16:35:35] data/spells/scripts/attack/meteora.lua:onCastSpell
+[11/11/2009 16:35:35] 
+[11/11/2009 16:35:35] luaDoCombat(). Creature not found
+[11/11/2009 16:35:36] Paisaano has logged in.
+[11/11/2009 16:35:46] Account Manager has logged out.
+[11/11/2009 16:35:52] Zerhox has logged out.
+[11/11/2009 16:35:54] Zerhox has logged in.
+[11/11/2009 16:36:02] Account Manager has logged in.
+[11/11/2009 16:36:29] Chamo has logged out.
+[11/11/2009 16:36:31] Paisaano has logged out.
+[11/11/2009 16:36:31] Chamo has logged in.
+[11/11/2009 16:36:33] Paisaano has logged in.
+[11/11/2009 16:36:35] Account Manager has logged out.
+[11/11/2009 16:36:38] El regreso has logged out.
+[11/11/2009 16:36:42] Maik Walk Dos has logged out.
+[11/11/2009 16:36:45] Maik Walk Dos has logged in.
+[11/11/2009 16:36:45] El regreso has logged in.
+[11/11/2009 16:36:49] Zamuray has logged in.
+[11/11/2009 16:36:53] Sochara has logged out.
+[11/11/2009 16:36:55] Sochara has logged in.
+[11/11/2009 16:37:08] Knight Extremo has logged out.
+[11/11/2009 16:37:10] Knight Extremo has logged in.
+[11/11/2009 16:37:27] Knight Extremo has logged out.
+[11/11/2009 16:37:28] Knight Extremo has logged in.
+[11/11/2009 16:38:24] Druidix has logged out.
+[11/11/2009 16:38:31] Druidix has logged in.
+[11/11/2009 16:39:12] [Error - SingleSpawnEvent::executeEvent] Cannot spawn monster Grynch Clan Goblin
+[11/11/2009 16:39:39] Zerhox has logged out.
+[11/11/2009 16:39:41] Zerhox has logged in.
+[11/11/2009 16:39:41] > Saving server...
+[11/11/2009 16:39:55] > SAVE: Complete in 13.797 seconds using relational house storage.
+[11/11/2009 16:40:02] El regreso has logged out.
+[11/11/2009 16:40:05] El regreso has logged in.
+[11/11/2009 16:40:56] Nadie Sabe has logged out.
+[11/11/2009 16:40:56] Druidix has logged out.
+[11/11/2009 16:40:57] Sochara has logged out.
+[11/11/2009 16:40:57] Sir lokitoxxx has logged out.
+[11/11/2009 16:41:01] El regreso has logged out.
+[11/11/2009 16:41:05] El regreso has logged in.
+[11/11/2009 16:41:11] Druidix has logged in.
+[11/11/2009 16:41:12] Sochara has logged in.
+[11/11/2009 16:41:14] Dwender has logged out.
+[11/11/2009 16:41:16] Dwender has logged in.
+[11/11/2009 16:41:22] Maik Walk Dos has logged out.
+[11/11/2009 16:41:25] Maik Walk Dos has logged in.
+[11/11/2009 16:41:40] Nadie Sabe has logged in.
+[11/11/2009 16:42:09] Chamo has logged out.
+[11/11/2009 16:42:10] Chamo has logged in.
+[11/11/2009 16:42:18] Chamo has logged out.
+[11/11/2009 16:42:38] Paisaano has logged out.
+[11/11/2009 16:42:40] Paisaano has logged in.
+[11/11/2009 16:42:42] Chamo has logged in.
+[11/11/2009 16:42:50] Sir lokitoxxx has logged in.
+[11/11/2009 16:43:46] El regreso has logged out.
+[11/11/2009 16:43:47] Derich Wey has logged in.
+[11/11/2009 16:43:48] El regreso has logged in.
+[11/11/2009 16:43:59] Maik Walk Dos has logged out.
+[11/11/2009 16:44:01] Maik Walk Dos has logged in.
+[11/11/2009 16:44:29] Chamo has logged out.
+[11/11/2009 16:44:30] 
+[11/11/2009 16:44:30] Lua Script Error: [Spell Interface] 
+[11/11/2009 16:44:30] in a timer event called from: 
+[11/11/2009 16:44:30] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[11/11/2009 16:44:30] 
+[11/11/2009 16:44:30] luaDoCombat(). Creature not found
+[11/11/2009 16:44:30] 
+[11/11/2009 16:44:30] Lua Script Error: [Spell Interface] 
+[11/11/2009 16:44:30] in a timer event called from: 
+[11/11/2009 16:44:30] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[11/11/2009 16:44:30] 
+[11/11/2009 16:44:30] luaDoCombat(). Creature not found
+[11/11/2009 16:44:30] 
+[11/11/2009 16:44:30] Lua Script Error: [Spell Interface] 
+[11/11/2009 16:44:30] in a timer event called from: 
+[11/11/2009 16:44:30] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[11/11/2009 16:44:30] 
+[11/11/2009 16:44:30] luaDoCombat(). Creature not found
+[11/11/2009 16:44:33] Chamo has logged in.
+[11/11/2009 16:44:40] El regreso has logged out.
+[11/11/2009 16:44:41] El regreso has logged in.
+[11/11/2009 16:45:05] > Assassin Croos broadcasted: "ay 2 tutores new".
+[11/11/2009 16:45:07] Sochara has logged out.
+[11/11/2009 16:45:09] Sochara has logged in.
+[11/11/2009 16:45:12] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !notice".
+[11/11/2009 16:45:15] > Zerhox broadcasted: "wenaas".
+[11/11/2009 16:45:21] Knight Lalo has logged out.
+[11/11/2009 16:45:27] > Zerhox broadcasted: "wenaas".
+[11/11/2009 16:45:34] Edge has logged in.
+[11/11/2009 16:45:44] Suicida has logged in.
+[11/11/2009 16:45:46] Derich Wey has logged out.
+[11/11/2009 16:45:48] Deriich Wey has logged in.
+[11/11/2009 16:46:03] El regreso has logged out.
+[11/11/2009 16:46:05] El regreso has logged in.
+[11/11/2009 16:46:05] > Broadcasted message: "Server is going down in 60 minutes.".
+[11/11/2009 16:46:06] Chamo has logged out.
+[11/11/2009 16:46:09] Chamo has logged in.
+[11/11/2009 16:46:45] Maik Walk Dos has logged out.
+[11/11/2009 16:46:47] Maik Walk Dos has logged in.
+[11/11/2009 16:47:02] 
+[11/11/2009 16:47:02] Lua Script Error: [TalkAction Interface] 
+[11/11/2009 16:47:02] data/talkactions/scripts/leavehouse.lua:onSay
+[11/11/2009 16:47:02] 
+[11/11/2009 16:47:02] luaGetHouseOwner(). House not found
+[11/11/2009 16:47:05] > Broadcasted message: "Server is going down in 59 minutes.".
+[11/11/2009 16:47:07] 
+[11/11/2009 16:47:07] Lua Script Error: [TalkAction Interface] 
+[11/11/2009 16:47:07] data/talkactions/scripts/leavehouse.lua:onSay
+[11/11/2009 16:47:07] 
+[11/11/2009 16:47:07] luaGetHouseOwner(). House not found
+[11/11/2009 16:47:13] Hoster Aggresor has logged out.
+[11/11/2009 16:47:21] Edge has logged out.
+[11/11/2009 16:47:34] Chamo has logged out.
+[11/11/2009 16:47:36] Chamo has logged in.
+[11/11/2009 16:47:38] Knight Extremo has logged out.
+[11/11/2009 16:47:40] Dwender has logged out.
+[11/11/2009 16:47:41] Knight Extremo has logged in.
+[11/11/2009 16:47:42] Dwender has logged in.
+[11/11/2009 16:47:43] El regreso has logged out.
+[11/11/2009 16:47:44] Dwender has logged out.
+[11/11/2009 16:47:45] El regreso has logged in.
+[11/11/2009 16:47:47] Dwender has logged in.
+[11/11/2009 16:48:00] El regreso has logged out.
+[11/11/2009 16:48:00] 
+[11/11/2009 16:48:00] Lua Script Error: [TalkAction Interface] 
+[11/11/2009 16:48:00] data/talkactions/scripts/leavehouse.lua:onSay
+[11/11/2009 16:48:00] 
+[11/11/2009 16:48:00] luaGetHouseOwner(). House not found
+[11/11/2009 16:48:02] El regreso has logged in.
+[11/11/2009 16:48:05] > Broadcasted message: "Server is going down in 58 minutes.".
+[11/11/2009 16:48:09] Chamo has logged out.
+[11/11/2009 16:48:11] Chamo has logged in.
+[11/11/2009 16:48:19] El regreso has logged out.
+[11/11/2009 16:48:21] El regreso has logged in.
+[11/11/2009 16:49:06] > Broadcasted message: "Server is going down in 57 minutes.".
+[11/11/2009 16:49:19] Knight Lalo has logged in.
+[11/11/2009 16:49:30] Sir lokitoxxx has logged out.
+[11/11/2009 16:49:32] Assassin Croos has logged out.
+[11/11/2009 16:49:32] Sir lokitoxxx has logged in.
+[11/11/2009 16:49:36] Assassin Croos has logged in.
+[11/11/2009 16:50:06] > Broadcasted message: "Server is going down in 56 minutes.".
+[11/11/2009 16:50:11] > Assassin Croos broadcasted: "los tutores responderan cualkier duda".
+[11/11/2009 16:50:21] > Knight Lalo broadcasted: "dudas, consultas mandar mensaje".
+[11/11/2009 16:50:27] Dark Originalll has logged out.
+[11/11/2009 16:50:29] Dark Originalll has logged in.
+[11/11/2009 16:50:37] Nadie Sabe has logged out.
+[11/11/2009 16:50:40] Nadie Sabe has logged in.
+[11/11/2009 16:51:06] > Broadcasted message: "Server is going down in 55 minutes.".
+[11/11/2009 16:51:14] El regreso has logged out.
+[11/11/2009 16:51:17] El regreso has logged in.
+[11/11/2009 16:51:49] El regreso has logged out.
+[11/11/2009 16:51:51] El regreso has logged in.
+[11/11/2009 16:52:06] > Broadcasted message: "Server is going down in 54 minutes.".
+[11/11/2009 16:52:20] Maik Walk Dos has logged out.
+[11/11/2009 16:52:22] El regreso has logged out.
+[11/11/2009 16:52:24] Maik Walk Dos has logged in.
+[11/11/2009 16:52:25] El regreso has logged in.
+[11/11/2009 16:53:00] Ekoz has logged out.
+[11/11/2009 16:53:06] > Broadcasted message: "Server is going down in 53 minutes.".
+[11/11/2009 16:53:13] Account Manager has logged in.
+[11/11/2009 16:53:16] Account Manager has logged out.
+[11/11/2009 16:53:18] Ekoz has logged in.
+[11/11/2009 16:53:43] > Knight Lalo broadcasted: "dudas consultas  por Help channel".
+[11/11/2009 16:53:52] Paisaano has logged out.
+[11/11/2009 16:53:54] Paisaano has logged in.
+[11/11/2009 16:54:06] > Broadcasted message: "Server is going down in 52 minutes.".
+[11/11/2009 16:54:17] Account Manager has logged in.
+[11/11/2009 16:54:35] > Broadcasted message: "la limpieza del mapa empieza en 30 segundos, por favor wn recoje tus items!".
+[11/11/2009 16:54:42] > Saving server...
+[11/11/2009 16:54:51] > SAVE: Complete in 9.844 seconds using relational house storage.
+[11/11/2009 16:55:06] > CLEAN: Removed 1665 items from 3101 tiles in 0.14 seconds.
+[11/11/2009 16:55:06] > Broadcasted message: "el mapa se limpio :P, siguiente limpieza en 2 horas.".
+[11/11/2009 16:55:06] > Broadcasted message: "Server is going down in 51 minutes.".
+[11/11/2009 16:55:13] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !notice".
+[11/11/2009 16:55:18] El regreso has logged out.
+[11/11/2009 16:55:19] Account Manager has logged out.
+[11/11/2009 16:55:22] El regreso has logged in.
+[11/11/2009 16:55:27] Maik Walk Dos has logged out.
+[11/11/2009 16:55:32] Account Manager has logged in.
+[11/11/2009 16:55:35] Chamo has logged out.
+[11/11/2009 16:55:40] Chamo has logged in.
+[11/11/2009 16:56:06] > Broadcasted message: "Server is going down in 50 minutes.".
+[11/11/2009 16:56:06] Account Manager has logged out.
+[11/11/2009 16:56:16] > Knight Lalo broadcasted: "Cualquier duda  por help channeñ".
+[11/11/2009 16:56:17] El regreso has logged out.
+[11/11/2009 16:56:20] El regreso has logged in.
+[11/11/2009 16:56:22] Mjuertera has logged in.
+[11/11/2009 16:56:50] Tomithoxz has logged in.
+[11/11/2009 16:56:52] Mjuertera has logged out.
+[11/11/2009 16:56:55] Tomithoxz has logged out.
+[11/11/2009 16:56:57] Mjuertera has logged in.
+[11/11/2009 16:56:57] Tomithoxz has logged in.
+[11/11/2009 16:56:57] Account Manager has logged in.
+[11/11/2009 16:56:58] Chamo has logged out.
+[11/11/2009 16:57:03] Chamo has logged in.
+[11/11/2009 16:57:06] > Broadcasted message: "Server is going down in 49 minutes.".
+[11/11/2009 16:57:07] El regreso has logged out.
+[11/11/2009 16:57:10] El regreso has logged in.
+[11/11/2009 16:57:17] Dwender has logged out.
+[11/11/2009 16:57:23] Account Manager has logged out.
+[11/11/2009 16:57:33] Account Manager has logged in.
+[11/11/2009 16:57:35] > Assassin Croos broadcasted: "los tutores son para ayudar".
+[11/11/2009 16:57:38] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/no crean.xml).
+[11/11/2009 16:57:38] Info: failed to load external entity "data/npc/no crean.xml"
+[11/11/2009 16:57:38] 
+[11/11/2009 16:57:38] 
+[11/11/2009 16:57:45] Xoro Qliao has logged out.
+[11/11/2009 16:57:45] > Assassin Croos broadcasted: "no editan".
+[11/11/2009 16:57:46] Xoro Qliao has logged in.
+[11/11/2009 16:57:48] > Knight Lalo broadcasted: "Cualquier duda, por help channel. Si necesitas ayuda tambien.".
+[11/11/2009 16:57:50] > Assassin Croos broadcasted: "solo ayudan".
+[11/11/2009 16:57:57] > Zerhox broadcasted: "dale".
+[11/11/2009 16:58:06] > Broadcasted message: "Server is going down in 48 minutes.".
+[11/11/2009 16:58:06] Account Manager has logged out.
+[11/11/2009 16:58:15] Lady Knight has logged out.
+[11/11/2009 16:58:16] Elite kinght has logged in.
+[11/11/2009 16:58:16] > Zerhox broadcasted: "ken nesesita ayuda ablenme x pribado".
+[11/11/2009 16:58:17] Dark Originalll has logged out.
+[11/11/2009 16:58:19] Lady Knight has logged in.
+[11/11/2009 16:58:19] Dark Originalll has logged in.
+[11/11/2009 16:58:20] Lufi has logged out.
+[11/11/2009 16:58:24] > Knight Lalo broadcasted: "El tutor no puede dar lvl ni editar item para que no anden pidiendo cosas!".
+[11/11/2009 16:58:33] Sochara has logged out.
+[11/11/2009 16:58:35] Sochara has logged in.
+[11/11/2009 16:58:46] > Assassin Croos broadcasted: "el tutor ayuda al cm,gmy god".
+[11/11/2009 16:58:49] Chamo has logged out.
+[11/11/2009 16:58:51] Chamo has logged in.
+[11/11/2009 16:58:54] Knight Extremo has logged out.
+[11/11/2009 16:58:56] Knight Extremo has logged in.
+[11/11/2009 16:59:00] > Knight Lalo broadcasted: "nos vemos mas ttarde disfruten el server".
+[11/11/2009 16:59:04] Knight Lalo has logged out.
+[11/11/2009 16:59:06] > Broadcasted message: "Server is going down in 47 minutes.".
+[11/11/2009 16:59:09] El regreso has logged out.
+[11/11/2009 16:59:12] El regreso has logged in.
+[11/11/2009 16:59:14] Deriich Wey has logged out.
+[11/11/2009 16:59:16] Derich Wey has logged in.
+[11/11/2009 16:59:28] Account Manager has logged in.
+[11/11/2009 16:59:31] Account Manager has logged out.
+[11/11/2009 16:59:39] > Assassin Croos broadcasted: "bye".
+[11/11/2009 16:59:43] Giovanni has logged in.
+[11/11/2009 16:59:50] Suicida has logged out.
+[11/11/2009 16:59:53] Suicida has logged in.
+[11/11/2009 16:59:56] Assassin Croos has logged out.
+[11/11/2009 17:00:06] > Broadcasted message: "Server is going down in 46 minutes.".
+[11/11/2009 17:00:06] Ekoz has logged out.
+[11/11/2009 17:00:18] Ekoz has logged in.
+[11/11/2009 17:00:52] Knight Extremo has logged out.
+[11/11/2009 17:00:53] Knight Extremo has logged in.
+[11/11/2009 17:00:54] Julio has logged in.
+[11/11/2009 17:00:55] Giovanni has logged out.
+[11/11/2009 17:01:06] > Broadcasted message: "Server is going down in 45 minutes.".
+[11/11/2009 17:01:09] Xoro Qliao has logged out.
+[11/11/2009 17:01:10] Xoro Qliao has logged in.
+[11/11/2009 17:01:16] Ekoz has logged out.
+[11/11/2009 17:01:17] Knight Extremo has logged out.
+[11/11/2009 17:01:18] Knight Extremo has logged in.
+[11/11/2009 17:01:19] Julio has logged out.
+[11/11/2009 17:01:20] Julio has logged in.
+[11/11/2009 17:01:25] Derich Wey has logged out.
+[11/11/2009 17:01:26] Derich Wey has logged in.
+[11/11/2009 17:01:40] Knight Extremo has logged out.
+[11/11/2009 17:01:41] El regreso has logged out.
+[11/11/2009 17:01:42] Tomithoxz has logged out.
+[11/11/2009 17:01:42] Knight Extremo has logged in.
+[11/11/2009 17:01:45] Julio has logged out.
+[11/11/2009 17:01:46] Derich Wey has logged out.
+[11/11/2009 17:01:46] Julio has logged in.
+[11/11/2009 17:01:46] El regreso has logged in.
+[11/11/2009 17:01:48] Derich Wey has logged in.
+[11/11/2009 17:01:49] Ekoz has logged in.
+[11/11/2009 17:01:50] Tomithoxz has logged in.
+[11/11/2009 17:01:54] Knight Extremo has logged out.
+[11/11/2009 17:01:56] Knight Extremo has logged in.
+[11/11/2009 17:01:57] Derich Wey has logged out.
+[11/11/2009 17:01:59] Derich Wey has logged in.
+[11/11/2009 17:02:05] Nadie Sabe has logged out.
+[11/11/2009 17:02:06] > Broadcasted message: "Server is going down in 44 minutes.".
+[11/11/2009 17:02:07] Nadie Sabe has logged in.
+[11/11/2009 17:02:10] Knight Extremo has logged out.
+[11/11/2009 17:02:11] Knight Extremo has logged in.
+[11/11/2009 17:02:13] Derich Wey has logged out.
+[11/11/2009 17:02:15] Derich Wey has logged in.
+[11/11/2009 17:02:19] Derich Wey has logged out.
+[11/11/2009 17:02:19] 
+[11/11/2009 17:02:19] Lua Script Error: [Action Interface] 
+[11/11/2009 17:02:19] data/actions/scripts/fluids.lua:onUse
+[11/11/2009 17:02:19] 
+[11/11/2009 17:02:19] data/actions/scripts/fluids.lua:20: attempt to call global 'exhaust' (a nil value)
+[11/11/2009 17:02:19] stack traceback:
+[11/11/2009 17:02:19] 	data/actions/scripts/fluids.lua:20: in function <data/actions/scripts/fluids.lua:19>
+[11/11/2009 17:02:20] Nadie Sabe has logged out.
+[11/11/2009 17:02:20] 
+[11/11/2009 17:02:20] Lua Script Error: [Action Interface] 
+[11/11/2009 17:02:20] data/actions/scripts/fluids.lua:onUse
+[11/11/2009 17:02:20] 
+[11/11/2009 17:02:20] data/actions/scripts/fluids.lua:20: attempt to call global 'exhaust' (a nil value)
+[11/11/2009 17:02:21] stack traceback:
+[11/11/2009 17:02:21] 	data/actions/scripts/fluids.lua:20: in function <data/actions/scripts/fluids.lua:19>
+[11/11/2009 17:02:21] Derich Wey has logged in.
+[11/11/2009 17:02:22] 
+[11/11/2009 17:02:22] Lua Script Error: [Action Interface] 
+[11/11/2009 17:02:22] data/actions/scripts/fluids.lua:onUse
+[11/11/2009 17:02:22] 
+[11/11/2009 17:02:22] data/actions/scripts/fluids.lua:20: attempt to call global 'exhaust' (a nil value)
+[11/11/2009 17:02:22] stack traceback:
+[11/11/2009 17:02:22] 	data/actions/scripts/fluids.lua:20: in function <data/actions/scripts/fluids.lua:19>
+[11/11/2009 17:02:22] 
+[11/11/2009 17:02:22] Lua Script Error: [Action Interface] 
+[11/11/2009 17:02:22] data/actions/scripts/fluids.lua:onUse
+[11/11/2009 17:02:22] 
+[11/11/2009 17:02:22] data/actions/scripts/fluids.lua:20: attempt to call global 'exhaust' (a nil value)
+[11/11/2009 17:02:23] stack traceback:
+[11/11/2009 17:02:23] 	data/actions/scripts/fluids.lua:20: in function <data/actions/scripts/fluids.lua:19>
+[11/11/2009 17:02:23] Nadie Sabe has logged in.
+[11/11/2009 17:02:28] Derich Wey has logged out.
+[11/11/2009 17:02:29] Derich Wey has logged in.
+[11/11/2009 17:02:45] Derich Wey has logged out.
+[11/11/2009 17:02:47] Derich Wey has logged in.
+[11/11/2009 17:02:55] Julio has logged out.
+[11/11/2009 17:03:04] Derich Wey has logged out.
+[11/11/2009 17:03:05] Julio has logged in.
+[11/11/2009 17:03:05] Derich Wey has logged in.
+[11/11/2009 17:03:06] > Broadcasted message: "Server is going down in 43 minutes.".
+[11/11/2009 17:03:14] Derich Wey has logged out.
+[11/11/2009 17:03:15] Derich Wey has logged in.
+[11/11/2009 17:03:16] Nadie Sabe has logged out.
+[11/11/2009 17:03:19] Nadie Sabe has logged in.
+[11/11/2009 17:03:32] Derich Wey has logged out.
+[11/11/2009 17:03:32] 
+[11/11/2009 17:03:32] Lua Script Error: [Spell Interface] 
+[11/11/2009 17:03:32] in a timer event called from: 
+[11/11/2009 17:03:33] data/spells/scripts/attack/death mort.lua:onCastSpell
+[11/11/2009 17:03:33] 
+[11/11/2009 17:03:33] luaDoCombat(). Creature not found
+[11/11/2009 17:03:33] 
+[11/11/2009 17:03:33] Lua Script Error: [Spell Interface] 
+[11/11/2009 17:03:33] in a timer event called from: 
+[11/11/2009 17:03:33] data/spells/scripts/attack/death mort.lua:onCastSpell
+[11/11/2009 17:03:33] 
+[11/11/2009 17:03:33] luaDoCombat(). Creature not found
+[11/11/2009 17:03:33] 
+[11/11/2009 17:03:33] Lua Script Error: [Spell Interface] 
+[11/11/2009 17:03:33] in a timer event called from: 
+[11/11/2009 17:03:33] data/spells/scripts/attack/death mort.lua:onCastSpell
+[11/11/2009 17:03:33] 
+[11/11/2009 17:03:33] luaDoCombat(). Creature not found
+[11/11/2009 17:03:34] Paisaano has logged out.
+[11/11/2009 17:03:34] 
+[11/11/2009 17:03:34] Lua Script Error: [CreatureScript Interface] 
+[11/11/2009 17:03:34] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[11/11/2009 17:03:34] 
+[11/11/2009 17:03:34] luaGetCreatureName(). Creature not found
+[11/11/2009 17:03:34] 
+[11/11/2009 17:03:34] Lua Script Error: [CreatureScript Interface] 
+[11/11/2009 17:03:34] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[11/11/2009 17:03:34] 
+[11/11/2009 17:03:34] luaGetCreatureName(). Creature not found
+[11/11/2009 17:03:35] Julio has logged out.
+[11/11/2009 17:03:35] Derich Wey has logged in.
+[11/11/2009 17:03:36] Paisaano has logged in.
+[11/11/2009 17:03:37] Julio has logged in.
+[11/11/2009 17:03:43] Derich Wey has logged out.
+[11/11/2009 17:03:44] Derich Wey has logged in.
+[11/11/2009 17:03:45] Zerhox has logged out.
+[11/11/2009 17:03:47] Zerhox has logged in.
+[11/11/2009 17:03:53] Nadie Sabe has logged out.
+[11/11/2009 17:03:54] Derich Wey has logged out.
+[11/11/2009 17:03:55] Derich Wey has logged in.
+[11/11/2009 17:03:57] Zerhox has logged out.
+[11/11/2009 17:03:58] Knight Extremo has logged out.
+[11/11/2009 17:03:59] Zerhox has logged in.
+[11/11/2009 17:03:59] Nadie Sabe has logged in.
+[11/11/2009 17:03:59] Knight Extremo has logged in.
+[11/11/2009 17:04:00] Zerhox has logged out.
+[11/11/2009 17:04:06] > Broadcasted message: "Server is going down in 42 minutes.".
+[11/11/2009 17:04:10] Zerhox has logged in.
+[11/11/2009 17:04:11] Knight Extremo has logged out.
+[11/11/2009 17:04:13] Knight Extremo has logged in.
+[11/11/2009 17:04:15] Tomithoxz has logged out.
+[11/11/2009 17:04:15] Dark Originalll has logged out.
+[11/11/2009 17:04:17] Tomithoxz has logged in.
+[11/11/2009 17:04:19] Knight Extremo has logged out.
+[11/11/2009 17:04:19] Dark Originalll has logged in.
+[11/11/2009 17:04:20] Knight Extremo has logged in.
+[11/11/2009 17:04:23] Zerhox has logged out.
+[11/11/2009 17:04:27] Zerhox has logged in.
+[11/11/2009 17:04:28] Tomithoxz has logged out.
+[11/11/2009 17:04:30] Tomithoxz has logged in.
+[11/11/2009 17:04:30] Nadie Sabe has logged out.
+[11/11/2009 17:04:32] Nadie Sabe has logged in.
+[11/11/2009 17:04:57] Lady Knight has logged out.
+[11/11/2009 17:05:06] > Broadcasted message: "Server is going down in 41 minutes.".
+[11/11/2009 17:05:10] Derich Wey has logged out.
+[11/11/2009 17:05:11] Derich Wey has logged in.
+[11/11/2009 17:05:14] El regreso has logged out.
+[11/11/2009 17:05:14] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !notice".
+[11/11/2009 17:05:16] Vegeta sayayin has logged in.
+[11/11/2009 17:05:30] Julio has logged out.
+[11/11/2009 17:05:32] Julio has logged in.
+[11/11/2009 17:05:35] Vegeta sayayin has logged out.
+[11/11/2009 17:05:37] El regreso has logged in.
+[11/11/2009 17:05:48] Knight Extremo has logged out.
+[11/11/2009 17:05:49] Knight Extremo has logged in.
+[11/11/2009 17:05:52] Paisaano has logged out.
+[11/11/2009 17:05:54] Paisaano has logged in.
+[11/11/2009 17:05:55] Derich Wey has logged out.
+[11/11/2009 17:05:56] Knight Extremo has logged out.
+[11/11/2009 17:05:57] Derich Wey has logged in.
+[11/11/2009 17:05:58] Knight Extremo has logged in.
+[11/11/2009 17:06:06] > Broadcasted message: "Server is going down in 40 minutes.".
+[11/11/2009 17:06:09] Druidix has logged out.
+[11/11/2009 17:06:11] Druidix has logged in.
+[11/11/2009 17:06:11] Julio has logged out.
+[11/11/2009 17:06:12] Zerhox has logged out.
+[11/11/2009 17:06:13] [Error - SingleSpawnEvent::executeEvent] Cannot spawn monster Grynch Clan Goblin
+[11/11/2009 17:06:13] Knight Extremo has logged out.
+[11/11/2009 17:06:14] Julio has logged in.
+[11/11/2009 17:06:14] Zerhox has logged in.
+[11/11/2009 17:06:15] Knight Extremo has logged in.
+[11/11/2009 17:06:20] Druidix has logged out.
+[11/11/2009 17:06:21] Sochara has logged out.
+[11/11/2009 17:06:21] Druidix has logged in.
+[11/11/2009 17:06:22] Derich Wey has logged out.
+[11/11/2009 17:06:23] Sochara has logged in.
+[11/11/2009 17:06:24] Derich Wey has logged in.
+[11/11/2009 17:06:39] Sir lokitoxxx has logged out.
+[11/11/2009 17:06:40] Knight Extremo has logged out.
+[11/11/2009 17:06:41] Druidix has logged out.
+[11/11/2009 17:06:41] Derich Wey has logged out.
+[11/11/2009 17:06:42] 
+[11/11/2009 17:06:42] Lua Script Error: [Spell Interface] 
+[11/11/2009 17:06:42] in a timer event called from: 
+[11/11/2009 17:06:42] data/spells/scripts/attack/death mort.lua:onCastSpell
+[11/11/2009 17:06:42] 
+[11/11/2009 17:06:42] luaDoCombat(). Creature not found
+[11/11/2009 17:06:42] 
+[11/11/2009 17:06:42] Lua Script Error: [Spell Interface] 
+[11/11/2009 17:06:42] in a timer event called from: 
+[11/11/2009 17:06:42] data/spells/scripts/attack/death mort.lua:onCastSpell
+[11/11/2009 17:06:42] 
+[11/11/2009 17:06:42] luaDoCombat(). Creature not found
+[11/11/2009 17:06:42] 
+[11/11/2009 17:06:42] Lua Script Error: [Spell Interface] 
+[11/11/2009 17:06:42] in a timer event called from: 
+[11/11/2009 17:06:42] data/spells/scripts/attack/death mort.lua:onCastSpell
+[11/11/2009 17:06:42] 
+[11/11/2009 17:06:42] luaDoCombat(). Creature not found
+[11/11/2009 17:06:42] 
+[11/11/2009 17:06:42] Lua Script Error: [Spell Interface] 
+[11/11/2009 17:06:42] in a timer event called from: 
+[11/11/2009 17:06:42] data/spells/scripts/attack/death mort.lua:onCastSpell
+[11/11/2009 17:06:42] 
+[11/11/2009 17:06:42] luaDoCombat(). Creature not found
+[11/11/2009 17:06:42] 
+[11/11/2009 17:06:42] Lua Script Error: [Spell Interface] 
+[11/11/2009 17:06:42] in a timer event called from: 
+[11/11/2009 17:06:42] data/spells/scripts/attack/death mort.lua:onCastSpell
+[11/11/2009 17:06:42] 
+[11/11/2009 17:06:42] luaDoCombat(). Creature not found
+[11/11/2009 17:06:42] 
+[11/11/2009 17:06:42] Lua Script Error: [Spell Interface] 
+[11/11/2009 17:06:42] in a timer event called from: 
+[11/11/2009 17:06:42] data/spells/scripts/attack/death mort.lua:onCastSpell
+[11/11/2009 17:06:42] 
+[11/11/2009 17:06:42] luaDoCombat(). Creature not found
+[11/11/2009 17:06:42] 
+[11/11/2009 17:06:42] Lua Script Error: [Spell Interface] 
+[11/11/2009 17:06:43] in a timer event called from: 
+[11/11/2009 17:06:43] data/spells/scripts/attack/death mort.lua:onCastSpell
+[11/11/2009 17:06:43] 
+[11/11/2009 17:06:43] luaDoCombat(). Creature not found
+[11/11/2009 17:06:43] 
+[11/11/2009 17:06:43] Lua Script Error: [Spell Interface] 
+[11/11/2009 17:06:43] in a timer event called from: 
+[11/11/2009 17:06:43] data/spells/scripts/attack/death mort.lua:onCastSpell
+[11/11/2009 17:06:43] 
+[11/11/2009 17:06:43] luaDoCombat(). Creature not found
+[11/11/2009 17:06:43] 
+[11/11/2009 17:06:43] Lua Script Error: [Spell Interface] 
+[11/11/2009 17:06:43] in a timer event called from: 
+[11/11/2009 17:06:43] data/spells/scripts/attack/death mort.lua:onCastSpell
+[11/11/2009 17:06:43] 
+[11/11/2009 17:06:43] luaDoCombat(). Creature not found
+[11/11/2009 17:06:43] Knight Extremo has logged in.
+[11/11/2009 17:06:43] Druidix has logged in.
+[11/11/2009 17:06:47] Sir lokitoxxx has logged in.
+[11/11/2009 17:06:57] Zerhox has logged out.
+[11/11/2009 17:06:58] Julio has logged out.
+[11/11/2009 17:06:59] Zerhox has logged in.
+[11/11/2009 17:07:00] Julio has logged in.
+[11/11/2009 17:07:06] > Broadcasted message: "Server is going down in 39 minutes.".
+[11/11/2009 17:07:14] Druidix has logged out.
+[11/11/2009 17:07:16] Druidix has logged in.
+[11/11/2009 17:07:27] Javiiera has logged in.
+[11/11/2009 17:07:40] Nadie Sabe has logged out.
+[11/11/2009 17:08:07] > Broadcasted message: "Server is going down in 38 minutes.".
+[11/11/2009 17:08:17] Javiiera has logged out.
+[11/11/2009 17:08:22] Javiiera has logged in.
+[11/11/2009 17:08:49] Druidix has logged out.
+[11/11/2009 17:08:50] Druidix has logged in.
+[11/11/2009 17:08:56] Julio has logged out.
+[11/11/2009 17:08:58] Julio has logged in.
+[11/11/2009 17:08:59] Sir lokitoxxx has logged out.
+[11/11/2009 17:09:07] > Broadcasted message: "Server is going down in 37 minutes.".
+[11/11/2009 17:09:14] Suicida has logged out.
+[11/11/2009 17:09:21] Sochara has logged out.
+[11/11/2009 17:09:23] Sochara has logged in.
+[11/11/2009 17:09:40] Ekoz has logged out.
+[11/11/2009 17:09:41] Ekoz has logged in.
+[11/11/2009 17:09:42] Javiiera has logged out.
+[11/11/2009 17:09:43] > Saving server...
+[11/11/2009 17:09:53] > SAVE: Complete in 10.218 seconds using relational house storage.
+[11/11/2009 17:10:07] > Broadcasted message: "Server is going down in 36 minutes.".
+[11/11/2009 17:10:11] Javiiera has logged in.
+[11/11/2009 17:10:22] Dark Originalll has logged out.
+[11/11/2009 17:10:23] Dark Originalll has logged in.
+[11/11/2009 17:10:26] Ekoz has logged out.
+[11/11/2009 17:10:28] Ekoz has logged in.
+[11/11/2009 17:11:02] Ekoz has logged out.
+[11/11/2009 17:11:05] Ekoz has logged in.
+[11/11/2009 17:11:07] > Broadcasted message: "Server is going down in 35 minutes.".
+[11/11/2009 17:11:08] Javiiera has logged out.
+[11/11/2009 17:11:10] Javiiera has logged in.
+[11/11/2009 17:11:34] Ekoz has logged out.
+[11/11/2009 17:11:36] Ekoz has logged in.
+[11/11/2009 17:11:38] Xoro Qliao has logged out.
+[11/11/2009 17:11:40] Xoro Qliao has logged in.
+[11/11/2009 17:11:57] Dark Originalll has logged out.
+[11/11/2009 17:11:58] Dark Originalll has logged in.
+[11/11/2009 17:12:07] > Broadcasted message: "Server is going down in 34 minutes.".
+[11/11/2009 17:12:15] Javiiera has logged out.
+[11/11/2009 17:12:17] Javiiera has logged in.
+[11/11/2009 17:12:18] > Broadcasted message: "Demonios csm invaden aggro city".
+[11/11/2009 17:12:32] Javiiera has logged out.
+[11/11/2009 17:12:34] Javiiera has logged in.
+[11/11/2009 17:12:41] [Error - SingleSpawnEvent::executeEvent] Cannot spawn monster Diblis The Fair
+[11/11/2009 17:12:41] Xoro Qliao has logged out.
+[11/11/2009 17:12:43] Xoro Qliao has logged in.
+[11/11/2009 17:12:49] Javiiera has logged out.
+[11/11/2009 17:12:51] Javiiera has logged in.
+[11/11/2009 17:13:07] > Broadcasted message: "Server is going down in 33 minutes.".
+[11/11/2009 17:13:14] Ekoz has logged out.
+[11/11/2009 17:13:19] Ekoz has logged in.
+[11/11/2009 17:13:43] Zamuray has logged out.
+[11/11/2009 17:13:46] Zamuray has logged in.
+[11/11/2009 17:13:58] El regreso has logged out.
+[11/11/2009 17:14:00] Vegeta sayayin has logged in.
+[11/11/2009 17:14:07] > Broadcasted message: "Server is going down in 32 minutes.".
+[11/11/2009 17:14:19] Xoro Qliao has logged out.
+[11/11/2009 17:14:21] Xoro Qliao has logged in.
+[11/11/2009 17:14:38] Xoro Qliao has logged out.
+[11/11/2009 17:14:39] Xoro Qliao has logged in.
+[11/11/2009 17:14:50] Javiiera has logged out.
+[11/11/2009 17:14:51] Dark Originalll has logged out.
+[11/11/2009 17:14:52] Javiiera has logged in.
+[11/11/2009 17:14:54] Dark Originalll has logged in.
+[11/11/2009 17:15:03] Dark Originalll has logged out.
+[11/11/2009 17:15:04] Account Manager has logged in.
+[11/11/2009 17:15:05] Dark Originalll has logged in.
+[11/11/2009 17:15:07] > Broadcasted message: "Server is going down in 31 minutes.".
+[11/11/2009 17:15:15] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !notice".
+[11/11/2009 17:15:15] Javiiera has logged out.
+[11/11/2009 17:15:17] Javiiera has logged in.
+[11/11/2009 17:15:24] Mjuertera has logged out.
+[11/11/2009 17:15:28] Vegeta sayayin has logged out.
+[11/11/2009 17:15:30] Vegeta sayayin has logged in.
+[11/11/2009 17:15:36] Mjuertera has logged in.
+[11/11/2009 17:15:46] Account Manager has logged out.
+[11/11/2009 17:15:47] Account Manager has logged in.
+[11/11/2009 17:15:48] Account Manager has logged out.
+[11/11/2009 17:15:53] Javiiera has logged out.
+[11/11/2009 17:15:56] > Zerhox broadcasted: "oe black soul eri terrile wena onda ^^".
+[11/11/2009 17:15:59] Javiiera has logged in.
+[11/11/2009 17:16:07] > Broadcasted message: "Server is going down in 30 minutes.".
+[11/11/2009 17:16:10] Elite kinght has logged out.
+[11/11/2009 17:16:12] Elite kinght has logged in.
+[11/11/2009 17:16:24] Julio has logged out.
+[11/11/2009 17:16:27] Julio has logged in.
+[11/11/2009 17:16:47] Javiiera has logged out.
+[11/11/2009 17:16:48] Javiiera has logged in.
+[11/11/2009 17:16:54] Account Manager has logged in.
+[11/11/2009 17:17:07] > Broadcasted message: "Server is going down in 29 minutes.".
+[11/11/2009 17:17:09] Elite kinght has logged out.
+[11/11/2009 17:17:11] Elite kinght has logged in.
+[11/11/2009 17:17:12] Account Manager has logged out.
+[11/11/2009 17:17:13] Account Manager has logged in.
+[11/11/2009 17:17:13] Account Manager has logged in.
+[11/11/2009 17:17:14] Account Manager has logged out.
+[11/11/2009 17:17:16] Account Manager has logged out.
+[11/11/2009 17:17:17] Account Manager has logged in.
+[11/11/2009 17:17:18] Account Manager has logged out.
+[11/11/2009 17:17:19] Zamuray has logged out.
+[11/11/2009 17:17:22] Zamuray has logged in.
+[11/11/2009 17:17:25] Zyte has logged in.
+[11/11/2009 17:17:34] Julio has logged out.
+[11/11/2009 17:17:36] Julio has logged in.
+[11/11/2009 17:18:07] > Broadcasted message: "Server is going down in 28 minutes.".
+[11/11/2009 17:18:16] Ekoz has logged out.
+[11/11/2009 17:18:17] Javiiera has logged out.
+[11/11/2009 17:18:17] Account Manager has logged in.
+[11/11/2009 17:18:19] Javiiera has logged in.
+[11/11/2009 17:18:19] Ekoz has logged in.
+[11/11/2009 17:18:41] Xoro Qliao has logged out.
+[11/11/2009 17:18:42] Xoro Qliao has logged in.
+[11/11/2009 17:18:46] Javiiera has logged out.
+[11/11/2009 17:18:48] Javiiera has logged in.
+[11/11/2009 17:18:51] Account Manager has logged out.
+[11/11/2009 17:19:04] Account Manager has logged in.
+[11/11/2009 17:19:06] Account Manager has logged out.
+[11/11/2009 17:19:07] > Broadcasted message: "Server is going down in 27 minutes.".
+[11/11/2009 17:19:09] Dark Originalll has logged out.
+[11/11/2009 17:19:11] Dark Originalll has logged in.
+[11/11/2009 17:19:13] Xoro Qliao has logged out.
+[11/11/2009 17:19:15] Xoro Qliao has logged in.
+[11/11/2009 17:19:18] Javiiera has logged out.
+[11/11/2009 17:19:19] Arenitaxx has logged in.
+[11/11/2009 17:19:25] Javiiera has logged in.
+[11/11/2009 17:19:52] Julio has logged out.
+[11/11/2009 17:19:53] Xoro Qliao has logged out.
+[11/11/2009 17:19:54] Julio has logged in.
+[11/11/2009 17:19:55] Xoro Qliao has logged in.
+[11/11/2009 17:20:05] Druidix has logged out.
+[11/11/2009 17:20:07] Druidix has logged in.
+[11/11/2009 17:20:07] > Broadcasted message: "Server is going down in 26 minutes.".
+[11/11/2009 17:20:08] Javiiera has logged out.
+[11/11/2009 17:20:13] Javiiera has logged in.
+[11/11/2009 17:20:37] Xoro Qliao has logged out.
+[11/11/2009 17:20:38] Julio has logged out.
+[11/11/2009 17:20:39] Zyte has logged out.
+[11/11/2009 17:20:39] Xoro Qliao has logged in.
+[11/11/2009 17:20:40] Zyte has logged in.
+[11/11/2009 17:20:50] Dark Originalll has logged out.
+[11/11/2009 17:20:52] Dark Originalll has logged in.
+[11/11/2009 17:21:07] > Broadcasted message: "Server is going down in 25 minutes.".
+[11/11/2009 17:21:14] Mjuertera has logged out.
+[11/11/2009 17:21:15] Javiiera has logged out.
+[11/11/2009 17:21:17] Javiiera has logged in.
+[11/11/2009 17:21:21] Mjuertera has logged in.
+[11/11/2009 17:21:42] Javiiera has logged out.
+[11/11/2009 17:21:44] Javiiera has logged in.
+[11/11/2009 17:21:48] Zyte has logged out.
+[11/11/2009 17:21:50] Zyte has logged in.
+[11/11/2009 17:22:07] Zyte has logged out.
+[11/11/2009 17:22:07] > Broadcasted message: "Server is going down in 24 minutes.".
+[11/11/2009 17:22:11] Zyte has logged in.
+[11/11/2009 17:22:17] Javiiera has logged out.
+[11/11/2009 17:22:19] Javiiera has logged in.
+[11/11/2009 17:22:25] Druidix has logged out.
+[11/11/2009 17:22:30] Julio has logged in.
+[11/11/2009 17:22:34] Dark Originalll has logged out.
+[11/11/2009 17:22:38] Druidix has logged in.
+[11/11/2009 17:22:39] Dark Originalll has logged in.
+[11/11/2009 17:22:46] Zyte has logged out.
+[11/11/2009 17:22:47] Zyte has logged in.
+[11/11/2009 17:22:50] Javiiera has logged out.
+[11/11/2009 17:22:52] Javiiera has logged in.
+[11/11/2009 17:22:59] Xoro Qliao has logged out.
+[11/11/2009 17:23:00] Account Manager has logged in.
+[11/11/2009 17:23:01] Xoro Qliao has logged in.
+[11/11/2009 17:23:07] > Broadcasted message: "Server is going down in 23 minutes.".
+[11/11/2009 17:23:21] Chamo has logged out.
+[11/11/2009 17:23:23] Javiiera has logged out.
+[11/11/2009 17:23:25] Knight Extremo has logged out.
+[11/11/2009 17:23:28] Knight Extremo has logged in.
+[11/11/2009 17:23:28] Javiiera has logged in.
+[11/11/2009 17:23:47] Account Manager has logged out.
+[11/11/2009 17:23:49] Account Manager has logged in.
+[11/11/2009 17:23:51] Paisaano has logged out.
+[11/11/2009 17:23:53] Paisaano has logged in.
+[11/11/2009 17:24:02] Druidix has logged out.
+[11/11/2009 17:24:03] Arenitaxx has logged out.
+[11/11/2009 17:24:04] Druidix has logged in.
+[11/11/2009 17:24:07] > Broadcasted message: "Server is going down in 22 minutes.".
+[11/11/2009 17:24:29] Account Manager has logged out.
+[11/11/2009 17:24:30] Account Manager has logged in.
+[11/11/2009 17:24:44] > Saving server...
+[11/11/2009 17:24:52] > SAVE: Complete in 8.078 seconds using relational house storage.
+[11/11/2009 17:24:52] Account Manager has logged out.
+[11/11/2009 17:24:54] Account Manager has logged in.
+[11/11/2009 17:25:07] > Broadcasted message: "Server is going down in 21 minutes.".
+[11/11/2009 17:25:16] Account Manager has logged out.
+[11/11/2009 17:25:16] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !notice".
+[11/11/2009 17:25:19] Vegeta sayayin has logged out.
+[11/11/2009 17:25:23] Zyte has logged out.
+[11/11/2009 17:25:23] Account Manager has logged in.
+[11/11/2009 17:25:24] Zyte has logged in.
+[11/11/2009 17:25:39] Paisaano has logged out.
+[11/11/2009 17:25:42] Paisaano has logged in.
+[11/11/2009 17:25:47] Xoro Qliao has logged out.
+[11/11/2009 17:25:47] 
+[11/11/2009 17:25:47] Lua Script Error: [Spell Interface] 
+[11/11/2009 17:25:47] in a timer event called from: 
+[11/11/2009 17:25:47] data/spells/scripts/attack/death mort.lua:onCastSpell
+[11/11/2009 17:25:47] 
+[11/11/2009 17:25:47] luaDoCombat(). Creature not found
+[11/11/2009 17:25:47] 
+[11/11/2009 17:25:47] Lua Script Error: [Spell Interface] 
+[11/11/2009 17:25:47] in a timer event called from: 
+[11/11/2009 17:25:47] data/spells/scripts/attack/death mort.lua:onCastSpell
+[11/11/2009 17:25:48] 
+[11/11/2009 17:25:48] luaDoCombat(). Creature not found
+[11/11/2009 17:25:48] 
+[11/11/2009 17:25:48] Lua Script Error: [Spell Interface] 
+[11/11/2009 17:25:48] in a timer event called from: 
+[11/11/2009 17:25:48] data/spells/scripts/attack/death mort.lua:onCastSpell
+[11/11/2009 17:25:48] 
+[11/11/2009 17:25:48] luaDoCombat(). Creature not found
+[11/11/2009 17:25:48] Xoro Qliao has logged in.
+[11/11/2009 17:26:06] Vegeta sayayin has logged in.
+[11/11/2009 17:26:08] > Broadcasted message: "Server is going down in 20 minutes.".
+[11/11/2009 17:26:12] Javiiera has logged out.
+[11/11/2009 17:26:17] Account Manager has logged out.
+[11/11/2009 17:26:27] Xoro Qliao has logged out.
+[11/11/2009 17:26:30] Shinoskte has logged in.
+[11/11/2009 17:26:31] Xoro Qliao has logged in.
+[11/11/2009 17:26:38] Zyte has logged out.
+[11/11/2009 17:26:41] Zyte has logged in.
+[11/11/2009 17:26:47] Vegeta sayayin has logged out.
+[11/11/2009 17:26:49] Druidix has logged out.
+[11/11/2009 17:26:51] Druidix has logged in.
+[11/11/2009 17:27:02] Knight Extremo has logged out.
+[11/11/2009 17:27:04] Julio has logged out.
+[11/11/2009 17:27:04] 
+[11/11/2009 17:27:04] Lua Script Error: [CreatureScript Interface] 
+[11/11/2009 17:27:04] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[11/11/2009 17:27:04] 
+[11/11/2009 17:27:04] luaGetCreatureName(). Creature not found
+[11/11/2009 17:27:05] 
+[11/11/2009 17:27:05] Lua Script Error: [CreatureScript Interface] 
+[11/11/2009 17:27:05] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[11/11/2009 17:27:05] 
+[11/11/2009 17:27:05] luaGetCreatureName(). Creature not found
+[11/11/2009 17:27:06] Paisaano has logged out.
+[11/11/2009 17:27:07] Knight Extremo has logged in.
+[11/11/2009 17:27:08] > Broadcasted message: "Server is going down in 19 minutes.".
+[11/11/2009 17:27:09] Paisaano has logged in.
+[11/11/2009 17:27:11] Julio has logged in.
+[11/11/2009 17:27:17] Zyte has logged out.
+[11/11/2009 17:27:20] Zyte has logged in.
+[11/11/2009 17:27:31] Elite kinght has logged out.
+[11/11/2009 17:27:34] Elite kinght has logged in.
+[11/11/2009 17:27:42] Xoro Qliao has logged out.
+[11/11/2009 17:27:44] Xoro Qliao has logged in.
+[11/11/2009 17:27:50] Knight Extremo has logged out.
+[11/11/2009 17:27:54] Knight Extremo has logged in.
+[11/11/2009 17:28:08] > Broadcasted message: "Server is going down in 18 minutes.".
+[11/11/2009 17:28:15] Xoro Qliao has logged out.
+[11/11/2009 17:28:17] Xoro Qliao has logged in.
+[11/11/2009 17:28:36] Druidix has logged out.
+[11/11/2009 17:28:38] Druidix has logged in.
+[11/11/2009 17:28:50] Xoco has logged in.
+[11/11/2009 17:29:08] > Broadcasted message: "Server is going down in 17 minutes.".
+[11/11/2009 17:29:28] Knight Extremo has logged out.
+[11/11/2009 17:29:30] Knight Extremo has logged in.
+[11/11/2009 17:30:08] > Broadcasted message: "Server is going down in 16 minutes.".
+[11/11/2009 17:30:19] Account Manager has logged in.
+[11/11/2009 17:30:32] Account Manager has logged out.
+[11/11/2009 17:30:45] Vagox has logged in.
+[11/11/2009 17:30:54] 
+[11/11/2009 17:30:54] Lua Script Error: [CreatureScript Interface] 
+[11/11/2009 17:30:54] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[11/11/2009 17:30:54] 
+[11/11/2009 17:30:54] luaGetCreatureName(). Creature not found
+[11/11/2009 17:30:54] 
+[11/11/2009 17:30:54] Lua Script Error: [CreatureScript Interface] 
+[11/11/2009 17:30:54] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[11/11/2009 17:30:54] 
+[11/11/2009 17:30:54] luaGetCreatureName(). Creature not found
+[11/11/2009 17:30:55] 
+[11/11/2009 17:30:55] Lua Script Error: [CreatureScript Interface] 
+[11/11/2009 17:30:55] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[11/11/2009 17:30:55] 
+[11/11/2009 17:30:55] luaGetCreatureName(). Creature not found
+[11/11/2009 17:30:55] 
+[11/11/2009 17:30:55] Lua Script Error: [CreatureScript Interface] 
+[11/11/2009 17:30:55] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[11/11/2009 17:30:55] 
+[11/11/2009 17:30:55] luaGetCreatureName(). Creature not found
+[11/11/2009 17:30:55] Zyte has logged out.
+[11/11/2009 17:30:58] Zyte has logged in.
+[11/11/2009 17:31:08] > Broadcasted message: "Server is going down in 15 minutes.".
+[11/11/2009 17:31:11] Druidix has logged out.
+[11/11/2009 17:31:12] Druidix has logged in.
+[11/11/2009 17:31:16] Knight Extremo has logged out.
+[11/11/2009 17:31:18] Knight Extremo has logged in.
+[11/11/2009 17:31:40] Account Manager has logged in.
+[11/11/2009 17:31:48] Black Soul has logged out.
+[11/11/2009 17:31:50] Black Soul has logged in.
+[11/11/2009 17:32:08] > Broadcasted message: "Server is going down in 14 minutes.".
+[11/11/2009 17:32:15] Vagox has logged out.
+[11/11/2009 17:32:18] Vagox has logged in.
+[11/11/2009 17:32:27] Sochara has logged out.
+[11/11/2009 17:32:45] Elite kinght has logged out.
+[11/11/2009 17:32:46] Elite kinght has logged in.
+[11/11/2009 17:33:09] > Broadcasted message: "Server is going down in 13 minutes.".
+[11/11/2009 17:33:09] > Zerhox broadcasted: "shaooooo kabrosss".
+[11/11/2009 17:33:22] Mjuertera has logged out.
+[11/11/2009 17:33:31] Your Dark has logged in.
+[11/11/2009 17:33:37] Zamuray has logged out.
+[11/11/2009 17:33:40] Zamuray has logged in.
+[11/11/2009 17:33:47] Julio has logged out.
+[11/11/2009 17:33:47] 
+[11/11/2009 17:33:47] Lua Script Error: [Spell Interface] 
+[11/11/2009 17:33:47] in a timer event called from: 
+[11/11/2009 17:33:47] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[11/11/2009 17:33:47] 
+[11/11/2009 17:33:47] luaDoCombat(). Creature not found
+[11/11/2009 17:33:47] 
+[11/11/2009 17:33:47] Lua Script Error: [Spell Interface] 
+[11/11/2009 17:33:47] in a timer event called from: 
+[11/11/2009 17:33:47] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[11/11/2009 17:33:47] 
+[11/11/2009 17:33:47] luaDoCombat(). Creature not found
+[11/11/2009 17:33:48] 
+[11/11/2009 17:33:48] Lua Script Error: [Spell Interface] 
+[11/11/2009 17:33:48] in a timer event called from: 
+[11/11/2009 17:33:48] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[11/11/2009 17:33:48] 
+[11/11/2009 17:33:48] luaDoCombat(). Creature not found
+[11/11/2009 17:33:48] 
+[11/11/2009 17:33:48] Lua Script Error: [Spell Interface] 
+[11/11/2009 17:33:48] in a timer event called from: 
+[11/11/2009 17:33:48] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[11/11/2009 17:33:48] 
+[11/11/2009 17:33:48] luaDoCombat(). Creature not found
+[11/11/2009 17:33:48] 
+[11/11/2009 17:33:48] Lua Script Error: [Spell Interface] 
+[11/11/2009 17:33:48] in a timer event called from: 
+[11/11/2009 17:33:48] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[11/11/2009 17:33:48] 
+[11/11/2009 17:33:48] luaDoCombat(). Creature not found
+[11/11/2009 17:33:48] 
+[11/11/2009 17:33:48] Lua Script Error: [Spell Interface] 
+[11/11/2009 17:33:48] in a timer event called from: 
+[11/11/2009 17:33:48] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[11/11/2009 17:33:48] 
+[11/11/2009 17:33:48] luaDoCombat(). Creature not found
+[11/11/2009 17:33:48] 
+[11/11/2009 17:33:48] Lua Script Error: [Spell Interface] 
+[11/11/2009 17:33:48] in a timer event called from: 
+[11/11/2009 17:33:48] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[11/11/2009 17:33:48] 
+[11/11/2009 17:33:48] luaDoCombat(). Creature not found
+[11/11/2009 17:33:48] 
+[11/11/2009 17:33:48] Lua Script Error: [Spell Interface] 
+[11/11/2009 17:33:48] in a timer event called from: 
+[11/11/2009 17:33:48] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[11/11/2009 17:33:48] 
+[11/11/2009 17:33:48] luaDoCombat(). Creature not found
+[11/11/2009 17:33:48] 
+[11/11/2009 17:33:48] Lua Script Error: [Spell Interface] 
+[11/11/2009 17:33:48] in a timer event called from: 
+[11/11/2009 17:33:48] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[11/11/2009 17:33:48] 
+[11/11/2009 17:33:48] luaDoCombat(). Creature not found
+[11/11/2009 17:33:48] 
+[11/11/2009 17:33:48] Lua Script Error: [Spell Interface] 
+[11/11/2009 17:33:48] in a timer event called from: 
+[11/11/2009 17:33:48] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[11/11/2009 17:33:49] 
+[11/11/2009 17:33:49] luaDoCombat(). Creature not found
+[11/11/2009 17:33:49] 
+[11/11/2009 17:33:49] Lua Script Error: [Spell Interface] 
+[11/11/2009 17:33:49] in a timer event called from: 
+[11/11/2009 17:33:49] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[11/11/2009 17:33:49] 
+[11/11/2009 17:33:49] luaDoCombat(). Creature not found
+[11/11/2009 17:33:49] 
+[11/11/2009 17:33:49] Lua Script Error: [Spell Interface] 
+[11/11/2009 17:33:49] in a timer event called from: 
+[11/11/2009 17:33:49] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[11/11/2009 17:33:49] 
+[11/11/2009 17:33:49] luaDoCombat(). Creature not found
+[11/11/2009 17:33:49] 
+[11/11/2009 17:33:49] Lua Script Error: [Spell Interface] 
+[11/11/2009 17:33:49] in a timer event called from: 
+[11/11/2009 17:33:49] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[11/11/2009 17:33:49] 
+[11/11/2009 17:33:49] luaDoCombat(). Creature not found
+[11/11/2009 17:33:49] 
+[11/11/2009 17:33:49] Lua Script Error: [Spell Interface] 
+[11/11/2009 17:33:49] in a timer event called from: 
+[11/11/2009 17:33:49] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[11/11/2009 17:33:49] 
+[11/11/2009 17:33:49] luaDoCombat(). Creature not found
+[11/11/2009 17:33:49] 
+[11/11/2009 17:33:49] Lua Script Error: [Spell Interface] 
+[11/11/2009 17:33:49] in a timer event called from: 
+[11/11/2009 17:33:49] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[11/11/2009 17:33:49] 
+[11/11/2009 17:33:49] luaDoCombat(). Creature not found
+[11/11/2009 17:33:49] 
+[11/11/2009 17:33:49] Lua Script Error: [Spell Interface] 
+[11/11/2009 17:33:49] in a timer event called from: 
+[11/11/2009 17:33:49] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[11/11/2009 17:33:49] 
+[11/11/2009 17:33:49] luaDoCombat(). Creature not found
+[11/11/2009 17:33:50] Account Manager has logged out.
+[11/11/2009 17:33:50] Julio has logged in.
+[11/11/2009 17:34:05] Zamuray has logged out.
+[11/11/2009 17:34:09] > Broadcasted message: "Server is going down in 12 minutes.".
+[11/11/2009 17:35:01] Paisaano has logged out.
+[11/11/2009 17:35:03] Paisaano has logged in.
+[11/11/2009 17:35:09] > Broadcasted message: "Server is going down in 11 minutes.".
+[11/11/2009 17:35:10] El Jonny has logged in.
+[11/11/2009 17:35:17] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !notice".
+[11/11/2009 17:35:23] Paisaano has logged out.
+[11/11/2009 17:35:27] Paisaano has logged in.
+[11/11/2009 17:35:38] Account Manager has logged in.
+[11/11/2009 17:35:44] Zyte has logged out.
+[11/11/2009 17:35:46] Zyte has logged in.
+[11/11/2009 17:36:03] El Jonny has logged out.
+[11/11/2009 17:36:09] > Broadcasted message: "Server is going down in 10 minutes.".
+[11/11/2009 17:36:09] Jonny has logged in.
+[11/11/2009 17:36:11] Account Manager has logged out.
+[11/11/2009 17:36:20] Account Manager has logged in.
+[11/11/2009 17:36:59] Elite kinght has logged out.
+[11/11/2009 17:37:02] Paisaano has logged out.
+[11/11/2009 17:37:09] > Broadcasted message: "Server is going down in 9 minutes.".
+[11/11/2009 17:37:13] Zyte has logged out.
+[11/11/2009 17:37:17] Zyte has logged in.
+[11/11/2009 17:37:18] Xoco has logged out.
+[11/11/2009 17:37:20] Julio has logged out.
+[11/11/2009 17:37:44] Black Soul has logged out.
+[11/11/2009 17:37:48] Account Manager has logged out.
+[11/11/2009 17:38:00] Zetroks Retomando has logged in.
+[11/11/2009 17:38:01] Black Soul has logged in.
+[11/11/2009 17:38:09] > Broadcasted message: "Server is going down in 8 minutes.".
+[11/11/2009 17:38:31] Julio has logged in.
+[11/11/2009 17:38:39] 
+[11/11/2009 17:38:39] Lua Script Error: [CreatureScript Interface] 
+[11/11/2009 17:38:39] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[11/11/2009 17:38:39] 
+[11/11/2009 17:38:39] luaGetCreatureName(). Creature not found
+[11/11/2009 17:38:39] 
+[11/11/2009 17:38:39] Lua Script Error: [CreatureScript Interface] 
+[11/11/2009 17:38:39] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[11/11/2009 17:38:39] 
+[11/11/2009 17:38:39] luaGetCreatureName(). Creature not found
+[11/11/2009 17:38:39] 
+[11/11/2009 17:38:39] Lua Script Error: [CreatureScript Interface] 
+[11/11/2009 17:38:39] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[11/11/2009 17:38:39] 
+[11/11/2009 17:38:39] luaGetCreatureName(). Creature not found
+[11/11/2009 17:38:39] 
+[11/11/2009 17:38:39] Lua Script Error: [CreatureScript Interface] 
+[11/11/2009 17:38:39] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[11/11/2009 17:38:39] 
+[11/11/2009 17:38:39] luaGetCreatureName(). Creature not found
+[11/11/2009 17:38:40] Black Soul has logged out.
+[11/11/2009 17:38:41] Black Soul has logged in.
+[11/11/2009 17:39:01] 
+[11/11/2009 17:39:01] Lua Script Error: [CreatureScript Interface] 
+[11/11/2009 17:39:01] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[11/11/2009 17:39:01] 
+[11/11/2009 17:39:01] luaGetCreatureName(). Creature not found
+[11/11/2009 17:39:01] 
+[11/11/2009 17:39:01] Lua Script Error: [CreatureScript Interface] 
+[11/11/2009 17:39:01] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[11/11/2009 17:39:01] 
+[11/11/2009 17:39:01] luaGetCreatureName(). Creature not found
+[11/11/2009 17:39:01] 
+[11/11/2009 17:39:01] Lua Script Error: [CreatureScript Interface] 
+[11/11/2009 17:39:01] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[11/11/2009 17:39:02] 
+[11/11/2009 17:39:02] luaGetCreatureName(). Creature not found
+[11/11/2009 17:39:02] 
+[11/11/2009 17:39:02] Lua Script Error: [CreatureScript Interface] 
+[11/11/2009 17:39:02] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[11/11/2009 17:39:02] 
+[11/11/2009 17:39:02] luaGetCreatureName(). Creature not found
+[11/11/2009 17:39:02] Black Soul has logged out.
+[11/11/2009 17:39:03] Zyte has logged out.
+[11/11/2009 17:39:04] Black Soul has logged in.
+[11/11/2009 17:39:04] Zyte has logged in.
+[11/11/2009 17:39:09] > Broadcasted message: "Server is going down in 7 minutes.".
+[11/11/2009 17:39:45] > Saving server...
+[11/11/2009 17:39:54] > SAVE: Complete in 8.797 seconds using relational house storage.
+[11/11/2009 17:40:02] Zyte has logged out.
+[11/11/2009 17:40:03] Zyte has logged in.
+[11/11/2009 17:40:09] > Broadcasted message: "Server is going down in 6 minutes.".
+[11/11/2009 17:40:12] Xoro Qliao has logged out.
+[11/11/2009 17:40:13] Xoro Qliao has logged in.
+[11/11/2009 17:40:19] Julio has logged out.
+[11/11/2009 17:40:20] Julio has logged in.
+[11/11/2009 17:40:24] Zyte has logged out.
+[11/11/2009 17:40:25] Zyte has logged in.
+[11/11/2009 17:40:41] Xoro Qliao has logged out.
+[11/11/2009 17:40:42] Xoro Qliao has logged in.
+[11/11/2009 17:40:46] Zyte has logged out.
+[11/11/2009 17:40:48] Zyte has logged in.
+[11/11/2009 17:40:58] Zerhox has logged out.
+[11/11/2009 17:41:02] Zetroks Retomando has logged out.
+[11/11/2009 17:41:04] Zetroks Retomando has logged in.
+[11/11/2009 17:41:06] Zyte has logged out.
+[11/11/2009 17:41:06] 
+[11/11/2009 17:41:06] Lua Script Error: [Spell Interface] 
+[11/11/2009 17:41:06] in a timer event called from: 
+[11/11/2009 17:41:06] data/spells/scripts/attack/death mort.lua:onCastSpell
+[11/11/2009 17:41:06] 
+[11/11/2009 17:41:06] luaDoCombat(). Creature not found
+[11/11/2009 17:41:06] 
+[11/11/2009 17:41:06] Lua Script Error: [Spell Interface] 
+[11/11/2009 17:41:06] in a timer event called from: 
+[11/11/2009 17:41:06] data/spells/scripts/attack/death mort.lua:onCastSpell
+[11/11/2009 17:41:06] 
+[11/11/2009 17:41:06] luaDoCombat(). Creature not found
+[11/11/2009 17:41:06] 
+[11/11/2009 17:41:06] Lua Script Error: [Spell Interface] 
+[11/11/2009 17:41:06] in a timer event called from: 
+[11/11/2009 17:41:06] data/spells/scripts/attack/death mort.lua:onCastSpell
+[11/11/2009 17:41:06] 
+[11/11/2009 17:41:06] luaDoCombat(). Creature not found
+[11/11/2009 17:41:06] 
+[11/11/2009 17:41:06] Lua Script Error: [Spell Interface] 
+[11/11/2009 17:41:06] in a timer event called from: 
+[11/11/2009 17:41:06] data/spells/scripts/attack/death mort.lua:onCastSpell
+[11/11/2009 17:41:06] 
+[11/11/2009 17:41:06] luaDoCombat(). Creature not found
+[11/11/2009 17:41:06] 
+[11/11/2009 17:41:06] Lua Script Error: [Spell Interface] 
+[11/11/2009 17:41:07] in a timer event called from: 
+[11/11/2009 17:41:07] data/spells/scripts/attack/death mort.lua:onCastSpell
+[11/11/2009 17:41:07] 
+[11/11/2009 17:41:07] luaDoCombat(). Creature not found
+[11/11/2009 17:41:07] 
+[11/11/2009 17:41:07] Lua Script Error: [Spell Interface] 
+[11/11/2009 17:41:07] in a timer event called from: 
+[11/11/2009 17:41:07] data/spells/scripts/attack/death mort.lua:onCastSpell
+[11/11/2009 17:41:07] 
+[11/11/2009 17:41:07] luaDoCombat(). Creature not found
+[11/11/2009 17:41:07] 
+[11/11/2009 17:41:07] Lua Script Error: [Spell Interface] 
+[11/11/2009 17:41:07] in a timer event called from: 
+[11/11/2009 17:41:07] data/spells/scripts/attack/death mort.lua:onCastSpell
+[11/11/2009 17:41:07] 
+[11/11/2009 17:41:07] luaDoCombat(). Creature not found
+[11/11/2009 17:41:07] 
+[11/11/2009 17:41:07] Lua Script Error: [Spell Interface] 
+[11/11/2009 17:41:07] in a timer event called from: 
+[11/11/2009 17:41:07] data/spells/scripts/attack/death mort.lua:onCastSpell
+[11/11/2009 17:41:07] 
+[11/11/2009 17:41:07] luaDoCombat(). Creature not found
+[11/11/2009 17:41:07] 
+[11/11/2009 17:41:07] Lua Script Error: [Spell Interface] 
+[11/11/2009 17:41:07] in a timer event called from: 
+[11/11/2009 17:41:07] data/spells/scripts/attack/death mort.lua:onCastSpell
+[11/11/2009 17:41:07] 
+[11/11/2009 17:41:07] luaDoCombat(). Creature not found
+[11/11/2009 17:41:08] Your Dark has logged out.
+[11/11/2009 17:41:08] Zyte has logged in.
+[11/11/2009 17:41:09] > Broadcasted message: "Server is going down in 5 minutes.".
+[11/11/2009 17:41:10] 
+[11/11/2009 17:41:10] Lua Script Error: [CreatureScript Interface] 
+[11/11/2009 17:41:10] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[11/11/2009 17:41:10] 
+[11/11/2009 17:41:10] luaGetCreatureName(). Creature not found
+[11/11/2009 17:41:10] 
+[11/11/2009 17:41:10] Lua Script Error: [CreatureScript Interface] 
+[11/11/2009 17:41:10] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[11/11/2009 17:41:10] 
+[11/11/2009 17:41:10] luaGetCreatureName(). Creature not found
+[11/11/2009 17:41:10] 
+[11/11/2009 17:41:10] Lua Script Error: [CreatureScript Interface] 
+[11/11/2009 17:41:10] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[11/11/2009 17:41:10] 
+[11/11/2009 17:41:10] luaGetCreatureName(). Creature not found
+[11/11/2009 17:41:10] 
+[11/11/2009 17:41:10] Lua Script Error: [CreatureScript Interface] 
+[11/11/2009 17:41:10] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[11/11/2009 17:41:10] 
+[11/11/2009 17:41:10] luaGetCreatureName(). Creature not found
+[11/11/2009 17:41:11] Tomithoxz has logged out.
+[11/11/2009 17:41:20] Tomithoxz has logged in.
+[11/11/2009 17:41:21] Zyte has logged out.
+[11/11/2009 17:41:22] Zyte has logged in.
+[11/11/2009 17:41:38] Your Dark has logged in.
+[11/11/2009 17:41:46] The Malo has logged in.
+[11/11/2009 17:41:51] Zyte has logged out.
+[11/11/2009 17:41:52] Julio has logged out.
+[11/11/2009 17:41:54] Zyte has logged in.
+[11/11/2009 17:41:54] Julio has logged in.
+[11/11/2009 17:42:09] > Broadcasted message: "Server is going down in 4 minutes.".
+[11/11/2009 17:42:18] Your Dark has logged out.
+[11/11/2009 17:42:20] Your Dark has logged in.
+[11/11/2009 17:42:26] Druidix has logged out.
+[11/11/2009 17:42:27] Your Dark has logged out.
+[11/11/2009 17:42:28] Druidix has logged in.
+[11/11/2009 17:42:29] Your Dark has logged in.
+[11/11/2009 17:42:30] Vagox has logged out.
+[11/11/2009 17:42:32] Vagox has logged in.
+[11/11/2009 17:42:43] Druidix has logged out.
+[11/11/2009 17:42:44] Your Dark has logged out.
+[11/11/2009 17:42:45] Druidix has logged in.
+[11/11/2009 17:42:46] Your Dark has logged in.
+[11/11/2009 17:42:50] Tomithoxz has logged out.
+[11/11/2009 17:42:56] Tomithoxz has logged in.
+[11/11/2009 17:43:00] Your Dark has logged out.
+[11/11/2009 17:43:01] Druidix has logged out.
+[11/11/2009 17:43:02] Your Dark has logged in.
+[11/11/2009 17:43:02] Druidix has logged in.
+[11/11/2009 17:43:10] > Broadcasted message: "Server is going down in 3 minutes, please log out.".
+[11/11/2009 17:43:21] Your Dark has logged out.
+[11/11/2009 17:43:23] Your Dark has logged in.
+[11/11/2009 17:43:26] Paisanooo has logged in.
+[11/11/2009 17:43:28] Paisanooo has logged out.
+[11/11/2009 17:43:29] Paisaano has logged in.
+[11/11/2009 17:43:55] Ekoz has logged out.
+[11/11/2009 17:43:58] Ekoz has logged in.
+[11/11/2009 17:44:02] Tomithoxz has logged out.
+[11/11/2009 17:44:05] Tomithoxz has logged in.
+[11/11/2009 17:44:10] > Broadcasted message: "Server is going down in 2 minutes, please log out.".
+[11/11/2009 17:44:23] Jonny has logged out.
+[11/11/2009 17:44:28] Account Manager has logged in.
+[11/11/2009 17:45:04] Linkmaster has logged in.
+[11/11/2009 17:45:06] Account Manager has logged out.
+[11/11/2009 17:45:10] > Broadcasted message: "Server is going down in 1 minute, please log out now!".
+[11/11/2009 17:45:18] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !notice".
+[11/11/2009 17:45:20] El Jonny has logged in.
+[11/11/2009 17:45:24] Druidix has logged out.
+[11/11/2009 17:45:26] Druidix has logged in.
+[11/11/2009 17:45:26] El Jonny has logged out.
+[11/11/2009 17:45:36] Ekoz has logged out.
+[11/11/2009 17:45:39] Druidix has logged out.
+[11/11/2009 17:45:43] Zyte has logged out.
+[11/11/2009 17:45:46] Druidix has logged in.
+[11/11/2009 17:45:46] Zyte has logged in.
+[11/11/2009 17:45:46] Account Manager has logged in.
+[11/11/2009 17:45:46] Ekoz has logged in.
+[11/11/2009 17:46:04] Zyte has logged out.
+[11/11/2009 17:46:06] Zyte has logged in.
+[11/11/2009 17:46:08] Account Manager has logged out.
+[11/11/2009 17:46:10] Dark Originalll has logged out.
+[11/11/2009 17:46:10] Shinoskte has logged out.
+[11/11/2009 17:46:10] Knight Extremo has logged out.
+[11/11/2009 17:46:11] Black Soul has logged out.
+[11/11/2009 17:46:11] Xoro Qliao has logged out.
+[11/11/2009 17:46:11] Zetroks Retomando has logged out.
+[11/11/2009 17:46:12] The Malo has logged out.
+[11/11/2009 17:46:12] Julio has logged out.
+[11/11/2009 17:46:12] Vagox has logged out.
+[11/11/2009 17:46:13] Your Dark has logged out.
+[11/11/2009 17:46:13] Paisaano has logged out.
+[11/11/2009 17:46:13] Tomithoxz has logged out.
+[11/11/2009 17:46:14] Linkmaster has logged out.
+[11/11/2009 17:46:14] Druidix has logged out.
+[11/11/2009 17:46:14] Ekoz has logged out.
+[11/11/2009 17:46:14] Zyte has logged out.
+[11/11/2009 17:46:15] > Saving server...
+[11/11/2009 17:46:20] > SAVE: Complete in 5 seconds using relational house storage.
+[11/11/2009 17:46:20] 
+[11/11/2009 17:46:20] Lua Script Error: [Spell Interface] 
+[11/11/2009 17:46:20] in a timer event called from: 
+[11/11/2009 17:46:20] data/spells/scripts/attack/meteora.lua:onCastSpell
+[11/11/2009 17:46:20] 
+[11/11/2009 17:46:20] luaDoCombat(). Creature not found
+[11/11/2009 17:46:20] 
+[11/11/2009 17:46:20] Lua Script Error: [Spell Interface] 
+[11/11/2009 17:46:20] in a timer event called from: 
+[11/11/2009 17:46:20] data/spells/scripts/attack/meteora.lua:onCastSpell
+[11/11/2009 17:46:20] 
+[11/11/2009 17:46:20] luaDoCombat(). Creature not found
+[11/11/2009 17:46:20] 
+[11/11/2009 17:46:20] Lua Script Error: [Spell Interface] 
+[11/11/2009 17:46:20] in a timer event called from: 
+[11/11/2009 17:46:20] data/spells/scripts/attack/meteora.lua:onCastSpell
+[11/11/2009 17:46:20] 
+[11/11/2009 17:46:20] luaDoCombat(). Creature not found
+[11/11/2009 17:46:20] 
+[11/11/2009 17:46:20] Lua Script Error: [Spell Interface] 
+[11/11/2009 17:46:20] in a timer event called from: 
+[11/11/2009 17:46:20] data/spells/scripts/attack/meteora.lua:onCastSpell
+[11/11/2009 17:46:20] 
+[11/11/2009 17:46:20] luaDoCombat(). Creature not found
+[11/11/2009 17:46:20] 
+[11/11/2009 17:46:20] Lua Script Error: [Spell Interface] 
+[11/11/2009 17:46:20] in a timer event called from: 
+[11/11/2009 17:46:20] data/spells/scripts/attack/meteora.lua:onCastSpell
+[11/11/2009 17:46:20] 
+[11/11/2009 17:46:20] luaDoCombat(). Creature not found
+[11/11/2009 17:46:20] 
+[11/11/2009 17:46:20] Lua Script Error: [Spell Interface] 
+[11/11/2009 17:46:20] in a timer event called from: 
+[11/11/2009 17:46:20] data/spells/scripts/attack/meteora.lua:onCastSpell
+[11/11/2009 17:46:20] 
+[11/11/2009 17:46:20] luaDoCombat(). Creature not found
+[11/11/2009 17:46:21] 
+[11/11/2009 17:46:21] Lua Script Error: [Spell Interface] 
+[11/11/2009 17:46:21] in a timer event called from: 
+[11/11/2009 17:46:21] data/spells/scripts/attack/meteora.lua:onCastSpell
+[11/11/2009 17:46:21] 
+[11/11/2009 17:46:21] luaDoCombat(). Creature not found
+[11/11/2009 17:46:21] 
+[11/11/2009 17:46:21] Lua Script Error: [Spell Interface] 
+[11/11/2009 17:46:21] in a timer event called from: 
+[11/11/2009 17:46:21] data/spells/scripts/attack/meteora.lua:onCastSpell
+[11/11/2009 17:46:21] 
+[11/11/2009 17:46:21] luaDoCombat(). Creature not found
+[11/11/2009 17:46:21] 
+[11/11/2009 17:46:21] Lua Script Error: [Spell Interface] 
+[11/11/2009 17:46:21] in a timer event called from: 
+[11/11/2009 17:46:21] data/spells/scripts/attack/meteora.lua:onCastSpell
+[11/11/2009 17:46:21] 
+[11/11/2009 17:46:21] luaDoCombat(). Creature not found
+[11/11/2009 17:46:21] 
+[11/11/2009 17:46:21] Lua Script Error: [Spell Interface] 
+[11/11/2009 17:46:21] in a timer event called from: 
+[11/11/2009 17:46:21] data/spells/scripts/attack/meteora.lua:onCastSpell
+[11/11/2009 17:46:21] 
+[11/11/2009 17:46:21] luaDoCombat(). Creature not found
+[11/11/2009 17:46:21] 
+[11/11/2009 17:46:21] Lua Script Error: [Spell Interface] 
+[11/11/2009 17:46:21] in a timer event called from: 
+[11/11/2009 17:46:21] data/spells/scripts/attack/meteora.lua:onCastSpell
+[11/11/2009 17:46:21] 
+[11/11/2009 17:46:21] luaDoCombat(). Creature not found
+[11/11/2009 17:46:21] 
+[11/11/2009 17:46:21] Lua Script Error: [Spell Interface] 
+[11/11/2009 17:46:21] in a timer event called from: 
+[11/11/2009 17:46:21] data/spells/scripts/attack/meteora.lua:onCastSpell
+[11/11/2009 17:46:21] 
+[11/11/2009 17:46:21] luaDoCombat(). Creature not found
+[11/11/2009 17:46:21] 
+[11/11/2009 17:46:21] Lua Script Error: [Spell Interface] 
+[11/11/2009 17:46:21] in a timer event called from: 
+[11/11/2009 17:46:21] data/spells/scripts/attack/meteora.lua:onCastSpell
+[11/11/2009 17:46:21] 
+[11/11/2009 17:46:21] luaDoCombat(). Creature not found
+[11/11/2009 17:46:21] 
+[11/11/2009 17:46:21] Lua Script Error: [Spell Interface] 
+[11/11/2009 17:46:21] in a timer event called from: 
+[11/11/2009 17:46:22] data/spells/scripts/attack/meteora.lua:onCastSpell
+[11/11/2009 17:46:22] 
+[11/11/2009 17:46:22] luaDoCombat(). Creature not found
+[11/11/2009 17:46:22] 
+[11/11/2009 17:46:22] Lua Script Error: [Spell Interface] 
+[11/11/2009 17:46:22] in a timer event called from: 
+[11/11/2009 17:46:22] data/spells/scripts/attack/meteora.lua:onCastSpell
+[11/11/2009 17:46:22] 
+[11/11/2009 17:46:22] luaDoCombat(). Creature not found
+[11/11/2009 17:46:22] 
+[11/11/2009 17:46:22] Lua Script Error: [Spell Interface] 
+[11/11/2009 17:46:22] in a timer event called from: 
+[11/11/2009 17:46:22] data/spells/scripts/attack/meteora.lua:onCastSpell
+[11/11/2009 17:46:22] 
+[11/11/2009 17:46:22] luaDoCombat(). Creature not found
+[11/11/2009 17:46:22] 
+[11/11/2009 17:46:22] Lua Script Error: [Spell Interface] 
+[11/11/2009 17:46:22] in a timer event called from: 
+[11/11/2009 17:46:22] data/spells/scripts/attack/meteora.lua:onCastSpell
+[11/11/2009 17:46:22] 
+[11/11/2009 17:46:22] luaDoCombat(). Creature not found
+[11/11/2009 17:46:22] 
+[11/11/2009 17:46:22] Lua Script Error: [Spell Interface] 
+[11/11/2009 17:46:22] in a timer event called from: 
+[11/11/2009 17:46:22] data/spells/scripts/attack/meteora.lua:onCastSpell
+[11/11/2009 17:46:22] 
+[11/11/2009 17:46:22] luaDoCombat(). Creature not found
+[11/11/2009 17:46:22] 
+[11/11/2009 17:46:22] Lua Script Error: [Spell Interface] 
+[11/11/2009 17:46:22] in a timer event called from: 
+[11/11/2009 17:46:22] data/spells/scripts/attack/meteora.lua:onCastSpell
+[11/11/2009 17:46:22] 
+[11/11/2009 17:46:22] luaDoCombat(). Creature not found
+[11/11/2009 17:46:22] 
+[11/11/2009 17:46:22] Lua Script Error: [Spell Interface] 
+[11/11/2009 17:46:22] in a timer event called from: 
+[11/11/2009 17:46:22] data/spells/scripts/attack/meteora.lua:onCastSpell
+[11/11/2009 17:46:22] 
+[11/11/2009 17:46:22] luaDoCombat(). Creature not found
+[11/11/2009 17:46:22] 
+[11/11/2009 17:46:22] Lua Script Error: [Spell Interface] 
+[11/11/2009 17:46:22] in a timer event called from: 
+[11/11/2009 17:46:22] data/spells/scripts/attack/meteora.lua:onCastSpell
+[11/11/2009 17:46:22] 
+[11/11/2009 17:46:22] luaDoCombat(). Creature not found
+[11/11/2009 17:46:23] Preparing to shutdown server..
+[11/11/2009 17:46:23] .
+[11/11/2009 17:46:23] Exiting
+[11/11/2009 21:27:01] The Forgotten Server, version 0.3.4 (Crying Damson)
+[11/11/2009 21:27:02] Sever Criado Por Alissow e Comedinha.
+[11/11/2009 21:27:02] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[11/11/2009 21:27:02] Bom Jogo!!!
+[11/11/2009 21:27:02] 
+[11/11/2009 21:27:02] >> Debugging: nothing.
+[11/11/2009 21:27:02] >> Checking software version... outdated, please consider updating!
+[11/11/2009 21:27:02] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[11/11/2009 21:27:03] > Latest version information - version: 0.3.5, patch: 1, build: 2576, timestamp: 1249584126.
+[11/11/2009 21:27:03] [Warning - ConfigManager::getBool] 62
+[11/11/2009 21:27:03] 
+[11/11/2009 21:27:03] >> Loading config (config.lua)
+[11/11/2009 21:27:03] > Using plaintext passwords
+[11/11/2009 21:27:03] >> Loading RSA key
+[11/11/2009 21:27:03] >> Starting SQL connection
+[11/11/2009 21:27:03] >> Running Database Manager
+[11/11/2009 21:27:05] > Optimized database.
+[11/11/2009 21:27:05] >> Loading items
+[11/11/2009 21:27:05] [Warning - Items::loadFromXml] Unknown key value skillDistance
+[11/11/2009 21:27:06] >> Loading groups
+[11/11/2009 21:27:06] >> Loading vocations
+[11/11/2009 21:27:06] >> Loading script systems
+[11/11/2009 21:27:06] 
+[11/11/2009 21:27:06] Lua Script Error: [Spell Interface] 
+[11/11/2009 21:27:06] data/spells/scripts/attack/exori mort hur.lua
+[11/11/2009 21:27:06] 
+[11/11/2009 21:27:06] luaSetCombatParam(). Combat not found
+[11/11/2009 21:27:06] 
+[11/11/2009 21:27:06] Lua Script Error: [Spell Interface] 
+[11/11/2009 21:27:06] data/spells/scripts/attack/exori mort hur.lua
+[11/11/2009 21:27:07] 
+[11/11/2009 21:27:07] luaSetCombatParam(). Combat not found
+[11/11/2009 21:27:10] [Warning - Actions::registerEvent] Duplicate registered item id: 2269
+[11/11/2009 21:27:10] [Warning - Actions::registerEvent] Duplicate registered item id: 2114
+[11/11/2009 21:27:13] >> Loading chat channels
+[11/11/2009 21:27:13] >> Loading outfits
+[11/11/2009 21:27:13] >> Loading experience stages
+[11/11/2009 21:27:13] >> Loading monsters
+[11/11/2009 21:27:16] >> Loading map and spawns...
+[11/11/2009 21:27:17] > Map size: 512x512.
+[11/11/2009 21:27:17] > Map descriptions: 
+[11/11/2009 21:27:17] Saved with Remere's Map Editor 1.1.9
+[11/11/2009 21:27:17] Remere 's Map Editor Beta
+[11/11/2009 21:27:19] Duplicate uniqueId 9911
+[11/11/2009 21:27:19] Duplicate uniqueId 9912
+[11/11/2009 21:27:19] Duplicate uniqueId 9913
+[11/11/2009 21:27:19] Duplicate uniqueId 9914
+[11/11/2009 21:27:19] Duplicate uniqueId 9915
+[11/11/2009 21:27:21] Duplicate uniqueId 2471
+[11/11/2009 21:27:23] > Map loading time: 6.343 seconds.
+[11/11/2009 21:27:24] [Warning - Spawns::loadFromXml] Snow Soul ( 00044 / 00277 / 007 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:27:24] [Warning - Spawns::loadFromXml] Whatafuck ( 00058 / 00310 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:27:24] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00310 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:27:24] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00311 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:27:24] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00312 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:27:24] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00313 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:27:25] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00314 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:27:25] [Warning - Spawns::loadFromXml] Whatafuck ( 00041 / 00314 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:27:25] [Warning - Spawns::loadFromXml] Whatafuck ( 00042 / 00314 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:27:25] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00315 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:27:25] [Warning - Spawns::loadFromXml] Whatafuck ( 00041 / 00315 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:27:25] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00316 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:27:25] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00317 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:27:25] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00318 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:27:25] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00319 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:27:25] [Warning - Spawns::loadFromXml] Whatafuck ( 00041 / 00319 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:27:25] [Warning - Spawns::loadFromXml] Whatafuck ( 00042 / 00319 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:27:26] [Warning - Spawns::loadFromXml] Whatafuck ( 00053 / 00324 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:27:26] [Warning - Spawns::loadFromXml] Whatafuck ( 00052 / 00325 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:27:26] [Warning - Spawns::loadFromXml] Whatafuck ( 00053 / 00325 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:27:26] [Warning - Spawns::loadFromXml] Whatafuck ( 00052 / 00326 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:27:26] [Warning - Spawns::loadFromXml] Whatafuck ( 00037 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:27:26] [Warning - Spawns::loadFromXml] Whatafuck ( 00038 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:27:26] [Warning - Spawns::loadFromXml] Whatafuck ( 00039 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:27:26] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:27:26] [Warning - Spawns::loadFromXml] Gorg Bosh ( 00146 / 00343 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:27:26] [Warning - Spawns::loadFromXml] Saddam Hussein ( 00098 / 00385 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:27:27] [Warning - Spawns::loadFromXml] Rotworm ( 00073 / 00030 / 012 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:27:27] [Warning - Spawns::loadFromXml] Rotworm ( 00067 / 00034 / 012 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:27:27] [Warning - Spawns::loadFromXml] Carrion Worm ( 00046 / 00046 / 012 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:27:27] [Warning - Spawns::loadFromXml] Rotworm ( 00086 / 00047 / 012 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:27:27] [Warning - Spawns::loadFromXml] Rotworm ( 00055 / 00058 / 012 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:27:27] [Warning - Spawns::loadFromXml] Rotworm ( 00056 / 00058 / 012 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:27:27] [Warning - Spawns::loadFromXml] Rotworm ( 00057 / 00060 / 012 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:27:27] [Warning - Spawns::loadFromXml] Rotworm ( 00067 / 00061 / 012 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:27:27] [Warning - Spawns::loadFromXml] Michael Jackson ( 00049 / 00026 / 013 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:27:28] [Warning - Spawns::loadFromXml] Love Demon ( 00060 / 00096 / 013 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:27:28] [Warning - Spawns::loadFromXml] Batman ( 00061 / 00143 / 013 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:27:28] [Warning - Spawns::loadFromXml] Batman ( 00044 / 00153 / 013 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:27:28] [Warning - Spawns::loadFromXml] Batman ( 00056 / 00155 / 013 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:27:28] [Warning - Spawns::loadFromXml] Batman ( 00045 / 00162 / 013 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:27:28] [Warning - Spawns::loadFromXml] Hell Dragon ( 00042 / 00234 / 013 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:27:28] [Warning - Spawns::loadFromXml] Hell Dragon ( 00043 / 00234 / 013 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:27:28] [Warning - Spawns::loadFromXml] Hell Dragon ( 00055 / 00242 / 013 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:27:28] [Warning - Spawns::loadFromXml] Hell Dragon ( 00059 / 00247 / 013 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:27:28] [Warning - Houses::loadFromXml] House entry not set for:  (158)
+[11/11/2009 21:27:29] > Data loading time: 5.781 seconds.
+[11/11/2009 21:27:29] > Unserialization time for houses: 0.265 seconds.
+[11/11/2009 21:27:49] > Unserialization time for map: 20.297 seconds.
+[11/11/2009 21:27:49] >> Checking world type... PvP
+[11/11/2009 21:27:49] >> Initializing game state modules and registering services...
+[11/11/2009 21:27:51] > Global address: 201.246.33.149
+[11/11/2009 21:27:51] > Local ports:
+[11/11/2009 21:27:51] 7171	7172	
+[11/11/2009 21:27:51] >> All modules were loaded, server starting up...
+[11/11/2009 21:27:51] >> Aggro server server Online!
+[11/11/2009 21:27:51] 
+[11/11/2009 21:28:45] > Saving server...
+[11/11/2009 21:28:56] > SAVE: Complete in 11.125 seconds using relational house storage.
+[11/11/2009 21:28:56] Preparing to shutdown server..
+[11/11/2009 21:28:56] .
+[11/11/2009 21:28:56] Exiting
+[11/11/2009 21:29:27] The Forgotten Server, version 0.3.4 (Crying Damson)
+[11/11/2009 21:29:27] Sever Criado Por Alissow e Comedinha.
+[11/11/2009 21:29:27] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[11/11/2009 21:29:27] Bom Jogo!!!
+[11/11/2009 21:29:27] 
+[11/11/2009 21:29:27] >> Debugging: nothing.
+[11/11/2009 21:29:27] >> Checking software version... outdated, please consider updating!
+[11/11/2009 21:29:28] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[11/11/2009 21:29:28] > Latest version information - version: 0.3.5, patch: 1, build: 2576, timestamp: 1249584126.
+[11/11/2009 21:29:28] [Warning - ConfigManager::getBool] 62
+[11/11/2009 21:29:28] 
+[11/11/2009 21:29:28] >> Loading config (config.lua)
+[11/11/2009 21:29:28] > Using plaintext passwords
+[11/11/2009 21:29:28] >> Loading RSA key
+[11/11/2009 21:29:28] >> Starting SQL connection
+[11/11/2009 21:29:28] >> Running Database Manager
+[11/11/2009 21:29:30] > Optimized database.
+[11/11/2009 21:29:30] >> Loading items
+[11/11/2009 21:29:31] [Warning - Items::loadFromXml] Unknown key value skillDistance
+[11/11/2009 21:29:31] >> Loading groups
+[11/11/2009 21:29:31] >> Loading vocations
+[11/11/2009 21:29:31] >> Loading script systems
+[11/11/2009 21:29:32] [Warning - Actions::registerEvent] Duplicate registered item id: 2269
+[11/11/2009 21:29:32] [Warning - Actions::registerEvent] Duplicate registered item id: 2114
+[11/11/2009 21:29:34] >> Loading chat channels
+[11/11/2009 21:29:34] >> Loading outfits
+[11/11/2009 21:29:34] >> Loading experience stages
+[11/11/2009 21:29:34] >> Loading monsters
+[11/11/2009 21:29:36] >> Loading map and spawns...
+[11/11/2009 21:29:37] > Map size: 512x512.
+[11/11/2009 21:29:37] > Map descriptions: 
+[11/11/2009 21:29:37] Saved with Remere's Map Editor 1.1.9
+[11/11/2009 21:29:37] Remere 's Map Editor Beta
+[11/11/2009 21:29:38] Duplicate uniqueId 9911
+[11/11/2009 21:29:38] Duplicate uniqueId 9912
+[11/11/2009 21:29:38] Duplicate uniqueId 9913
+[11/11/2009 21:29:38] Duplicate uniqueId 9914
+[11/11/2009 21:29:38] Duplicate uniqueId 9915
+[11/11/2009 21:29:39] Duplicate uniqueId 2471
+[11/11/2009 21:29:40] > Map loading time: 3.718 seconds.
+[11/11/2009 21:29:40] [Warning - Spawns::loadFromXml] Snow Soul ( 00044 / 00277 / 007 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:29:40] [Warning - Spawns::loadFromXml] Whatafuck ( 00058 / 00310 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:29:41] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00310 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:29:41] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00311 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:29:41] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00312 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:29:41] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00313 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:29:41] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00314 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:29:41] [Warning - Spawns::loadFromXml] Whatafuck ( 00041 / 00314 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:29:41] [Warning - Spawns::loadFromXml] Whatafuck ( 00042 / 00314 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:29:41] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00315 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:29:41] [Warning - Spawns::loadFromXml] Whatafuck ( 00041 / 00315 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:29:41] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00316 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:29:41] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00317 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:29:42] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00318 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:29:42] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00319 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:29:42] [Warning - Spawns::loadFromXml] Whatafuck ( 00041 / 00319 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:29:42] [Warning - Spawns::loadFromXml] Whatafuck ( 00042 / 00319 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:29:42] [Warning - Spawns::loadFromXml] Whatafuck ( 00053 / 00324 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:29:42] [Warning - Spawns::loadFromXml] Whatafuck ( 00052 / 00325 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:29:42] [Warning - Spawns::loadFromXml] Whatafuck ( 00053 / 00325 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:29:42] [Warning - Spawns::loadFromXml] Whatafuck ( 00052 / 00326 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:29:42] [Warning - Spawns::loadFromXml] Whatafuck ( 00037 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:29:43] [Warning - Spawns::loadFromXml] Whatafuck ( 00038 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:29:43] [Warning - Spawns::loadFromXml] Whatafuck ( 00039 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:29:43] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:29:43] [Warning - Spawns::loadFromXml] Gorg Bosh ( 00146 / 00343 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:29:43] [Warning - Spawns::loadFromXml] Saddam Hussein ( 00098 / 00385 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:29:43] [Warning - Spawns::loadFromXml] Rotworm ( 00073 / 00030 / 012 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:29:43] [Warning - Spawns::loadFromXml] Rotworm ( 00067 / 00034 / 012 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:29:43] [Warning - Spawns::loadFromXml] Carrion Worm ( 00046 / 00046 / 012 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:29:43] [Warning - Spawns::loadFromXml] Rotworm ( 00086 / 00047 / 012 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:29:43] [Warning - Spawns::loadFromXml] Rotworm ( 00055 / 00058 / 012 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:29:44] [Warning - Spawns::loadFromXml] Rotworm ( 00056 / 00058 / 012 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:29:44] [Warning - Spawns::loadFromXml] Rotworm ( 00057 / 00060 / 012 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:29:44] [Warning - Spawns::loadFromXml] Rotworm ( 00067 / 00061 / 012 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:29:44] [Warning - Spawns::loadFromXml] Michael Jackson ( 00049 / 00026 / 013 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:29:44] [Warning - Spawns::loadFromXml] Love Demon ( 00060 / 00096 / 013 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:29:44] [Warning - Spawns::loadFromXml] Batman ( 00061 / 00143 / 013 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:29:44] [Warning - Spawns::loadFromXml] Batman ( 00044 / 00153 / 013 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:29:44] [Warning - Spawns::loadFromXml] Batman ( 00056 / 00155 / 013 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:29:44] [Warning - Spawns::loadFromXml] Batman ( 00045 / 00162 / 013 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:29:44] [Warning - Spawns::loadFromXml] Hell Dragon ( 00042 / 00234 / 013 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:29:45] [Warning - Spawns::loadFromXml] Hell Dragon ( 00043 / 00234 / 013 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:29:45] [Warning - Spawns::loadFromXml] Hell Dragon ( 00055 / 00242 / 013 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:29:45] [Warning - Spawns::loadFromXml] Hell Dragon ( 00059 / 00247 / 013 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:29:45] [Warning - Houses::loadFromXml] House entry not set for:  (158)
+[11/11/2009 21:29:45] > Data loading time: 5.297 seconds.
+[11/11/2009 21:29:45] > Unserialization time for houses: 0.094 seconds.
+[11/11/2009 21:30:06] > Unserialization time for map: 20.406 seconds.
+[11/11/2009 21:30:06] >> Checking world type... PvP
+[11/11/2009 21:30:06] >> Initializing game state modules and registering services...
+[11/11/2009 21:30:07] > Global address: 201.246.47.5
+[11/11/2009 21:30:07] > Local ports:
+[11/11/2009 21:30:07] 7171	7172	
+[11/11/2009 21:30:08] >> All modules were loaded, server starting up...
+[11/11/2009 21:30:08] >> Aggro server server Online!
+[11/11/2009 21:30:08] 
+[11/11/2009 21:33:31] > Saving server...
+[11/11/2009 21:33:46] > SAVE: Complete in 14.078 seconds using relational house storage.
+[11/11/2009 21:33:46] Preparing to shutdown server..
+[11/11/2009 21:33:46] .
+[11/11/2009 21:33:46] Exiting
+[11/11/2009 21:45:31] The Forgotten Server, version 0.3.4 (Crying Damson)
+[11/11/2009 21:45:31] Sever Criado Por Alissow e Comedinha.
+[11/11/2009 21:45:31] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[11/11/2009 21:45:31] Bom Jogo!!!
+[11/11/2009 21:45:31] 
+[11/11/2009 21:45:31] >> Debugging: nothing.
+[11/11/2009 21:45:31] >> Checking software version... outdated, please consider updating!
+[11/11/2009 21:45:32] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[11/11/2009 21:45:32] > Latest version information - version: 0.3.5, patch: 1, build: 2576, timestamp: 1249584126.
+[11/11/2009 21:45:32] [Warning - ConfigManager::getBool] 62
+[11/11/2009 21:45:32] 
+[11/11/2009 21:45:32] >> Loading config (config.lua)
+[11/11/2009 21:45:32] > Using plaintext passwords
+[11/11/2009 21:45:32] >> Loading RSA key
+[11/11/2009 21:45:32] >> Starting SQL connection
+[11/11/2009 21:45:32] >> Running Database Manager
+[11/11/2009 21:45:34] > Optimized database.
+[11/11/2009 21:45:34] >> Loading items
+[11/11/2009 21:45:35] [Warning - Items::loadFromXml] Unknown key value skillDistance
+[11/11/2009 21:45:35] >> Loading groups
+[11/11/2009 21:45:35] >> Loading vocations
+[11/11/2009 21:45:35] >> Loading script systems
+[11/11/2009 21:45:37] [Warning - Actions::registerEvent] Duplicate registered item id: 2269
+[11/11/2009 21:45:37] [Warning - Actions::registerEvent] Duplicate registered item id: 2114
+[11/11/2009 21:45:40] >> Loading chat channels
+[11/11/2009 21:45:40] >> Loading outfits
+[11/11/2009 21:45:40] >> Loading experience stages
+[11/11/2009 21:45:40] >> Loading monsters
+[11/11/2009 21:45:43] >> Loading map and spawns...
+[11/11/2009 21:45:43] > Map size: 512x512.
+[11/11/2009 21:45:43] > Map descriptions: 
+[11/11/2009 21:45:43] Saved with Remere's Map Editor 1.1.9
+[11/11/2009 21:45:43] Remere 's Map Editor Beta
+[11/11/2009 21:45:45] Duplicate uniqueId 9911
+[11/11/2009 21:45:45] Duplicate uniqueId 9912
+[11/11/2009 21:45:45] Duplicate uniqueId 9913
+[11/11/2009 21:45:45] Duplicate uniqueId 9914
+[11/11/2009 21:45:45] Duplicate uniqueId 9915
+[11/11/2009 21:45:45] Duplicate uniqueId 2471
+[11/11/2009 21:45:47] > Map loading time: 4.094 seconds.
+[11/11/2009 21:45:48] [Warning - Spawns::loadFromXml] Snow Soul ( 00044 / 00277 / 007 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:45:48] [Warning - Spawns::loadFromXml] Whatafuck ( 00058 / 00310 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:45:48] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00310 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:45:48] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00311 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:45:48] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00312 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:45:48] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00313 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:45:48] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00314 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:45:48] [Warning - Spawns::loadFromXml] Whatafuck ( 00041 / 00314 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:45:48] [Warning - Spawns::loadFromXml] Whatafuck ( 00042 / 00314 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:45:48] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00315 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:45:49] [Warning - Spawns::loadFromXml] Whatafuck ( 00041 / 00315 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:45:49] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00316 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:45:49] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00317 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:45:49] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00318 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:45:49] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00319 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:45:49] [Warning - Spawns::loadFromXml] Whatafuck ( 00041 / 00319 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:45:49] [Warning - Spawns::loadFromXml] Whatafuck ( 00042 / 00319 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:45:49] [Warning - Spawns::loadFromXml] Whatafuck ( 00053 / 00324 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:45:49] [Warning - Spawns::loadFromXml] Whatafuck ( 00052 / 00325 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:45:49] [Warning - Spawns::loadFromXml] Whatafuck ( 00053 / 00325 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:45:49] [Warning - Spawns::loadFromXml] Whatafuck ( 00052 / 00326 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:45:50] [Warning - Spawns::loadFromXml] Whatafuck ( 00037 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:45:50] [Warning - Spawns::loadFromXml] Whatafuck ( 00038 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:45:50] [Warning - Spawns::loadFromXml] Whatafuck ( 00039 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:45:50] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:45:50] [Warning - Spawns::loadFromXml] Gorg Bosh ( 00146 / 00343 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:45:50] [Warning - Spawns::loadFromXml] Saddam Hussein ( 00098 / 00385 / 008 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:45:50] [Warning - Spawns::loadFromXml] Rotworm ( 00073 / 00030 / 012 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:45:50] [Warning - Spawns::loadFromXml] Rotworm ( 00067 / 00034 / 012 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:45:50] [Warning - Spawns::loadFromXml] Carrion Worm ( 00046 / 00046 / 012 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:45:51] [Warning - Spawns::loadFromXml] Rotworm ( 00086 / 00047 / 012 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:45:51] [Warning - Spawns::loadFromXml] Rotworm ( 00055 / 00058 / 012 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:45:51] [Warning - Spawns::loadFromXml] Rotworm ( 00056 / 00058 / 012 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:45:51] [Warning - Spawns::loadFromXml] Rotworm ( 00057 / 00060 / 012 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:45:51] [Warning - Spawns::loadFromXml] Rotworm ( 00067 / 00061 / 012 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:45:51] [Warning - Spawns::loadFromXml] Michael Jackson ( 00049 / 00026 / 013 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:45:51] [Warning - Spawns::loadFromXml] Love Demon ( 00060 / 00096 / 013 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:45:51] [Warning - Spawns::loadFromXml] Batman ( 00061 / 00143 / 013 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:45:51] [Warning - Spawns::loadFromXml] Batman ( 00044 / 00153 / 013 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:45:52] [Warning - Spawns::loadFromXml] Batman ( 00056 / 00155 / 013 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:45:52] [Warning - Spawns::loadFromXml] Batman ( 00045 / 00162 / 013 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:45:52] [Warning - Spawns::loadFromXml] Hell Dragon ( 00042 / 00234 / 013 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:45:52] [Warning - Spawns::loadFromXml] Hell Dragon ( 00043 / 00234 / 013 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:45:52] [Warning - Spawns::loadFromXml] Hell Dragon ( 00055 / 00242 / 013 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:45:52] [Warning - Spawns::loadFromXml] Hell Dragon ( 00059 / 00247 / 013 ) spawntime cannot be less than 1 seconds.
+[11/11/2009 21:45:52] [Warning - Houses::loadFromXml] House entry not set for:  (158)
+[11/11/2009 21:45:52] > Data loading time: 5.453 seconds.
+[11/11/2009 21:45:52] > Unserialization time for houses: 0.11 seconds.
+[11/11/2009 21:46:13] > Unserialization time for map: 20.344 seconds.
+[11/11/2009 21:46:13] >> Checking world type... PvP
+[11/11/2009 21:46:13] >> Initializing game state modules and registering services...
+[11/11/2009 21:46:14] > Global address: 201.246.47.5
+[11/11/2009 21:46:14] > Local ports:
+[11/11/2009 21:46:14] 7171	7172	
+[11/11/2009 21:46:14] >> All modules were loaded, server starting up...
+[11/11/2009 21:46:14] >> Aggro server server Online!
+[11/11/2009 21:46:14] 
+[11/11/2009 21:47:08] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[11/11/2009 21:47:10] Hoster Aggresor has logged in.
+[11/11/2009 21:49:55] El cristobal has logged in.
+[11/11/2009 21:51:02] Goyen has logged in.
+[11/11/2009 21:52:28] 
+[11/11/2009 21:52:28] Lua Script Error: [TalkAction Interface] 
+[11/11/2009 21:52:28] data/talkactions/scripts/createitem.lua:onSay
+[11/11/2009 21:52:28] 
+[11/11/2009 21:52:28] luaDoCreateItemEx(). Item not found
+[11/11/2009 21:52:28] 
+[11/11/2009 21:52:28] Lua Script Error: [TalkAction Interface] 
+[11/11/2009 21:52:28] data/talkactions/scripts/createitem.lua:onSay
+[11/11/2009 21:52:28] 
+[11/11/2009 21:52:28] luaDoPlayerAddItemEx(). Item not found
+[11/11/2009 21:54:47] Account Manager has logged in.
+[11/11/2009 21:55:01] Account Manager has logged out.
+[11/11/2009 21:55:08] Account Manager has logged in.
+[11/11/2009 21:55:27] Account Manager has logged out.
+[11/11/2009 21:55:28] Account Manager has logged in.
+[11/11/2009 21:55:41] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !notice".
+[11/11/2009 21:55:50] Account Manager has logged out.
+[11/11/2009 21:55:52] Account Manager has logged in.
+[11/11/2009 21:55:53] Account Manager has logged out.
+[11/11/2009 21:56:00] Nashtithax has logged in.
+[11/11/2009 21:57:04] El cristobal has logged out.
+[11/11/2009 21:57:07] Account Manager has logged in.
+[11/11/2009 21:57:10] Account Manager has logged out.
+[11/11/2009 21:57:10] Account Manager has logged in.
+[11/11/2009 21:57:13] Account Manager has logged out.
+[11/11/2009 21:57:14] Account Manager has logged in.
+[11/11/2009 21:57:37] Goyen has logged out.
+[11/11/2009 21:57:37] Account Manager has logged in.
+[11/11/2009 21:57:38] Account Manager has logged out.
+[11/11/2009 21:57:38] Goyen has logged in.
+[11/11/2009 21:57:44] Dwender has logged in.
+[11/11/2009 21:58:26] Account Manager has logged out.
+[11/11/2009 22:00:41] > Saving server...
+[11/11/2009 22:00:58] > SAVE: Complete in 17.016 seconds using relational house storage.
+[11/11/2009 22:01:17] Account Manager has logged in.
+[11/11/2009 22:01:19] Bleid has logged in.
+[11/11/2009 22:01:27] Account Manager has logged out.
+[11/11/2009 22:02:39] El cristobal has logged in.
+[11/11/2009 22:02:51] Saske Knight has logged in.
+[11/11/2009 22:03:17] Bleid has logged out.
+[11/11/2009 22:03:23] Bleid has logged in.
+[11/11/2009 22:04:39] Goyen has logged out.
+[11/11/2009 22:05:42] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !notice".
+[11/11/2009 22:06:57] Nashtithax has logged out.
+[11/11/2009 22:10:01] El cristobal has logged out.
+[11/11/2009 22:11:03] Bleid has logged out.
+[11/11/2009 22:12:56] Saske Knight has logged out.
+[11/11/2009 22:15:42] > Saving server...
+[11/11/2009 22:15:51] > SAVE: Complete in 8.5 seconds using relational house storage.
+[11/11/2009 22:15:51] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !notice".
+[11/11/2009 22:20:46] El cristobal has logged in.
+[11/11/2009 22:20:58] Saske Uchiga has logged in.
+[11/11/2009 22:21:45] Dark Mathy has logged in.
+[11/11/2009 22:21:47] Dark Mathy has logged out.
+[11/11/2009 22:22:07] [Warning - Groups::getGroup] Group 0 not found.
+[11/11/2009 22:22:07] Dark Mathy has logged in.
+[11/11/2009 22:22:09] Dark Mathy has logged out.
+[11/11/2009 22:22:12] El cristobal has logged out.
+[11/11/2009 22:22:14] El cristobal has logged in.
+[11/11/2009 22:22:55] El cristobal has logged out.
+[11/11/2009 22:23:33] Hoster Aggresor has logged out.
+[11/11/2009 22:23:38] Nock galyck has logged in.
+[11/11/2009 22:25:52] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !notice".
+[11/11/2009 22:26:45] Account Manager has logged in.
+[11/11/2009 22:26:47] Account Manager has logged out.
+[11/11/2009 22:27:19] El regreso has logged in.
+[11/11/2009 22:27:45] Knight Lalo has logged in.
+[11/11/2009 22:27:58] El regreso has logged out.
+[11/11/2009 22:28:01] Account Manager has logged in.
+[11/11/2009 22:28:30] Account Manager has logged out.
+[11/11/2009 22:28:39] Elx paly has logged in.
+[11/11/2009 22:28:44] > Knight Lalo broadcasted: "Buenas noches gente".
+[11/11/2009 22:28:56] Elx paly has logged out.
+[11/11/2009 22:28:59] Account Manager has logged in.
+[11/11/2009 22:29:15] > Knight Lalo broadcasted: "Duda, ayuda cualquier cosa por help channel.".
+[11/11/2009 22:29:21] Account Manager has logged out.
+[11/11/2009 22:29:23] Account Manager has logged in.
+[11/11/2009 22:29:42] Nock galyck has logged out.
+[11/11/2009 22:29:42] 
+[11/11/2009 22:29:42] Lua Script Error: [Spell Interface] 
+[11/11/2009 22:29:42] in a timer event called from: 
+[11/11/2009 22:29:42] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[11/11/2009 22:29:42] 
+[11/11/2009 22:29:42] luaDoCombat(). Creature not found
+[11/11/2009 22:29:42] 
+[11/11/2009 22:29:42] Lua Script Error: [Spell Interface] 
+[11/11/2009 22:29:42] in a timer event called from: 
+[11/11/2009 22:29:43] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[11/11/2009 22:29:43] 
+[11/11/2009 22:29:43] luaDoCombat(). Creature not found
+[11/11/2009 22:29:43] 
+[11/11/2009 22:29:43] Lua Script Error: [Spell Interface] 
+[11/11/2009 22:29:43] in a timer event called from: 
+[11/11/2009 22:29:43] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[11/11/2009 22:29:43] 
+[11/11/2009 22:29:43] luaDoCombat(). Creature not found
+[11/11/2009 22:29:43] 
+[11/11/2009 22:29:43] Lua Script Error: [Spell Interface] 
+[11/11/2009 22:29:43] in a timer event called from: 
+[11/11/2009 22:29:43] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[11/11/2009 22:29:43] 
+[11/11/2009 22:29:43] luaDoCombat(). Creature not found
+[11/11/2009 22:29:43] 
+[11/11/2009 22:29:43] Lua Script Error: [Spell Interface] 
+[11/11/2009 22:29:43] in a timer event called from: 
+[11/11/2009 22:29:43] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[11/11/2009 22:29:43] 
+[11/11/2009 22:29:43] luaDoCombat(). Creature not found
+[11/11/2009 22:29:43] 
+[11/11/2009 22:29:43] Lua Script Error: [Spell Interface] 
+[11/11/2009 22:29:43] in a timer event called from: 
+[11/11/2009 22:29:43] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[11/11/2009 22:29:43] 
+[11/11/2009 22:29:43] luaDoCombat(). Creature not found
+[11/11/2009 22:29:43] 
+[11/11/2009 22:29:43] Lua Script Error: [Spell Interface] 
+[11/11/2009 22:29:43] in a timer event called from: 
+[11/11/2009 22:29:43] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[11/11/2009 22:29:44] 
+[11/11/2009 22:29:44] luaDoCombat(). Creature not found
+[11/11/2009 22:29:44] 
+[11/11/2009 22:29:44] Lua Script Error: [Spell Interface] 
+[11/11/2009 22:29:44] in a timer event called from: 
+[11/11/2009 22:29:44] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[11/11/2009 22:29:44] 
+[11/11/2009 22:29:44] luaDoCombat(). Creature not found
+[11/11/2009 22:29:44] 
+[11/11/2009 22:29:44] Lua Script Error: [Spell Interface] 
+[11/11/2009 22:29:44] in a timer event called from: 
+[11/11/2009 22:29:44] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[11/11/2009 22:29:44] 
+[11/11/2009 22:29:44] luaDoCombat(). Creature not found
+[11/11/2009 22:29:44] 
+[11/11/2009 22:29:44] Lua Script Error: [Spell Interface] 
+[11/11/2009 22:29:44] in a timer event called from: 
+[11/11/2009 22:29:44] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[11/11/2009 22:29:44] 
+[11/11/2009 22:29:44] luaDoCombat(). Creature not found
+[11/11/2009 22:29:44] 
+[11/11/2009 22:29:44] Lua Script Error: [Spell Interface] 
+[11/11/2009 22:29:44] in a timer event called from: 
+[11/11/2009 22:29:44] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[11/11/2009 22:29:44] 
+[11/11/2009 22:29:44] luaDoCombat(). Creature not found
+[11/11/2009 22:29:44] 
+[11/11/2009 22:29:44] Lua Script Error: [Spell Interface] 
+[11/11/2009 22:29:44] in a timer event called from: 
+[11/11/2009 22:29:44] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[11/11/2009 22:29:44] 
+[11/11/2009 22:29:44] luaDoCombat(). Creature not found
+[11/11/2009 22:29:45] Nock galyck has logged in.
+[11/11/2009 22:29:53] Account Manager has logged out.
+[11/11/2009 22:30:13] Lolita has logged in.
+[11/11/2009 22:30:18] Wilsson has logged in.
+[11/11/2009 22:30:43] > Saving server...
+[11/11/2009 22:30:54] > SAVE: Complete in 11.625 seconds using relational house storage.
+[11/11/2009 22:33:26] Account Manager has logged in.
+[11/11/2009 22:33:33] > Knight Lalo broadcasted: "Cualquier duda consulta los nuevos hacerla por help channel".
+[11/11/2009 22:33:42] Account Manager has logged out.
+[11/11/2009 22:34:59] Oliver Sykes has logged in.
+[11/11/2009 22:35:21] Account Manager has logged in.
+[11/11/2009 22:35:45] Account Manager has logged out.
+[11/11/2009 22:35:53] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !notice".
+[11/11/2009 22:35:56] Account Manager has logged in.
+[11/11/2009 22:35:59] Hizaky has logged in.
+[11/11/2009 22:36:15] Account Manager has logged out.
+[11/11/2009 22:36:16] Account Manager has logged in.
+[11/11/2009 22:36:18] Account Manager has logged out.
+[11/11/2009 22:36:22] Account Manager has logged in.
+[11/11/2009 22:36:27] Account Manager has logged out.
+[11/11/2009 22:36:28] Account Manager has logged in.
+[11/11/2009 22:36:32] Account Manager has logged out.
+[11/11/2009 22:36:43] Laaah Sool has logged in.
+[11/11/2009 22:37:12] Oliver Sykes has logged out.
+[11/11/2009 22:37:15] Oliver Sykes has logged in.
+[11/11/2009 22:37:31] Dwender has logged out.
+[11/11/2009 22:37:37] 
+[11/11/2009 22:37:37] Lua Script Error: [CreatureScript Interface] 
+[11/11/2009 22:37:37] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[11/11/2009 22:37:37] 
+[11/11/2009 22:37:37] luaGetCreatureName(). Creature not found
+[11/11/2009 22:37:37] 
+[11/11/2009 22:37:37] Lua Script Error: [CreatureScript Interface] 
+[11/11/2009 22:37:37] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[11/11/2009 22:37:37] 
+[11/11/2009 22:37:37] luaGetCreatureName(). Creature not found
+[11/11/2009 22:37:37] 
+[11/11/2009 22:37:37] Lua Script Error: [CreatureScript Interface] 
+[11/11/2009 22:37:37] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[11/11/2009 22:37:37] 
+[11/11/2009 22:37:37] luaGetCreatureName(). Creature not found
+[11/11/2009 22:37:38] 
+[11/11/2009 22:37:38] Lua Script Error: [CreatureScript Interface] 
+[11/11/2009 22:37:38] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[11/11/2009 22:37:38] 
+[11/11/2009 22:37:38] luaGetCreatureName(). Creature not found
+[11/11/2009 22:37:38] Nock galyck has logged out.
+[11/11/2009 22:37:40] Nock galyck has logged in.
+[11/11/2009 22:37:49] El Jonny has logged in.
+[11/11/2009 22:37:53] Dwender has logged in.
+[11/11/2009 22:38:03] Account Manager has logged in.
+[11/11/2009 22:38:37] Account Manager has logged out.
+[11/11/2009 22:38:48] Account Manager has logged in.
+[11/11/2009 22:38:52] El Jonny has logged out.
+[11/11/2009 22:38:57] > Knight Lalo broadcasted: "Cualquier cosa por help channel}".
+[11/11/2009 22:39:09] Account Manager has logged in.
+[11/11/2009 22:39:19] Account Manager has logged out.
+[11/11/2009 22:39:30] Saragon has logged in.
+[11/11/2009 22:39:37] Account Manager has logged out.
+[11/11/2009 22:39:57] Koyerk has logged in.
+[11/11/2009 22:40:55] Suicida has logged in.
+[11/11/2009 22:41:11] Saragon has logged out.
+[11/11/2009 22:41:13] Saragon has logged in.
+[11/11/2009 22:41:55] Saragon has logged out.
+[11/11/2009 22:41:57] Saragon has logged in.
+[11/11/2009 22:42:59] Metalero has logged in.
+[11/11/2009 22:43:33] Nock galyck has logged out.
+[11/11/2009 22:43:34] Account Manager has logged in.
+[11/11/2009 22:43:35] Nock galyck has logged in.
+[11/11/2009 22:43:48] Lolita has logged out.
+[11/11/2009 22:43:51] Lolita has logged in.
+[11/11/2009 22:43:56] Account Manager has logged out.
+[11/11/2009 22:44:01] Saragon has logged out.
+[11/11/2009 22:44:03] Saragon has logged in.
+[11/11/2009 22:44:14] Nock galyck has logged out.
+[11/11/2009 22:44:17] Nock galyck has logged in.
+[11/11/2009 22:44:21] Account Manager has logged in.
+[11/11/2009 22:44:37] Nock galyck has logged out.
+[11/11/2009 22:44:39] Nock galyck has logged in.
+[11/11/2009 22:45:22] Account Manager has logged out.
+[11/11/2009 22:45:33] > Metalero broadcasted: "sorry pero no edito items ni doy plata ni level".
+[11/11/2009 22:45:42] El Robeerht has logged in.
+[11/11/2009 22:45:44] > Saving server...
+[11/11/2009 22:45:54] > SAVE: Complete in 10.344 seconds using relational house storage.
+[11/11/2009 22:45:54] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !notice".
+[11/11/2009 22:46:00] > Broadcasted message: "tampoco se dan cm ni god ni nada asi que no le pidan a los cm y god".
+[11/11/2009 22:46:04] Antonio Metalero has logged in.
+[11/11/2009 22:46:45] Lolita has logged out.
+[11/11/2009 22:46:50] Vegeta sayayin has logged in.
+[11/11/2009 22:47:25] > Knight Lalo broadcasted: "Cualquier consulta, ayuda lo que sea (excepto items y cargo) por help channel o en la salida del templo.".
+[11/11/2009 22:48:19] 
+[11/11/2009 22:48:19] Lua Script Error: [Action Interface] 
+[11/11/2009 22:48:19] data/actions/scripts/liquids/strong_health.lua:onUse
+[11/11/2009 22:48:19] 
+[11/11/2009 22:48:19] luaGetPlayerCustomFlagValue(). Player not found
+[11/11/2009 22:48:19] 
+[11/11/2009 22:48:19] Lua Script Error: [Action Interface] 
+[11/11/2009 22:48:19] data/actions/scripts/liquids/strong_health.lua:onUse
+[11/11/2009 22:48:19] 
+[11/11/2009 22:48:19] luaDoCreatureAddHealth(). Creature not found
+[11/11/2009 22:48:34] El Robeerht has logged out.
+[11/11/2009 22:48:41] El Robeerht has logged in.
+[11/11/2009 22:49:40] Laaah Sool has logged out.
+[11/11/2009 22:49:42] > Broadcasted message: "para que todos sepan a vegeta sayayin lo dejaron con la palabra en la boca (fue Laaah Sool".
+[11/11/2009 22:49:51] > Broadcasted message: "xD".
+[11/11/2009 22:49:58] > Knight Lalo broadcasted: "xD".
+[11/11/2009 22:50:30] > Broadcasted message: "Laaah Sool es poncia me dijeron por aqui".
+[11/11/2009 22:51:29] 
+[11/11/2009 22:51:29] Lua Script Error: [Action Interface] 
+[11/11/2009 22:51:29] data/actions/scripts/liquids/mana_potion.lua:onUse
+[11/11/2009 22:51:29] 
+[11/11/2009 22:51:29] luaDoCreatureAddMana(). Creature not found
+[11/11/2009 22:51:56] Oliver Sykes has logged out.
+[11/11/2009 22:51:59] Oliver Sykes has logged in.
+[11/11/2009 22:52:01] Vegeta sayayin has logged out.
+[11/11/2009 22:52:53] > Wilsson broadcasted: "metalero aguemos evento".
+[11/11/2009 22:53:00] > Knight Lalo broadcasted: "metalero se fue".
+[11/11/2009 22:53:24] Javiiera has logged in.
+[11/11/2009 22:54:43] Metalero has logged out.
+[11/11/2009 22:55:05] Asesino has logged in.
+[11/11/2009 22:55:06] > Knight Lalo broadcasted: "wilsson hazte algun evento entretenido".
+[11/11/2009 22:55:26] > Knight Lalo broadcasted: "Estan aburridos los cabros xD".
+[11/11/2009 22:55:55] Asesino has logged out.
+[11/11/2009 22:55:55] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !notice".
+[11/11/2009 22:55:59] > Wilsson broadcasted: "ok are evento de inva".
+[11/11/2009 22:56:00] > Knight Lalo broadcasted: "Parece que no esta :o".
+[11/11/2009 22:56:10] 
+[11/11/2009 22:56:10] Lua Script Error: [Action Interface] 
+[11/11/2009 22:56:10] data/actions/scripts/liquids/strong_health.lua:onUse
+[11/11/2009 22:56:10] 
+[11/11/2009 22:56:10] luaGetPlayerCustomFlagValue(). Player not found
+[11/11/2009 22:56:10] 
+[11/11/2009 22:56:10] Lua Script Error: [Action Interface] 
+[11/11/2009 22:56:10] data/actions/scripts/liquids/strong_health.lua:onUse
+[11/11/2009 22:56:10] 
+[11/11/2009 22:56:10] luaDoCreatureAddHealth(). Creature not found
+[11/11/2009 22:56:16] > Knight Lalo broadcasted: "Ahi esta".
+[11/11/2009 22:56:25] > Wilsson broadcasted: "cabros invasion de hitlers en el templo".
+[11/11/2009 22:56:35] > Knight Lalo broadcasted: "Uhhh".
+[11/11/2009 22:56:47] Knight Lalo has logged out.
+[11/11/2009 22:56:48] Knight Lalo has logged in.
+[11/11/2009 22:56:53] El Robeerht has logged out.
+[11/11/2009 22:56:56] El Robeerht has logged in.
+[11/11/2009 22:56:59] Knight Lalo has logged out.
+[11/11/2009 22:57:06] > Wilsson broadcasted: "cabros invasion de hitlers en el templo".
+[11/11/2009 22:57:14] Laaah Sool has logged in.
+[11/11/2009 22:57:14] Knight Lalo has logged in.
+[11/11/2009 22:57:22] Dwender has logged out.
+[11/11/2009 22:57:22] Dwender has logged in.
+[11/11/2009 22:57:24] Oliver Sykes has logged out.
+[11/11/2009 22:57:27] Oliver Sykes has logged in.
+[11/11/2009 22:57:47] > Knight Lalo broadcasted: "Oie dwender vo ya eri max lvl deja a los demas po".
+[11/11/2009 22:57:51] > Wilsson broadcasted: "muy dificil+++".
+[11/11/2009 22:58:07] > Wilsson broadcasted: "muy dificil+++".
+[11/11/2009 22:58:29] Antonio Metalero has logged out.
+[11/11/2009 22:58:31] Antonio Metalero has logged in.
+[11/11/2009 22:58:53] Hizaky has logged out.
+[11/11/2009 22:58:54] Oliver Sykes has logged out.
+[11/11/2009 22:59:05] Koyerk has logged out.
+[11/11/2009 22:59:09] 
+[11/11/2009 22:59:09] Lua Script Error: [CreatureScript Interface] 
+[11/11/2009 22:59:09] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[11/11/2009 22:59:09] 
+[11/11/2009 22:59:09] luaGetCreatureName(). Creature not found
+[11/11/2009 22:59:09] 
+[11/11/2009 22:59:09] Lua Script Error: [CreatureScript Interface] 
+[11/11/2009 22:59:09] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[11/11/2009 22:59:09] 
+[11/11/2009 22:59:09] luaGetCreatureName(). Creature not found
+[11/11/2009 22:59:09] 
+[11/11/2009 22:59:09] Lua Script Error: [CreatureScript Interface] 
+[11/11/2009 22:59:09] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[11/11/2009 22:59:09] 
+[11/11/2009 22:59:09] luaGetCreatureName(). Creature not found
+[11/11/2009 22:59:09] 
+[11/11/2009 22:59:09] Lua Script Error: [CreatureScript Interface] 
+[11/11/2009 22:59:10] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[11/11/2009 22:59:10] 
+[11/11/2009 22:59:10] luaGetCreatureName(). Creature not found
+[11/11/2009 22:59:10] Knight Lalo has logged out.
+[11/11/2009 22:59:32] Laaah Sool has logged out.
+[11/11/2009 22:59:38] > CLEAN: Removed 1072 items from 2556 tiles in 0.531 seconds.
+[11/11/2009 22:59:55] Hizaky has logged in.
+[11/11/2009 22:59:55] Koyerk has logged in.
+[11/11/2009 22:59:55] Knight Lalo has logged in.
+[11/11/2009 23:00:17] Koyerk has logged out.
+[11/11/2009 23:00:17] Dwender has logged out.
+[11/11/2009 23:00:18] Knight Lalo has logged out.
+[11/11/2009 23:00:18] Hizaky has logged out.
+[11/11/2009 23:00:19] Oliver Sykes has logged in.
+[11/11/2009 23:00:24] > Wilsson broadcasted: "ya mejor sera de busqueda, el que me encuentra le are su set 999 de armor".
+[11/11/2009 23:00:32] Dwender has logged in.
+[11/11/2009 23:00:45] > Saving server...
+[11/11/2009 23:00:55] > SAVE: Complete in 10.063 seconds using relational house storage.
+[11/11/2009 23:00:58] > Wilsson broadcasted: "ya mejor sera de busqueda, el que me encuentra le are su set 999 de armor".
+[11/11/2009 23:01:00] Koyerk has logged in.
+[11/11/2009 23:01:19] Javiiera has logged out.
+[11/11/2009 23:01:22] Javiiera has logged in.
+[11/11/2009 23:01:25] Hizaky has logged in.
+[11/11/2009 23:01:28] > Wilsson broadcasted: "como es un premio bastante bueno no dare pistas pero estar ghost".
+[11/11/2009 23:01:46] > Wilsson broadcasted: "osea voy a estar visible perdon xD".
+[11/11/2009 23:02:46] Knight Lalo has logged in.
+[11/11/2009 23:03:05] > Knight Lalo broadcasted: "Hola de nuevo gente xD".
+[11/11/2009 23:03:24] > Wilsson broadcasted: "ya busquenme el que me encuentra le editare su set a 999 o mejor a 1000".
+[11/11/2009 23:04:00] > Wilsson broadcasted: "no dare pistas porque es muy bueno el premio".
+[11/11/2009 23:04:12] > Wilsson broadcasted: "asi que busquen en todo lugar ".
+[11/11/2009 23:04:14] Nock galyck has logged out.
+[11/11/2009 23:04:15] > Knight Lalo broadcasted: "es imposible encontrarte".
+[11/11/2009 23:04:17] Hoster Aggresor has logged in.
+[11/11/2009 23:04:19] > Knight Lalo broadcasted: "sin pistas".
+[11/11/2009 23:04:22] > Knight Lalo broadcasted: "xD".
+[11/11/2009 23:04:31] > Wilsson broadcasted: "lo unico que les dire que estoy adentro de la aggro city en ninguna otra parte".
+[11/11/2009 23:05:02] Javiiera has logged out.
+[11/11/2009 23:05:08] Javiiera has logged in.
+[11/11/2009 23:05:16] > Wilsson broadcasted: "si estoy visible lo dije hace rato xD".
+[11/11/2009 23:05:19] Saragon has logged out.
+[11/11/2009 23:05:22] > Knight Lalo broadcasted: "aaah".
+[11/11/2009 23:05:24] Saragon has logged in.
+[11/11/2009 23:05:35] > Knight Lalo broadcasted: "que me tiro debug y no alcance a leer todo".
+[11/11/2009 23:05:56] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !notice".
+[11/11/2009 23:06:08] > Wilsson broadcasted: "gani knight lalo".
+[11/11/2009 23:06:15] > Wilsson broadcasted: "gano knight lalo".
+[11/11/2009 23:06:35] > Wilsson broadcasted: "no knight lalo es solo tutor".
+[11/11/2009 23:07:38] Javiiera has logged out.
+[11/11/2009 23:07:45] Javiiera has logged in.
+[11/11/2009 23:08:16] Javiiera has logged out.
+[11/11/2009 23:08:19] Javiiera has logged in.
+[11/11/2009 23:09:17] Suicida has logged out.
+[11/11/2009 23:09:26] Suicida has logged in.
+[11/11/2009 23:09:38] Javiiera has logged out.
+[11/11/2009 23:09:39] Javiiera has logged in.
+[11/11/2009 23:10:34] Oliver Sykes has logged out.
+[11/11/2009 23:10:37] Oliver Sykes has logged in.
+[11/11/2009 23:10:39] Cloud El Mago has logged in.
+[11/11/2009 23:11:23] Koyerk has logged out.
+[11/11/2009 23:11:27] Koyerk has logged in.
+[11/11/2009 23:11:57] Suicida has logged out.
+[11/11/2009 23:11:59] Suicida has logged in.
+[11/11/2009 23:13:00] Oliver Sykes has logged out.
+[11/11/2009 23:13:04] Oliver Sykes has logged in.
+[11/11/2009 23:13:24] El Robeerht has logged out.
+[11/11/2009 23:13:27] El Robeerht has logged in.
+[11/11/2009 23:13:39] Suicida has logged out.
+[11/11/2009 23:13:55] El Robeerht has logged out.
+[11/11/2009 23:13:58] El Robeerht has logged in.
+[11/11/2009 23:14:23] Koyerk has logged out.
+[11/11/2009 23:14:26] Koyerk has logged in.
+[11/11/2009 23:14:41] El Robeerht has logged out.
+[11/11/2009 23:14:42] Antonio Metalero has logged out.
+[11/11/2009 23:14:44] Account Manager has logged in.
+[11/11/2009 23:14:44] El Robeerht has logged in.
+[11/11/2009 23:14:59] Account Manager has logged out.
+[11/11/2009 23:15:08] Son Of Metalero has logged in.
+[11/11/2009 23:15:15] Javiiera has logged out.
+[11/11/2009 23:15:21] Javiiera has logged in.
+[11/11/2009 23:15:32] Saske Uchiga has logged out.
+[11/11/2009 23:15:46] > Saving server...
+[11/11/2009 23:15:55] > SAVE: Complete in 9.312 seconds using relational house storage.
+[11/11/2009 23:15:57] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !notice".
+[11/11/2009 23:16:03] Javiiera has logged out.
+[11/11/2009 23:16:13] Account Manager has logged in.
+[11/11/2009 23:16:21] Javiiera has logged in.
+[11/11/2009 23:16:43] Account Manager has logged out.
+[11/11/2009 23:16:59] Dwender has logged out.
+[11/11/2009 23:17:01] Dwender has logged in.
+[11/11/2009 23:17:03] Javiiera has logged out.
+[11/11/2009 23:17:16] Deriich Wey has logged in.
+[11/11/2009 23:17:22] Cloud El Mago has logged out.
+[11/11/2009 23:17:23] Cloud El Mago has logged in.
+[11/11/2009 23:17:54] Deriich Wey has logged out.
+[11/11/2009 23:17:56] Derich Wey has logged in.
+[11/11/2009 23:18:17] Saske Knight has logged in.
+[11/11/2009 23:18:56] Son Of Metalero has logged out.
+[11/11/2009 23:18:57] Antonio Metalero has logged in.
+[11/11/2009 23:19:20] Cloud El Mago has logged out.
+[11/11/2009 23:19:22] Koyerk has logged out.
+[11/11/2009 23:19:25] Koyerk has logged in.
+[11/11/2009 23:21:12] Hizaky has logged out.
+[11/11/2009 23:21:14] Hizaky has logged in.
+[11/11/2009 23:21:30] > Wilsson broadcasted: "cabros de los que estan alguno ha jugado flyff????".
+[11/11/2009 23:21:37] Account Manager has logged in.
+[11/11/2009 23:21:44] > Knight Lalo broadcasted: "yo lo conozco pero no lo he jugao".
+[11/11/2009 23:22:10] > Wilsson broadcasted: "xD".
+[11/11/2009 23:22:17] Account Manager has logged out.
+[11/11/2009 23:22:19] Account Manager has logged in.
+[11/11/2009 23:22:21] > Knight Lalo broadcasted: "consultas por help channel (NO pedir god ni item)".
+[11/11/2009 23:22:51] Account Manager has logged out.
+[11/11/2009 23:22:52] > Broadcasted message: "cabros no pidan cosas que no se les daran porfavor".
+[11/11/2009 23:23:01] Account Manager has logged in.
+[11/11/2009 23:23:02] Account Manager has logged out.
+[11/11/2009 23:23:03] > Knight Lalo broadcasted: "eso mismo".
+[11/11/2009 23:23:26] [Warning - Event::loadScript] Cannot load script (data/globalevents/scripts/texto2.lua)
+[11/11/2009 23:23:26] data/globalevents/scripts/texto2.lua:22: '}' expected (to close '{' at line 2) near '['
+[11/11/2009 23:23:35] Kiiliik has logged in.
+[11/11/2009 23:23:57] Account Manager has logged in.
+[11/11/2009 23:24:23] Account Manager has logged out.
+[11/11/2009 23:24:46] Saske Knight has logged out.
+[11/11/2009 23:24:47] Olivera Asesino has logged in.
+[11/11/2009 23:25:01] Derich Wey has logged out.
+[11/11/2009 23:25:03] Derich Wey has logged in.
+[11/11/2009 23:25:13] Saske Uchiga has logged in.
+[11/11/2009 23:25:21] Account Manager has logged in.
+[11/11/2009 23:25:43] Account Manager has logged out.
+[11/11/2009 23:25:55] Derich Wey has logged out.
+[11/11/2009 23:25:57] Account Manager has logged in.
+[11/11/2009 23:26:05] Javiiera has logged in.
+[11/11/2009 23:26:35] Javiiera has logged out.
+[11/11/2009 23:26:39] Kiiliik has logged out.
+[11/11/2009 23:26:49] Javiiera has logged in.
+[11/11/2009 23:26:52] Javiiera has logged out.
+[11/11/2009 23:26:53] Javiiera has logged in.
+[11/11/2009 23:26:59] Account Manager has logged out.
+[11/11/2009 23:27:12] Carolina has logged in.
+[11/11/2009 23:27:22] Saragon has logged out.
+[11/11/2009 23:28:22] Account Manager has logged in.
+[11/11/2009 23:28:54] Oliver Sykes has logged out.
+[11/11/2009 23:28:59] Hizaky has logged out.
+[11/11/2009 23:29:03] Account Manager has logged in.
+[11/11/2009 23:29:03] Account Manager has logged out.
+[11/11/2009 23:29:06] Account Manager has logged out.
+[11/11/2009 23:29:35] El Robeerht has logged out.
+[11/11/2009 23:29:54] > CLEAN: Removed 892 items from 1593 tiles in 0.078 seconds.
+[11/11/2009 23:30:56] Account Manager has logged in.
+[11/11/2009 23:31:02] Saske Uchiga has logged out.
+[11/11/2009 23:31:13] Account Manager has logged out.
+[11/11/2009 23:31:26] Account Manager has logged in.
+[11/11/2009 23:31:30] Account Manager has logged out.
+[11/11/2009 23:31:37] Account Manager has logged in.
+[11/11/2009 23:31:47] Account Manager has logged out.
+[11/11/2009 23:31:54] Account Manager has logged in.
+[11/11/2009 23:32:12] Koyerk has logged out.
+[11/11/2009 23:32:14] Account Manager has logged out.
+[11/11/2009 23:32:19] Koyerk has logged in.
+[11/11/2009 23:32:34] Antipaticos Junior has logged in.
+[11/11/2009 23:33:05] Javiiera has logged out.
+[11/11/2009 23:33:08] Javiiera has logged in.
+[11/11/2009 23:33:08] Javiiera has logged out.
+[11/11/2009 23:33:24] Deriich Wey has logged in.
+[11/11/2009 23:33:47] Deriich Wey has logged out.
+[11/11/2009 23:33:49] Derich Wey has logged in.
+[11/11/2009 23:34:31] Knight Lalo has logged out.
+[11/11/2009 23:34:32] Knight Lalo has logged in.
+[11/11/2009 23:34:36] Koyerk has logged out.
+[11/11/2009 23:34:42] Koyerk has logged in.
+[11/11/2009 23:35:12] Dwender has logged out.
+[11/11/2009 23:35:51] 
+[11/11/2009 23:35:51] Lua Script Error: [CreatureScript Interface] 
+[11/11/2009 23:35:51] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[11/11/2009 23:35:51] 
+[11/11/2009 23:35:51] luaGetCreatureName(). Creature not found
+[11/11/2009 23:35:51] 
+[11/11/2009 23:35:51] Lua Script Error: [CreatureScript Interface] 
+[11/11/2009 23:35:51] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[11/11/2009 23:35:51] 
+[11/11/2009 23:35:51] luaGetCreatureName(). Creature not found
+[11/11/2009 23:35:51] 
+[11/11/2009 23:35:51] Lua Script Error: [CreatureScript Interface] 
+[11/11/2009 23:35:51] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[11/11/2009 23:35:51] 
+[11/11/2009 23:35:51] luaGetCreatureName(). Creature not found
+[11/11/2009 23:35:52] 
+[11/11/2009 23:35:52] Lua Script Error: [CreatureScript Interface] 
+[11/11/2009 23:35:52] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[11/11/2009 23:35:52] 
+[11/11/2009 23:35:52] luaGetCreatureName(). Creature not found
+[11/11/2009 23:35:52] Antonio Metalero has logged out.
+[11/11/2009 23:36:13] Koyerk has logged out.
+[11/11/2009 23:36:17] Koyerk has logged in.
+[11/11/2009 23:36:22] Antonio Metalero has logged in.
+[11/11/2009 23:37:31] Ekoz has logged in.
+[11/11/2009 23:37:33] Antonio Metalero has logged out.
+[11/11/2009 23:37:35] Antonio Metalero has logged in.
+[11/11/2009 23:37:56] Ekoz has logged out.
+[11/11/2009 23:37:59] Ekoz has logged in.
+[11/11/2009 23:38:17] [Warning - Event::loadScript] Cannot load script (data/globalevents/scripts/texto.lua)
+[11/11/2009 23:38:17] data/globalevents/scripts/texto.lua:21: '}' expected (to close '{' at line 2) near '['
+[11/11/2009 23:38:17] > Knight Lalo broadcasted: "asdf asdf asdf".
+[11/11/2009 23:38:22] Ekoz has logged out.
+[11/11/2009 23:38:27] Ekoz has logged in.
+[11/11/2009 23:39:41] Hoster Aggresor has logged out.
+[11/11/2009 23:39:44] Nock galyck has logged in.
+[11/11/2009 23:40:02] Ekoz has logged out.
+[11/11/2009 23:40:04] Ekoz has logged in.
+[11/11/2009 23:40:12] 
+[11/11/2009 23:40:12] Lua Script Error: [CreatureScript Interface] 
+[11/11/2009 23:40:12] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[11/11/2009 23:40:12] 
+[11/11/2009 23:40:12] luaGetCreatureName(). Creature not found
+[11/11/2009 23:40:12] 
+[11/11/2009 23:40:12] Lua Script Error: [CreatureScript Interface] 
+[11/11/2009 23:40:12] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[11/11/2009 23:40:12] 
+[11/11/2009 23:40:12] luaGetCreatureName(). Creature not found
+[11/11/2009 23:40:13] 
+[11/11/2009 23:40:13] Lua Script Error: [CreatureScript Interface] 
+[11/11/2009 23:40:13] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[11/11/2009 23:40:13] 
+[11/11/2009 23:40:13] luaGetCreatureName(). Creature not found
+[11/11/2009 23:40:13] 
+[11/11/2009 23:40:13] Lua Script Error: [CreatureScript Interface] 
+[11/11/2009 23:40:13] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[11/11/2009 23:40:13] 
+[11/11/2009 23:40:13] luaGetCreatureName(). Creature not found
+[11/11/2009 23:40:13] Nock galyck has logged out.
+[11/11/2009 23:40:14] Nock galyck has logged in.
+[11/11/2009 23:40:38] Nock galyck has logged out.
+[11/11/2009 23:40:39] Nock galyck has logged in.
+[11/11/2009 23:40:59] Antonio Metalero has logged out.
+[11/11/2009 23:41:01] Son Of Metalero has logged in.
+[11/11/2009 23:43:03] > Knight Lalo broadcasted: "asdfasdfasdf".
+[11/11/2009 23:43:15] > Broadcasted message: "Mu invade aggro city".
+[11/11/2009 23:46:39] Olivera Asesino has logged out.
+[11/11/2009 23:46:40] Knight Lalo has logged out.
+[11/11/2009 23:46:42] Knight Lalo has logged in.
+[11/11/2009 23:48:55] Koyerk has logged out.
+[11/11/2009 23:49:03] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !notice".
+[11/11/2009 23:49:08] Koyerk has logged in.
+[11/11/2009 23:50:32] Minos has logged in.
+[11/11/2009 23:52:35] Minos has logged out.
+[11/11/2009 23:52:38] Minos has logged in.
+[11/11/2009 23:52:51] Nock galyck has logged out.
+[11/11/2009 23:52:52] Nock galyck has logged in.
+[11/11/2009 23:52:54] Nock galyck has logged out.
+[11/11/2009 23:52:56] Hoster Aggresor has logged in.
+[11/11/2009 23:53:28] > CLEAN: Removed 707 items from 1692 tiles in 0.172 seconds.
+[11/11/2009 23:53:44] > Knight Lalo broadcasted: "Knight Lalo el tutor mas sersy!".
+[11/11/2009 23:53:58] Account Manager has logged in.
+[11/11/2009 23:54:03] > Saving server...
+[11/11/2009 23:54:13] > SAVE: Complete in 9.875 seconds using relational house storage.
+[11/11/2009 23:54:24] Account Manager has logged out.
+[11/11/2009 23:54:25] Account Manager has logged in.
+[11/11/2009 23:54:47] Account Manager has logged out.
+[11/11/2009 23:54:51] Olivera Asesino has logged in.
+[11/11/2009 23:54:56] Account Manager has logged in.
+[11/11/2009 23:55:01] Carolina has logged out.
+[11/11/2009 23:55:04] Carolina has logged in.
+[11/11/2009 23:55:28] Account Manager has logged out.
+[11/11/2009 23:55:37] Demon Raider has logged in.
+[11/11/2009 23:56:06] > Knight Lalo broadcasted: "Ya cabros ayuden a mejorar el server".
+[11/11/2009 23:56:13] > Knight Lalo broadcasted: "digan que creen que le falte".
+[11/11/2009 23:58:29] Antipaticos Junior has logged out.
+[11/11/2009 23:58:33] Antipaticos Junior has logged in.
+[11/11/2009 23:59:04] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !notice".

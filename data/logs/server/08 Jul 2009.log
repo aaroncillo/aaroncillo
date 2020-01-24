@@ -1,0 +1,133 @@
+[08/07/2009 11:17:13] The Forgotten Server, version 0.3.4 (Crying Damson)
+[08/07/2009 11:17:13] Sever Criado Por Alissow e Comedinha.
+[08/07/2009 11:17:13] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[08/07/2009 11:17:13] Bom Jogo!!!
+[08/07/2009 11:17:13] 
+[08/07/2009 11:17:13] >> Debugging: nothing.
+[08/07/2009 11:17:13] >> Checking software version... up to date!
+[08/07/2009 11:17:15] 
+[08/07/2009 11:17:15] >> Loading config (config.lua)
+[08/07/2009 11:17:15] > Using plaintext passwords
+[08/07/2009 11:17:15] >> Loading RSA key
+[08/07/2009 11:17:15] >> Starting SQL connection
+[08/07/2009 11:17:15] >> Running Database Manager
+[08/07/2009 11:17:15] > Optimized database.
+[08/07/2009 11:17:15] >> Loading items
+[08/07/2009 11:17:16] >> Loading groups
+[08/07/2009 11:17:16] >> Loading vocations
+[08/07/2009 11:17:16] >> Loading script systems
+[08/07/2009 11:17:21] >> Loading chat channels
+[08/07/2009 11:17:21] >> Loading outfits
+[08/07/2009 11:17:21] >> Loading experience stages
+[08/07/2009 11:17:21] >> Loading monsters
+[08/07/2009 11:17:26] >> Loading map and spawns...
+[08/07/2009 11:17:26] > Map size: 512x512.
+[08/07/2009 11:17:27] > Map descriptions: 
+[08/07/2009 11:17:27] Saved with Remere's Map Editor 1.1.7 BETA
+[08/07/2009 11:17:27] Remere 's Map Editor Beta
+[08/07/2009 11:17:28] Duplicate uniqueId 2471
+[08/07/2009 11:17:29] > Map loading time: 3.86 seconds.
+[08/07/2009 11:17:31] [Warning - Houses::loadFromXml] House entry not set for:  (158)
+[08/07/2009 11:17:31] > Data loading time: 1.453 seconds.
+[08/07/2009 11:17:31] > Unserialization time for houses: 0.062 seconds.
+[08/07/2009 11:17:47] > Unserialization time for map: 15.282 seconds.
+[08/07/2009 11:17:47] >> Checking world type... PvP
+[08/07/2009 11:17:47] >> Initializing game state modules and registering services...
+[08/07/2009 11:17:48] > Global address: 127.0.0.1
+[08/07/2009 11:17:48] > Local ports:
+[08/07/2009 11:17:48] 7171	7172	
+[08/07/2009 11:17:48] >> All modules were loaded, server starting up...
+[08/07/2009 11:17:48] >> Snowz Ots server Online!
+[08/07/2009 11:17:48] 
+[08/07/2009 11:18:04] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[08/07/2009 11:18:06] GOD Snowz has logged in.
+[08/07/2009 11:18:15] GOD Snowz has logged out.
+[08/07/2009 11:18:29] GOD Snowz has logged in.
+[08/07/2009 11:18:55] GOD Snowz has logged out.
+[08/07/2009 11:19:01] Teste dois has logged in.
+[08/07/2009 11:20:39] Teste dois has logged out.
+[08/07/2009 11:20:44] GOD Snowz has logged in.
+[08/07/2009 11:24:10] GOD Snowz has logged out.
+[08/07/2009 11:24:13] > Saving server...
+[08/07/2009 11:24:15] > SAVE: Complete in 1.859 seconds using relational house storage.
+[08/07/2009 11:24:15] Preparing to shutdown server..
+[08/07/2009 11:24:15] .
+[08/07/2009 11:24:15] Exiting
+[08/07/2009 17:03:09] The Forgotten Server, version 0.3.4 (Crying Damson)
+[08/07/2009 17:03:09] Sever Criado Por Alissow e Comedinha.
+[08/07/2009 17:03:09] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[08/07/2009 17:03:09] Bom Jogo!!!
+[08/07/2009 17:03:09] 
+[08/07/2009 17:03:09] >> Debugging: nothing.
+[08/07/2009 17:03:09] >> Checking software version... up to date!
+[08/07/2009 17:03:19] 
+[08/07/2009 17:03:19] >> Loading config (config.lua)
+[08/07/2009 17:03:19] > Using plaintext passwords
+[08/07/2009 17:03:19] >> Loading RSA key
+[08/07/2009 17:03:19] >> Starting SQL connection
+[08/07/2009 17:03:20] >> Running Database Manager
+[08/07/2009 17:03:20] > Optimized database.
+[08/07/2009 17:03:20] >> Loading items
+[08/07/2009 17:03:21] [Warning - Items::loadFromXml] Cannot load items file.
+[08/07/2009 17:03:21] Line: 25342, Info: Extra content at the end of the document
+[08/07/2009 17:03:21] 
+[08/07/2009 17:03:21] 
+[08/07/2009 17:03:40] 
+[08/07/2009 17:03:40] > ERROR: Unable to load items (XML)!
+[08/07/2009 17:06:02] The Forgotten Server, version 0.3.4 (Crying Damson)
+[08/07/2009 17:06:02] Sever Criado Por Alissow e Comedinha.
+[08/07/2009 17:06:02] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[08/07/2009 17:06:02] Bom Jogo!!!
+[08/07/2009 17:06:02] 
+[08/07/2009 17:06:02] >> Debugging: nothing.
+[08/07/2009 17:06:02] >> Checking software version... up to date!
+[08/07/2009 17:06:03] 
+[08/07/2009 17:06:03] >> Loading config (config.lua)
+[08/07/2009 17:06:03] > Using plaintext passwords
+[08/07/2009 17:06:03] >> Loading RSA key
+[08/07/2009 17:06:03] >> Starting SQL connection
+[08/07/2009 17:06:03] >> Running Database Manager
+[08/07/2009 17:06:04] > Optimized database.
+[08/07/2009 17:06:04] >> Loading items
+[08/07/2009 17:06:05] >> Loading groups
+[08/07/2009 17:06:05] >> Loading vocations
+[08/07/2009 17:06:05] >> Loading script systems
+[08/07/2009 17:06:10] >> Loading chat channels
+[08/07/2009 17:06:10] >> Loading outfits
+[08/07/2009 17:06:10] >> Loading experience stages
+[08/07/2009 17:06:10] >> Loading monsters
+[08/07/2009 17:06:16] >> Loading map and spawns...
+[08/07/2009 17:06:17] > Map size: 512x512.
+[08/07/2009 17:06:17] > Map descriptions: 
+[08/07/2009 17:06:17] Saved with Remere's Map Editor 1.1.7 BETA
+[08/07/2009 17:06:17] Remere 's Map Editor Beta
+[08/07/2009 17:06:19] Duplicate uniqueId 2471
+[08/07/2009 17:06:20] > Map loading time: 3.891 seconds.
+[08/07/2009 17:06:21] [Warning - Houses::loadFromXml] House entry not set for:  (158)
+[08/07/2009 17:06:21] > Data loading time: 1.141 seconds.
+[08/07/2009 17:06:21] > Unserialization time for houses: 0.015 seconds.
+[08/07/2009 17:06:37] > Unserialization time for map: 15.406 seconds.
+[08/07/2009 17:06:37] >> Checking world type... PvP
+[08/07/2009 17:06:37] >> Initializing game state modules and registering services...
+[08/07/2009 17:06:38] > Global address: 127.0.0.1
+[08/07/2009 17:06:38] > Local ports:
+[08/07/2009 17:06:38] 7171	7172	
+[08/07/2009 17:06:38] >> All modules were loaded, server starting up...
+[08/07/2009 17:06:38] >> Snowz Ots server Online!
+[08/07/2009 17:06:38] 
+[08/07/2009 17:06:54] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[08/07/2009 17:06:56] GOD Snowz has logged in.
+[08/07/2009 17:07:23] 
+[08/07/2009 17:07:23] Lua Script Error: [TalkAction Interface] 
+[08/07/2009 17:07:23] data/talkactions/scripts/createitem.lua:onSay
+[08/07/2009 17:07:23] 
+[08/07/2009 17:07:23] luaDoCreateItemEx(). Item not found
+[08/07/2009 17:07:23] 
+[08/07/2009 17:07:23] Lua Script Error: [TalkAction Interface] 
+[08/07/2009 17:07:23] data/talkactions/scripts/createitem.lua:onSay
+[08/07/2009 17:07:23] 
+[08/07/2009 17:07:23] luaDoPlayerAddItemEx(). Item not found
+[08/07/2009 17:12:23] GOD Snowz has logged out.
+[08/07/2009 17:12:25] > Saving server...
+[08/07/2009 17:12:27] > SAVE: Complete in 1.562 seconds using relational house storage.
+[08/07/2009 17:12:27] Preparing to shutdown

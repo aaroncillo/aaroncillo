@@ -1,0 +1,371 @@
+[01/01/2010 00:08:51] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[01/01/2010 00:13:35] > Saving server...
+[01/01/2010 00:16:31] > SAVE: Complete in 174.235 seconds using relational house storage.
+[01/01/2010 00:18:32] Zorra Zorrienta has logged out.
+[01/01/2010 00:18:35] 
+[01/01/2010 00:18:35] Lua Script Error: [GlobalEvent Interface] 
+[01/01/2010 00:18:35] data/globalevents/scripts/lottery.lua:onThink
+[01/01/2010 00:18:35] 
+[01/01/2010 00:18:35] data/globalevents/scripts/lottery.lua:12: bad argument #2 to 'random' (interval is empty)
+[01/01/2010 00:18:35] stack traceback:
+[01/01/2010 00:18:35] 	[C]: in function 'random'
+[01/01/2010 00:18:35] 	data/globalevents/scripts/lottery.lua:12: in function <data/globalevents/scripts/lottery.lua:6>
+[01/01/2010 00:18:35] [Error - GlobalEvents::onThink] Couldn't execute event: lottery
+[01/01/2010 00:18:52] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[01/01/2010 00:28:36] > Saving server...
+[01/01/2010 00:30:12] > SAVE: Complete in 95.328 seconds using relational house storage.
+[01/01/2010 00:30:12] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[01/01/2010 00:38:36] 
+[01/01/2010 00:38:36] Lua Script Error: [GlobalEvent Interface] 
+[01/01/2010 00:38:36] data/globalevents/scripts/lottery.lua:onThink
+[01/01/2010 00:38:36] 
+[01/01/2010 00:38:36] data/globalevents/scripts/lottery.lua:12: bad argument #2 to 'random' (interval is empty)
+[01/01/2010 00:38:36] stack traceback:
+[01/01/2010 00:38:36] 	[C]: in function 'random'
+[01/01/2010 00:38:36] 	data/globalevents/scripts/lottery.lua:12: in function <data/globalevents/scripts/lottery.lua:6>
+[01/01/2010 00:38:37] [Error - GlobalEvents::onThink] Couldn't execute event: lottery
+[01/01/2010 00:40:13] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[01/01/2010 00:41:52] Hoster Aggresor has logged in.
+[01/01/2010 00:41:52] > Broadcasted message: "Hoster Aggresor se conecto (el es: rei aggresor)".
+[01/01/2010 00:42:03] [Warning - Event::loadScript] Cannot load script (data/talkactions/scripts/votesys.lua)
+[01/01/2010 00:42:03] data/talkactions/scripts/votesys.lua:42: ')' expected near 'orageValue'
+[01/01/2010 00:42:03] [Warning - Event::loadScript] Cannot load script (data/talkactions/scripts/votesys.lua)
+[01/01/2010 00:42:03] data/talkactions/scripts/votesys.lua:42: ')' expected near 'orageValue'
+[01/01/2010 00:42:03] [Warning - Event::loadScript] Cannot load script (data/talkactions/scripts/votesys.lua)
+[01/01/2010 00:42:03] data/talkactions/scripts/votesys.lua:42: ')' expected near 'orageValue'
+[01/01/2010 00:43:37] > Saving server...
+[01/01/2010 00:44:17] > SAVE: Complete in 40.031 seconds using relational house storage.
+[01/01/2010 00:50:14] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[01/01/2010 00:58:26] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/food.lua)
+[01/01/2010 00:58:27] data/actions/scripts/food.lua:117: '<eof>' expected near 'end'
+[01/01/2010 00:58:27] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/food.lua)
+[01/01/2010 00:58:27] data/actions/scripts/food.lua:117: '<eof>' expected near 'end'
+[01/01/2010 00:58:27] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/food.lua)
+[01/01/2010 00:58:27] data/actions/scripts/food.lua:117: '<eof>' expected near 'end'
+[01/01/2010 00:58:27] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/food.lua)
+[01/01/2010 00:58:27] data/actions/scripts/food.lua:117: '<eof>' expected near 'end'
+[01/01/2010 00:58:28] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/food.lua)
+[01/01/2010 00:58:28] data/actions/scripts/food.lua:117: '<eof>' expected near 'end'
+[01/01/2010 00:58:28] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/food.lua)
+[01/01/2010 00:58:28] data/actions/scripts/food.lua:117: '<eof>' expected near 'end'
+[01/01/2010 00:58:28] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/food.lua)
+[01/01/2010 00:58:28] data/actions/scripts/food.lua:117: '<eof>' expected near 'end'
+[01/01/2010 00:58:28] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/food.lua)
+[01/01/2010 00:58:28] data/actions/scripts/food.lua:117: '<eof>' expected near 'end'
+[01/01/2010 00:58:29] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/food.lua)
+[01/01/2010 00:58:29] data/actions/scripts/food.lua:117: '<eof>' expected near 'end'
+[01/01/2010 00:58:29] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/food.lua)
+[01/01/2010 00:58:29] data/actions/scripts/food.lua:117: '<eof>' expected near 'end'
+[01/01/2010 00:58:29] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/food.lua)
+[01/01/2010 00:58:29] data/actions/scripts/food.lua:117: '<eof>' expected near 'end'
+[01/01/2010 00:58:29] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/food.lua)
+[01/01/2010 00:58:30] data/actions/scripts/food.lua:117: '<eof>' expected near 'end'
+[01/01/2010 00:58:30] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/food.lua)
+[01/01/2010 00:58:30] data/actions/scripts/food.lua:117: '<eof>' expected near 'end'
+[01/01/2010 00:58:30] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/food.lua)
+[01/01/2010 00:58:30] data/actions/scripts/food.lua:117: '<eof>' expected near 'end'
+[01/01/2010 00:58:30] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/food.lua)
+[01/01/2010 00:58:30] data/actions/scripts/food.lua:117: '<eof>' expected near 'end'
+[01/01/2010 00:58:31] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/food.lua)
+[01/01/2010 00:58:31] data/actions/scripts/food.lua:117: '<eof>' expected near 'end'
+[01/01/2010 00:58:31] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/food.lua)
+[01/01/2010 00:58:31] data/actions/scripts/food.lua:117: '<eof>' expected near 'end'
+[01/01/2010 00:58:31] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/food.lua)
+[01/01/2010 00:58:31] data/actions/scripts/food.lua:117: '<eof>' expected near 'end'
+[01/01/2010 00:58:31] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/food.lua)
+[01/01/2010 00:58:31] data/actions/scripts/food.lua:117: '<eof>' expected near 'end'
+[01/01/2010 00:58:32] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/food.lua)
+[01/01/2010 00:58:32] data/actions/scripts/food.lua:117: '<eof>' expected near 'end'
+[01/01/2010 00:58:32] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/food.lua)
+[01/01/2010 00:58:32] data/actions/scripts/food.lua:117: '<eof>' expected near 'end'
+[01/01/2010 00:58:32] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/food.lua)
+[01/01/2010 00:58:32] data/actions/scripts/food.lua:117: '<eof>' expected near 'end'
+[01/01/2010 00:58:32] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/food.lua)
+[01/01/2010 00:58:33] data/actions/scripts/food.lua:117: '<eof>' expected near 'end'
+[01/01/2010 00:58:33] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/food.lua)
+[01/01/2010 00:58:33] data/actions/scripts/food.lua:117: '<eof>' expected near 'end'
+[01/01/2010 00:58:33] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/food.lua)
+[01/01/2010 00:58:33] data/actions/scripts/food.lua:117: '<eof>' expected near 'end'
+[01/01/2010 00:58:33] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/food.lua)
+[01/01/2010 00:58:33] data/actions/scripts/food.lua:117: '<eof>' expected near 'end'
+[01/01/2010 00:58:33] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/food.lua)
+[01/01/2010 00:58:34] data/actions/scripts/food.lua:117: '<eof>' expected near 'end'
+[01/01/2010 00:58:34] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/food.lua)
+[01/01/2010 00:58:34] data/actions/scripts/food.lua:117: '<eof>' expected near 'end'
+[01/01/2010 00:58:34] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/food.lua)
+[01/01/2010 00:58:34] data/actions/scripts/food.lua:117: '<eof>' expected near 'end'
+[01/01/2010 00:58:34] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/food.lua)
+[01/01/2010 00:58:34] data/actions/scripts/food.lua:117: '<eof>' expected near 'end'
+[01/01/2010 00:58:35] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/food.lua)
+[01/01/2010 00:58:35] data/actions/scripts/food.lua:117: '<eof>' expected near 'end'
+[01/01/2010 00:58:35] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/food.lua)
+[01/01/2010 00:58:35] data/actions/scripts/food.lua:117: '<eof>' expected near 'end'
+[01/01/2010 00:58:35] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/food.lua)
+[01/01/2010 00:58:35] data/actions/scripts/food.lua:117: '<eof>' expected near 'end'
+[01/01/2010 00:58:35] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/food.lua)
+[01/01/2010 00:58:35] data/actions/scripts/food.lua:117: '<eof>' expected near 'end'
+[01/01/2010 00:58:36] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/food.lua)
+[01/01/2010 00:58:36] data/actions/scripts/food.lua:117: '<eof>' expected near 'end'
+[01/01/2010 00:58:36] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/food.lua)
+[01/01/2010 00:58:36] data/actions/scripts/food.lua:117: '<eof>' expected near 'end'
+[01/01/2010 00:58:36] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/food.lua)
+[01/01/2010 00:58:36] data/actions/scripts/food.lua:117: '<eof>' expected near 'end'
+[01/01/2010 00:58:36] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/food.lua)
+[01/01/2010 00:58:37] data/actions/scripts/food.lua:117: '<eof>' expected near 'end'
+[01/01/2010 00:58:37] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/food.lua)
+[01/01/2010 00:58:37] data/actions/scripts/food.lua:117: '<eof>' expected near 'end'
+[01/01/2010 00:58:37] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/food.lua)
+[01/01/2010 00:58:37] data/actions/scripts/food.lua:117: '<eof>' expected near 'end'
+[01/01/2010 00:58:41] > Broadcasted message: "la limpieza del mapa empieza en 30 segundos, por favor wn recoje tus items!".
+[01/01/2010 00:58:41] > Broadcasted message: "[SYSTEMA DE LOTERIA] ganador: Hoster Aggresor, recompensa: 100k! - felicitaciones! (siguiente Loteria en media Hora)".
+[01/01/2010 00:58:41] > Saving server...
+[01/01/2010 00:59:02] > SAVE: Complete in 20.531 seconds using relational house storage.
+[01/01/2010 00:59:11] > CLEAN: Removed 1 item from 95 tiles in 0.437 seconds.
+[01/01/2010 00:59:11] > Broadcasted message: "el mapa se limpio :P, siguiente limpieza en 2 horas.".
+[01/01/2010 01:00:15] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[01/01/2010 01:01:19] Hoster Aggresor has logged out.
+[01/01/2010 01:01:23] Mono Pirata has logged in.
+[01/01/2010 01:01:31] 
+[01/01/2010 01:01:31] Lua Script Error: [Action Interface] 
+[01/01/2010 01:01:31] data/actions/scripts/food.lua:onUse
+[01/01/2010 01:01:31] 
+[01/01/2010 01:01:31] data/actions/scripts/food.lua:105: attempt to call global 'doPlayerAddHealth' (a nil value)
+[01/01/2010 01:01:31] stack traceback:
+[01/01/2010 01:01:31] 	data/actions/scripts/food.lua:105: in function <data/actions/scripts/food.lua:3>
+[01/01/2010 01:02:03] Mono Pirata has logged out.
+[01/01/2010 01:02:04] Pro Pro has logged in.
+[01/01/2010 01:02:09] 
+[01/01/2010 01:02:09] Lua Script Error: [Action Interface] 
+[01/01/2010 01:02:09] data/actions/scripts/food.lua:onUse
+[01/01/2010 01:02:09] 
+[01/01/2010 01:02:09] data/actions/scripts/food.lua:105: attempt to call global 'doPlayerAddHealth' (a nil value)
+[01/01/2010 01:02:09] stack traceback:
+[01/01/2010 01:02:09] 	data/actions/scripts/food.lua:105: in function <data/actions/scripts/food.lua:3>
+[01/01/2010 01:03:10] Pro Pro has logged out.
+[01/01/2010 01:03:11] Zorra Zorrienta has logged in.
+[01/01/2010 01:03:18] 
+[01/01/2010 01:03:18] Lua Script Error: [Action Interface] 
+[01/01/2010 01:03:18] data/actions/scripts/food.lua:onUse
+[01/01/2010 01:03:18] 
+[01/01/2010 01:03:18] data/actions/scripts/food.lua:105: attempt to call global 'doPlayerAddHealth' (a nil value)
+[01/01/2010 01:03:18] stack traceback:
+[01/01/2010 01:03:18] 	data/actions/scripts/food.lua:105: in function <data/actions/scripts/food.lua:3>
+[01/01/2010 01:03:27] Zorra Zorrienta has logged out.
+[01/01/2010 01:03:30] Hoster Aggresor has logged in.
+[01/01/2010 01:03:30] > Broadcasted message: "Hoster Aggresor se conecto (el es: rei aggresor)".
+[01/01/2010 01:07:30] 
+[01/01/2010 01:07:30] Lua Script Error: [Action Interface] 
+[01/01/2010 01:07:30] data/actions/scripts/food.lua:onUse
+[01/01/2010 01:07:30] 
+[01/01/2010 01:07:30] luaDoPlayerSendCancel(). Player not found
+[01/01/2010 01:07:32] 
+[01/01/2010 01:07:32] Lua Script Error: [Action Interface] 
+[01/01/2010 01:07:32] data/actions/scripts/food.lua:onUse
+[01/01/2010 01:07:32] 
+[01/01/2010 01:07:32] luaDoPlayerSendCancel(). Player not found
+[01/01/2010 01:07:32] 
+[01/01/2010 01:07:32] Lua Script Error: [Action Interface] 
+[01/01/2010 01:07:32] data/actions/scripts/food.lua:onUse
+[01/01/2010 01:07:32] 
+[01/01/2010 01:07:32] luaDoPlayerSendCancel(). Player not found
+[01/01/2010 01:07:32] 
+[01/01/2010 01:07:32] Lua Script Error: [Action Interface] 
+[01/01/2010 01:07:32] data/actions/scripts/food.lua:onUse
+[01/01/2010 01:07:33] 
+[01/01/2010 01:07:33] luaDoPlayerSendCancel(). Player not found
+[01/01/2010 01:07:33] 
+[01/01/2010 01:07:33] Lua Script Error: [Action Interface] 
+[01/01/2010 01:07:33] data/actions/scripts/food.lua:onUse
+[01/01/2010 01:07:33] 
+[01/01/2010 01:07:33] luaDoPlayerSendCancel(). Player not found
+[01/01/2010 01:07:34] 
+[01/01/2010 01:07:34] Lua Script Error: [Action Interface] 
+[01/01/2010 01:07:34] data/actions/scripts/food.lua:onUse
+[01/01/2010 01:07:34] 
+[01/01/2010 01:07:34] luaDoPlayerSendCancel(). Player not found
+[01/01/2010 01:07:52] 
+[01/01/2010 01:07:52] Lua Script Error: [Action Interface] 
+[01/01/2010 01:07:52] data/actions/scripts/food.lua:onUse
+[01/01/2010 01:07:52] 
+[01/01/2010 01:07:52] luaDoPlayerSendCancel(). Player not found
+[01/01/2010 01:07:52] 
+[01/01/2010 01:07:52] Lua Script Error: [Action Interface] 
+[01/01/2010 01:07:52] data/actions/scripts/food.lua:onUse
+[01/01/2010 01:07:52] 
+[01/01/2010 01:07:52] luaDoPlayerSendCancel(). Player not found
+[01/01/2010 01:07:53] 
+[01/01/2010 01:07:53] Lua Script Error: [Action Interface] 
+[01/01/2010 01:07:53] data/actions/scripts/food.lua:onUse
+[01/01/2010 01:07:53] 
+[01/01/2010 01:07:53] luaDoPlayerSendCancel(). Player not found
+[01/01/2010 01:10:16] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[01/01/2010 01:11:43] 
+[01/01/2010 01:11:43] Lua Script Error: [Action Interface] 
+[01/01/2010 01:11:43] data/actions/scripts/food.lua:onUse
+[01/01/2010 01:11:43] 
+[01/01/2010 01:11:43] luaDoPlayerSendCancel(). Player not found
+[01/01/2010 01:11:43] 
+[01/01/2010 01:11:43] Lua Script Error: [Action Interface] 
+[01/01/2010 01:11:43] data/actions/scripts/food.lua:onUse
+[01/01/2010 01:11:43] 
+[01/01/2010 01:11:43] luaDoPlayerSendCancel(). Player not found
+[01/01/2010 01:11:44] 
+[01/01/2010 01:11:44] Lua Script Error: [Action Interface] 
+[01/01/2010 01:11:44] data/actions/scripts/food.lua:onUse
+[01/01/2010 01:11:44] 
+[01/01/2010 01:11:44] luaDoPlayerSendCancel(). Player not found
+[01/01/2010 01:11:48] 
+[01/01/2010 01:11:48] Lua Script Error: [Action Interface] 
+[01/01/2010 01:11:48] data/actions/scripts/food.lua:onUse
+[01/01/2010 01:11:48] 
+[01/01/2010 01:11:48] luaDoPlayerSendCancel(). Player not found
+[01/01/2010 01:11:48] 
+[01/01/2010 01:11:48] Lua Script Error: [Action Interface] 
+[01/01/2010 01:11:48] data/actions/scripts/food.lua:onUse
+[01/01/2010 01:11:48] 
+[01/01/2010 01:11:48] luaDoPlayerSendCancel(). Player not found
+[01/01/2010 01:13:42] > Saving server...
+[01/01/2010 01:13:50] > SAVE: Complete in 8.281 seconds using relational house storage.
+[01/01/2010 01:18:42] > Broadcasted message: "[SYSTEMA DE LOTERIA] ganador: Hoster Aggresor, recompensa: 100k! - felicitaciones! (siguiente Loteria en media Hora)".
+[01/01/2010 01:20:17] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[01/01/2010 01:20:41] > Broadcasted message: "Mu invade Slayer city".
+[01/01/2010 01:25:15] 
+[01/01/2010 01:25:16] Lua Script Error: [Action Interface] 
+[01/01/2010 01:25:16] data/actions/scripts/food.lua:onUse
+[01/01/2010 01:25:16] 
+[01/01/2010 01:25:16] luaDoPlayerSendCancel(). Player not found
+[01/01/2010 01:25:16] 
+[01/01/2010 01:25:16] Lua Script Error: [Action Interface] 
+[01/01/2010 01:25:16] data/actions/scripts/food.lua:onUse
+[01/01/2010 01:25:16] 
+[01/01/2010 01:25:16] luaDoPlayerSendCancel(). Player not found
+[01/01/2010 01:25:25] 
+[01/01/2010 01:25:25] Lua Script Error: [Action Interface] 
+[01/01/2010 01:25:25] data/actions/scripts/food.lua:onUse
+[01/01/2010 01:25:25] 
+[01/01/2010 01:25:25] luaDoPlayerSendCancel(). Player not found
+[01/01/2010 01:25:25] 
+[01/01/2010 01:25:25] Lua Script Error: [Action Interface] 
+[01/01/2010 01:25:25] data/actions/scripts/food.lua:onUse
+[01/01/2010 01:25:25] 
+[01/01/2010 01:25:25] luaDoPlayerSendCancel(). Player not found
+[01/01/2010 01:25:26] 
+[01/01/2010 01:25:26] Lua Script Error: [Action Interface] 
+[01/01/2010 01:25:26] data/actions/scripts/food.lua:onUse
+[01/01/2010 01:25:26] 
+[01/01/2010 01:25:26] luaDoPlayerSendCancel(). Player not found
+[01/01/2010 01:25:26] 
+[01/01/2010 01:25:26] Lua Script Error: [Action Interface] 
+[01/01/2010 01:25:26] data/actions/scripts/food.lua:onUse
+[01/01/2010 01:25:26] 
+[01/01/2010 01:25:26] luaDoPlayerSendCancel(). Player not found
+[01/01/2010 01:25:27] 
+[01/01/2010 01:25:27] Lua Script Error: [Action Interface] 
+[01/01/2010 01:25:27] data/actions/scripts/food.lua:onUse
+[01/01/2010 01:25:27] 
+[01/01/2010 01:25:27] luaDoPlayerSendCancel(). Player not found
+[01/01/2010 01:25:28] 
+[01/01/2010 01:25:28] Lua Script Error: [Action Interface] 
+[01/01/2010 01:25:28] data/actions/scripts/food.lua:onUse
+[01/01/2010 01:25:28] 
+[01/01/2010 01:25:28] luaDoPlayerSendCancel(). Player not found
+[01/01/2010 01:25:30] 
+[01/01/2010 01:25:30] Lua Script Error: [Action Interface] 
+[01/01/2010 01:25:30] data/actions/scripts/food.lua:onUse
+[01/01/2010 01:25:30] 
+[01/01/2010 01:25:30] luaDoPlayerSendCancel(). Player not found
+[01/01/2010 01:25:32] Hoster Aggresor has logged out.
+[01/01/2010 01:25:36] Zorra Zorrienta has logged in.
+[01/01/2010 01:25:39] 
+[01/01/2010 01:25:39] Lua Script Error: [Action Interface] 
+[01/01/2010 01:25:39] data/actions/scripts/food.lua:onUse
+[01/01/2010 01:25:39] 
+[01/01/2010 01:25:39] luaDoPlayerSendCancel(). Player not found
+[01/01/2010 01:25:40] 
+[01/01/2010 01:25:40] Lua Script Error: [Action Interface] 
+[01/01/2010 01:25:40] data/actions/scripts/food.lua:onUse
+[01/01/2010 01:25:40] 
+[01/01/2010 01:25:40] luaDoPlayerSendCancel(). Player not found
+[01/01/2010 01:25:40] 
+[01/01/2010 01:25:40] Lua Script Error: [Action Interface] 
+[01/01/2010 01:25:40] data/actions/scripts/food.lua:onUse
+[01/01/2010 01:25:40] 
+[01/01/2010 01:25:40] luaDoPlayerSendCancel(). Player not found
+[01/01/2010 01:25:41] 
+[01/01/2010 01:25:41] Lua Script Error: [Action Interface] 
+[01/01/2010 01:25:41] data/actions/scripts/food.lua:onUse
+[01/01/2010 01:25:41] 
+[01/01/2010 01:25:41] luaDoPlayerSendCancel(). Player not found
+[01/01/2010 01:25:41] 
+[01/01/2010 01:25:41] Lua Script Error: [Action Interface] 
+[01/01/2010 01:25:41] data/actions/scripts/food.lua:onUse
+[01/01/2010 01:25:41] 
+[01/01/2010 01:25:41] luaDoPlayerSendCancel(). Player not found
+[01/01/2010 01:25:42] 
+[01/01/2010 01:25:42] Lua Script Error: [Action Interface] 
+[01/01/2010 01:25:42] data/actions/scripts/food.lua:onUse
+[01/01/2010 01:25:42] 
+[01/01/2010 01:25:42] luaDoPlayerSendCancel(). Player not found
+[01/01/2010 01:25:42] 
+[01/01/2010 01:25:42] Lua Script Error: [Action Interface] 
+[01/01/2010 01:25:42] data/actions/scripts/food.lua:onUse
+[01/01/2010 01:25:42] 
+[01/01/2010 01:25:42] luaDoPlayerSendCancel(). Player not found
+[01/01/2010 01:26:28] 
+[01/01/2010 01:26:28] Lua Script Error: [Action Interface] 
+[01/01/2010 01:26:28] data/actions/scripts/food.lua:onUse
+[01/01/2010 01:26:28] 
+[01/01/2010 01:26:28] luaDoPlayerSendCancel(). Player not found
+[01/01/2010 01:26:29] 
+[01/01/2010 01:26:29] Lua Script Error: [Action Interface] 
+[01/01/2010 01:26:29] data/actions/scripts/food.lua:onUse
+[01/01/2010 01:26:29] 
+[01/01/2010 01:26:29] luaDoPlayerSendCancel(). Player not found
+[01/01/2010 01:26:45] 
+[01/01/2010 01:26:45] Lua Script Error: [Action Interface] 
+[01/01/2010 01:26:45] data/actions/scripts/food.lua:onUse
+[01/01/2010 01:26:45] 
+[01/01/2010 01:26:45] luaDoPlayerSendCancel(). Player not found
+[01/01/2010 01:26:45] 
+[01/01/2010 01:26:45] Lua Script Error: [Action Interface] 
+[01/01/2010 01:26:45] data/actions/scripts/food.lua:onUse
+[01/01/2010 01:26:45] 
+[01/01/2010 01:26:45] luaDoPlayerSendCancel(). Player not found
+[01/01/2010 01:26:46] 
+[01/01/2010 01:26:46] Lua Script Error: [Action Interface] 
+[01/01/2010 01:26:46] data/actions/scripts/food.lua:onUse
+[01/01/2010 01:26:46] 
+[01/01/2010 01:26:46] luaDoPlayerSendCancel(). Player not found
+[01/01/2010 01:26:46] 
+[01/01/2010 01:26:46] Lua Script Error: [Action Interface] 
+[01/01/2010 01:26:46] data/actions/scripts/food.lua:onUse
+[01/01/2010 01:26:46] 
+[01/01/2010 01:26:46] luaDoPlayerSendCancel(). Player not found
+[01/01/2010 01:26:47] 
+[01/01/2010 01:26:47] Lua Script Error: [Action Interface] 
+[01/01/2010 01:26:47] data/actions/scripts/food.lua:onUse
+[01/01/2010 01:26:47] 
+[01/01/2010 01:26:47] luaDoPlayerSendCancel(). Player not found
+[01/01/2010 01:27:17] Zorra Zorrienta has logged out.
+[01/01/2010 01:27:19] Hoster Aggresor has logged in.
+[01/01/2010 01:27:19] > Broadcasted message: "Hoster Aggresor se conecto (el es: rei aggresor)".
+[01/01/2010 01:27:41] > Broadcasted message: "Mu invade Slayer city".
+[01/01/2010 01:28:43] > Saving server...
+[01/01/2010 01:29:28] > SAVE: Complete in 44.75 seconds using relational house storage.
+[01/01/2010 01:30:18] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[01/01/2010 01:38:43] > Broadcasted message: "[SYSTEMA DE LOTERIA] ganador: Hoster Aggresor, recompensa: 100k! - felicitaciones! (siguiente Loteria en media Hora)".
+[01/01/2010 01:40:19] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[01/01/2010 01:43:44] > Saving server...
+[01/01/2010 01:43:54] > SAVE: Complete in 10.953 seconds using relational house storage.
+[01/01/2010 01:47:46] > Broadcasted message: "Demonios csm invaden Slayer city".
+[01/01/2010 01:50:20] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[01/01/2010 01:58:44] > Broadcasted message: "[SYSTEMA DE LOTERIA] ganador: Hoster Aggresor, recompensa: 100k! - felicitaciones! (siguiente Loteria en media Hora)".
+[01/01/2010 01:58:45] > Saving server...
+[01/01/2010 01:58:52] > SAVE: Complete in 6.922 seconds using relational house storage.
+[01/01/2010 02:00:21] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[01/01/2010 02:02:05] Hoster Aggresor has logged out.
+[01/01/2010 02:02:11] > Saving server...
+[01/01/2010 02:02:18] > SAVE: Complete in 7.078 seconds using relational house storage.
+[01/01/2010 02:02:18] Preparing to shutdown server..
+[01/01/2010 02:02:19] .
+[01/01/2010 02:02:19] Exiting

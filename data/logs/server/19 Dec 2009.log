@@ -1,0 +1,209 @@
+[19/12/2009 00:00:05] Hoster Aggresor has logged out.
+[19/12/2009 00:00:12] Hoster Aggresor has logged in.
+[19/12/2009 00:01:05] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 100cc y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[19/12/2009 00:02:52] Account Manager has logged in.
+[19/12/2009 00:03:57] Account Manager has logged out.
+[19/12/2009 00:04:38] > Metalero broadcasted: "inva de dragon en el temple!!!!".
+[19/12/2009 00:04:44] Account Manager has logged in.
+[19/12/2009 00:04:51] > Metalero broadcasted: "You advanced from Level 8 to Level 10008. You advanced from Level 10008 to Level 20008.".
+[19/12/2009 00:04:52] Account Manager has logged in.
+[19/12/2009 00:04:58] > Metalero broadcasted: "XD no mentira".
+[19/12/2009 00:05:04] Account Manager has logged out.
+[19/12/2009 00:05:10] Account Manager has logged in.
+[19/12/2009 00:05:23] Account Manager has logged out.
+[19/12/2009 00:05:42] Account Manager has logged out.
+[19/12/2009 00:05:48] Aldocolo has logged in.
+[19/12/2009 00:05:51] Chanti Master has logged in.
+[19/12/2009 00:06:00] Account Manager has logged in.
+[19/12/2009 00:06:05] > Saving server...
+[19/12/2009 00:06:34] > SAVE: Complete in 28.812 seconds using relational house storage.
+[19/12/2009 00:07:34] Account Manager has logged out.
+[19/12/2009 00:07:39] Account Manager has logged in.
+[19/12/2009 00:07:45] > Broadcasted message: "Ekizz dee [229] Murio por Mafiry!!".
+[19/12/2009 00:07:46] > Broadcasted message: "Ekizz dee [229] Murio por Mafiry!!".
+[19/12/2009 00:07:46] Ekizz dee has logged out.
+[19/12/2009 00:07:47] Ekizz dee has logged in.
+[19/12/2009 00:08:13] > Broadcasted message: "Ekizz dee [228] Murio por Mafiry!!".
+[19/12/2009 00:08:13] > Broadcasted message: "Ekizz dee [228] Murio por Mafiry!!".
+[19/12/2009 00:08:14] Ekizz dee has logged out.
+[19/12/2009 00:08:14] 
+[19/12/2009 00:08:14] Lua Script Error: [Spell Interface] 
+[19/12/2009 00:08:14] in a timer event called from: 
+[19/12/2009 00:08:14] data/spells/scripts/attack/hells core.lua:onCastSpell
+[19/12/2009 00:08:14] 
+[19/12/2009 00:08:14] luaDoCombat(). Creature not found
+[19/12/2009 00:08:14] 
+[19/12/2009 00:08:14] Lua Script Error: [Spell Interface] 
+[19/12/2009 00:08:14] in a timer event called from: 
+[19/12/2009 00:08:15] data/spells/scripts/attack/hells core.lua:onCastSpell
+[19/12/2009 00:08:15] 
+[19/12/2009 00:08:15] luaDoCombat(). Creature not found
+[19/12/2009 00:08:15] 
+[19/12/2009 00:08:15] Lua Script Error: [Spell Interface] 
+[19/12/2009 00:08:15] in a timer event called from: 
+[19/12/2009 00:08:15] data/spells/scripts/attack/hells core.lua:onCastSpell
+[19/12/2009 00:08:15] 
+[19/12/2009 00:08:15] luaDoCombat(). Creature not found
+[19/12/2009 00:08:15] 
+[19/12/2009 00:08:15] Lua Script Error: [Spell Interface] 
+[19/12/2009 00:08:15] in a timer event called from: 
+[19/12/2009 00:08:15] data/spells/scripts/attack/hells core.lua:onCastSpell
+[19/12/2009 00:08:15] 
+[19/12/2009 00:08:15] luaDoCombat(). Creature not found
+[19/12/2009 00:08:15] 
+[19/12/2009 00:08:15] Lua Script Error: [Spell Interface] 
+[19/12/2009 00:08:15] in a timer event called from: 
+[19/12/2009 00:08:15] data/spells/scripts/attack/hells core.lua:onCastSpell
+[19/12/2009 00:08:15] 
+[19/12/2009 00:08:15] luaDoCombat(). Creature not found
+[19/12/2009 00:08:15] 
+[19/12/2009 00:08:15] Lua Script Error: [Spell Interface] 
+[19/12/2009 00:08:15] in a timer event called from: 
+[19/12/2009 00:08:15] data/spells/scripts/attack/hells core.lua:onCastSpell
+[19/12/2009 00:08:15] 
+[19/12/2009 00:08:15] luaDoCombat(). Creature not found
+[19/12/2009 00:08:16] Ekizz dee has logged in.
+[19/12/2009 00:08:29] Account Manager has logged in.
+[19/12/2009 00:08:50] Account Manager has logged out.
+[19/12/2009 00:08:54] > Broadcasted message: "Ekizz dee [228] Murio por Medusa!!".
+[19/12/2009 00:08:55] > Broadcasted message: "Ekizz dee [228] Murio por Medusa!!".
+[19/12/2009 00:08:55] Ekizz dee has logged out.
+[19/12/2009 00:08:56] Ekizz dee has logged in.
+[19/12/2009 00:09:54] Account Manager has logged out.
+[19/12/2009 00:11:06] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 100cc y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[19/12/2009 00:11:42] > Broadcasted message: "Chanti Master [121] Murio por ghoul!!".
+[19/12/2009 00:11:42] > Broadcasted message: "Chanti Master [121] Murio por ghoul!!".
+[19/12/2009 00:11:42] Chanti Master has logged out.
+[19/12/2009 00:11:43] 
+[19/12/2009 00:11:43] Lua Script Error: [Spell Interface] 
+[19/12/2009 00:11:43] in a timer event called from: 
+[19/12/2009 00:11:43] data/spells/scripts/attack/rage of the skies.lua:onCastSpell
+[19/12/2009 00:11:43] 
+[19/12/2009 00:11:43] luaDoCombat(). Creature not found
+[19/12/2009 00:11:43] 
+[19/12/2009 00:11:43] Lua Script Error: [Spell Interface] 
+[19/12/2009 00:11:43] in a timer event called from: 
+[19/12/2009 00:11:43] data/spells/scripts/attack/rage of the skies.lua:onCastSpell
+[19/12/2009 00:11:43] 
+[19/12/2009 00:11:43] luaDoCombat(). Creature not found
+[19/12/2009 00:11:44] 
+[19/12/2009 00:11:44] Lua Script Error: [Spell Interface] 
+[19/12/2009 00:11:44] in a timer event called from: 
+[19/12/2009 00:11:44] data/spells/scripts/attack/rage of the skies.lua:onCastSpell
+[19/12/2009 00:11:44] 
+[19/12/2009 00:11:44] luaDoCombat(). Creature not found
+[19/12/2009 00:11:44] 
+[19/12/2009 00:11:44] Lua Script Error: [Spell Interface] 
+[19/12/2009 00:11:44] in a timer event called from: 
+[19/12/2009 00:11:44] data/spells/scripts/attack/rage of the skies.lua:onCastSpell
+[19/12/2009 00:11:44] 
+[19/12/2009 00:11:44] luaDoCombat(). Creature not found
+[19/12/2009 00:16:07] Demonizer has logged out.
+[19/12/2009 00:16:11] 
+[19/12/2009 00:16:11] Lua Script Error: [MoveEvents Interface] 
+[19/12/2009 00:16:11] data/movements/scripts/car.lua:onStepIn
+[19/12/2009 00:16:11] 
+[19/12/2009 00:16:11] luaGetThingFromPos(). Tile not found
+[19/12/2009 00:16:11] 
+[19/12/2009 00:16:11] Lua Script Error: [MoveEvents Interface] 
+[19/12/2009 00:16:11] data/movements/scripts/car.lua:onStepIn
+[19/12/2009 00:16:11] 
+[19/12/2009 00:16:11] luaGetThingFromPos(). Tile not found
+[19/12/2009 00:16:11] 
+[19/12/2009 00:16:11] Lua Script Error: [MoveEvents Interface] 
+[19/12/2009 00:16:11] data/movements/scripts/car.lua:onStepIn
+[19/12/2009 00:16:11] 
+[19/12/2009 00:16:11] luaGetThingFromPos(). Tile not found
+[19/12/2009 00:16:11] 
+[19/12/2009 00:16:11] Lua Script Error: [MoveEvents Interface] 
+[19/12/2009 00:16:11] data/movements/scripts/car.lua:onStepIn
+[19/12/2009 00:16:11] 
+[19/12/2009 00:16:11] luaGetThingFromPos(). Tile not found
+[19/12/2009 00:16:11] 
+[19/12/2009 00:16:11] Lua Script Error: [MoveEvents Interface] 
+[19/12/2009 00:16:11] data/movements/scripts/car.lua:onStepIn
+[19/12/2009 00:16:11] 
+[19/12/2009 00:16:11] luaGetThingFromPos(). Tile not found
+[19/12/2009 00:16:12] 
+[19/12/2009 00:16:12] Lua Script Error: [MoveEvents Interface] 
+[19/12/2009 00:16:12] in a timer event called from: 
+[19/12/2009 00:16:12] data/movements/scripts/car.lua:onStepIn
+[19/12/2009 00:16:12] 
+[19/12/2009 00:16:12] luaDoCreateItem(). Tile not found
+[19/12/2009 00:16:12] 
+[19/12/2009 00:16:12] Lua Script Error: [MoveEvents Interface] 
+[19/12/2009 00:16:12] in a timer event called from: 
+[19/12/2009 00:16:12] data/movements/scripts/car.lua:onStepIn
+[19/12/2009 00:16:13] 
+[19/12/2009 00:16:13] luaDoRemoveItem(). Item not found
+[19/12/2009 00:17:03] > Broadcasted message: "Ekizz dee [809] Murio por Mago merlin!!".
+[19/12/2009 00:17:03] > Broadcasted message: "Ekizz dee [809] Murio por Mago merlin!!".
+[19/12/2009 00:17:03] Ekizz dee has logged out.
+[19/12/2009 00:17:10] 
+[19/12/2009 00:17:10] Lua Script Error: [MoveEvents Interface] 
+[19/12/2009 00:17:10] data/movements/scripts/car.lua:onStepIn
+[19/12/2009 00:17:10] 
+[19/12/2009 00:17:10] luaGetThingFromPos(). Tile not found
+[19/12/2009 00:17:10] 
+[19/12/2009 00:17:10] Lua Script Error: [MoveEvents Interface] 
+[19/12/2009 00:17:10] data/movements/scripts/car.lua:onStepIn
+[19/12/2009 00:17:10] 
+[19/12/2009 00:17:10] luaGetThingFromPos(). Tile not found
+[19/12/2009 00:17:10] 
+[19/12/2009 00:17:10] Lua Script Error: [MoveEvents Interface] 
+[19/12/2009 00:17:10] data/movements/scripts/car.lua:onStepIn
+[19/12/2009 00:17:10] 
+[19/12/2009 00:17:10] luaGetThingFromPos(). Tile not found
+[19/12/2009 00:17:10] 
+[19/12/2009 00:17:10] Lua Script Error: [MoveEvents Interface] 
+[19/12/2009 00:17:10] data/movements/scripts/car.lua:onStepIn
+[19/12/2009 00:17:11] 
+[19/12/2009 00:17:11] luaGetThingFromPos(). Tile not found
+[19/12/2009 00:17:11] 
+[19/12/2009 00:17:11] Lua Script Error: [MoveEvents Interface] 
+[19/12/2009 00:17:11] data/movements/scripts/car.lua:onStepIn
+[19/12/2009 00:17:11] 
+[19/12/2009 00:17:11] luaGetThingFromPos(). Tile not found
+[19/12/2009 00:17:12] 
+[19/12/2009 00:17:12] Lua Script Error: [MoveEvents Interface] 
+[19/12/2009 00:17:12] in a timer event called from: 
+[19/12/2009 00:17:12] data/movements/scripts/car.lua:onStepIn
+[19/12/2009 00:17:12] 
+[19/12/2009 00:17:12] luaDoCreateItem(). Tile not found
+[19/12/2009 00:17:12] 
+[19/12/2009 00:17:12] Lua Script Error: [MoveEvents Interface] 
+[19/12/2009 00:17:12] in a timer event called from: 
+[19/12/2009 00:17:12] data/movements/scripts/car.lua:onStepIn
+[19/12/2009 00:17:12] 
+[19/12/2009 00:17:12] luaDoRemoveItem(). Item not found
+[19/12/2009 00:17:50] 
+[19/12/2009 00:17:50] Lua Script Error: [MoveEvents Interface] 
+[19/12/2009 00:17:50] in a timer event called from: 
+[19/12/2009 00:17:50] data/movements/scripts/car.lua:onStepIn
+[19/12/2009 00:17:50] 
+[19/12/2009 00:17:50] data/movements/scripts/car.lua:26: bad argument #1 to 'ipairs' (table expected, got nil)
+[19/12/2009 00:17:50] stack traceback:
+[19/12/2009 00:17:50] 	[C]: in function 'ipairs'
+[19/12/2009 00:17:50] 	data/movements/scripts/car.lua:26: in function 'findItem'
+[19/12/2009 00:17:50] 	data/movements/scripts/car.lua:41: in function <data/movements/scripts/car.lua:37>
+[19/12/2009 00:17:51] 
+[19/12/2009 00:17:51] Lua Script Error: [MoveEvents Interface] 
+[19/12/2009 00:17:51] in a timer event called from: 
+[19/12/2009 00:17:51] data/movements/scripts/car.lua:onStepIn
+[19/12/2009 00:17:51] 
+[19/12/2009 00:17:51] data/movements/scripts/car.lua:26: bad argument #1 to 'ipairs' (table expected, got nil)
+[19/12/2009 00:17:51] stack traceback:
+[19/12/2009 00:17:51] 	[C]: in function 'ipairs'
+[19/12/2009 00:17:51] 	data/movements/scripts/car.lua:26: in function 'findItem'
+[19/12/2009 00:17:51] 	data/movements/scripts/car.lua:41: in function <data/movements/scripts/car.lua:37>
+[19/12/2009 00:18:11] Aldocolo has logged out.
+[19/12/2009 00:19:12] > CLEAN: Removed 337 items from 664 tiles in 0.25 seconds.
+[19/12/2009 00:21:06] > Saving server...
+[19/12/2009 00:21:13] > SAVE: Complete in 7.343 seconds using relational house storage.
+[19/12/2009 00:21:13] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 100cc y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[19/12/2009 00:23:35] Loko Tazmania has logged out.
+[19/12/2009 00:23:35] Metalero has logged out.
+[19/12/2009 00:23:35] Hoster Aggresor has logged out.
+[19/12/2009 00:23:35] > Saving server...
+[19/12/2009 00:23:41] > SAVE: Complete in 5.969 seconds using relational house storage.
+[19/12/2009 00:23:42] Preparing to shutdown server.

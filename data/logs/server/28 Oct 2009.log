@@ -1,0 +1,2227 @@
+[28/10/2009 00:00:04] Davalex has logged in.
+[28/10/2009 00:00:06] > CLEAN: Removed 190 items from 297 tiles in 0.75 seconds.
+[28/10/2009 00:01:03] Server de mierdaa has logged in.
+[28/10/2009 00:01:49] El Princi has logged out.
+[28/10/2009 00:02:16] Account Manager has logged in.
+[28/10/2009 00:02:26] Account Manager has logged out.
+[28/10/2009 00:02:30] El Espiante has logged out.
+[28/10/2009 00:02:31] Don Quijote has logged out.
+[28/10/2009 00:02:33] El Espiante has logged in.
+[28/10/2009 00:02:35] Don Quijote has logged in.
+[28/10/2009 00:02:41] Alex la Vengansa has logged out.
+[28/10/2009 00:02:44] Alex la Vengansa has logged in.
+[28/10/2009 00:02:50] Davalex has logged out.
+[28/10/2009 00:02:55] Davalex has logged in.
+[28/10/2009 00:03:18] Lord Fenix has logged out.
+[28/10/2009 00:03:20] Lord Fenix has logged in.
+[28/10/2009 00:03:25] Lady Kill has logged out.
+[28/10/2009 00:03:26] Lady Kill has logged in.
+[28/10/2009 00:05:23] > Lady Kill broadcasted: "evento".
+[28/10/2009 00:05:33] > Saving server...
+[28/10/2009 00:05:42] > SAVE: Complete in 9.313 seconds using relational house storage.
+[28/10/2009 00:05:54] Server de mierdaa has logged out.
+[28/10/2009 00:05:56] Server de mierdaa has logged in.
+[28/10/2009 00:06:02] Server de mierdaa has logged out.
+[28/10/2009 00:06:37] > Lady Kill broadcasted: "el que me encuentra unos item que esconda gana 1 exp bug".
+[28/10/2009 00:06:52]  GOD Maxma has logged out.
+[28/10/2009 00:07:00] Gon Sandro has logged in.
+[28/10/2009 00:07:27] Account Manager has logged in.
+[28/10/2009 00:07:45] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/crystal ring.xml).
+[28/10/2009 00:07:45] Info: failed to load external entity "data/npc/crystal ring.xml"
+[28/10/2009 00:07:45] 
+[28/10/2009 00:07:45] 
+[28/10/2009 00:07:50] Negro has logged out.
+[28/10/2009 00:07:52] Account Manager has logged out.
+[28/10/2009 00:08:00] Ichigo has logged in.
+[28/10/2009 00:08:12] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/crystal ring.xml).
+[28/10/2009 00:08:12] Info: failed to load external entity "data/npc/crystal ring.xml"
+[28/10/2009 00:08:12] 
+[28/10/2009 00:08:12] 
+[28/10/2009 00:09:04] 
+[28/10/2009 00:09:04] Lua Script Error: [TalkAction Interface] 
+[28/10/2009 00:09:04] data/talkactions/scripts/createitem.lua:onSay
+[28/10/2009 00:09:04] 
+[28/10/2009 00:09:05] luaDoCreateItemEx(). Item not found
+[28/10/2009 00:09:05] 
+[28/10/2009 00:09:05] Lua Script Error: [TalkAction Interface] 
+[28/10/2009 00:09:05] data/talkactions/scripts/createitem.lua:onSay
+[28/10/2009 00:09:05] 
+[28/10/2009 00:09:05] luaDoPlayerAddItemEx(). Item not found
+[28/10/2009 00:09:48] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/golden helmet.xml).
+[28/10/2009 00:09:49] Info: failed to load external entity "data/npc/golden helmet.xml"
+[28/10/2009 00:09:49] 
+[28/10/2009 00:09:49] 
+[28/10/2009 00:09:50] El Espiante has logged out.
+[28/10/2009 00:10:20] Don Quijote has logged out.
+[28/10/2009 00:10:21] Don Quijote has logged in.
+[28/10/2009 00:10:24] Lord Fenix has logged out.
+[28/10/2009 00:10:26] Lord Fenix has logged in.
+[28/10/2009 00:10:47] Don Quijote has logged out.
+[28/10/2009 00:10:48] Kakuzo has logged out.
+[28/10/2009 00:10:49] Don Quijote has logged in.
+[28/10/2009 00:10:50] Kakuzo has logged in.
+[28/10/2009 00:10:59] Ichigo has logged out.
+[28/10/2009 00:11:03] Ichigo has logged in.
+[28/10/2009 00:11:36] Compa has logged in.
+[28/10/2009 00:12:09] The Mage has logged out.
+[28/10/2009 00:12:11] Account Manager has logged in.
+[28/10/2009 00:12:28] Cote Emushax has logged in.
+[28/10/2009 00:12:29] Account Manager has logged out.
+[28/10/2009 00:12:38] Hell Hunter has logged in.
+[28/10/2009 00:12:42] Davalex has logged out.
+[28/10/2009 00:12:47] Davalex has logged in.
+[28/10/2009 00:12:48] Gon Sandro has logged out.
+[28/10/2009 00:12:49] > Lady Kill broadcasted: "ya".
+[28/10/2009 00:12:53] Jazmin has logged out.
+[28/10/2009 00:12:55] > Lady Kill broadcasted: "escondi 5 golden key".
+[28/10/2009 00:12:56]  GOD Maxma has logged in.
+[28/10/2009 00:13:04] Alen Ii has logged in.
+[28/10/2009 00:13:04] > Lady Kill broadcasted: "el que las encuentra gana".
+[28/10/2009 00:13:07] Hell Hunter has logged out.
+[28/10/2009 00:13:09] The Mage has logged in.
+[28/10/2009 00:13:24] > Lady Kill broadcasted: "estan por la city".
+[28/10/2009 00:13:38] Cote Emushax has logged out.
+[28/10/2009 00:13:40] Cote Emushax has logged in.
+[28/10/2009 00:13:48] > Lady Kill broadcasted: "el que encuentra mas gana".
+[28/10/2009 00:15:18] Ichigo has logged out.
+[28/10/2009 00:15:23] Ichigo has logged in.
+[28/10/2009 00:15:29] > Lady Kill broadcasted: "estan escondidas the mage".
+[28/10/2009 00:15:35] > Lady Kill broadcasted: "por la city".
+[28/10/2009 00:15:35]  GOD Maxma has logged out.
+[28/10/2009 00:15:48] Ichigo has logged out.
+[28/10/2009 00:15:51] Ichigo has logged in.
+[28/10/2009 00:15:53] Gon Sandro has logged in.
+[28/10/2009 00:16:15] Master Killer has logged out.
+[28/10/2009 00:16:48] Ichigo has logged out.
+[28/10/2009 00:16:50] Ichigo has logged in.
+[28/10/2009 00:17:01] Ichigo has logged out.
+[28/10/2009 00:17:03] Ichigo has logged in.
+[28/10/2009 00:17:35] Alen Ii has logged out.
+[28/10/2009 00:17:37] Alen Ii has logged in.
+[28/10/2009 00:17:37] Alen Ii has logged out.
+[28/10/2009 00:18:34] Account Manager has logged in.
+[28/10/2009 00:18:39] > Lady Kill broadcasted: "una cerca de la casa del god".
+[28/10/2009 00:18:48] Account Manager has logged out.
+[28/10/2009 00:18:49] El Espiante has logged in.
+[28/10/2009 00:18:53] Account Manager has logged in.
+[28/10/2009 00:19:07] Account Manager has logged out.
+[28/10/2009 00:19:13] Belires has logged in.
+[28/10/2009 00:20:19] Belires has logged out.
+[28/10/2009 00:20:20] > Broadcasted message: "Game map cleaning within 30 seconds, please pick up your items!".
+[28/10/2009 00:20:21] Belires has logged in.
+[28/10/2009 00:20:34] > Saving server...
+[28/10/2009 00:20:45] > SAVE: Complete in 11.046 seconds using relational house storage.
+[28/10/2009 00:20:52] > CLEAN: Removed 764 items from 1289 tiles in 1.282 seconds.
+[28/10/2009 00:20:52] > Broadcasted message: "Game map cleaned, next clean in 2 hours.".
+[28/10/2009 00:21:12] > Lady Kill broadcasted: "no agas clean god maxma o hoster".
+[28/10/2009 00:21:24] Ladyelizabeth has logged out.
+[28/10/2009 00:21:27] Ladyelizabeth has logged in.
+[28/10/2009 00:21:44] > Lady Kill broadcasted: "los que tengan llaves al templo".
+[28/10/2009 00:22:29] [Warning - Groups::getGroup] Group 0 not found.
+[28/10/2009 00:22:29] [Warning - Groups::getGroup] Group 0 not found.
+[28/10/2009 00:22:29] Postmorte has logged in.
+[28/10/2009 00:22:42] El Espiante has logged out.
+[28/10/2009 00:22:44] El Espiante has logged in.
+[28/10/2009 00:23:13] > Lady Kill broadcasted: "gano davalex".
+[28/10/2009 00:23:34] Don Quijote has logged out.
+[28/10/2009 00:23:37] Don Quijote has logged in.
+[28/10/2009 00:24:18] Account Manager has logged in.
+[28/10/2009 00:24:20] Account Manager has logged out.
+[28/10/2009 00:24:50] Account Manager has logged in.
+[28/10/2009 00:24:51] Gon Sandro has logged out.
+[28/10/2009 00:24:54] Account Manager has logged out.
+[28/10/2009 00:24:55] Account Manager has logged in.
+[28/10/2009 00:24:55] Account Manager has logged out.
+[28/10/2009 00:25:03] Zisarro has logged in.
+[28/10/2009 00:25:03]  GOD Maxma has logged in.
+[28/10/2009 00:25:14]  GOD Maxma has logged out.
+[28/10/2009 00:25:33] Ichigo has logged out.
+[28/10/2009 00:25:40] Don Quijote has logged out.
+[28/10/2009 00:25:42] Don Quijote has logged in.
+[28/10/2009 00:25:44] Belires has logged out.
+[28/10/2009 00:25:45] Belires has logged in.
+[28/10/2009 00:26:15]  GOD Maxma has logged in.
+[28/10/2009 00:26:16] Don Quijote has logged out.
+[28/10/2009 00:26:21] Belires has logged out.
+[28/10/2009 00:26:22] Cote Emushax has logged out.
+[28/10/2009 00:26:22] Belires has logged in.
+[28/10/2009 00:26:25] Cote Emushax has logged in.
+[28/10/2009 00:26:38] El Espiante has logged out.
+[28/10/2009 00:26:40] El Espiante has logged in.
+[28/10/2009 00:27:17]  GOD Maxma has logged out.
+[28/10/2009 00:27:27] Gon Sandro has logged in.
+[28/10/2009 00:27:41] Belires has logged out.
+[28/10/2009 00:27:42] Belires has logged in.
+[28/10/2009 00:28:12] Edyxemoo has logged out.
+[28/10/2009 00:28:14] El Espiante has logged out.
+[28/10/2009 00:28:15] Edyxemoo has logged in.
+[28/10/2009 00:28:16] The Mage has logged out.
+[28/10/2009 00:28:17] El Espiante has logged in.
+[28/10/2009 00:28:49] Belires has logged out.
+[28/10/2009 00:28:50] Belires has logged in.
+[28/10/2009 00:28:53] Edyxemoo has logged out.
+[28/10/2009 00:28:55] Edyxemoo has logged in.
+[28/10/2009 00:29:08] Belires has logged out.
+[28/10/2009 00:29:09] Belires has logged in.
+[28/10/2009 00:29:34] Postmorte has logged out.
+[28/10/2009 00:29:37] [Warning - Groups::getGroup] Group 0 not found.
+[28/10/2009 00:29:37] [Warning - Groups::getGroup] Group 0 not found.
+[28/10/2009 00:29:37] Postmorte has logged in.
+[28/10/2009 00:29:38] Zisarro has logged out.
+[28/10/2009 00:29:47] Zisarro has logged in.
+[28/10/2009 00:32:00] Zisarro has logged out.
+[28/10/2009 00:32:02] Zisarro has logged in.
+[28/10/2009 00:33:26] Belires has logged out.
+[28/10/2009 00:33:26] Lord Fenix has logged out.
+[28/10/2009 00:33:27] Belires has logged in.
+[28/10/2009 00:34:13] Belires has logged out.
+[28/10/2009 00:34:17] Belires has logged in.
+[28/10/2009 00:34:38] 
+[28/10/2009 00:34:38] Lua Script Error: [TalkAction Interface] 
+[28/10/2009 00:34:38] data/talkactions/scripts/teleporthere.lua:onSay
+[28/10/2009 00:34:38] 
+[28/10/2009 00:34:38] luaGetClosestFreeTile(). Creature not found
+[28/10/2009 00:34:54] Belires has logged out.
+[28/10/2009 00:34:57] Belires has logged in.
+[28/10/2009 00:35:35] > Saving server...
+[28/10/2009 00:35:46] > SAVE: Complete in 11.203 seconds using relational house storage.
+[28/10/2009 00:36:20] Zisarro has logged out.
+[28/10/2009 00:36:22] Zisarro has logged in.
+[28/10/2009 00:37:18] Cote Emushax has logged out.
+[28/10/2009 00:37:20] Postmorte has logged out.
+[28/10/2009 00:37:21] Cote Emushax has logged in.
+[28/10/2009 00:37:21] Gon Sandro has logged out.
+[28/10/2009 00:37:23] [Warning - Groups::getGroup] Group 0 not found.
+[28/10/2009 00:37:23] [Warning - Groups::getGroup] Group 0 not found.
+[28/10/2009 00:37:23] Postmorte has logged in.
+[28/10/2009 00:37:35] Gon Sandro has logged in.
+[28/10/2009 00:37:40] Cote Emushax has logged out.
+[28/10/2009 00:37:50] Ladyelizabeth has logged out.
+[28/10/2009 00:37:55] Ladyelizabeth has logged in.
+[28/10/2009 00:38:11] Postmorte has logged out.
+[28/10/2009 00:38:13] [Warning - Groups::getGroup] Group 0 not found.
+[28/10/2009 00:38:14] [Warning - Groups::getGroup] Group 0 not found.
+[28/10/2009 00:38:14] Postmorte has logged in.
+[28/10/2009 00:38:20] El Espiante has logged out.
+[28/10/2009 00:38:24] El Espiante has logged in.
+[28/10/2009 00:38:27] Zisarro has logged out.
+[28/10/2009 00:38:28] Zisarro has logged in.
+[28/10/2009 00:39:05] The Mage has logged in.
+[28/10/2009 00:39:07] Compa has logged out.
+[28/10/2009 00:40:50] Gon Sandro has logged out.
+[28/10/2009 00:41:11] Jano has logged in.
+[28/10/2009 00:42:00] Kakuzo has logged out.
+[28/10/2009 00:42:03] Kakuzo has logged in.
+[28/10/2009 00:42:24] Postmorte has logged out.
+[28/10/2009 00:42:26] [Warning - Groups::getGroup] Group 0 not found.
+[28/10/2009 00:42:26] [Warning - Groups::getGroup] Group 0 not found.
+[28/10/2009 00:42:26] Postmorte has logged in.
+[28/10/2009 00:42:30] Postmorte has logged out.
+[28/10/2009 00:42:49] Account Manager has logged in.
+[28/10/2009 00:43:17] Account Manager has logged out.
+[28/10/2009 00:43:19] Jano has logged out.
+[28/10/2009 00:43:27] Account Manager has logged in.
+[28/10/2009 00:43:30] Account Manager has logged in.
+[28/10/2009 00:43:32] Account Manager has logged out.
+[28/10/2009 00:44:01] Account Manager has logged out.
+[28/10/2009 00:44:12] Elxxbrayan has logged in.
+[28/10/2009 00:44:23] Belires has logged out.
+[28/10/2009 00:44:25] Belires has logged in.
+[28/10/2009 00:44:31] Account Manager has logged in.
+[28/10/2009 00:44:32] Account Manager has logged out.
+[28/10/2009 00:44:43]  GOD Maxma has logged in.
+[28/10/2009 00:44:52] Belires has logged out.
+[28/10/2009 00:45:14] Belires has logged in.
+[28/10/2009 00:45:15] Belires has logged out.
+[28/10/2009 00:45:31] Account Manager has logged in.
+[28/10/2009 00:45:58] Account Manager has logged out.
+[28/10/2009 00:46:07] Beliresx has logged in.
+[28/10/2009 00:46:18] The Mage has logged out.
+[28/10/2009 00:46:19] Hell Hunter has logged in.
+[28/10/2009 00:46:24] Elxxbrayan has logged out.
+[28/10/2009 00:46:25] Hell Hunter has logged out.
+[28/10/2009 00:46:26] Eternal knight has logged in.
+[28/10/2009 00:46:27] Elxxbrayan has logged in.
+[28/10/2009 00:46:38] Eternal knight has logged out.
+[28/10/2009 00:46:39] Hell Hunter has logged in.
+[28/10/2009 00:47:11] Elxxbrayan has logged out.
+[28/10/2009 00:47:13] Elxxbrayan has logged in.
+[28/10/2009 00:49:14] Beliresx has logged out.
+[28/10/2009 00:49:21] Elxxbrayan has logged out.
+[28/10/2009 00:49:32] Elxxbrayan has logged in.
+[28/10/2009 00:49:33] Beliresx has logged in.
+[28/10/2009 00:49:35] El Espiante has logged out.
+[28/10/2009 00:50:13] Zisarro has logged out.
+[28/10/2009 00:50:36] > Saving server...
+[28/10/2009 00:50:44] > SAVE: Complete in 7.937 seconds using relational house storage.
+[28/10/2009 00:51:10] Hell Hunter has logged out.
+[28/10/2009 00:51:14] Hell Hunter has logged in.
+[28/10/2009 00:51:22] Account Manager has logged in.
+[28/10/2009 00:51:22] Beliresx has logged out.
+[28/10/2009 00:51:23] Beliresx has logged in.
+[28/10/2009 00:51:39] Account Manager has logged out.
+[28/10/2009 00:51:44] Beliresx has logged out.
+[28/10/2009 00:51:46] Beliresx has logged in.
+[28/10/2009 00:51:50] Account Manager has logged in.
+[28/10/2009 00:51:55] Zisarro has logged in.
+[28/10/2009 00:52:24] Account Manager has logged out.
+[28/10/2009 00:52:32] Shin Xerom has logged in.
+[28/10/2009 00:52:45] Zisarro has logged out.
+[28/10/2009 00:52:45] Beliresx has logged out.
+[28/10/2009 00:52:47] Beliresx has logged in.
+[28/10/2009 00:52:48] Zisarro has logged in.
+[28/10/2009 00:53:15]  GOD Maxma has logged out.
+[28/10/2009 00:53:17] Zisarro has logged out.
+[28/10/2009 00:53:20] Zisarro has logged in.
+[28/10/2009 00:55:37] Zisarro has logged out.
+[28/10/2009 00:55:38] Zisarro has logged in.
+[28/10/2009 00:55:38] Beliresx has logged out.
+[28/10/2009 00:55:40] Beliresx has logged in.
+[28/10/2009 00:55:48] Beliresx has logged out.
+[28/10/2009 00:56:02] Shin Xerom has logged out.
+[28/10/2009 00:56:05] Shin Xerom has logged in.
+[28/10/2009 00:56:14] Elxxbrayan has logged out.
+[28/10/2009 00:56:15] Elxxbrayan has logged in.
+[28/10/2009 00:56:16] Elxxbrayan has logged out.
+[28/10/2009 00:56:29]  GOD Maxma has logged in.
+[28/10/2009 00:56:50] Kakuzo has logged out.
+[28/10/2009 00:57:24] Lady Kill has logged out.
+[28/10/2009 00:58:03] Hell Hunter has logged out.
+[28/10/2009 00:58:05] Hell Hunter has logged in.
+[28/10/2009 00:58:26] Alex la Vengansa has logged out.
+[28/10/2009 00:58:29] Hell Hunter has logged out.
+[28/10/2009 00:58:31] Hell Hunter has logged in.
+[28/10/2009 00:58:48] Zisarro has logged out.
+[28/10/2009 00:58:49] Zisarro has logged in.
+[28/10/2009 00:59:02] Hell Hunter has logged out.
+[28/10/2009 00:59:04] Hell Hunter has logged in.
+[28/10/2009 00:59:07] 
+[28/10/2009 00:59:07] Lua Script Error: [TalkAction Interface] 
+[28/10/2009 00:59:07] data/talkactions/scripts/createitem.lua:onSay
+[28/10/2009 00:59:07] 
+[28/10/2009 00:59:07] luaDoCreateItemEx(). Item not found
+[28/10/2009 00:59:07] 
+[28/10/2009 00:59:07] Lua Script Error: [TalkAction Interface] 
+[28/10/2009 00:59:07] data/talkactions/scripts/createitem.lua:onSay
+[28/10/2009 00:59:07] 
+[28/10/2009 00:59:07] luaDoPlayerAddItemEx(). Item not found
+[28/10/2009 00:59:11] Hell Hunter has logged out.
+[28/10/2009 00:59:13] Account Manager has logged in.
+[28/10/2009 00:59:16] Edyxemoo has logged out.
+[28/10/2009 00:59:18] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/33.xml).
+[28/10/2009 00:59:18] Info: failed to load external entity "data/npc/33.xml"
+[28/10/2009 00:59:18] 
+[28/10/2009 00:59:18] 
+[28/10/2009 00:59:22] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/40.xml).
+[28/10/2009 00:59:22] Info: failed to load external entity "data/npc/40.xml"
+[28/10/2009 00:59:22] 
+[28/10/2009 00:59:22] 
+[28/10/2009 00:59:27] 
+[28/10/2009 00:59:27] Lua Script Error: [TalkAction Interface] 
+[28/10/2009 00:59:27] data/talkactions/scripts/createitem.lua:onSay
+[28/10/2009 00:59:27] 
+[28/10/2009 00:59:27] luaDoCreateItemEx(). Item not found
+[28/10/2009 00:59:27] 
+[28/10/2009 00:59:27] Lua Script Error: [TalkAction Interface] 
+[28/10/2009 00:59:27] data/talkactions/scripts/createitem.lua:onSay
+[28/10/2009 00:59:27] 
+[28/10/2009 00:59:27] luaDoPlayerAddItemEx(). Item not found
+[28/10/2009 00:59:35]  GOD Maxma has logged out.
+[28/10/2009 00:59:45] Account Manager has logged out.
+[28/10/2009 00:59:52] Shaman has logged in.
+[28/10/2009 01:01:04] Zisarro has logged out.
+[28/10/2009 01:01:08] Zisarro has logged in.
+[28/10/2009 01:01:18] Davalex has logged out.
+[28/10/2009 01:01:20] 
+[28/10/2009 01:01:20] Lua Script Error: [Spell Interface] 
+[28/10/2009 01:01:20] in a timer event called from: 
+[28/10/2009 01:01:20] data/spells/scripts/attack/meteora.lua:onCastSpell
+[28/10/2009 01:01:20] 
+[28/10/2009 01:01:20] luaDoCombat(). Creature not found
+[28/10/2009 01:01:20] 
+[28/10/2009 01:01:20] Lua Script Error: [Spell Interface] 
+[28/10/2009 01:01:20] in a timer event called from: 
+[28/10/2009 01:01:20] data/spells/scripts/attack/meteora.lua:onCastSpell
+[28/10/2009 01:01:20] 
+[28/10/2009 01:01:20] luaDoCombat(). Creature not found
+[28/10/2009 01:01:20] 
+[28/10/2009 01:01:20] Lua Script Error: [Spell Interface] 
+[28/10/2009 01:01:20] in a timer event called from: 
+[28/10/2009 01:01:20] data/spells/scripts/attack/meteora.lua:onCastSpell
+[28/10/2009 01:01:21] 
+[28/10/2009 01:01:21] luaDoCombat(). Creature not found
+[28/10/2009 01:01:21] 
+[28/10/2009 01:01:21] Lua Script Error: [Spell Interface] 
+[28/10/2009 01:01:21] in a timer event called from: 
+[28/10/2009 01:01:21] data/spells/scripts/attack/meteora.lua:onCastSpell
+[28/10/2009 01:01:21] 
+[28/10/2009 01:01:21] luaDoCombat(). Creature not found
+[28/10/2009 01:01:21] 
+[28/10/2009 01:01:21] Lua Script Error: [Spell Interface] 
+[28/10/2009 01:01:21] in a timer event called from: 
+[28/10/2009 01:01:21] data/spells/scripts/attack/meteora.lua:onCastSpell
+[28/10/2009 01:01:21] 
+[28/10/2009 01:01:21] luaDoCombat(). Creature not found
+[28/10/2009 01:01:21] 
+[28/10/2009 01:01:21] Lua Script Error: [Spell Interface] 
+[28/10/2009 01:01:21] in a timer event called from: 
+[28/10/2009 01:01:21] data/spells/scripts/attack/meteora.lua:onCastSpell
+[28/10/2009 01:01:21] 
+[28/10/2009 01:01:21] luaDoCombat(). Creature not found
+[28/10/2009 01:01:22] 
+[28/10/2009 01:01:22] Lua Script Error: [Spell Interface] 
+[28/10/2009 01:01:22] in a timer event called from: 
+[28/10/2009 01:01:22] data/spells/scripts/attack/meteora.lua:onCastSpell
+[28/10/2009 01:01:22] 
+[28/10/2009 01:01:22] luaDoCombat(). Creature not found
+[28/10/2009 01:01:22] 
+[28/10/2009 01:01:22] Lua Script Error: [Spell Interface] 
+[28/10/2009 01:01:22] in a timer event called from: 
+[28/10/2009 01:01:22] data/spells/scripts/attack/meteora.lua:onCastSpell
+[28/10/2009 01:01:22] 
+[28/10/2009 01:01:22] luaDoCombat(). Creature not found
+[28/10/2009 01:01:22] 
+[28/10/2009 01:01:22] Lua Script Error: [Spell Interface] 
+[28/10/2009 01:01:22] in a timer event called from: 
+[28/10/2009 01:01:22] data/spells/scripts/attack/meteora.lua:onCastSpell
+[28/10/2009 01:01:22] 
+[28/10/2009 01:01:22] luaDoCombat(). Creature not found
+[28/10/2009 01:01:25] Davalex has logged in.
+[28/10/2009 01:01:41] Davalex has logged out.
+[28/10/2009 01:01:44] Davalex has logged in.
+[28/10/2009 01:02:54] Account Manager has logged in.
+[28/10/2009 01:03:15] Account Manager has logged out.
+[28/10/2009 01:03:20] Account Manager has logged in.
+[28/10/2009 01:03:36] Account Manager has logged out.
+[28/10/2009 01:03:41] Ke pasa has logged in.
+[28/10/2009 01:04:03] Davalex has logged out.
+[28/10/2009 01:04:07] Davalex has logged in.
+[28/10/2009 01:04:34] Shaman has logged out.
+[28/10/2009 01:04:36] Shaman has logged in.
+[28/10/2009 01:04:38] Shaman has logged out.
+[28/10/2009 01:04:40] Hell Hunter has logged in.
+[28/10/2009 01:05:12] Hell Hunter has logged out.
+[28/10/2009 01:05:14] Hell Hunter has logged in.
+[28/10/2009 01:05:37] > Saving server...
+[28/10/2009 01:05:47] > SAVE: Complete in 10.016 seconds using relational house storage.
+[28/10/2009 01:06:16] Hell Hunter has logged out.
+[28/10/2009 01:06:17] Davalex has logged out.
+[28/10/2009 01:06:18] Hell Hunter has logged in.
+[28/10/2009 01:06:22] Davalex has logged in.
+[28/10/2009 01:06:53] Hell Hunter has logged out.
+[28/10/2009 01:06:55] Hell Hunter has logged in.
+[28/10/2009 01:06:59] Davalex has logged out.
+[28/10/2009 01:07:03] Davalex has logged in.
+[28/10/2009 01:08:21] Hell Hunter has logged out.
+[28/10/2009 01:08:22] Hell Hunter has logged in.
+[28/10/2009 01:08:24] Hell Hunter has logged out.
+[28/10/2009 01:08:25] Hell Hunter has logged in.
+[28/10/2009 01:08:28] Hell Hunter has logged out.
+[28/10/2009 01:08:29] Shaman has logged in.
+[28/10/2009 01:08:32] Shaman has logged out.
+[28/10/2009 01:08:33] The Mage has logged in.
+[28/10/2009 01:08:34] The Mage has logged out.
+[28/10/2009 01:08:36] Eternal knight has logged in.
+[28/10/2009 01:08:39] Eternal knight has logged out.
+[28/10/2009 01:09:02] Davalex has logged out.
+[28/10/2009 01:09:03] Zisarro has logged out.
+[28/10/2009 01:09:05] Zisarro has logged in.
+[28/10/2009 01:09:06] Davalex has logged in.
+[28/10/2009 01:09:46] Zisarro has logged out.
+[28/10/2009 01:09:47] Zisarro has logged in.
+[28/10/2009 01:10:37] Davalex has logged out.
+[28/10/2009 01:10:42] Davalex has logged in.
+[28/10/2009 01:11:00] Ke pasa has logged out.
+[28/10/2009 01:11:02] Ke pasa has logged in.
+[28/10/2009 01:11:42] Ke pasa has logged out.
+[28/10/2009 01:11:45] Ke pasa has logged in.
+[28/10/2009 01:11:47] Davalex has logged out.
+[28/10/2009 01:11:51] Davalex has logged in.
+[28/10/2009 01:12:55] Davalex has logged out.
+[28/10/2009 01:13:00] Davalex has logged in.
+[28/10/2009 01:15:11] Shin Xerom has logged out.
+[28/10/2009 01:15:40] 
+[28/10/2009 01:15:40] Lua Script Error: [Action Interface] 
+[28/10/2009 01:15:40] data/actions/scripts/liquids/ultimate_health.lua:onUse
+[28/10/2009 01:15:40] 
+[28/10/2009 01:15:40] luaGetPlayerCustomFlagValue(). Player not found
+[28/10/2009 01:15:40] 
+[28/10/2009 01:15:40] Lua Script Error: [Action Interface] 
+[28/10/2009 01:15:40] data/actions/scripts/liquids/ultimate_health.lua:onUse
+[28/10/2009 01:15:40] 
+[28/10/2009 01:15:40] luaDoCreatureAddHealth(). Creature not found
+[28/10/2009 01:15:49] Zisarro has logged out.
+[28/10/2009 01:15:52] Zisarro has logged in.
+[28/10/2009 01:16:27] Zisarro has logged out.
+[28/10/2009 01:16:28] Zisarro has logged in.
+[28/10/2009 01:16:59] Zisarro has logged out.
+[28/10/2009 01:17:00] Zisarro has logged in.
+[28/10/2009 01:17:07] Davalex has logged out.
+[28/10/2009 01:17:12] Davalex has logged in.
+[28/10/2009 01:17:33] Zisarro has logged out.
+[28/10/2009 01:17:35] Zisarro has logged in.
+[28/10/2009 01:17:41] Davalex has logged out.
+[28/10/2009 01:17:45] Davalex has logged in.
+[28/10/2009 01:18:01] Davalex has logged out.
+[28/10/2009 01:18:04] Davalex has logged in.
+[28/10/2009 01:18:20] Zisarro has logged out.
+[28/10/2009 01:18:21] Zisarro has logged in.
+[28/10/2009 01:18:49] Davalex has logged out.
+[28/10/2009 01:18:54] Davalex has logged in.
+[28/10/2009 01:19:26] Zisarro has logged out.
+[28/10/2009 01:19:28] Zisarro has logged in.
+[28/10/2009 01:20:22] Ladyelizabeth has logged out.
+[28/10/2009 01:20:36] Zisarro has logged out.
+[28/10/2009 01:20:37] Zisarro has logged in.
+[28/10/2009 01:20:38] > Saving server...
+[28/10/2009 01:20:45] > SAVE: Complete in 7.297 seconds using relational house storage.
+[28/10/2009 01:21:19] Davalex has logged out.
+[28/10/2009 01:21:24] Davalex has logged in.
+[28/10/2009 01:21:27] Zisarro has logged out.
+[28/10/2009 01:21:29] Zisarro has logged in.
+[28/10/2009 01:21:56] Ke pasa has logged out.
+[28/10/2009 01:21:58] Ke pasa has logged in.
+[28/10/2009 01:22:18] Lord Fenix has logged in.
+[28/10/2009 01:22:49] Davalex has logged out.
+[28/10/2009 01:22:53] Davalex has logged in.
+[28/10/2009 01:22:56] Zisarro has logged out.
+[28/10/2009 01:22:57] Zisarro has logged in.
+[28/10/2009 01:24:28] Davalex has logged out.
+[28/10/2009 01:24:33] Davalex has logged in.
+[28/10/2009 01:24:37] Zisarro has logged out.
+[28/10/2009 01:24:39] Zisarro has logged in.
+[28/10/2009 01:24:53] Ke pasa has logged out.
+[28/10/2009 01:24:55] Ke pasa has logged in.
+[28/10/2009 01:25:09] Lord Fenix has logged out.
+[28/10/2009 01:25:11] Lord Fenix has logged in.
+[28/10/2009 01:25:32] Zisarro has logged out.
+[28/10/2009 01:25:34] Zisarro has logged in.
+[28/10/2009 01:25:34] Davalex has logged out.
+[28/10/2009 01:25:38] Davalex has logged in.
+[28/10/2009 01:25:52] Ke pasa has logged out.
+[28/10/2009 01:25:54] Ke pasa has logged in.
+[28/10/2009 01:26:33] Davalex has logged out.
+[28/10/2009 01:26:37] Davalex has logged in.
+[28/10/2009 01:27:40] Zisarro has logged out.
+[28/10/2009 01:27:41] Zisarro has logged in.
+[28/10/2009 01:28:06] Zisarro has logged out.
+[28/10/2009 01:28:07] Ke pasa has logged out.
+[28/10/2009 01:28:08] Zisarro has logged in.
+[28/10/2009 01:28:08] Ke pasa has logged in.
+[28/10/2009 01:28:30] Zisarro has logged out.
+[28/10/2009 01:28:31] Zisarro has logged in.
+[28/10/2009 01:29:01] Zisarro has logged out.
+[28/10/2009 01:29:02] Lord Fenix has logged out.
+[28/10/2009 01:29:03] Zisarro has logged in.
+[28/10/2009 01:29:04] Lord Fenix has logged in.
+[28/10/2009 01:29:19] Ke pasa has logged out.
+[28/10/2009 01:29:20] Ke pasa has logged in.
+[28/10/2009 01:29:30] Zisarro has logged out.
+[28/10/2009 01:29:31] Zisarro has logged in.
+[28/10/2009 01:29:35] Lord Fenix has logged out.
+[28/10/2009 01:29:38] Lord Fenix has logged in.
+[28/10/2009 01:29:56] Zisarro has logged out.
+[28/10/2009 01:29:58] Zisarro has logged in.
+[28/10/2009 01:30:01] Davalex has logged out.
+[28/10/2009 01:30:05] Davalex has logged in.
+[28/10/2009 01:30:33] Elx knight has logged in.
+[28/10/2009 01:30:39] Elx knight has logged out.
+[28/10/2009 01:30:41] Elx paly has logged in.
+[28/10/2009 01:30:44] Elx paly has logged out.
+[28/10/2009 01:30:46] Vegeta sayayin has logged in.
+[28/10/2009 01:30:49] Vegeta sayayin has logged out.
+[28/10/2009 01:30:51] Elx paly has logged in.
+[28/10/2009 01:30:54] Elx paly has logged out.
+[28/10/2009 01:30:56] Elx knight has logged in.
+[28/10/2009 01:31:15] Ke pasa has logged out.
+[28/10/2009 01:31:16] Ke pasa has logged in.
+[28/10/2009 01:31:20] Sun of Aquiles has logged in.
+[28/10/2009 01:31:54] Elx knight has logged out.
+[28/10/2009 01:31:56] Elx paly has logged in.
+[28/10/2009 01:32:24] Ke pasa has logged out.
+[28/10/2009 01:32:26] Ke pasa has logged in.
+[28/10/2009 01:33:21] Elx paly has logged out.
+[28/10/2009 01:33:22] Sun of Aquiles has logged out.
+[28/10/2009 01:33:40] Davalex has logged out.
+[28/10/2009 01:35:39] > Saving server...
+[28/10/2009 01:35:45] > SAVE: Complete in 5.578 seconds using relational house storage.
+[28/10/2009 01:37:39] 
+[28/10/2009 01:37:39] Lua Script Error: [Action Interface] 
+[28/10/2009 01:37:39] data/actions/scripts/holy.lua:onUse
+[28/10/2009 01:37:39] 
+[28/10/2009 01:37:39] luaGetTileInfo(). Tile not found
+[28/10/2009 01:37:39] 
+[28/10/2009 01:37:39] Lua Script Error: [Action Interface] 
+[28/10/2009 01:37:39] data/actions/scripts/holy.lua:onUse
+[28/10/2009 01:37:39] 
+[28/10/2009 01:37:39] data/lib/function.lua:334: attempt to index a boolean value
+[28/10/2009 01:37:40] stack traceback:
+[28/10/2009 01:37:40] 	data/lib/function.lua:334: in function 'getTilePzInfo'
+[28/10/2009 01:37:40] 	data/actions/scripts/holy.lua:3: in function <data/actions/scripts/holy.lua:1>
+[28/10/2009 01:37:40] 
+[28/10/2009 01:37:40] Lua Script Error: [Action Interface] 
+[28/10/2009 01:37:41] data/actions/scripts/holy.lua:onUse
+[28/10/2009 01:37:41] 
+[28/10/2009 01:37:41] luaGetTileInfo(). Tile not found
+[28/10/2009 01:37:41] 
+[28/10/2009 01:37:41] Lua Script Error: [Action Interface] 
+[28/10/2009 01:37:41] data/actions/scripts/holy.lua:onUse
+[28/10/2009 01:37:41] 
+[28/10/2009 01:37:41] data/lib/function.lua:334: attempt to index a boolean value
+[28/10/2009 01:37:41] stack traceback:
+[28/10/2009 01:37:41] 	data/lib/function.lua:334: in function 'getTilePzInfo'
+[28/10/2009 01:37:41] 	data/actions/scripts/holy.lua:3: in function <data/actions/scripts/holy.lua:1>
+[28/10/2009 01:37:41] 
+[28/10/2009 01:37:41] Lua Script Error: [Action Interface] 
+[28/10/2009 01:37:41] data/actions/scripts/holy.lua:onUse
+[28/10/2009 01:37:42] 
+[28/10/2009 01:37:42] luaGetTileInfo(). Tile not found
+[28/10/2009 01:37:42] 
+[28/10/2009 01:37:42] Lua Script Error: [Action Interface] 
+[28/10/2009 01:37:42] data/actions/scripts/holy.lua:onUse
+[28/10/2009 01:37:42] 
+[28/10/2009 01:37:42] data/lib/function.lua:334: attempt to index a boolean value
+[28/10/2009 01:37:42] stack traceback:
+[28/10/2009 01:37:42] 	data/lib/function.lua:334: in function 'getTilePzInfo'
+[28/10/2009 01:37:42] 	data/actions/scripts/holy.lua:3: in function <data/actions/scripts/holy.lua:1>
+[28/10/2009 01:50:40] > Saving server...
+[28/10/2009 01:50:52] > SAVE: Complete in 11.437 seconds using relational house storage.
+[28/10/2009 01:51:45] Lord Fenix has logged out.
+[28/10/2009 01:52:26] Ke pasa has logged out.
+[28/10/2009 01:52:31] Zisarro has logged out.
+[28/10/2009 02:05:41] > Saving server...
+[28/10/2009 02:05:46] > SAVE: Complete in 5.219 seconds using relational house storage.
+[28/10/2009 02:14:49] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/quest fireflanz.lua)
+[28/10/2009 02:14:49] cannot open data/actions/scripts/quest fireflanz.lua: No such file or directory
+[28/10/2009 02:14:49] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/quest snokuter axe.lua)
+[28/10/2009 02:14:49] cannot open data/actions/scripts/quest snokuter axe.lua: No such file or directory
+[28/10/2009 02:14:49] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/quest dragon scale helmet.lua)
+[28/10/2009 02:14:50] cannot open data/actions/scripts/quest dragon scale helmet.lua: No such file or directory
+[28/10/2009 02:14:50] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/quest dragon scale legs.lua)
+[28/10/2009 02:14:50] cannot open data/actions/scripts/quest dragon scale legs.lua: No such file or directory
+[28/10/2009 02:14:50] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/quest lavor armor.lua)
+[28/10/2009 02:14:50] cannot open data/actions/scripts/quest lavor armor.lua: No such file or directory
+[28/10/2009 02:14:50] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/quest sword hilt.lua)
+[28/10/2009 02:14:50] cannot open data/actions/scripts/quest sword hilt.lua: No such file or directory
+[28/10/2009 02:14:51] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/quest jester staff.lua)
+[28/10/2009 02:14:51] cannot open data/actions/scripts/quest jester staff.lua: No such file or directory
+[28/10/2009 02:14:51] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/comia.lua)
+[28/10/2009 02:14:51] data/actions/scripts/comia.lua:2: unexpected symbol near '<'
+[28/10/2009 02:17:45] 
+[28/10/2009 02:17:46] Lua Script Error: [TalkAction Interface] 
+[28/10/2009 02:17:46] data/talkactions/scripts/createitem.lua:onSay
+[28/10/2009 02:17:46] 
+[28/10/2009 02:17:46] luaDoCreateItemEx(). Item not found
+[28/10/2009 02:17:46] 
+[28/10/2009 02:17:46] Lua Script Error: [TalkAction Interface] 
+[28/10/2009 02:17:46] data/talkactions/scripts/createitem.lua:onSay
+[28/10/2009 02:17:46] 
+[28/10/2009 02:17:46] luaDoPlayerAddItemEx(). Item not found
+[28/10/2009 02:20:21] > Broadcasted message: "Game map cleaning within 30 seconds, please pick up your items!".
+[28/10/2009 02:20:42] > Saving server...
+[28/10/2009 02:20:48] > SAVE: Complete in 5.563 seconds using relational house storage.
+[28/10/2009 02:20:56] > CLEAN: Removed 139 items from 1852 tiles in 4.672 seconds.
+[28/10/2009 02:20:56] > Broadcasted message: "Game map cleaned, next clean in 2 hours.".
+[28/10/2009 02:21:05] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/quest fireflanz.lua)
+[28/10/2009 02:21:05] cannot open data/actions/scripts/quest fireflanz.lua: No such file or directory
+[28/10/2009 02:21:05] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/quest snokuter axe.lua)
+[28/10/2009 02:21:05] cannot open data/actions/scripts/quest snokuter axe.lua: No such file or directory
+[28/10/2009 02:21:05] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/quest dragon scale helmet.lua)
+[28/10/2009 02:21:06] cannot open data/actions/scripts/quest dragon scale helmet.lua: No such file or directory
+[28/10/2009 02:21:06] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/quest dragon scale legs.lua)
+[28/10/2009 02:21:06] cannot open data/actions/scripts/quest dragon scale legs.lua: No such file or directory
+[28/10/2009 02:21:06] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/quest lavor armor.lua)
+[28/10/2009 02:21:06] cannot open data/actions/scripts/quest lavor armor.lua: No such file or directory
+[28/10/2009 02:21:06] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/quest sword hilt.lua)
+[28/10/2009 02:21:06] cannot open data/actions/scripts/quest sword hilt.lua: No such file or directory
+[28/10/2009 02:21:07] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/quest jester staff.lua)
+[28/10/2009 02:21:07] cannot open data/actions/scripts/quest jester staff.lua: No such file or directory
+[28/10/2009 02:21:07] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/cher.lua)
+[28/10/2009 02:21:07] data/actions/scripts/cher.lua:2: unexpected symbol near '<'
+[28/10/2009 02:24:27] 
+[28/10/2009 02:24:27] Lua Script Error: [TalkAction Interface] 
+[28/10/2009 02:24:27] data/talkactions/scripts/createitem.lua:onSay
+[28/10/2009 02:24:28] 
+[28/10/2009 02:24:28] luaDoCreateItemEx(). Item not found
+[28/10/2009 02:24:28] 
+[28/10/2009 02:24:28] Lua Script Error: [TalkAction Interface] 
+[28/10/2009 02:24:28] data/talkactions/scripts/createitem.lua:onSay
+[28/10/2009 02:24:28] 
+[28/10/2009 02:24:28] luaDoPlayerAddItemEx(). Item not found
+[28/10/2009 02:35:43] > Saving server...
+[28/10/2009 02:35:54] > SAVE: Complete in 11.219 seconds using relational house storage.
+[28/10/2009 02:37:47]  [Hoster] Aggresor has logged out.
+[28/10/2009 02:37:47] > Saving server...
+[28/10/2009 02:37:52] > SAVE: Complete in 5.078 seconds using relational house storage.
+[28/10/2009 02:37:53] Preparing to shutdown server.[28/10/2009 02:38:06] The Forgotten Server, version 0.3.4 (Crying Damson)
+[28/10/2009 02:38:06] Sever Criado Por Alissow e Comedinha.
+[28/10/2009 02:38:06] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[28/10/2009 02:38:06] Bom Jogo!!!
+[28/10/2009 02:38:06] 
+[28/10/2009 02:38:06] >> Debugging: nothing.
+[28/10/2009 02:38:07] >> Checking software version... outdated, please consider updating!
+[28/10/2009 02:38:09] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[28/10/2009 02:38:09] > Latest version information - version: 0.3.5, patch: 1, build: 2576, timestamp: 1249584126.
+[28/10/2009 02:38:09] [Warning - ConfigManager::getBool] 62
+[28/10/2009 02:38:09] 
+[28/10/2009 02:38:09] >> Loading config (config.lua)
+[28/10/2009 02:38:09] > Using plaintext passwords
+[28/10/2009 02:38:09] >> Loading RSA key
+[28/10/2009 02:38:09] >> Starting SQL connection
+[28/10/2009 02:38:09] >> Running Database Manager
+[28/10/2009 02:38:11] > Optimized database.
+[28/10/2009 02:38:11] >> Loading items
+[28/10/2009 02:38:12] >> Loading groups
+[28/10/2009 02:38:12] >> Loading vocations
+[28/10/2009 02:38:12] >> Loading script systems
+[28/10/2009 02:38:12] [Warning - Weapons::registerEvent] Duplicate registered item with id: 7410
+[28/10/2009 02:38:15] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/quest fireflanz.lua)
+[28/10/2009 02:38:15] cannot open data/actions/scripts/quest fireflanz.lua: No such file or directory
+[28/10/2009 02:38:15] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/quest snokuter axe.lua)
+[28/10/2009 02:38:15] cannot open data/actions/scripts/quest snokuter axe.lua: No such file or directory
+[28/10/2009 02:38:15] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/quest dragon scale helmet.lua)
+[28/10/2009 02:38:15] cannot open data/actions/scripts/quest dragon scale helmet.lua: No such file or directory
+[28/10/2009 02:38:16] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/quest dragon scale legs.lua)
+[28/10/2009 02:38:16] cannot open data/actions/scripts/quest dragon scale legs.lua: No such file or directory
+[28/10/2009 02:38:16] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/quest lavor armor.lua)
+[28/10/2009 02:38:16] cannot open data/actions/scripts/quest lavor armor.lua: No such file or directory
+[28/10/2009 02:38:16] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/quest sword hilt.lua)
+[28/10/2009 02:38:16] cannot open data/actions/scripts/quest sword hilt.lua: No such file or directory
+[28/10/2009 02:38:16] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/quest jester staff.lua)
+[28/10/2009 02:38:17] cannot open data/actions/scripts/quest jester staff.lua: No such file or directory
+[28/10/2009 02:38:17] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/cher.lua)
+[28/10/2009 02:38:17] data/actions/scripts/cher.lua:2: unexpected symbol near '<'
+[28/10/2009 02:38:19] [Warning - Event::loadScript] Cannot load script (data/creaturescripts/scripts/playerdeath.lua)
+[28/10/2009 02:38:19] cannot open data/creaturescripts/scripts/playerdeath.lua: No such file or directory
+[28/10/2009 02:38:19] >> Loading chat channels
+[28/10/2009 02:38:19] >> Loading outfits
+[28/10/2009 02:38:19] >> Loading experience stages
+[28/10/2009 02:38:19] >> Loading monsters
+[28/10/2009 02:38:23] >> Loading map and spawns...
+[28/10/2009 02:38:24] > Map size: 512x512.
+[28/10/2009 02:38:24] > Map descriptions: 
+[28/10/2009 02:38:24] Saved with Remere's Map Editor 1.1.9
+[28/10/2009 02:38:24] Remere 's Map Editor Beta
+[28/10/2009 02:38:26] Duplicate uniqueId 2506
+[28/10/2009 02:38:27] Duplicate uniqueId 2471
+[28/10/2009 02:38:29] > Map loading time: 5.484 seconds.
+[28/10/2009 02:38:30] [Warning - Spawns::loadFromXml] Snow Soul ( 00051 / 00272 / 007 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 02:38:30] [Warning - Spawns::loadFromXml] The Punisher ( 00050 / 00228 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 02:38:30] [Warning - Spawns::loadFromXml] Mafiry ( 00159 / 00310 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 02:38:30] [Warning - Spawns::loadFromXml] Mafiry ( 00154 / 00314 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 02:38:30] [Warning - Spawns::loadFromXml] Whatafuck ( 00058 / 00310 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 02:38:30] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00310 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 02:38:31] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00311 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 02:38:31] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00312 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 02:38:31] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00313 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 02:38:31] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00314 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 02:38:31] [Warning - Spawns::loadFromXml] Whatafuck ( 00041 / 00314 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 02:38:31] [Warning - Spawns::loadFromXml] Whatafuck ( 00042 / 00314 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 02:38:32] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00315 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 02:38:32] [Warning - Spawns::loadFromXml] Whatafuck ( 00041 / 00315 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 02:38:32] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00316 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 02:38:32] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00317 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 02:38:32] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00318 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 02:38:32] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00319 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 02:38:33] [Warning - Spawns::loadFromXml] Whatafuck ( 00041 / 00319 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 02:38:33] [Warning - Spawns::loadFromXml] Whatafuck ( 00042 / 00319 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 02:38:33] [Warning - Spawns::loadFromXml] Whatafuck ( 00053 / 00324 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 02:38:33] [Warning - Spawns::loadFromXml] Whatafuck ( 00052 / 00325 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 02:38:33] [Warning - Spawns::loadFromXml] Whatafuck ( 00053 / 00325 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 02:38:33] [Warning - Spawns::loadFromXml] Whatafuck ( 00052 / 00326 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 02:38:34] [Warning - Spawns::loadFromXml] Whatafuck ( 00037 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 02:38:34] [Warning - Spawns::loadFromXml] Whatafuck ( 00038 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 02:38:34] [Warning - Spawns::loadFromXml] Whatafuck ( 00039 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 02:38:34] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 02:38:35] [Warning - Houses::loadFromXml] House entry not set for:  (158)
+[28/10/2009 02:38:35] > Data loading time: 5.875 seconds.
+[28/10/2009 02:38:35] > Unserialization time for houses: 0.11 seconds.
+[28/10/2009 02:38:53] > Unserialization time for map: 17.907 seconds.
+[28/10/2009 02:38:53] >> Checking world type... PvP
+[28/10/2009 02:38:53] >> Initializing game state modules and registering services...
+[28/10/2009 02:38:54] > Global address: 201.246.37.149
+[28/10/2009 02:38:55] > Local ports:
+[28/10/2009 02:38:55] 7171	7172	
+[28/10/2009 02:38:55] >> All modules were loaded, server starting up...
+[28/10/2009 02:38:55] >> Aggrometal server server Online!
+[28/10/2009 02:38:55] 
+[28/10/2009 02:39:03] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[28/10/2009 02:39:04]  [Hoster] Aggresor has logged in.
+[28/10/2009 02:43:11] Louker has logged in.
+[28/10/2009 02:43:32] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/quest fireflanz.lua)
+[28/10/2009 02:43:32] cannot open data/actions/scripts/quest fireflanz.lua: No such file or directory
+[28/10/2009 02:43:33] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/quest snokuter axe.lua)
+[28/10/2009 02:43:33] cannot open data/actions/scripts/quest snokuter axe.lua: No such file or directory
+[28/10/2009 02:43:33] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/quest dragon scale helmet.lua)
+[28/10/2009 02:43:33] cannot open data/actions/scripts/quest dragon scale helmet.lua: No such file or directory
+[28/10/2009 02:43:33] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/quest dragon scale legs.lua)
+[28/10/2009 02:43:33] cannot open data/actions/scripts/quest dragon scale legs.lua: No such file or directory
+[28/10/2009 02:43:33] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/quest lavor armor.lua)
+[28/10/2009 02:43:34] cannot open data/actions/scripts/quest lavor armor.lua: No such file or directory
+[28/10/2009 02:43:34] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/quest sword hilt.lua)
+[28/10/2009 02:43:34] cannot open data/actions/scripts/quest sword hilt.lua: No such file or directory
+[28/10/2009 02:43:34] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/quest jester staff.lua)
+[28/10/2009 02:43:34] cannot open data/actions/scripts/quest jester staff.lua: No such file or directory
+[28/10/2009 02:44:26] Louker has logged out.
+[28/10/2009 02:44:27] Louker has logged in.
+[28/10/2009 02:45:24] Louker has logged out.
+[28/10/2009 02:45:26] Louker has logged in.
+[28/10/2009 02:52:18] [Warning - Groups::getGroup] Group 0 not found.
+[28/10/2009 02:52:18] [Warning - Groups::getGroup] Group 0 not found.
+[28/10/2009 02:52:18] Postmorte has logged in.
+[28/10/2009 02:53:20] > Saving server...
+[28/10/2009 02:53:26] > SAVE: Complete in 5.343 seconds using relational house storage.
+[28/10/2009 02:53:28] > CLEAN: Removed 77 items from 76 tiles in 0.078 seconds.
+[28/10/2009 03:00:18] Postmorte has logged out.
+[28/10/2009 03:00:22] [Warning - Groups::getGroup] Group 0 not found.
+[28/10/2009 03:00:22] [Warning - Groups::getGroup] Group 0 not found.
+[28/10/2009 03:00:22] Postmorte has logged in.
+[28/10/2009 03:02:36]  [Hoster] Aggresor has logged out.
+[28/10/2009 03:03:14] Postmorte has logged out.
+[28/10/2009 03:03:18] [Warning - Groups::getGroup] Group 0 not found.
+[28/10/2009 03:03:18] [Warning - Groups::getGroup] Group 0 not found.
+[28/10/2009 03:03:19] Postmorte has logged in.
+[28/10/2009 03:05:14] Postmorte has logged out.
+[28/10/2009 03:05:16] [Warning - Groups::getGroup] Group 0 not found.
+[28/10/2009 03:05:16] [Warning - Groups::getGroup] Group 0 not found.
+[28/10/2009 03:05:17] Postmorte has logged in.
+[28/10/2009 03:05:50] Postmorte has logged out.
+[28/10/2009 03:05:53] [Warning - Groups::getGroup] Group 0 not found.
+[28/10/2009 03:05:53] [Warning - Groups::getGroup] Group 0 not found.
+[28/10/2009 03:05:53] Postmorte has logged in.
+[28/10/2009 03:08:21] > Saving server...
+[28/10/2009 03:08:25] > SAVE: Complete in 4.047 seconds using relational house storage.
+[28/10/2009 03:12:35] Louker has logged out.
+[28/10/2009 03:19:04] Postmorte has logged out.
+[28/10/2009 03:19:21] > Saving server...
+[28/10/2009 03:19:25] > SAVE: Complete in 3.438 seconds using relational house storage.
+[28/10/2009 03:19:25] Preparing to shutdown server..
+[28/10/2009 03:19:25] .
+[28/10/2009 03:19:25] Exiting
+[28/10/2009 03:26:42] The Forgotten Server, version 0.3.4 (Crying Damson)
+[28/10/2009 03:26:42] Sever Criado Por Alissow e Comedinha.
+[28/10/2009 03:26:42] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[28/10/2009 03:26:42] Bom Jogo!!!
+[28/10/2009 03:26:42] 
+[28/10/2009 03:26:42] >> Debugging: nothing.
+[28/10/2009 03:26:42] >> Checking software version... outdated, please consider updating!
+[28/10/2009 03:26:43] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[28/10/2009 03:26:43] > Latest version information - version: 0.3.5, patch: 1, build: 2576, timestamp: 1249584126.
+[28/10/2009 03:26:43] [Warning - ConfigManager::getBool] 62
+[28/10/2009 03:26:43] 
+[28/10/2009 03:26:43] >> Loading config (config.lua)
+[28/10/2009 03:26:43] > Using plaintext passwords
+[28/10/2009 03:26:43] >> Loading RSA key
+[28/10/2009 03:26:43] >> Starting SQL connection
+[28/10/2009 03:26:43] >> Running Database Manager
+[28/10/2009 03:26:45] > Optimized database.
+[28/10/2009 03:26:45] >> Loading items
+[28/10/2009 03:26:45] >> Loading groups
+[28/10/2009 03:26:45] >> Loading vocations
+[28/10/2009 03:26:45] >> Loading script systems
+[28/10/2009 03:26:45] [Warning - Weapons::registerEvent] Duplicate registered item with id: 7410
+[28/10/2009 03:26:46] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/quest fireflanz.lua)
+[28/10/2009 03:26:46] cannot open data/actions/scripts/quest fireflanz.lua: No such file or directory
+[28/10/2009 03:26:47] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/quest snokuter axe.lua)
+[28/10/2009 03:26:47] cannot open data/actions/scripts/quest snokuter axe.lua: No such file or directory
+[28/10/2009 03:26:47] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/quest dragon scale helmet.lua)
+[28/10/2009 03:26:47] cannot open data/actions/scripts/quest dragon scale helmet.lua: No such file or directory
+[28/10/2009 03:26:47] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/quest dragon scale legs.lua)
+[28/10/2009 03:26:47] cannot open data/actions/scripts/quest dragon scale legs.lua: No such file or directory
+[28/10/2009 03:26:47] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/quest lavor armor.lua)
+[28/10/2009 03:26:47] cannot open data/actions/scripts/quest lavor armor.lua: No such file or directory
+[28/10/2009 03:26:47] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/quest sword hilt.lua)
+[28/10/2009 03:26:47] cannot open data/actions/scripts/quest sword hilt.lua: No such file or directory
+[28/10/2009 03:26:48] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/quest jester staff.lua)
+[28/10/2009 03:26:48] cannot open data/actions/scripts/quest jester staff.lua: No such file or directory
+[28/10/2009 03:26:49] [Warning - Event::loadScript] Cannot load script (data/talkactions/scripts/broadcastplayer.lua)
+[28/10/2009 03:26:49] data/talkactions/scripts/broadcastplayer.lua:1: '=' expected near 'Ó'
+[28/10/2009 03:26:49] [Warning - Event::loadScript] Cannot load script (data/creaturescripts/scripts/playerdeath.lua)
+[28/10/2009 03:26:49] cannot open data/creaturescripts/scripts/playerdeath.lua: No such file or directory
+[28/10/2009 03:26:49] >> Loading chat channels
+[28/10/2009 03:26:49] >> Loading outfits
+[28/10/2009 03:26:50] >> Loading experience stages
+[28/10/2009 03:26:50] >> Loading monsters
+[28/10/2009 03:26:52] >> Loading map and spawns...
+[28/10/2009 03:26:52] > Map size: 512x512.
+[28/10/2009 03:26:52] > Map descriptions: 
+[28/10/2009 03:26:52] Saved with Remere's Map Editor 1.1.9
+[28/10/2009 03:26:53] Remere 's Map Editor Beta
+[28/10/2009 03:26:54] Duplicate uniqueId 2506
+[28/10/2009 03:26:54] Duplicate uniqueId 2471
+[28/10/2009 03:26:56] > Map loading time: 3.969 seconds.
+[28/10/2009 03:26:56] [Warning - Spawns::loadFromXml] Snow Soul ( 00051 / 00272 / 007 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 03:26:57] [Warning - Spawns::loadFromXml] The Punisher ( 00050 / 00228 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 03:26:57] [Warning - Spawns::loadFromXml] Mafiry ( 00159 / 00310 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 03:26:57] [Warning - Spawns::loadFromXml] Mafiry ( 00154 / 00314 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 03:26:57] [Warning - Spawns::loadFromXml] Whatafuck ( 00058 / 00310 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 03:26:57] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00310 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 03:26:57] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00311 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 03:26:57] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00312 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 03:26:57] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00313 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 03:26:57] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00314 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 03:26:58] [Warning - Spawns::loadFromXml] Whatafuck ( 00041 / 00314 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 03:26:58] [Warning - Spawns::loadFromXml] Whatafuck ( 00042 / 00314 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 03:26:58] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00315 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 03:26:58] [Warning - Spawns::loadFromXml] Whatafuck ( 00041 / 00315 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 03:26:58] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00316 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 03:26:58] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00317 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 03:26:58] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00318 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 03:26:58] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00319 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 03:26:59] [Warning - Spawns::loadFromXml] Whatafuck ( 00041 / 00319 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 03:26:59] [Warning - Spawns::loadFromXml] Whatafuck ( 00042 / 00319 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 03:26:59] [Warning - Spawns::loadFromXml] Whatafuck ( 00053 / 00324 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 03:26:59] [Warning - Spawns::loadFromXml] Whatafuck ( 00052 / 00325 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 03:26:59] [Warning - Spawns::loadFromXml] Whatafuck ( 00053 / 00325 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 03:26:59] [Warning - Spawns::loadFromXml] Whatafuck ( 00052 / 00326 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 03:26:59] [Warning - Spawns::loadFromXml] Whatafuck ( 00037 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 03:26:59] [Warning - Spawns::loadFromXml] Whatafuck ( 00038 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 03:27:00] [Warning - Spawns::loadFromXml] Whatafuck ( 00039 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 03:27:00] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 03:27:00] [Warning - Houses::loadFromXml] House entry not set for:  (158)
+[28/10/2009 03:27:00] > Data loading time: 4.515 seconds.
+[28/10/2009 03:27:00] > Unserialization time for houses: 0.078 seconds.
+[28/10/2009 03:27:13] > Unserialization time for map: 13 seconds.
+[28/10/2009 03:27:13] >> Checking world type... PvP
+[28/10/2009 03:27:13] >> Initializing game state modules and registering services...
+[28/10/2009 03:27:14] > Global address: 201.246.37.149
+[28/10/2009 03:27:14] > Local ports:
+[28/10/2009 03:27:14] 7171	7172	
+[28/10/2009 03:27:14] >> All modules were loaded, server starting up...
+[28/10/2009 03:27:14] >> Aggrometal server server Online!
+[28/10/2009 03:27:14] 
+[28/10/2009 03:27:59] > Saving server...
+[28/10/2009 03:28:03] > SAVE: Complete in 3.265 seconds using relational house storage.
+[28/10/2009 03:28:03] Preparing to shutdown server..
+[28/10/2009 03:28:03] .
+[28/10/2009 03:28:03] Exiting
+[28/10/2009 03:28:18] The Forgotten Server, version 0.3.4 (Crying Damson)
+[28/10/2009 03:28:18] Sever Criado Por Alissow e Comedinha.
+[28/10/2009 03:28:18] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[28/10/2009 03:28:18] Bom Jogo!!!
+[28/10/2009 03:28:18] 
+[28/10/2009 03:28:18] >> Debugging: nothing.
+[28/10/2009 03:28:18] >> Checking software version... outdated, please consider updating!
+[28/10/2009 03:28:19] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[28/10/2009 03:28:19] > Latest version information - version: 0.3.5, patch: 1, build: 2576, timestamp: 1249584126.
+[28/10/2009 03:28:19] [Warning - ConfigManager::getBool] 62
+[28/10/2009 03:28:19] 
+[28/10/2009 03:28:19] >> Loading config (config.lua)
+[28/10/2009 03:28:19] > Using plaintext passwords
+[28/10/2009 03:28:19] >> Loading RSA key
+[28/10/2009 03:28:19] >> Starting SQL connection
+[28/10/2009 03:28:19] >> Running Database Manager
+[28/10/2009 03:28:21] > Optimized database.
+[28/10/2009 03:28:21] >> Loading items
+[28/10/2009 03:28:21] >> Loading groups
+[28/10/2009 03:28:21] >> Loading vocations
+[28/10/2009 03:28:21] >> Loading script systems
+[28/10/2009 03:28:21] [Warning - Weapons::registerEvent] Duplicate registered item with id: 7410
+[28/10/2009 03:28:22] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/quest fireflanz.lua)
+[28/10/2009 03:28:22] cannot open data/actions/scripts/quest fireflanz.lua: No such file or directory
+[28/10/2009 03:28:22] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/quest snokuter axe.lua)
+[28/10/2009 03:28:22] cannot open data/actions/scripts/quest snokuter axe.lua: No such file or directory
+[28/10/2009 03:28:22] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/quest dragon scale helmet.lua)
+[28/10/2009 03:28:23] cannot open data/actions/scripts/quest dragon scale helmet.lua: No such file or directory
+[28/10/2009 03:28:23] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/quest dragon scale legs.lua)
+[28/10/2009 03:28:23] cannot open data/actions/scripts/quest dragon scale legs.lua: No such file or directory
+[28/10/2009 03:28:23] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/quest lavor armor.lua)
+[28/10/2009 03:28:23] cannot open data/actions/scripts/quest lavor armor.lua: No such file or directory
+[28/10/2009 03:28:23] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/quest sword hilt.lua)
+[28/10/2009 03:28:23] cannot open data/actions/scripts/quest sword hilt.lua: No such file or directory
+[28/10/2009 03:28:23] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/quest jester staff.lua)
+[28/10/2009 03:28:23] cannot open data/actions/scripts/quest jester staff.lua: No such file or directory
+[28/10/2009 03:28:25] [Warning - Event::loadScript] Cannot load script (data/creaturescripts/scripts/playerdeath.lua)
+[28/10/2009 03:28:25] cannot open data/creaturescripts/scripts/playerdeath.lua: No such file or directory
+[28/10/2009 03:28:25] >> Loading chat channels
+[28/10/2009 03:28:25] >> Loading outfits
+[28/10/2009 03:28:25] >> Loading experience stages
+[28/10/2009 03:28:25] >> Loading monsters
+[28/10/2009 03:28:26] >> Loading map and spawns...
+[28/10/2009 03:28:27] > Map size: 512x512.
+[28/10/2009 03:28:27] > Map descriptions: 
+[28/10/2009 03:28:27] Saved with Remere's Map Editor 1.1.9
+[28/10/2009 03:28:27] Remere 's Map Editor Beta
+[28/10/2009 03:28:28] Duplicate uniqueId 2506
+[28/10/2009 03:28:29] Duplicate uniqueId 2471
+[28/10/2009 03:28:30] > Map loading time: 3.734 seconds.
+[28/10/2009 03:28:31] [Warning - Spawns::loadFromXml] Snow Soul ( 00051 / 00272 / 007 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 03:28:31] [Warning - Spawns::loadFromXml] The Punisher ( 00050 / 00228 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 03:28:31] [Warning - Spawns::loadFromXml] Mafiry ( 00159 / 00310 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 03:28:31] [Warning - Spawns::loadFromXml] Mafiry ( 00154 / 00314 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 03:28:31] [Warning - Spawns::loadFromXml] Whatafuck ( 00058 / 00310 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 03:28:31] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00310 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 03:28:32] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00311 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 03:28:32] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00312 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 03:28:32] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00313 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 03:28:32] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00314 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 03:28:32] [Warning - Spawns::loadFromXml] Whatafuck ( 00041 / 00314 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 03:28:32] [Warning - Spawns::loadFromXml] Whatafuck ( 00042 / 00314 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 03:28:32] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00315 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 03:28:32] [Warning - Spawns::loadFromXml] Whatafuck ( 00041 / 00315 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 03:28:33] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00316 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 03:28:33] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00317 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 03:28:33] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00318 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 03:28:33] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00319 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 03:28:33] [Warning - Spawns::loadFromXml] Whatafuck ( 00041 / 00319 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 03:28:33] [Warning - Spawns::loadFromXml] Whatafuck ( 00042 / 00319 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 03:28:33] [Warning - Spawns::loadFromXml] Whatafuck ( 00053 / 00324 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 03:28:34] [Warning - Spawns::loadFromXml] Whatafuck ( 00052 / 00325 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 03:28:34] [Warning - Spawns::loadFromXml] Whatafuck ( 00053 / 00325 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 03:28:34] [Warning - Spawns::loadFromXml] Whatafuck ( 00052 / 00326 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 03:28:34] [Warning - Spawns::loadFromXml] Whatafuck ( 00037 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 03:28:34] [Warning - Spawns::loadFromXml] Whatafuck ( 00038 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 03:28:34] [Warning - Spawns::loadFromXml] Whatafuck ( 00039 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 03:28:34] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 03:28:35] [Warning - Houses::loadFromXml] House entry not set for:  (158)
+[28/10/2009 03:28:35] > Data loading time: 4.594 seconds.
+[28/10/2009 03:28:35] > Unserialization time for houses: 0.094 seconds.
+[28/10/2009 03:28:48] > Unserialization time for map: 13.219 seconds.
+[28/10/2009 03:28:48] >> Checking world type... PvP
+[28/10/2009 03:28:48] >> Initializing game state modules and registering services...
+[28/10/2009 03:28:49] > Global address: 201.246.37.149
+[28/10/2009 03:28:49] > Local ports:
+[28/10/2009 03:28:49] 7171	7172	
+[28/10/2009 03:28:49] >> All modules were loaded, server starting up...
+[28/10/2009 03:28:49] >> Aggrometal server server Online!
+[28/10/2009 03:28:49] 
+[28/10/2009 03:29:34] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[28/10/2009 03:29:36] Aggrox has logged in.
+[28/10/2009 03:30:10] 
+[28/10/2009 03:30:10] Lua Script Error: [TalkAction Interface] 
+[28/10/2009 03:30:10] data/talkactions/scripts/broadcastplayer.lua:onSay
+[28/10/2009 03:30:10] 
+[28/10/2009 03:30:10] data/talkactions/scripts/broadcastplayer.lua:8: attempt to compare nil with number
+[28/10/2009 03:30:10] stack traceback:
+[28/10/2009 03:30:10] 	data/talkactions/scripts/broadcastplayer.lua:8: in function <data/talkactions/scripts/broadcastplayer.lua:1>
+[28/10/2009 03:30:59] 
+[28/10/2009 03:30:59] Lua Script Error: [TalkAction Interface] 
+[28/10/2009 03:30:59] data/talkactions/scripts/broadcastplayer.lua:onSay
+[28/10/2009 03:30:59] 
+[28/10/2009 03:30:59] data/talkactions/scripts/broadcastplayer.lua:8: attempt to compare nil with number
+[28/10/2009 03:30:59] stack traceback:
+[28/10/2009 03:30:59] 	data/talkactions/scripts/broadcastplayer.lua:8: in function <data/talkactions/scripts/broadcastplayer.lua:1>
+[28/10/2009 03:32:13] Aggrox has logged out.
+[28/10/2009 03:32:18] Aggrox has logged in.
+[28/10/2009 03:32:27] Reloaded talk actions.
+[28/10/2009 03:32:38] > Broadcasted message: "Aggrox [121]: ctm".
+[28/10/2009 03:39:08] Aggrox has logged out.
+[28/10/2009 03:39:09]  [Hoster] Aggresor has logged in.
+[28/10/2009 03:43:26] > Saving server...
+[28/10/2009 03:43:31] > SAVE: Complete in 5.516 seconds using relational house storage.
+[28/10/2009 14:48:52] The Forgotten Server, version 0.3.4 (Crying Damson)
+[28/10/2009 14:48:52] Sever Criado Por Alissow e Comedinha.
+[28/10/2009 14:48:52] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[28/10/2009 14:48:52] Bom Jogo!!!
+[28/10/2009 14:48:52] 
+[28/10/2009 14:48:52] >> Debugging: nothing.
+[28/10/2009 14:48:52] >> Checking software version... outdated, please consider updating!
+[28/10/2009 14:48:53] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[28/10/2009 14:48:53] > Latest version information - version: 0.3.5, patch: 1, build: 2576, timestamp: 1249584126.
+[28/10/2009 14:48:53] [Warning - ConfigManager::getBool] 62
+[28/10/2009 14:48:53] 
+[28/10/2009 14:48:53] >> Loading config (config.lua)
+[28/10/2009 14:48:53] > Using plaintext passwords
+[28/10/2009 14:48:53] >> Loading RSA key
+[28/10/2009 14:48:54] >> Starting SQL connection
+[28/10/2009 14:48:54] >> Running Database Manager
+[28/10/2009 14:48:55] > Optimized database.
+[28/10/2009 14:48:55] >> Loading items
+[28/10/2009 14:48:56] >> Loading groups
+[28/10/2009 14:48:56] >> Loading vocations
+[28/10/2009 14:48:56] >> Loading script systems
+[28/10/2009 14:48:57] [Warning - Weapons::registerEvent] Duplicate registered item with id: 7410
+[28/10/2009 14:49:04] [Warning - Event::loadScript] Cannot load script (data/creaturescripts/scripts/playerdeath.lua)
+[28/10/2009 14:49:04] cannot open data/creaturescripts/scripts/playerdeath.lua: No such file or directory
+[28/10/2009 14:49:04] >> Loading chat channels
+[28/10/2009 14:49:04] >> Loading outfits
+[28/10/2009 14:49:04] >> Loading experience stages
+[28/10/2009 14:49:04] >> Loading monsters
+[28/10/2009 14:49:11] >> Loading map and spawns...
+[28/10/2009 14:49:13] > Map size: 512x512.
+[28/10/2009 14:49:13] > Map descriptions: 
+[28/10/2009 14:49:13] Saved with Remere's Map Editor 1.1.9
+[28/10/2009 14:49:13] Remere 's Map Editor Beta
+[28/10/2009 14:49:15] Duplicate uniqueId 2506
+[28/10/2009 14:49:18] Duplicate uniqueId 2471
+[28/10/2009 14:49:20] > Map loading time: 9.469 seconds.
+[28/10/2009 14:49:24] [Warning - Spawns::loadFromXml] Snow Soul ( 00051 / 00272 / 007 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 14:49:24] [Warning - Spawns::loadFromXml] The Punisher ( 00050 / 00228 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 14:49:24] [Warning - Spawns::loadFromXml] Mafiry ( 00159 / 00310 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 14:49:24] [Warning - Spawns::loadFromXml] Mafiry ( 00154 / 00314 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 14:49:25] [Warning - Spawns::loadFromXml] Whatafuck ( 00058 / 00310 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 14:49:25] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00310 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 14:49:25] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00311 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 14:49:25] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00312 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 14:49:25] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00313 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 14:49:25] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00314 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 14:49:26] [Warning - Spawns::loadFromXml] Whatafuck ( 00041 / 00314 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 14:49:26] [Warning - Spawns::loadFromXml] Whatafuck ( 00042 / 00314 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 14:49:26] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00315 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 14:49:26] [Warning - Spawns::loadFromXml] Whatafuck ( 00041 / 00315 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 14:49:26] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00316 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 14:49:27] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00317 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 14:49:27] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00318 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 14:49:27] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00319 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 14:49:27] [Warning - Spawns::loadFromXml] Whatafuck ( 00041 / 00319 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 14:49:27] [Warning - Spawns::loadFromXml] Whatafuck ( 00042 / 00319 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 14:49:28] [Warning - Spawns::loadFromXml] Whatafuck ( 00053 / 00324 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 14:49:28] [Warning - Spawns::loadFromXml] Whatafuck ( 00052 / 00325 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 14:49:28] [Warning - Spawns::loadFromXml] Whatafuck ( 00053 / 00325 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 14:49:28] [Warning - Spawns::loadFromXml] Whatafuck ( 00052 / 00326 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 14:49:28] [Warning - Spawns::loadFromXml] Whatafuck ( 00037 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 14:49:28] [Warning - Spawns::loadFromXml] Whatafuck ( 00038 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 14:49:29] [Warning - Spawns::loadFromXml] Whatafuck ( 00039 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 14:49:29] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 14:49:29] [Warning - Houses::loadFromXml] House entry not set for:  (158)
+[28/10/2009 14:49:29] > Data loading time: 8.546 seconds.
+[28/10/2009 14:49:31] > Unserialization time for houses: 1.657 seconds.
+[28/10/2009 14:49:50] > Unserialization time for map: 18.718 seconds.
+[28/10/2009 14:49:50] >> Checking world type... PvP
+[28/10/2009 14:49:50] >> Initializing game state modules and registering services...
+[28/10/2009 14:49:51] > Global address: 201.246.37.142
+[28/10/2009 14:49:52] > Local ports:
+[28/10/2009 14:49:52] 7171	7172	
+[28/10/2009 14:49:52] >> All modules were loaded, server starting up...
+[28/10/2009 14:49:52] >> Aggrometal server server Online!
+[28/10/2009 14:49:52] 
+[28/10/2009 14:50:04] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[28/10/2009 14:50:05]  [Hoster] Aggresor has logged in.
+[28/10/2009 14:50:37] > CLEAN: Removed 4 items from 35 tiles in 0.063 seconds.
+[28/10/2009 14:58:29] [Notice - Npc::Npc] NPC Name: Mr Black's Manager - autowalk has been deprecated, use walkinterval.
+[28/10/2009 14:59:05] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo para saber tus spells diga !spells".
+[28/10/2009 15:00:28] 
+[28/10/2009 15:00:28] Lua Script Error: [TalkAction Interface] 
+[28/10/2009 15:00:28] data/talkactions/scripts/raid.lua:onSay
+[28/10/2009 15:00:28] 
+[28/10/2009 15:00:28] luaDoExecuteRaid(). Raid with name dragon does not exists.
+[28/10/2009 15:00:33] 
+[28/10/2009 15:00:33] Lua Script Error: [TalkAction Interface] 
+[28/10/2009 15:00:33] data/talkactions/scripts/raid.lua:onSay
+[28/10/2009 15:00:33] 
+[28/10/2009 15:00:33] luaDoExecuteRaid(). Raid with name dragon lord does not exists.
+[28/10/2009 15:04:05] > Saving server...
+[28/10/2009 15:04:11] > SAVE: Complete in 6.25 seconds using relational house storage.
+[28/10/2009 15:09:06] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo para saber tus spells diga !spells".
+[28/10/2009 15:19:06] > Saving server...
+[28/10/2009 15:19:11] > SAVE: Complete in 4.828 seconds using relational house storage.
+[28/10/2009 15:19:12] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo para saber tus spells diga !spells".
+[28/10/2009 15:22:46] Reloaded actions.
+[28/10/2009 15:24:03] Reloaded actions.
+[28/10/2009 15:24:21]  [Hoster] Aggresor has logged out.
+[28/10/2009 15:24:21] > Saving server...
+[28/10/2009 15:24:25] > SAVE: Complete in 4.641 seconds using relational house storage.
+[28/10/2009 15:24:26] Preparing to shutdown server..
+[28/10/2009 15:24:26] .
+[28/10/2009 15:24:26] Exiting
+[28/10/2009 22:12:16] The Forgotten Server, version 0.3.4 (Crying Damson)
+[28/10/2009 22:12:17] Sever Criado Por Alissow e Comedinha.
+[28/10/2009 22:12:17] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[28/10/2009 22:12:17] Bom Jogo!!!
+[28/10/2009 22:12:17] 
+[28/10/2009 22:12:17] >> Debugging: nothing.
+[28/10/2009 22:12:17] >> Checking software version... outdated, please consider updating!
+[28/10/2009 22:12:18] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[28/10/2009 22:12:18] > Latest version information - version: 0.3.5, patch: 1, build: 2576, timestamp: 1249584126.
+[28/10/2009 22:12:18] [Warning - ConfigManager::getBool] 62
+[28/10/2009 22:12:18] 
+[28/10/2009 22:12:18] >> Loading config (config.lua)
+[28/10/2009 22:12:18] > Using plaintext passwords
+[28/10/2009 22:12:18] >> Loading RSA key
+[28/10/2009 22:12:18] >> Starting SQL connection
+[28/10/2009 22:12:18] >> Running Database Manager
+[28/10/2009 22:12:20] > Optimized database.
+[28/10/2009 22:12:20] >> Loading items
+[28/10/2009 22:12:21] >> Loading groups
+[28/10/2009 22:12:21] >> Loading vocations
+[28/10/2009 22:12:21] >> Loading script systems
+[28/10/2009 22:12:21] [Warning - Weapons::registerEvent] Duplicate registered item with id: 7410
+[28/10/2009 22:12:23] [Warning - Event::loadScript] Cannot load script (data/creaturescripts/scripts/playerdeath.lua)
+[28/10/2009 22:12:24] cannot open data/creaturescripts/scripts/playerdeath.lua: No such file or directory
+[28/10/2009 22:12:24] >> Loading chat channels
+[28/10/2009 22:12:24] >> Loading outfits
+[28/10/2009 22:12:24] >> Loading experience stages
+[28/10/2009 22:12:24] >> Loading monsters
+[28/10/2009 22:12:28] >> Loading map and spawns...
+[28/10/2009 22:12:29] > Map size: 512x512.
+[28/10/2009 22:12:29] > Map descriptions: 
+[28/10/2009 22:12:29] Saved with Remere's Map Editor 1.1.9
+[28/10/2009 22:12:29] Remere 's Map Editor Beta
+[28/10/2009 22:12:30] Duplicate uniqueId 2506
+[28/10/2009 22:12:31] Duplicate uniqueId 2471
+[28/10/2009 22:12:32] > Map loading time: 4.047 seconds.
+[28/10/2009 22:12:33] [Warning - Spawns::loadFromXml] Snow Soul ( 00051 / 00272 / 007 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 22:12:33] [Warning - Spawns::loadFromXml] The Punisher ( 00050 / 00228 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 22:12:33] [Warning - Spawns::loadFromXml] Mafiry ( 00159 / 00310 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 22:12:33] [Warning - Spawns::loadFromXml] Mafiry ( 00154 / 00314 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 22:12:33] [Warning - Spawns::loadFromXml] Whatafuck ( 00058 / 00310 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 22:12:34] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00310 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 22:12:34] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00311 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 22:12:34] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00312 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 22:12:34] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00313 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 22:12:34] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00314 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 22:12:34] [Warning - Spawns::loadFromXml] Whatafuck ( 00041 / 00314 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 22:12:34] [Warning - Spawns::loadFromXml] Whatafuck ( 00042 / 00314 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 22:12:34] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00315 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 22:12:35] [Warning - Spawns::loadFromXml] Whatafuck ( 00041 / 00315 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 22:12:35] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00316 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 22:12:35] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00317 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 22:12:35] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00318 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 22:12:35] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00319 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 22:12:35] [Warning - Spawns::loadFromXml] Whatafuck ( 00041 / 00319 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 22:12:35] [Warning - Spawns::loadFromXml] Whatafuck ( 00042 / 00319 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 22:12:35] [Warning - Spawns::loadFromXml] Whatafuck ( 00053 / 00324 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 22:12:36] [Warning - Spawns::loadFromXml] Whatafuck ( 00052 / 00325 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 22:12:36] [Warning - Spawns::loadFromXml] Whatafuck ( 00053 / 00325 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 22:12:36] [Warning - Spawns::loadFromXml] Whatafuck ( 00052 / 00326 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 22:12:36] [Warning - Spawns::loadFromXml] Whatafuck ( 00037 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 22:12:36] [Warning - Spawns::loadFromXml] Whatafuck ( 00038 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 22:12:36] [Warning - Spawns::loadFromXml] Whatafuck ( 00039 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 22:12:36] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[28/10/2009 22:12:37] [Warning - Houses::loadFromXml] House entry not set for:  (158)
+[28/10/2009 22:12:37] > Data loading time: 4.609 seconds.
+[28/10/2009 22:12:37] > Unserialization time for houses: 0.094 seconds.
+[28/10/2009 22:12:50] > Unserialization time for map: 13 seconds.
+[28/10/2009 22:12:50] >> Checking world type... PvP
+[28/10/2009 22:12:50] >> Initializing game state modules and registering services...
+[28/10/2009 22:12:51] > Global address: 201.246.41.229
+[28/10/2009 22:12:51] > Local ports:
+[28/10/2009 22:12:51] 7171	7172	
+[28/10/2009 22:12:51] >> All modules were loaded, server starting up...
+[28/10/2009 22:12:51] >> Aggrometal server server Online!
+[28/10/2009 22:12:51] 
+[28/10/2009 22:13:34] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[28/10/2009 22:13:52]  [Hoster] Aggresor has logged in.
+[28/10/2009 22:16:25]  GOD Maxma has logged in.
+[28/10/2009 22:16:32] > CLEAN: Removed 0 items from 32 tiles in 0.062 seconds.
+[28/10/2009 22:17:34] Lord Fenix has logged in.
+[28/10/2009 22:18:15] Account Manager has logged in.
+[28/10/2009 22:18:36] Account Manager has logged out.
+[28/10/2009 22:18:43] Account Manager has logged in.
+[28/10/2009 22:18:54] Account Manager has logged out.
+[28/10/2009 22:19:00] Mades has logged in.
+[28/10/2009 22:19:34] Account Manager has logged in.
+[28/10/2009 22:19:45] Account Manager has logged out.
+[28/10/2009 22:19:50] Account Manager has logged in.
+[28/10/2009 22:20:06] Account Manager has logged out.
+[28/10/2009 22:20:28] Santitomon has logged in.
+[28/10/2009 22:20:41] Lord Fenix has logged out.
+[28/10/2009 22:20:46] Lord Fenix has logged in.
+[28/10/2009 22:21:24] Mades has logged out.
+[28/10/2009 22:21:28] Mades has logged in.
+[28/10/2009 22:21:29] Mades has logged out.
+[28/10/2009 22:21:34] Mades has logged in.
+[28/10/2009 22:21:56] Account Manager has logged in.
+[28/10/2009 22:22:01] Account Manager has logged out.
+[28/10/2009 22:22:25] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo para saber tus spells diga !spells".
+[28/10/2009 22:22:36] Mades has logged out.
+[28/10/2009 22:22:37] Mades has logged in.
+[28/10/2009 22:22:45] > Broadcasted message: "jajaj wena".
+[28/10/2009 22:23:17] > CLEAN: Removed 50 items from 45 tiles in 0.047 seconds.
+[28/10/2009 22:23:19] > CLEAN: Removed 3 items from 2 tiles in 0.063 seconds.
+[28/10/2009 22:23:25] > CLEAN: Removed 6 items from 6 tiles in 0.047 seconds.
+[28/10/2009 22:26:12] Alex la Vengansa has logged in.
+[28/10/2009 22:26:14] > CLEAN: Removed 16 items from 18 tiles in 0.047 seconds.
+[28/10/2009 22:27:03] Mades has logged out.
+[28/10/2009 22:27:08] Mades has logged in.
+[28/10/2009 22:27:19] Davalex has logged in.
+[28/10/2009 22:27:25] > Saving server...
+[28/10/2009 22:27:33] > SAVE: Complete in 7.5 seconds using relational house storage.
+[28/10/2009 22:27:33] Santitomon has logged out.
+[28/10/2009 22:27:34] 
+[28/10/2009 22:27:34] Lua Script Error: [TalkAction Interface] 
+[28/10/2009 22:27:34] data/talkactions/scripts/teleporthere.lua:onSay
+[28/10/2009 22:27:34] 
+[28/10/2009 22:27:34] luaGetClosestFreeTile(). Creature not found
+[28/10/2009 22:28:02] > Broadcasted message: " [Hoster] Aggresor [102]: ctm".
+[28/10/2009 22:28:15] > Broadcasted message: "whist ola".
+[28/10/2009 22:28:29] > Broadcasted message: "Alex la Vengansa [281130]: ctm".
+[28/10/2009 22:28:38] Santitomon has logged in.
+[28/10/2009 22:28:39] > Broadcasted message: "Alex la Vengansa [281130]: ctm rrajte con god xD".
+[28/10/2009 22:31:02] > CLEAN: Removed 96 items from 108 tiles in 0.047 seconds.
+[28/10/2009 22:31:19] Santitomon has logged out.
+[28/10/2009 22:31:50] Account Manager has logged in.
+[28/10/2009 22:31:54] Account Manager has logged in.
+[28/10/2009 22:31:55] Account Manager has logged out.
+[28/10/2009 22:31:57] Mades has logged out.
+[28/10/2009 22:31:58] Mades has logged in.
+[28/10/2009 22:32:02] Jugo Yupi has logged in.
+[28/10/2009 22:32:06] > Alex la Vengansa broadcasted: "wenas".
+[28/10/2009 22:32:26] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo para saber tus spells diga !spells".
+[28/10/2009 22:32:33] Account Manager has logged out.
+[28/10/2009 22:32:50] Account Manager has logged in.
+[28/10/2009 22:32:59] Account Manager has logged in.
+[28/10/2009 22:33:11] Account Manager has logged out.
+[28/10/2009 22:33:20] Davalex has logged out.
+[28/10/2009 22:33:23] Account Manager has logged in.
+[28/10/2009 22:33:25] Account Manager has logged in.
+[28/10/2009 22:33:27] Account Manager has logged in.
+[28/10/2009 22:33:30] Account Manager has logged out.
+[28/10/2009 22:33:36] Account Manager has logged out.
+[28/10/2009 22:33:39] Account Manager has logged out.
+[28/10/2009 22:33:40] Account Manager has logged out.
+[28/10/2009 22:33:41] Mades has logged out.
+[28/10/2009 22:33:46] Zeroxc has logged in.
+[28/10/2009 22:33:46] Mide has logged in.
+[28/10/2009 22:33:47] Neko has logged in.
+[28/10/2009 22:33:47] Account Manager has logged in.
+[28/10/2009 22:33:53] Rosgos has logged in.
+[28/10/2009 22:33:54] > CLEAN: Removed 10 items from 10 tiles in 0.062 seconds.
+[28/10/2009 22:34:13] Account Manager has logged out.
+[28/10/2009 22:34:31] Felix has logged in.
+[28/10/2009 22:35:46] Rosgos has logged out.
+[28/10/2009 22:35:46] Mide has logged out.
+[28/10/2009 22:35:51] Davalex has logged in.
+[28/10/2009 22:35:54] Davalex has logged out.
+[28/10/2009 22:35:56] Rosgos has logged in.
+[28/10/2009 22:35:58] Mide has logged in.
+[28/10/2009 22:36:21] > CLEAN: Removed 31 items from 36 tiles in 0.046 seconds.
+[28/10/2009 22:36:25] Mide has logged out.
+[28/10/2009 22:36:27] Mide has logged in.
+[28/10/2009 22:36:48] Neko has logged out.
+[28/10/2009 22:36:48] > CLEAN: Removed 10 items from 10 tiles in 0.062 seconds.
+[28/10/2009 22:36:52] Lord Fenix has logged out.
+[28/10/2009 22:36:54] Lord Fenix has logged in.
+[28/10/2009 22:37:03] Neko has logged in.
+[28/10/2009 22:37:29] Felix has logged out.
+[28/10/2009 22:37:30] Felix has logged in.
+[28/10/2009 22:39:57] Account Manager has logged in.
+[28/10/2009 22:40:07] Felix has logged out.
+[28/10/2009 22:40:12] Felix has logged in.
+[28/10/2009 22:40:21] Account Manager has logged out.
+[28/10/2009 22:40:32] Account Manager has logged in.
+[28/10/2009 22:40:55] Felix has logged out.
+[28/10/2009 22:40:56] Account Manager has logged out.
+[28/10/2009 22:40:56] Felix has logged in.
+[28/10/2009 22:41:07] Sake Uchiha has logged in.
+[28/10/2009 22:41:17] Lord Fenix has logged out.
+[28/10/2009 22:41:19] Lord Fenix has logged in.
+[28/10/2009 22:41:27] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/trainer.xml).
+[28/10/2009 22:41:27] Info: failed to load external entity "data/npc/trainer.xml"
+[28/10/2009 22:41:27] 
+[28/10/2009 22:41:27] 
+[28/10/2009 22:41:29] Antonio Metalero has logged in.
+[28/10/2009 22:41:50] > CLEAN: Removed 113 items from 191 tiles in 0.062 seconds.
+[28/10/2009 22:42:26] > Saving server...
+[28/10/2009 22:42:35] > SAVE: Complete in 9.094 seconds using relational house storage.
+[28/10/2009 22:42:35] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo para saber tus spells diga !spells".
+[28/10/2009 22:42:35] Lord Fenix has logged out.
+[28/10/2009 22:42:36] Sake Uchiha has logged out.
+[28/10/2009 22:42:37]  GOD Maxma has logged out.
+[28/10/2009 22:42:45] Lord Fenix has logged in.
+[28/10/2009 22:43:47] Lord Fenix has logged out.
+[28/10/2009 22:43:49] Lord Fenix has logged in.
+[28/10/2009 22:44:12] Mide has logged out.
+[28/10/2009 22:44:14] Mide has logged in.
+[28/10/2009 22:44:59] Jugo Yupi has logged out.
+[28/10/2009 22:45:05] Jugo Yupi has logged in.
+[28/10/2009 22:45:26] Lord Fenix has logged out.
+[28/10/2009 22:45:28] Lord Fenix has logged in.
+[28/10/2009 22:45:56] The Cossio has logged in.
+[28/10/2009 22:45:59] Felix has logged out.
+[28/10/2009 22:46:01] Felix has logged in.
+[28/10/2009 22:46:12] Lord Fenix has logged out.
+[28/10/2009 22:46:13] Lord Fenix has logged in.
+[28/10/2009 22:46:17] Felix has logged out.
+[28/10/2009 22:46:18] Felix has logged in.
+[28/10/2009 22:46:29] Felix has logged out.
+[28/10/2009 22:47:17] Account Manager has logged in.
+[28/10/2009 22:47:24] Jugo Yupi has logged out.
+[28/10/2009 22:47:27]  GOD Maxma has logged in.
+[28/10/2009 22:47:27] Jugo Yupi has logged in.
+[28/10/2009 22:47:40] > CLEAN: Removed 119 items from 288 tiles in 0.062 seconds.
+[28/10/2009 22:47:49] Jugo Yupi has logged out.
+[28/10/2009 22:47:51] Jugo Yupi has logged in.
+[28/10/2009 22:48:09] The Cossio has logged out.
+[28/10/2009 22:48:12] Account Manager has logged out.
+[28/10/2009 22:48:14] The Cossio has logged in.
+[28/10/2009 22:48:28] Account Manager has logged in.
+[28/10/2009 22:48:40] Lord Fenix has logged out.
+[28/10/2009 22:48:41] Lord Fenix has logged in.
+[28/10/2009 22:48:42] Jugo Yupi has logged out.
+[28/10/2009 22:48:45] Jugo Yupi has logged in.
+[28/10/2009 22:49:09] Account Manager has logged out.
+[28/10/2009 22:49:26] Tork has logged in.
+[28/10/2009 22:49:29] > CLEAN: Removed 41 items from 398 tiles in 0.062 seconds.
+[28/10/2009 22:49:32] Lord Fenix has logged out.
+[28/10/2009 22:49:37] Lord Fenix has logged in.
+[28/10/2009 22:49:45] Rosgos has logged out.
+[28/10/2009 22:49:50] Rosgos has logged in.
+[28/10/2009 22:50:15] Rosgos has logged out.
+[28/10/2009 22:50:20] Rosgos has logged in.
+[28/10/2009 22:51:39] > CLEAN: Removed 120 items from 368 tiles in 0.235 seconds.
+[28/10/2009 22:51:41] > CLEAN: Removed 5 items from 12 tiles in 0.047 seconds.
+[28/10/2009 22:52:17] Tork has logged out.
+[28/10/2009 22:52:26] Tork has logged in.
+[28/10/2009 22:52:31] Exhl Sikario has logged in.
+[28/10/2009 22:52:31] Rosgos has logged out.
+[28/10/2009 22:52:34] Jugo Yupi has logged out.
+[28/10/2009 22:52:36] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo para saber tus spells diga !spells".
+[28/10/2009 22:52:39] Jugo Yupi has logged in.
+[28/10/2009 22:52:39] Rosgos has logged in.
+[28/10/2009 22:52:53] Rosgos has logged out.
+[28/10/2009 22:52:55] > CLEAN: Removed 226 items from 206 tiles in 0.078 seconds.
+[28/10/2009 22:53:10] Rosgos has logged in.
+[28/10/2009 22:53:22] Jugo Yupi has logged out.
+[28/10/2009 22:53:22] Rosgos has logged out.
+[28/10/2009 22:53:24] Jugo Yupi has logged in.
+[28/10/2009 22:53:28] > CLEAN: Removed 16 items from 85 tiles in 0.063 seconds.
+[28/10/2009 22:53:29] Rosgos has logged in.
+[28/10/2009 22:53:42] > Broadcasted message: "jajajajajja querian los wns".
+[28/10/2009 22:53:48]  GOD Maxma has logged out.
+[28/10/2009 22:54:06] Tork has logged out.
+[28/10/2009 22:54:31] Tork has logged in.
+[28/10/2009 22:54:39] Rosgos has logged out.
+[28/10/2009 22:54:42] Rosgos has logged in.
+[28/10/2009 22:54:52] Account Manager has logged in.
+[28/10/2009 22:54:59] Account Manager has logged out.
+[28/10/2009 22:55:12] Assassin of kina has logged in.
+[28/10/2009 22:55:24] Krypzz has logged in.
+[28/10/2009 22:55:31] Krypzz has logged out.
+[28/10/2009 22:55:33] Krypz has logged in.
+[28/10/2009 22:55:53]  GOD Maxma has logged in.
+[28/10/2009 22:56:18] > CLEAN: Removed 94 items from 245 tiles in 0.063 seconds.
+[28/10/2009 22:56:22] > Broadcasted message: "estoy ocupado".
+[28/10/2009 22:56:23] > Alex la Vengansa broadcasted: "el sikario lo chupa".
+[28/10/2009 22:56:48]  GOD Maxma has logged out.
+[28/10/2009 22:57:27] > Saving server...
+[28/10/2009 22:57:38] > SAVE: Complete in 11.11 seconds using relational house storage.
+[28/10/2009 22:57:40] Assassin of kina has logged out.
+[28/10/2009 22:57:42] Assassin of kina has logged in.
+[28/10/2009 22:58:25] Assassin of kina has logged out.
+[28/10/2009 22:58:26] Assassin of kina has logged in.
+[28/10/2009 22:58:39] Assassin of kina has logged out.
+[28/10/2009 22:58:41] Assassin of kina has logged in.
+[28/10/2009 22:58:54] Rosgos has logged out.
+[28/10/2009 22:59:02] Rosgos has logged in.
+[28/10/2009 22:59:18] Mide has logged out.
+[28/10/2009 22:59:20] Mide has logged in.
+[28/10/2009 22:59:22] Lord Fenix has logged out.
+[28/10/2009 22:59:25] Lord Fenix has logged in.
+[28/10/2009 22:59:28] Assassin of kina has logged out.
+[28/10/2009 22:59:30] Assassin of kina has logged in.
+[28/10/2009 22:59:38] Jugo Yupi has logged out.
+[28/10/2009 22:59:39] Mide has logged out.
+[28/10/2009 22:59:41] Mide has logged in.
+[28/10/2009 22:59:41] Assassin of kina has logged out.
+[28/10/2009 22:59:42] Jugo Yupi has logged in.
+[28/10/2009 22:59:43] Assassin of kina has logged in.
+[28/10/2009 23:00:03] Diego has logged in.
+[28/10/2009 23:00:08] Assassin of kina has logged out.
+[28/10/2009 23:00:10] Assassin of kina has logged in.
+[28/10/2009 23:00:26] Lord Fenix has logged out.
+[28/10/2009 23:00:28] Lord Fenix has logged in.
+[28/10/2009 23:00:33] Account Manager has logged in.
+[28/10/2009 23:00:49] Account Manager has logged out.
+[28/10/2009 23:00:58] Account Manager has logged in.
+[28/10/2009 23:01:05] Assassin of kina has logged out.
+[28/10/2009 23:01:12] Khia has logged in.
+[28/10/2009 23:01:18] Assassin of kina has logged in.
+[28/10/2009 23:01:22] Account Manager has logged out.
+[28/10/2009 23:01:25] Lord Fenix has logged out.
+[28/10/2009 23:01:26] Rosgos has logged out.
+[28/10/2009 23:01:27] Lord Fenix has logged in.
+[28/10/2009 23:01:31] Rosgos has logged in.
+[28/10/2009 23:01:32] Mister Kina has logged in.
+[28/10/2009 23:01:35] Assassin of kina has logged out.
+[28/10/2009 23:01:36] Assassin of kina has logged in.
+[28/10/2009 23:02:06] Jugo Yupi has logged out.
+[28/10/2009 23:02:10] Jugo Yupi has logged in.
+[28/10/2009 23:02:12] Rosgos has logged out.
+[28/10/2009 23:02:17] Rosgos has logged in.
+[28/10/2009 23:02:27] Mide has logged out.
+[28/10/2009 23:02:29] Mide has logged in.
+[28/10/2009 23:02:36]  GOD Maxma has logged in.
+[28/10/2009 23:02:37] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo para saber tus spells diga !spells".
+[28/10/2009 23:02:37] Assassin of kina has logged out.
+[28/10/2009 23:02:41] Assassin of kina has logged in.
+[28/10/2009 23:02:44] > Alex la Vengansa broadcasted: "a chucha".
+[28/10/2009 23:02:47] Jugo Yupi has logged out.
+[28/10/2009 23:02:50] Mide has logged out.
+[28/10/2009 23:02:51] Jugo Yupi has logged in.
+[28/10/2009 23:02:54] Mide has logged in.
+[28/10/2009 23:02:54] Mide has logged out.
+[28/10/2009 23:02:58] Assassin of kina has logged out.
+[28/10/2009 23:03:00] Teste dois has logged in.
+[28/10/2009 23:03:06] Mide has logged in.
+[28/10/2009 23:03:14] Teste dois has logged out.
+[28/10/2009 23:03:20] [Warning - Groups::getGroup] Group 0 not found.
+[28/10/2009 23:03:20] [Warning - Groups::getGroup] Group 0 not found.
+[28/10/2009 23:03:21] Aldocolo has logged in.
+[28/10/2009 23:03:25] > CLEAN: Removed 92 items from 223 tiles in 0.062 seconds.
+[28/10/2009 23:03:27] Mide has logged out.
+[28/10/2009 23:03:29] Aldocolo has logged out.
+[28/10/2009 23:03:32] Mide has logged in.
+[28/10/2009 23:03:38] Jugo Yupi has logged out.
+[28/10/2009 23:03:40] Jugo Yupi has logged in.
+[28/10/2009 23:03:40] Account Manager has logged in.
+[28/10/2009 23:03:59] > Zeroxc broadcasted: "hoster o god no agan clean porfavor".
+[28/10/2009 23:04:07] Account Manager has logged out.
+[28/10/2009 23:04:15] Teste dois has logged in.
+[28/10/2009 23:04:31] Khia has logged out.
+[28/10/2009 23:04:49] Mide has logged out.
+[28/10/2009 23:05:29] Exhl Sikario has logged out.
+[28/10/2009 23:05:31] Exhl Sikario has logged in.
+[28/10/2009 23:05:56] Jugo Yupi has logged out.
+[28/10/2009 23:06:00] Jugo Yupi has logged in.
+[28/10/2009 23:07:14] Account Manager has logged in.
+[28/10/2009 23:07:20] Rosgos has logged out.
+[28/10/2009 23:07:36] Account Manager has logged out.
+[28/10/2009 23:07:40] > Zeroxc broadcasted: "bien are un evento donde sorteare los shield encantados de elementos".
+[28/10/2009 23:07:45] Account Manager has logged in.
+[28/10/2009 23:07:45] Rosgos has logged in.
+[28/10/2009 23:07:54] [Warning - Groups::getGroup] Group 0 not found.
+[28/10/2009 23:07:56] > Zeroxc broadcasted: "los que quieran venir me hablan por privado".
+[28/10/2009 23:08:30] Alex la Vengansa has logged out.
+[28/10/2009 23:08:32] > Zeroxc broadcasted: "alguien mas".
+[28/10/2009 23:08:45] Jugo Yupi has logged out.
+[28/10/2009 23:08:47] Account Manager has logged out.
+[28/10/2009 23:08:48] Jugo Yupi has logged in.
+[28/10/2009 23:08:55] Teste dois has logged out.
+[28/10/2009 23:09:00] Sasuke xd has logged in.
+[28/10/2009 23:09:31] Mister Kina has logged out.
+[28/10/2009 23:09:33] Account Manager has logged in.
+[28/10/2009 23:09:35] Mister Kina has logged in.
+[28/10/2009 23:09:41] Neko has logged out.
+[28/10/2009 23:09:45] Account Manager has logged out.
+[28/10/2009 23:09:47] Neko has logged in.
+[28/10/2009 23:09:56] > CLEAN: Removed 208 items from 395 tiles in 0.141 seconds.
+[28/10/2009 23:10:00] Alen Ii has logged in.
+[28/10/2009 23:10:07] Neko has logged out.
+[28/10/2009 23:10:10] Account Manager has logged in.
+[28/10/2009 23:10:11] Aggrometal has logged in.
+[28/10/2009 23:10:23] Teste dois has logged in.
+[28/10/2009 23:10:23] > CLEAN: Removed 9 items from 37 tiles in 0.062 seconds.
+[28/10/2009 23:10:25] Tork has logged out.
+[28/10/2009 23:10:33] Tork has logged in.
+[28/10/2009 23:10:59] > Broadcasted message: "able con el hoster aggesor yo no caxo sobre eso".
+[28/10/2009 23:11:02] > Broadcasted message: "porfabor".
+[28/10/2009 23:11:06] > Broadcasted message: "able con el".
+[28/10/2009 23:11:25] > Zeroxc broadcasted: "se pueden dejar de hacer clean".
+[28/10/2009 23:11:31] > CLEAN: Removed 74 items from 130 tiles in 0.063 seconds.
+[28/10/2009 23:11:32] > CLEAN: Removed 5 items from 11 tiles in 0.062 seconds.
+[28/10/2009 23:11:32] > CLEAN: Removed 1 item from 3 tiles in 0.047 seconds.
+[28/10/2009 23:11:33] > CLEAN: Removed 3 items from 6 tiles in 0.062 seconds.
+[28/10/2009 23:11:33] > CLEAN: Removed 0 items from 0 tiles in 0.203 seconds.
+[28/10/2009 23:11:33] > CLEAN: Removed 0 items from 2 tiles in 0.047 seconds.
+[28/10/2009 23:11:36] Aggrometal has logged out.
+[28/10/2009 23:11:39] Teste dois has logged out.
+[28/10/2009 23:11:41] Zuko has logged in.
+[28/10/2009 23:11:42] Teste dois has logged in.
+[28/10/2009 23:11:43] Diego has logged out.
+[28/10/2009 23:11:44] > CLEAN: Removed 22 items from 28 tiles in 0.047 seconds.
+[28/10/2009 23:11:45] > Zuko broadcasted: "zero".
+[28/10/2009 23:11:45] > CLEAN: Removed 2 items from 3 tiles in 0.047 seconds.
+[28/10/2009 23:11:47] > CLEAN: Removed 10 items from 14 tiles in 0.047 seconds.
+[28/10/2009 23:11:48] > CLEAN: Removed 4 items from 9 tiles in 0.062 seconds.
+[28/10/2009 23:11:49] > CLEAN: Removed 4 items from 7 tiles in 0.047 seconds.
+[28/10/2009 23:11:50] > CLEAN: Removed 1 item from 4 tiles in 0.047 seconds.
+[28/10/2009 23:11:51] > Zeroxc broadcasted: "si".
+[28/10/2009 23:11:53] > CLEAN: Removed 10 items from 16 tiles in 0.047 seconds.
+[28/10/2009 23:11:54] > CLEAN: Removed 2 items from 7 tiles in 0.063 seconds.
+[28/10/2009 23:11:54] > CLEAN: Removed 1 item from 2 tiles in 0.047 seconds.
+[28/10/2009 23:11:56] [Warning - Groups::getGroup] Group 0 not found.
+[28/10/2009 23:11:56] [Warning - Groups::getGroup] Group 0 not found.
+[28/10/2009 23:11:56] Diego has logged in.
+[28/10/2009 23:11:57] Louker has logged in.
+[28/10/2009 23:12:01] Diego has logged out.
+[28/10/2009 23:12:01] Rosgos has logged out.
+[28/10/2009 23:12:02] [Warning - Groups::getGroup] Group 0 not found.
+[28/10/2009 23:12:03] [Warning - Groups::getGroup] Group 0 not found.
+[28/10/2009 23:12:03] Diego has logged in.
+[28/10/2009 23:12:07] Rosgos has logged in.
+[28/10/2009 23:12:20] Account Manager has logged out.
+[28/10/2009 23:12:21] Sasuke xd has logged out.
+[28/10/2009 23:12:24] > CLEAN: Removed 12 items from 29 tiles in 0.063 seconds.
+[28/10/2009 23:12:28] > Saving server...
+[28/10/2009 23:12:40] > SAVE: Complete in 11.86 seconds using relational house storage.
+[28/10/2009 23:12:40] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo para saber tus spells diga !spells".
+[28/10/2009 23:12:43] The Ferrari has logged in.
+[28/10/2009 23:12:44] The Ferrari has logged out.
+[28/10/2009 23:12:48] Nekro has logged in.
+[28/10/2009 23:12:49] The Ferrari has logged in.
+[28/10/2009 23:12:58] Sasuke xd has logged in.
+[28/10/2009 23:13:01] Louker has logged out.
+[28/10/2009 23:13:04] Louker has logged in.
+[28/10/2009 23:13:07] > CLEAN: Removed 11 items from 25 tiles in 0.063 seconds.
+[28/10/2009 23:13:11] Teste dois has logged out.
+[28/10/2009 23:13:17] Ferder has logged in.
+[28/10/2009 23:13:18] Jugo Yupi has logged out.
+[28/10/2009 23:13:22] Ferder has logged out.
+[28/10/2009 23:13:23] Jugo Yupi has logged in.
+[28/10/2009 23:13:29] Antonio Metalero has logged out.
+[28/10/2009 23:13:30] [Warning - Groups::getGroup] Group 0 not found.
+[28/10/2009 23:13:31] [Warning - Groups::getGroup] Group 0 not found.
+[28/10/2009 23:13:31] Aldocolo has logged in.
+[28/10/2009 23:13:36] Antonio Metalero has logged in.
+[28/10/2009 23:13:36] [Warning - Groups::getGroup] Group 0 not found.
+[28/10/2009 23:13:49] > CLEAN: Removed 13 items from 31 tiles in 0.063 seconds.
+[28/10/2009 23:14:08] Jugo Yupi has logged out.
+[28/10/2009 23:14:12] Zuko has logged out.
+[28/10/2009 23:14:13] Jugo Yupi has logged in.
+[28/10/2009 23:14:17] The Ferrari has logged out.
+[28/10/2009 23:14:18] The Ferrari has logged in.
+[28/10/2009 23:14:23] The Cossio has logged out.
+[28/10/2009 23:14:33] The Cossio has logged in.
+[28/10/2009 23:14:42]  GOD Maxma has logged out.
+[28/10/2009 23:14:58] The Ferrari has logged out.
+[28/10/2009 23:15:03] The Ferrari has logged in.
+[28/10/2009 23:15:05] Antonio Metalero has logged out.
+[28/10/2009 23:15:08] Antonio Metalero has logged in.
+[28/10/2009 23:15:11] Sasuke xd has logged out.
+[28/10/2009 23:15:16] Sasuke xd has logged in.
+[28/10/2009 23:16:00] Aldocolo has logged out.
+[28/10/2009 23:16:01] [Warning - Groups::getGroup] Group 0 not found.
+[28/10/2009 23:16:01] [Warning - Groups::getGroup] Group 0 not found.
+[28/10/2009 23:16:01] Aldocolo has logged in.
+[28/10/2009 23:16:05] Jugo Yupi has logged out.
+[28/10/2009 23:16:07] Jugo Yupi has logged in.
+[28/10/2009 23:16:15] Lord Fenix has logged out.
+[28/10/2009 23:16:36] Aggrometal has logged in.
+[28/10/2009 23:16:48] Louker has logged out.
+[28/10/2009 23:16:50] Louker has logged in.
+[28/10/2009 23:16:52] Aldocolo has logged out.
+[28/10/2009 23:16:53] [Warning - Groups::getGroup] Group 0 not found.
+[28/10/2009 23:16:53] [Warning - Groups::getGroup] Group 0 not found.
+[28/10/2009 23:16:53] Aldocolo has logged in.
+[28/10/2009 23:17:05] Rosgos has logged out.
+[28/10/2009 23:17:11] Rosgos has logged in.
+[28/10/2009 23:17:16] Aggrometal has logged out.
+[28/10/2009 23:17:18] Aldocolo has logged out.
+[28/10/2009 23:17:19] Aggrometal has logged in.
+[28/10/2009 23:17:23] [Warning - Groups::getGroup] Group 0 not found.
+[28/10/2009 23:17:23] [Warning - Groups::getGroup] Group 0 not found.
+[28/10/2009 23:17:23] Aldocolo has logged in.
+[28/10/2009 23:17:41] Jugo Yupi has logged out.
+[28/10/2009 23:17:43] Jugo Yupi has logged in.
+[28/10/2009 23:17:51] 
+[28/10/2009 23:17:51] Lua Script Error: [TalkAction Interface] 
+[28/10/2009 23:17:51] data/talkactions/scripts/teleporthere.lua:onSay
+[28/10/2009 23:17:51] 
+[28/10/2009 23:17:51] luaGetClosestFreeTile(). Creature not found
+[28/10/2009 23:17:56] 
+[28/10/2009 23:17:56] Lua Script Error: [TalkAction Interface] 
+[28/10/2009 23:17:56] data/talkactions/scripts/teleporthere.lua:onSay
+[28/10/2009 23:17:56] 
+[28/10/2009 23:17:56] luaGetClosestFreeTile(). Creature not found
+[28/10/2009 23:18:02] 
+[28/10/2009 23:18:02] Lua Script Error: [TalkAction Interface] 
+[28/10/2009 23:18:02] data/talkactions/scripts/teleporthere.lua:onSay
+[28/10/2009 23:18:02] 
+[28/10/2009 23:18:02] luaGetClosestFreeTile(). Creature not found
+[28/10/2009 23:18:04] Jugo Yupi has logged out.
+[28/10/2009 23:18:07] Jugo Yupi has logged in.
+[28/10/2009 23:18:09] Sasuke xd has logged out.
+[28/10/2009 23:18:30] Aldocolo has logged out.
+[28/10/2009 23:18:32] [Warning - Groups::getGroup] Group 0 not found.
+[28/10/2009 23:18:32] [Warning - Groups::getGroup] Group 0 not found.
+[28/10/2009 23:18:32] Aldocolo has logged in.
+[28/10/2009 23:18:38] Exhl Sikario has logged out.
+[28/10/2009 23:18:40] The Ferrari has logged out.
+[28/10/2009 23:18:42] Exhl Sikario has logged in.
+[28/10/2009 23:18:44] The Ferrari has logged in.
+[28/10/2009 23:18:56] Aggrometal has logged out.
+[28/10/2009 23:19:00] Aggrometal has logged in.
+[28/10/2009 23:19:12] Aldocolo has logged out.
+[28/10/2009 23:19:13] [Warning - Groups::getGroup] Group 0 not found.
+[28/10/2009 23:19:14] [Warning - Groups::getGroup] Group 0 not found.
+[28/10/2009 23:19:14] Aldocolo has logged in.
+[28/10/2009 23:19:23] Jugo Yupi has logged out.
+[28/10/2009 23:19:28] Jugo Yupi has logged in.
+[28/10/2009 23:19:44] Alen Ii has logged out.
+[28/10/2009 23:19:52] Aldocolo has logged out.
+[28/10/2009 23:19:59] [Warning - Groups::getGroup] Group 0 not found.
+[28/10/2009 23:19:59] [Warning - Groups::getGroup] Group 0 not found.
+[28/10/2009 23:19:59] Aldocolo has logged in.
+[28/10/2009 23:19:59] Krypz has logged out.
+[28/10/2009 23:20:09] Alen Ii has logged in.
+[28/10/2009 23:20:12] Antonio Metalero has logged out.
+[28/10/2009 23:20:14] Antonio Metalero has logged in.
+[28/10/2009 23:20:24] Aldocolo has logged out.
+[28/10/2009 23:20:28] [Warning - Groups::getGroup] Group 0 not found.
+[28/10/2009 23:20:28] [Warning - Groups::getGroup] Group 0 not found.
+[28/10/2009 23:20:29] Aldocolo has logged in.
+[28/10/2009 23:20:29] Alen Ii has logged out.
+[28/10/2009 23:20:46] The Ferrari has logged out.
+[28/10/2009 23:20:48] The Ferrari has logged in.
+[28/10/2009 23:21:27] The Ferrari has logged out.
+[28/10/2009 23:21:27] Alex la Vengansa has logged in.
+[28/10/2009 23:21:28] Diego has logged out.
+[28/10/2009 23:21:28] The Ferrari has logged in.
+[28/10/2009 23:21:29] [Warning - Groups::getGroup] Group 0 not found.
+[28/10/2009 23:21:29] [Warning - Groups::getGroup] Group 0 not found.
+[28/10/2009 23:21:30] Diego has logged in.
+[28/10/2009 23:21:34] Antonio Metalero has logged out.
+[28/10/2009 23:21:35] Rosgos has logged out.
+[28/10/2009 23:21:35] Exhl Sikario has logged out.
+[28/10/2009 23:21:38] Exhl Sikario has logged in.
+[28/10/2009 23:21:40] Rosgos has logged in.
+[28/10/2009 23:21:41] Antonio Metalero has logged in.
+[28/10/2009 23:21:42] Aldocolo has logged out.
+[28/10/2009 23:21:45] The Ferrari has logged out.
+[28/10/2009 23:21:45] 
+[28/10/2009 23:21:45] Lua Script Error: [Spell Interface] 
+[28/10/2009 23:21:45] in a timer event called from: 
+[28/10/2009 23:21:45] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[28/10/2009 23:21:45] 
+[28/10/2009 23:21:45] luaDoCombat(). Creature not found
+[28/10/2009 23:21:45] 
+[28/10/2009 23:21:45] Lua Script Error: [Spell Interface] 
+[28/10/2009 23:21:45] in a timer event called from: 
+[28/10/2009 23:21:46] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[28/10/2009 23:21:46] 
+[28/10/2009 23:21:46] luaDoCombat(). Creature not found
+[28/10/2009 23:21:46] 
+[28/10/2009 23:21:46] Lua Script Error: [Spell Interface] 
+[28/10/2009 23:21:46] in a timer event called from: 
+[28/10/2009 23:21:46] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[28/10/2009 23:21:46] 
+[28/10/2009 23:21:46] luaDoCombat(). Creature not found
+[28/10/2009 23:21:46] 
+[28/10/2009 23:21:46] Lua Script Error: [Spell Interface] 
+[28/10/2009 23:21:46] in a timer event called from: 
+[28/10/2009 23:21:46] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[28/10/2009 23:21:46] 
+[28/10/2009 23:21:46] luaDoCombat(). Creature not found
+[28/10/2009 23:21:47] The Ferrari has logged in.
+[28/10/2009 23:21:47] [Warning - Groups::getGroup] Group 0 not found.
+[28/10/2009 23:21:47] [Warning - Groups::getGroup] Group 0 not found.
+[28/10/2009 23:21:47] Aldocolo has logged in.
+[28/10/2009 23:21:48] Aggrometal has logged out.
+[28/10/2009 23:21:49] Aggrometal has logged in.
+[28/10/2009 23:21:56] Alen Ii has logged in.
+[28/10/2009 23:22:07] Kramolo has logged in.
+[28/10/2009 23:22:18] The Ferrari has logged out.
+[28/10/2009 23:22:20] The Ferrari has logged in.
+[28/10/2009 23:22:38] [Warning - Groups::getGroup] Group 0 not found.
+[28/10/2009 23:22:41] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo para saber tus spells diga !spells".
+[28/10/2009 23:22:53] The Ferrari has logged out.
+[28/10/2009 23:22:55] The Ferrari has logged in.
+[28/10/2009 23:23:19] Aldocolo has logged out.
+[28/10/2009 23:23:21] [Warning - Groups::getGroup] Group 0 not found.
+[28/10/2009 23:23:21] [Warning - Groups::getGroup] Group 0 not found.
+[28/10/2009 23:23:21] Aldocolo has logged in.
+[28/10/2009 23:23:22] 
+[28/10/2009 23:23:22] Lua Script Error: [TalkAction Interface] 
+[28/10/2009 23:23:22] data/talkactions/scripts/teleporthere.lua:onSay
+[28/10/2009 23:23:22] 
+[28/10/2009 23:23:22] luaGetClosestFreeTile(). Creature not found
+[28/10/2009 23:23:28] Antonio Metalero has logged out.
+[28/10/2009 23:23:31] Aldocolo has logged out.
+[28/10/2009 23:23:34] Antonio Metalero has logged in.
+[28/10/2009 23:23:34] Alen Ii has logged out.
+[28/10/2009 23:23:42] Rosgos has logged out.
+[28/10/2009 23:23:42] Teste dois has logged in.
+[28/10/2009 23:23:45] Alen Ii has logged in.
+[28/10/2009 23:23:51] Rosgos has logged in.
+[28/10/2009 23:23:53] 
+[28/10/2009 23:23:53] Lua Script Error: [TalkAction Interface] 
+[28/10/2009 23:23:53] data/talkactions/scripts/teleporthere.lua:onSay
+[28/10/2009 23:23:53] 
+[28/10/2009 23:23:53] luaGetClosestFreeTile(). Creature not found
+[28/10/2009 23:23:54] The Ferrari has logged out.
+[28/10/2009 23:23:55] The Ferrari has logged in.
+[28/10/2009 23:25:25] Jugo Yupi has logged out.
+[28/10/2009 23:25:27] Jugo Yupi has logged in.
+[28/10/2009 23:25:30] Jugo Yupi has logged out.
+[28/10/2009 23:25:32] Antonio Metalero has logged out.
+[28/10/2009 23:25:35] Antonio Metalero has logged in.
+[28/10/2009 23:26:44] > Zeroxc broadcasted: "ya".
+[28/10/2009 23:26:55] Aggrometal has logged out.
+[28/10/2009 23:27:08] Account Manager has logged in.
+[28/10/2009 23:27:10] Account Manager has logged in.
+[28/10/2009 23:27:13] Aggrometal has logged in.
+[28/10/2009 23:27:17] Aggrometal has logged out.
+[28/10/2009 23:27:20] Zuko has logged in.
+[28/10/2009 23:27:24] Account Manager has logged out.
+[28/10/2009 23:27:25]  [Hoster] Aggresor has logged out.
+[28/10/2009 23:27:29] > Saving server...
+[28/10/2009 23:27:40] > SAVE: Complete in 10.687 seconds using relational house storage.
+[28/10/2009 23:27:41] Account Manager has logged in.
+[28/10/2009 23:27:44] > Zeroxc broadcasted: "los mu a magias bknes".
+[28/10/2009 23:27:46] Account Manager has logged out.
+[28/10/2009 23:27:55] Jugo Yupi has logged in.
+[28/10/2009 23:27:55] > Zeroxc broadcasted: "los mu a magias bknes".
+[28/10/2009 23:27:56] Diego has logged out.
+[28/10/2009 23:27:56] [Warning - Groups::getGroup] Group 0 not found.
+[28/10/2009 23:27:57] [Warning - Groups::getGroup] Group 0 not found.
+[28/10/2009 23:27:57] Diego has logged in.
+[28/10/2009 23:28:11] Account Manager has logged out.
+[28/10/2009 23:28:13] > CLEAN: Removed 459 items from 800 tiles in 0.157 seconds.
+[28/10/2009 23:28:21] Account Manager has logged in.
+[28/10/2009 23:28:23] Tork has logged out.
+[28/10/2009 23:28:25] > Zuko broadcasted: "maxma kl".
+[28/10/2009 23:28:31] Alex la Vengansa has logged out.
+[28/10/2009 23:28:33] Alex la Vengansa has logged in.
+[28/10/2009 23:28:34]  [Hoster] Aggresor has logged in.
+[28/10/2009 23:28:42] Account Manager has logged in.
+[28/10/2009 23:28:44] Account Manager has logged out.
+[28/10/2009 23:28:46] Exhl Sikario has logged out.
+[28/10/2009 23:28:48] Account Manager has logged in.
+[28/10/2009 23:28:54] Exhl Sikario has logged in.
+[28/10/2009 23:28:57] Account Manager has logged out.
+[28/10/2009 23:28:58] Diego has logged out.
+[28/10/2009 23:28:58] 
+[28/10/2009 23:28:58] Lua Script Error: [Spell Interface] 
+[28/10/2009 23:28:58] in a timer event called from: 
+[28/10/2009 23:28:58] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[28/10/2009 23:28:58] 
+[28/10/2009 23:28:58] luaDoCombat(). Creature not found
+[28/10/2009 23:28:58] 
+[28/10/2009 23:28:58] Lua Script Error: [Spell Interface] 
+[28/10/2009 23:28:58] in a timer event called from: 
+[28/10/2009 23:28:58] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[28/10/2009 23:28:58] 
+[28/10/2009 23:28:58] luaDoCombat(). Creature not found
+[28/10/2009 23:28:58] 
+[28/10/2009 23:28:59] Lua Script Error: [Spell Interface] 
+[28/10/2009 23:28:59] in a timer event called from: 
+[28/10/2009 23:28:59] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[28/10/2009 23:28:59] 
+[28/10/2009 23:28:59] luaDoCombat(). Creature not found
+[28/10/2009 23:28:59] 
+[28/10/2009 23:28:59] Lua Script Error: [Spell Interface] 
+[28/10/2009 23:28:59] in a timer event called from: 
+[28/10/2009 23:28:59] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[28/10/2009 23:28:59] 
+[28/10/2009 23:28:59] luaDoCombat(). Creature not found
+[28/10/2009 23:28:59] 
+[28/10/2009 23:28:59] Lua Script Error: [Spell Interface] 
+[28/10/2009 23:28:59] in a timer event called from: 
+[28/10/2009 23:28:59] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[28/10/2009 23:28:59] 
+[28/10/2009 23:28:59] luaDoCombat(). Creature not found
+[28/10/2009 23:28:59] 
+[28/10/2009 23:28:59] Lua Script Error: [Spell Interface] 
+[28/10/2009 23:28:59] in a timer event called from: 
+[28/10/2009 23:28:59] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[28/10/2009 23:28:59] 
+[28/10/2009 23:28:59] luaDoCombat(). Creature not found
+[28/10/2009 23:28:59] 
+[28/10/2009 23:28:59] Lua Script Error: [Spell Interface] 
+[28/10/2009 23:29:00] in a timer event called from: 
+[28/10/2009 23:29:00] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[28/10/2009 23:29:00] 
+[28/10/2009 23:29:00] luaDoCombat(). Creature not found
+[28/10/2009 23:29:00] 
+[28/10/2009 23:29:00] Lua Script Error: [Spell Interface] 
+[28/10/2009 23:29:00] in a timer event called from: 
+[28/10/2009 23:29:00] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[28/10/2009 23:29:00] 
+[28/10/2009 23:29:00] luaDoCombat(). Creature not found
+[28/10/2009 23:29:00] 
+[28/10/2009 23:29:00] Lua Script Error: [Spell Interface] 
+[28/10/2009 23:29:00] in a timer event called from: 
+[28/10/2009 23:29:00] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[28/10/2009 23:29:00] 
+[28/10/2009 23:29:00] luaDoCombat(). Creature not found
+[28/10/2009 23:29:00] 
+[28/10/2009 23:29:00] Lua Script Error: [Spell Interface] 
+[28/10/2009 23:29:00] in a timer event called from: 
+[28/10/2009 23:29:00] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[28/10/2009 23:29:00] 
+[28/10/2009 23:29:00] luaDoCombat(). Creature not found
+[28/10/2009 23:29:00] 
+[28/10/2009 23:29:00] Lua Script Error: [Spell Interface] 
+[28/10/2009 23:29:00] in a timer event called from: 
+[28/10/2009 23:29:01] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[28/10/2009 23:29:01] 
+[28/10/2009 23:29:01] luaDoCombat(). Creature not found
+[28/10/2009 23:29:01] 
+[28/10/2009 23:29:01] Lua Script Error: [Spell Interface] 
+[28/10/2009 23:29:01] in a timer event called from: 
+[28/10/2009 23:29:01] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[28/10/2009 23:29:01] 
+[28/10/2009 23:29:01] luaDoCombat(). Creature not found
+[28/10/2009 23:29:01] 
+[28/10/2009 23:29:01] Lua Script Error: [Spell Interface] 
+[28/10/2009 23:29:01] in a timer event called from: 
+[28/10/2009 23:29:01] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[28/10/2009 23:29:01] 
+[28/10/2009 23:29:01] luaDoCombat(). Creature not found
+[28/10/2009 23:29:01] 
+[28/10/2009 23:29:01] Lua Script Error: [Spell Interface] 
+[28/10/2009 23:29:01] in a timer event called from: 
+[28/10/2009 23:29:01] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[28/10/2009 23:29:01] 
+[28/10/2009 23:29:01] luaDoCombat(). Creature not found
+[28/10/2009 23:29:01] 
+[28/10/2009 23:29:01] Lua Script Error: [Spell Interface] 
+[28/10/2009 23:29:01] in a timer event called from: 
+[28/10/2009 23:29:01] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[28/10/2009 23:29:02] 
+[28/10/2009 23:29:02] luaDoCombat(). Creature not found
+[28/10/2009 23:29:02] 
+[28/10/2009 23:29:02] Lua Script Error: [Spell Interface] 
+[28/10/2009 23:29:02] in a timer event called from: 
+[28/10/2009 23:29:02] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[28/10/2009 23:29:02] 
+[28/10/2009 23:29:02] luaDoCombat(). Creature not found
+[28/10/2009 23:29:02] 
+[28/10/2009 23:29:02] Lua Script Error: [Spell Interface] 
+[28/10/2009 23:29:02] in a timer event called from: 
+[28/10/2009 23:29:02] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[28/10/2009 23:29:02] 
+[28/10/2009 23:29:02] luaDoCombat(). Creature not found
+[28/10/2009 23:29:02] 
+[28/10/2009 23:29:02] Lua Script Error: [Spell Interface] 
+[28/10/2009 23:29:02] in a timer event called from: 
+[28/10/2009 23:29:02] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[28/10/2009 23:29:02] 
+[28/10/2009 23:29:02] luaDoCombat(). Creature not found
+[28/10/2009 23:29:02] 
+[28/10/2009 23:29:02] Lua Script Error: [Spell Interface] 
+[28/10/2009 23:29:02] in a timer event called from: 
+[28/10/2009 23:29:02] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[28/10/2009 23:29:03] 
+[28/10/2009 23:29:03] luaDoCombat(). Creature not found
+[28/10/2009 23:29:03] 
+[28/10/2009 23:29:03] Lua Script Error: [Spell Interface] 
+[28/10/2009 23:29:03] in a timer event called from: 
+[28/10/2009 23:29:03] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[28/10/2009 23:29:03] 
+[28/10/2009 23:29:03] luaDoCombat(). Creature not found
+[28/10/2009 23:29:03] 
+[28/10/2009 23:29:03] Lua Script Error: [Spell Interface] 
+[28/10/2009 23:29:03] in a timer event called from: 
+[28/10/2009 23:29:03] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[28/10/2009 23:29:03] 
+[28/10/2009 23:29:03] luaDoCombat(). Creature not found
+[28/10/2009 23:29:03] 
+[28/10/2009 23:29:03] Lua Script Error: [Spell Interface] 
+[28/10/2009 23:29:03] in a timer event called from: 
+[28/10/2009 23:29:03] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[28/10/2009 23:29:03] 
+[28/10/2009 23:29:03] luaDoCombat(). Creature not found
+[28/10/2009 23:29:03] 
+[28/10/2009 23:29:03] Lua Script Error: [Spell Interface] 
+[28/10/2009 23:29:03] in a timer event called from: 
+[28/10/2009 23:29:03] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[28/10/2009 23:29:04] 
+[28/10/2009 23:29:04] luaDoCombat(). Creature not found
+[28/10/2009 23:29:04] 
+[28/10/2009 23:29:04] Lua Script Error: [Spell Interface] 
+[28/10/2009 23:29:04] in a timer event called from: 
+[28/10/2009 23:29:04] data/spells/scripts/attack/Soul Storm.lua:onCastSpell
+[28/10/2009 23:29:04] 
+[28/10/2009 23:29:04] luaDoCombat(). Creature not found
+[28/10/2009 23:29:04] Account Manager has logged in.
+[28/10/2009 23:29:04] Account Manager has logged in.
+[28/10/2009 23:29:11] The Ferrari has logged out.
+[28/10/2009 23:29:12] > CLEAN: Removed 32 items from 57 tiles in 0.063 seconds.
+[28/10/2009 23:29:14] Teste dois has logged out.
+[28/10/2009 23:29:16] The Ferrari has logged in.
+[28/10/2009 23:29:16] Teste dois has logged in.
+[28/10/2009 23:29:19] Account Manager has logged out.
+[28/10/2009 23:29:26] Account Manager has logged out.
+[28/10/2009 23:29:28] Account Manager has logged in.
+[28/10/2009 23:29:33] Cronnos has logged in.
+[28/10/2009 23:29:36] Account Manager has logged out.
+[28/10/2009 23:29:37] The Ferrari has logged out.
+[28/10/2009 23:29:38] The Ferrari has logged in.
+[28/10/2009 23:29:47] Account Manager has logged in.
+[28/10/2009 23:29:50] Account Manager has logged out.
+[28/10/2009 23:29:52] 
+[28/10/2009 23:29:52] Lua Script Error: [TalkAction Interface] 
+[28/10/2009 23:29:52] data/talkactions/scripts/teleporthere.lua:onSay
+[28/10/2009 23:29:52] 
+[28/10/2009 23:29:52] luaGetClosestFreeTile(). Creature not found
+[28/10/2009 23:30:04] The Ferrari has logged out.
+[28/10/2009 23:30:06] Pierax has logged in.
+[28/10/2009 23:30:08] Account Manager has logged out.
+[28/10/2009 23:30:20] Itachi has logged in.
+[28/10/2009 23:30:48] Zuko has logged out.
+[28/10/2009 23:30:56] Aggrometal has logged in.
+[28/10/2009 23:30:56] Shaman has logged in.
+[28/10/2009 23:31:03] Shaman has logged out.
+[28/10/2009 23:31:05] The Mage has logged in.
+[28/10/2009 23:31:12] Cronnos has logged out.
+[28/10/2009 23:31:23] > CLEAN: Removed 52 items from 106 tiles in 0.047 seconds.
+[28/10/2009 23:31:27] Rosgos has logged out.
+[28/10/2009 23:31:31] Rosgos has logged in.
+[28/10/2009 23:32:15] Rosgos has logged out.
+[28/10/2009 23:32:16] Account Manager has logged in.
+[28/10/2009 23:32:20] Rosgos has logged in.
+[28/10/2009 23:32:22] Alen Ii has logged out.
+[28/10/2009 23:32:24] Account Manager has logged in.
+[28/10/2009 23:32:36] Account Manager has logged in.
+[28/10/2009 23:32:42] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo para saber tus spells diga !spells".
+[28/10/2009 23:32:56] Account Manager has logged out.
+[28/10/2009 23:32:58] Rosgos has logged out.
+[28/10/2009 23:33:02] Account Manager has logged out.
+[28/10/2009 23:33:04] Rosgos has logged in.
+[28/10/2009 23:33:12] Account Manager has logged in.
+[28/10/2009 23:33:13] Alexis has logged in.
+[28/10/2009 23:33:30] Rosgos has logged out.
+[28/10/2009 23:33:32] Account Manager has logged out.
+[28/10/2009 23:33:35] Rosgos has logged in.
+[28/10/2009 23:33:42] Atenas Bloker has logged in.
+[28/10/2009 23:33:46] Mister Kina has logged out.
+[28/10/2009 23:34:00] Account Manager has logged out.
+[28/10/2009 23:34:01] Jugo Yupi has logged out.
+[28/10/2009 23:34:02] Account Manager has logged in.
+[28/10/2009 23:34:04] Jugo Yupi has logged in.
+[28/10/2009 23:34:09] Alexis has logged out.
+[28/10/2009 23:34:11] Account Manager has logged out.
+[28/10/2009 23:34:45] Account Manager has logged in.
+[28/10/2009 23:34:46] Account Manager has logged out.
+[28/10/2009 23:34:46] Alexis has logged in.
+[28/10/2009 23:34:58] The Mage has logged out.
+[28/10/2009 23:35:01] Nekro has logged out.
+[28/10/2009 23:35:01] The Mage has logged in.
+[28/10/2009 23:35:04] Nekro has logged in.
+[28/10/2009 23:35:04] Antonio Metalero has logged out.
+[28/10/2009 23:35:05] Nekro has logged out.
+[28/10/2009 23:35:07] Antonio Metalero has logged in.
+[28/10/2009 23:35:50] Antonio Metalero has logged out.
+[28/10/2009 23:35:52] Antonio Metalero has logged in.
+[28/10/2009 23:36:39] Aggrometal has logged out.
+[28/10/2009 23:36:43] Aggrometal has logged in.
+[28/10/2009 23:36:47] Antonio Metalero has logged out.
+[28/10/2009 23:36:48] Rosgos has logged out.
+[28/10/2009 23:36:50] Antonio Metalero has logged in.
+[28/10/2009 23:36:52] Teste dois has logged out.
+[28/10/2009 23:36:58] Teste dois has logged in.
+[28/10/2009 23:36:58] Rosgos has logged in.
+[28/10/2009 23:37:40] Aggrometal has logged out.
+[28/10/2009 23:37:41] Aggrometal has logged in.
+[28/10/2009 23:37:48] Antonio Metalero has logged out.
+[28/10/2009 23:37:49] Mister Kina has logged in.
+[28/10/2009 23:37:50] Antonio Metalero has logged in.
+[28/10/2009 23:37:51] The Cossio has logged out.
+[28/10/2009 23:37:52] Aggrometal has logged out.
+[28/10/2009 23:37:53] Zuko has logged in.
+[28/10/2009 23:37:54] The Cossio has logged in.
+[28/10/2009 23:38:10] Antonio Metalero has logged out.
+[28/10/2009 23:38:13] Antonio Metalero has logged in.
+[28/10/2009 23:38:14] Louker has logged out.
+[28/10/2009 23:38:15] Teste dois has logged out.
+[28/10/2009 23:38:16] Louker has logged in.
+[28/10/2009 23:38:17] Zuko has logged out.
+[28/10/2009 23:38:18] Aggrometal has logged in.
+[28/10/2009 23:38:21] Teste dois has logged in.
+[28/10/2009 23:38:51] Jugo Yupi has logged out.
+[28/10/2009 23:38:54] Antonio Metalero has logged out.
+[28/10/2009 23:38:55] Exhl Sikario has logged out.
+[28/10/2009 23:38:55] Alex la Vengansa has logged out.
+[28/10/2009 23:38:57] Antonio Metalero has logged in.
+[28/10/2009 23:38:57] Exhl Sikario has logged in.
+[28/10/2009 23:38:58] Alex la Vengansa has logged in.
+[28/10/2009 23:38:59] Jugo Yupi has logged in.
+[28/10/2009 23:39:05] Alex la Vengansa has logged out.
+[28/10/2009 23:39:07] Alex la Vengansa has logged in.
+[28/10/2009 23:39:09] Aggrometal has logged out.
+[28/10/2009 23:39:11] Aggrometal has logged in.
+[28/10/2009 23:39:19] Antonio Metalero has logged out.
+[28/10/2009 23:39:21] Antonio Metalero has logged in.
+[28/10/2009 23:39:23] Teste dois has logged out.
+[28/10/2009 23:39:25] Teste dois has logged in.
+[28/10/2009 23:39:32] The Mage has logged out.
+[28/10/2009 23:39:37] The Mage has logged in.
+[28/10/2009 23:39:48] Jugo Yupi has logged out.
+[28/10/2009 23:39:50] Jugo Yupi has logged in.
+[28/10/2009 23:39:53] Aggrometal has logged out.
+[28/10/2009 23:39:59] Aggrometal has logged in.
+[28/10/2009 23:40:02] Aggrometal has logged out.
+[28/10/2009 23:40:05] Aggrometal has logged in.
+[28/10/2009 23:40:15] Alex la Vengansa has logged out.
+[28/10/2009 23:40:16] Aggrometal has logged out.
+[28/10/2009 23:40:17] Alex la Vengansa has logged in.
+[28/10/2009 23:40:19] Aggrometal has logged in.
+[28/10/2009 23:40:21] Jugo Yupi has logged out.
+[28/10/2009 23:40:23] Jugo Yupi has logged in.
+[28/10/2009 23:41:14] Mister Kina has logged out.
+[28/10/2009 23:41:17] Mister Kina has logged in.
+[28/10/2009 23:41:19] Aggrometal has logged out.
+[28/10/2009 23:41:20] Antonio Metalero has logged out.
+[28/10/2009 23:41:21] Zuko has logged in.
+[28/10/2009 23:41:22] Antonio Metalero has logged in.
+[28/10/2009 23:41:25] Rosgos has logged out.
+[28/10/2009 23:41:32] Rosgos has logged in.
+[28/10/2009 23:41:36] Atenas Bloker has logged out.
+[28/10/2009 23:41:38] Atenas Bloker has logged in.
+[28/10/2009 23:41:51] Louker has logged out.
+[28/10/2009 23:42:30] > Saving server...
+[28/10/2009 23:42:39] > SAVE: Complete in 8.672 seconds using relational house storage.
+[28/10/2009 23:42:43] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo para saber tus spells diga !spells".
+[28/10/2009 23:43:01] Jugo Yupi has logged out.
+[28/10/2009 23:43:05] Mister Kina has logged out.
+[28/10/2009 23:43:13] Jugo Yupi has logged in.
+[28/10/2009 23:43:18] Mister Kina has logged in.
+[28/10/2009 23:44:30] Zuko has logged out.
+[28/10/2009 23:44:31] Zuko has logged in.
+[28/10/2009 23:45:36] 
+[28/10/2009 23:45:36] Lua Script Error: [TalkAction Interface] 
+[28/10/2009 23:45:36] data/talkactions/scripts/teleporthere.lua:onSay
+[28/10/2009 23:45:36] 
+[28/10/2009 23:45:36] luaGetClosestFreeTile(). Creature not found
+[28/10/2009 23:45:40] 
+[28/10/2009 23:45:40] Lua Script Error: [TalkAction Interface] 
+[28/10/2009 23:45:41] data/talkactions/scripts/teleporthere.lua:onSay
+[28/10/2009 23:45:41] 
+[28/10/2009 23:45:41] luaGetClosestFreeTile(). Creature not found
+[28/10/2009 23:45:53] Account Manager has logged in.
+[28/10/2009 23:46:05] 
+[28/10/2009 23:46:05] Lua Script Error: [TalkAction Interface] 
+[28/10/2009 23:46:05] data/talkactions/scripts/teleporthere.lua:onSay
+[28/10/2009 23:46:05] 
+[28/10/2009 23:46:05] luaGetClosestFreeTile(). Creature not found
+[28/10/2009 23:46:18] Account Manager has logged out.
+[28/10/2009 23:46:20] Account Manager has logged in.
+[28/10/2009 23:46:22] Dark the sorcerer has logged in.
+[28/10/2009 23:46:24] Account Manager has logged out.
+[28/10/2009 23:46:26] Account Manager has logged in.
+[28/10/2009 23:46:33] Colgate has logged in.
+[28/10/2009 23:46:51] Account Manager has logged out.
+[28/10/2009 23:46:52] Antonio Metalero has logged out.
+[28/10/2009 23:46:55] Antonio Metalero has logged in.
+[28/10/2009 23:47:03] Zuko has logged out.
+[28/10/2009 23:47:04] Aggrometal has logged in.
+[28/10/2009 23:47:10] Good Robeerth has logged in.
+[28/10/2009 23:47:38] The Mage has logged out.
+[28/10/2009 23:47:39] Exhl Sikario has logged out.
+[28/10/2009 23:47:40] Alex la Vengansa has logged out.
+[28/10/2009 23:47:42] The Mage has logged in.
+[28/10/2009 23:47:42] Alex la Vengansa has logged in.
+[28/10/2009 23:47:42] Exhl Sikario has logged in.
+[28/10/2009 23:47:48] Itachi has logged out.
+[28/10/2009 23:47:48] Colgate has logged out.
+[28/10/2009 23:47:49] Colgate has logged in.
+[28/10/2009 23:48:06] Colgate has logged out.
+[28/10/2009 23:48:07] Colgate has logged in.
+[28/10/2009 23:48:08] Colgate has logged out.
+[28/10/2009 23:48:24] Account Manager has logged in.
+[28/10/2009 23:48:35] Teste dois has logged out.
+[28/10/2009 23:48:36] Teste dois has logged in.
+[28/10/2009 23:48:37] Teste dois has logged out.
+[28/10/2009 23:48:39] Teste dois has logged in.
+[28/10/2009 23:48:42] Kramolo has logged out.
+[28/10/2009 23:48:42] The Mage has logged out.
+[28/10/2009 23:48:47] Account Manager has logged out.
+[28/10/2009 23:48:52] Account Manager has logged in.
+[28/10/2009 23:49:01] The Mage has logged in.
+[28/10/2009 23:49:02] Kramolo has logged in.
+[28/10/2009 23:49:03] Exhl Sikario has logged out.
+[28/10/2009 23:49:05] Alex la Vengansa has logged out.
+[28/10/2009 23:49:05] Exhl Sikario has logged in.
+[28/10/2009 23:49:06] Alex la Vengansa has logged in.
+[28/10/2009 23:49:11] Account Manager has logged out.
+[28/10/2009 23:49:18] Agat king has logged in.
+[28/10/2009 23:49:30] Dark the sorcerer has logged out.
+[28/10/2009 23:49:54] Aggrometal has logged out.
+[28/10/2009 23:49:58] Aggrometal has logged in.
+[28/10/2009 23:50:44] Account Manager has logged in.
+[28/10/2009 23:50:58] Account Manager has logged out.
+[28/10/2009 23:51:04] Kramolo has logged out.
+[28/10/2009 23:51:04] Aggrometal has logged out.
+[28/10/2009 23:51:04] 
+[28/10/2009 23:51:04] Lua Script Error: [Spell Interface] 
+[28/10/2009 23:51:04] in a timer event called from: 
+[28/10/2009 23:51:04] data/spells/scripts/attack/super explocion.lua:onCastSpell
+[28/10/2009 23:51:04] 
+[28/10/2009 23:51:04] luaDoCombat(). Creature not found
+[28/10/2009 23:51:04] 
+[28/10/2009 23:51:04] Lua Script Error: [Spell Interface] 
+[28/10/2009 23:51:05] in a timer event called from: 
+[28/10/2009 23:51:05] data/spells/scripts/attack/super explocion.lua:onCastSpell
+[28/10/2009 23:51:05] 
+[28/10/2009 23:51:05] luaDoCombat(). Creature not found
+[28/10/2009 23:51:05] 
+[28/10/2009 23:51:05] Lua Script Error: [Spell Interface] 
+[28/10/2009 23:51:05] in a timer event called from: 
+[28/10/2009 23:51:05] data/spells/scripts/attack/super explocion.lua:onCastSpell
+[28/10/2009 23:51:05] 
+[28/10/2009 23:51:05] luaDoCombat(). Creature not found
+[28/10/2009 23:51:06] Alex la Vengansa has logged out.
+[28/10/2009 23:51:06] Exhl Sikario has logged out.
+[28/10/2009 23:51:07] > CLEAN: Removed 909 items from 1799 tiles in 0.125 seconds.
+[28/10/2009 23:51:08] Zuko has logged in.
+[28/10/2009 23:51:08] Alex la Vengansa has logged in.
+[28/10/2009 23:51:12] Exhl Sikario has logged in.
+[28/10/2009 23:51:12] Account Manager has logged in.
+[28/10/2009 23:51:13] Kramolo has logged in.
+[28/10/2009 23:52:00] Alex la Vengansa has logged out.
+[28/10/2009 23:52:00] WorldType set to 'Non-PVP'.
+[28/10/2009 23:52:04] Alex la Vengansa has logged in.
+[28/10/2009 23:52:16] Account Manager has logged out.
+[28/10/2009 23:52:23] Weon Brigido has logged in.
+[28/10/2009 23:52:44] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo para saber tus spells diga !spells".
+[28/10/2009 23:52:45] Mister Kina has logged out.
+[28/10/2009 23:52:49] Mister Kina has logged in.
+[28/10/2009 23:52:50] The Cossio has logged out.
+[28/10/2009 23:52:52] The Cossio has logged in.
+[28/10/2009 23:52:54] Edyxemoo has logged in.
+[28/10/2009 23:52:55] The Cossio has logged out.
+[28/10/2009 23:52:57] The Cossio has logged in.
+[28/10/2009 23:53:10] Atenas Bloker has logged out.
+[28/10/2009 23:53:10] 
+[28/10/2009 23:53:10] Lua Script Error: [Spell Interface] 
+[28/10/2009 23:53:11] in a timer event called from: 
+[28/10/2009 23:53:11] data/spells/scripts/attack/Songs of the Feline.lua:onCastSpell
+[28/10/2009 23:53:11] 
+[28/10/2009 23:53:11] luaDoCombat(). Creature not found
+[28/10/2009 23:53:11] 
+[28/10/2009 23:53:11] Lua Script Error: [Spell Interface] 
+[28/10/2009 23:53:11] in a timer event called from: 
+[28/10/2009 23:53:11] data/spells/scripts/attack/Songs of the Feline.lua:onCastSpell
+[28/10/2009 23:53:11] 
+[28/10/2009 23:53:11] luaDoCombat(). Creature not found
+[28/10/2009 23:53:11] 
+[28/10/2009 23:53:11] Lua Script Error: [Spell Interface] 
+[28/10/2009 23:53:11] in a timer event called from: 
+[28/10/2009 23:53:11] data/spells/scripts/attack/Songs of the Feline.lua:onCastSpell
+[28/10/2009 23:53:11] 
+[28/10/2009 23:53:11] luaDoCombat(). Creature not found
+[28/10/2009 23:53:12] Atenas Bloker has logged in.
+[28/10/2009 23:53:24] The Cossio has logged out.
+[28/10/2009 23:53:26] The Cossio has logged in.
+[28/10/2009 23:53:32] Jugo Yupi has logged out.
+[28/10/2009 23:53:34] Jugo Yupi has logged in.
+[28/10/2009 23:53:41] Account Manager has logged in.
+[28/10/2009 23:53:48] Account Manager has logged out.
+[28/10/2009 23:53:55] Agat king has logged out.
+[28/10/2009 23:53:56] Agat king has logged in.
+[28/10/2009 23:54:11] Agat king has logged out.
+[28/10/2009 23:54:12] Agat king has logged in.
+[28/10/2009 23:54:16] Alexis has logged out.
+[28/10/2009 23:54:18] Alexis has logged in.
+[28/10/2009 23:54:24] Alexis has logged out.
+[28/10/2009 23:54:25] Account Manager has logged in.
+[28/10/2009 23:54:26] Alen Ii has logged in.
+[28/10/2009 23:54:45] Account Manager has logged out.
+[28/10/2009 23:54:57] Account Manager has logged in.
+[28/10/2009 23:55:08] Alen Ii has logged out.
+[28/10/2009 23:55:10] The Cossio has logged out.
+[28/10/2009 23:55:11] Alexis has logged in.
+[28/10/2009 23:55:12] The Cossio has logged in.
+[28/10/2009 23:55:17] Alexis has logged out.
+[28/10/2009 23:55:18] Alen Ii has logged in.
+[28/10/2009 23:55:19] Good Robeerth has logged out.
+[28/10/2009 23:55:20] Jugo Yupi has logged out.
+[28/10/2009 23:55:27] Account Manager has logged out.
+[28/10/2009 23:55:32] Alen Ii has logged out.
+[28/10/2009 23:55:48] Alexis has logged in.
+[28/10/2009 23:55:49] Good Robeerth has logged in.
+[28/10/2009 23:55:52] > Alex la Vengansa broadcasted: "agan imbacion o protestamos !!!".
+[28/10/2009 23:55:53] > Alex la Vengansa broadcasted: "agan imbacion o protestamos !!!".
+[28/10/2009 23:55:54] Buble has logged in.
+[28/10/2009 23:56:12] > Zeroxc broadcasted: "ok invcacion de whatas".
+[28/10/2009 23:56:38] Account Manager has logged in.
+[28/10/2009 23:56:45] Rosgos has logged out.
+[28/10/2009 23:56:50] Rosgos has logged in.
+[28/10/2009 23:56:50] > Zuko broadcasted: "no zero mucho lag".
+[28/10/2009 23:57:00] > CLEAN: Removed 203 items from 206 tiles in 0.093 seconds.
+[28/10/2009 23:57:12] > Zeroxc broadcasted: "ven que da lag".
+[28/10/2009 23:57:14] Account Manager has logged out.
+[28/10/2009 23:57:21] Account Manager has logged in.
+[28/10/2009 23:57:31] Zuko has logged out.
+[28/10/2009 23:57:31] > Saving server...
+[28/10/2009 23:57:41] > SAVE: Complete in 9.422 seconds using relational house storage.
+[28/10/2009 23:57:42] > Zeroxc broadcasted: "mmm dara lag si ago invasion en otro lado????".
+[28/10/2009 23:57:42] > CLEAN: Removed 3 items from 16 tiles in 0.062 seconds.
+[28/10/2009 23:58:04] Account Manager has logged out.
+[28/10/2009 23:58:10] Advenged has logged in.
+[28/10/2009 23:58:39] Alexis has logged out.
+[28/10/2009 23:58:43] Alen Ii has logged in.
+[28/10/2009 23:58:44] > Zeroxc broadcasted: "zona de whatas".
+[28/10/2009 23:59:24] > Zeroxc broadcasted: "vengan a el teleport de los whatas".

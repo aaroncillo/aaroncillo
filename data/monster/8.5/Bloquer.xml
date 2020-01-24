@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Bloquer" nameDescription="The Bloquer" race="blood" experience="9999" speed="900" manacost="2500">
+  <health now="5000" max="5000"/>
+  <look type="268" head="114" body="132" legs="132" feet="114" addons="3" corpse="2916" />
+  <targetchange interval="5000" chance="8"/>
+  <strategy attack="720" defense="450"/>
+  <flags>
+    <flag summonable="1"/>
+    <flag attackable="1"/>
+    <flag hostile="1"/>
+    <flag illusionable="0"/>
+    <flag convinceable="1"/>
+    <flag pushable="0"/>
+    <flag canpushitems="1"/>
+    <flag canpushcreatures="0"/>
+    <flag targetdistance="1"/>
+    <flag staticattack="90"/>
+    <flag runonhealth="0"/>
+  </flags>
+  <attacks>
+     <attack name="Challenge" chance="75" speed="2000" />
+  </attacks>
+  <defenses armor="45" defense="10"/>
+  <immunities>
+    <immunity physical="1"/>
+    <immunity holy="0"/>
+    <immunity energy="1"/>
+    <immunity fire="1"/>
+    <immunity death="0"/>
+    <immunity earth="1"/>
+    <immunity ice="1"/>
+    <immunity poison="1"/>
+    <immunity lifedrain="1"/>
+    <immunity paralyze="0"/>
+    <immunity outfit="1"/>
+    <immunity drunk="1"/>
+    <immunity invisible="1"/>
+  </immunities>
+  <voices interval="5000" chance="10">
+    <voice sentence="Simsalabim"/>
+    <voice sentence="Feel the power of my magic, tiny mortal!"/>
+    <voice sentence="Be careful what you wish for."/>
+    <voice sentence="Wishes can come true."/>
+  </voices>
+  <loot>
+     <item id="1978" countmax="1" chance="2500"/>
+    <item id="2745" countmax="1" chance="1000"/>
+    <item id="7378" countmax="2" chance1="2000" chancemax="0"/>
+    <item id="2146" countmax="4" chance="2500"/>
+    <item id="2148" countmax="20" chance1="100000" chancemax="0"/>
+    <item id="2684" countmax="5" chance1="50000" chancemax="0"/>
+    <item id="2146" countmax="4" chance1="6666" chancemax="0"/>
+    <item id="2663" countmax="1" chance="100"/>
+    <item id="1971" chance="10000"/>
+    <item id="2044" chance="20000"/>
+    <item id="2063" countmax="1" chance="7500"/>
+    <item id="5912" countmax="1" chance1="5000" chancemax="0"/>
+  </loot>
+</monster>

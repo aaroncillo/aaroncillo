@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Phoenix Wayfarer" script="data/npc/scripts/wayfarer addon 2.lua" walkinterval="2000" floorchange="0">
+	<mana now="800" max="800"/>
+	<health now="200" max="200"/>
+    <look type="367" head="79" body="94" legs="114" feet="77" addons="2"/>
+    <parameters> 
+        <parameter key="module_shop" value="1"/> 
+		<parameter key="message_greet" value="Ola |PLAYERNAME|. yo vendo aol di {trade}."/>
+        <parameter key="shop_buyable" value="aol,2173,10000"/> 
+    </parameters> 
+</npc>

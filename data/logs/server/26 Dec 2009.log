@@ -1,0 +1,518 @@
+[26/12/2009 00:00:35] The Forgotten Server, version 0.3.4 (Crying Damson)
+[26/12/2009 00:00:36] Sever Criado Por Alissow e Comedinha.
+[26/12/2009 00:00:37] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[26/12/2009 00:00:37] Bom Jogo!!!
+[26/12/2009 00:00:37] 
+[26/12/2009 00:00:37] >> Debugging: nothing.
+[26/12/2009 00:00:38] >> Checking software version... outdated, please consider updating!
+[26/12/2009 00:00:39] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[26/12/2009 00:00:40] > Latest version information - version: 0.3.6, patch: 0, build: 3293, timestamp: 1260652199.
+[26/12/2009 00:00:40] [Warning - ConfigManager::getBool] 62
+[26/12/2009 00:00:40] 
+[26/12/2009 00:00:40] >> Loading config (config.lua)
+[26/12/2009 00:00:40] > Using plaintext passwords
+[26/12/2009 00:00:40] >> Loading RSA key
+[26/12/2009 00:00:40] >> Starting SQL connection
+[26/12/2009 00:00:40] >> Running Database Manager
+[26/12/2009 00:00:41] > Optimized database.
+[26/12/2009 00:00:41] >> Loading items
+[26/12/2009 00:00:42] >> Loading groups
+[26/12/2009 00:00:42] >> Loading vocations
+[26/12/2009 00:00:42] >> Loading script systems
+[26/12/2009 00:00:49] >> Loading chat channels
+[26/12/2009 00:00:50] >> Loading outfits
+[26/12/2009 00:00:50] >> Loading experience stages
+[26/12/2009 00:00:50] >> Loading monsters
+[26/12/2009 00:00:53] >> Loading map and spawns...
+[26/12/2009 00:00:54] > Map size: 1100x1100.
+[26/12/2009 00:00:54] > Map descriptions: 
+[26/12/2009 00:00:54] Saved with Remere's Map Editor 1.1.10
+[26/12/2009 00:00:54] Remere 's Map Editor Beta
+[26/12/2009 00:00:56] Duplicate uniqueId 9911
+[26/12/2009 00:00:56] Duplicate uniqueId 9912
+[26/12/2009 00:00:56] Duplicate uniqueId 9913
+[26/12/2009 00:00:56] Duplicate uniqueId 9914
+[26/12/2009 00:00:56] Duplicate uniqueId 9915
+[26/12/2009 00:00:58] Duplicate uniqueId 2471
+[26/12/2009 00:00:59] Duplicate uniqueId 8880
+[26/12/2009 00:00:59] Duplicate uniqueId 8880
+[26/12/2009 00:01:00] Duplicate uniqueId 5006
+[26/12/2009 00:01:00] > Map loading time: 7.468 seconds.
+[26/12/2009 00:01:02] > Data loading time: 1.734 seconds.
+[26/12/2009 00:01:02] > Unserialization time for houses: 0.14 seconds.
+[26/12/2009 00:01:46] > Unserialization time for map: 43.969 seconds.
+[26/12/2009 00:01:46] >> Checking world type... PvP
+[26/12/2009 00:01:46] >> Initializing game state modules and registering services...
+[26/12/2009 00:01:48] > Global address: 201.246.37.70
+[26/12/2009 00:01:48] > Local ports:
+[26/12/2009 00:01:48] 7171	7172	
+[26/12/2009 00:01:48] >> All modules were loaded, server starting up...
+[26/12/2009 00:01:48] >> Aggrox metal server Online!
+[26/12/2009 00:01:48] 
+[26/12/2009 00:02:10] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[26/12/2009 00:02:12] Hoster Aggresor has logged in.
+[26/12/2009 00:02:19] Juako has logged in.
+[26/12/2009 00:02:36] 
+[26/12/2009 00:02:36] Lua Script Error: [CreatureScript Interface] 
+[26/12/2009 00:02:36] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[26/12/2009 00:02:36] 
+[26/12/2009 00:02:36] luaGetCreatureName(). Creature not found
+[26/12/2009 00:02:36] 
+[26/12/2009 00:02:36] Lua Script Error: [CreatureScript Interface] 
+[26/12/2009 00:02:36] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[26/12/2009 00:02:36] 
+[26/12/2009 00:02:36] luaGetCreatureName(). Creature not found
+[26/12/2009 00:02:36] 
+[26/12/2009 00:02:36] Lua Script Error: [CreatureScript Interface] 
+[26/12/2009 00:02:36] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[26/12/2009 00:02:36] 
+[26/12/2009 00:02:36] data/creaturescripts/scripts/playerdeath.lua:41: attempt to concatenate a boolean value
+[26/12/2009 00:02:36] stack traceback:
+[26/12/2009 00:02:36] 	data/creaturescripts/scripts/playerdeath.lua:41: in function <data/creaturescripts/scripts/playerdeath.lua:9>
+[26/12/2009 00:02:36] 
+[26/12/2009 00:02:36] Lua Script Error: [CreatureScript Interface] 
+[26/12/2009 00:02:37] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[26/12/2009 00:02:37] 
+[26/12/2009 00:02:37] luaGetCreatureName(). Creature not found
+[26/12/2009 00:02:37] 
+[26/12/2009 00:02:37] Lua Script Error: [CreatureScript Interface] 
+[26/12/2009 00:02:37] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[26/12/2009 00:02:37] 
+[26/12/2009 00:02:37] luaGetCreatureName(). Creature not found
+[26/12/2009 00:02:37] 
+[26/12/2009 00:02:37] Lua Script Error: [CreatureScript Interface] 
+[26/12/2009 00:02:37] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[26/12/2009 00:02:37] 
+[26/12/2009 00:02:37] data/creaturescripts/scripts/playerdeath.lua:41: attempt to concatenate a boolean value
+[26/12/2009 00:02:37] stack traceback:
+[26/12/2009 00:02:37] 	data/creaturescripts/scripts/playerdeath.lua:41: in function <data/creaturescripts/scripts/playerdeath.lua:9>
+[26/12/2009 00:02:38] Juako has logged out.
+[26/12/2009 00:02:39] Juako has logged in.
+[26/12/2009 00:03:01] 
+[26/12/2009 00:03:01] Lua Script Error: [CreatureScript Interface] 
+[26/12/2009 00:03:01] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[26/12/2009 00:03:01] 
+[26/12/2009 00:03:01] luaGetCreatureName(). Creature not found
+[26/12/2009 00:03:01] 
+[26/12/2009 00:03:01] Lua Script Error: [CreatureScript Interface] 
+[26/12/2009 00:03:01] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[26/12/2009 00:03:01] 
+[26/12/2009 00:03:01] luaGetCreatureName(). Creature not found
+[26/12/2009 00:03:01] 
+[26/12/2009 00:03:01] Lua Script Error: [CreatureScript Interface] 
+[26/12/2009 00:03:01] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[26/12/2009 00:03:02] 
+[26/12/2009 00:03:02] data/creaturescripts/scripts/playerdeath.lua:41: attempt to concatenate a boolean value
+[26/12/2009 00:03:02] stack traceback:
+[26/12/2009 00:03:02] 	data/creaturescripts/scripts/playerdeath.lua:41: in function <data/creaturescripts/scripts/playerdeath.lua:9>
+[26/12/2009 00:03:02] 
+[26/12/2009 00:03:02] Lua Script Error: [CreatureScript Interface] 
+[26/12/2009 00:03:02] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[26/12/2009 00:03:02] 
+[26/12/2009 00:03:02] luaGetCreatureName(). Creature not found
+[26/12/2009 00:03:02] 
+[26/12/2009 00:03:02] Lua Script Error: [CreatureScript Interface] 
+[26/12/2009 00:03:02] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[26/12/2009 00:03:02] 
+[26/12/2009 00:03:02] luaGetCreatureName(). Creature not found
+[26/12/2009 00:03:02] 
+[26/12/2009 00:03:02] Lua Script Error: [CreatureScript Interface] 
+[26/12/2009 00:03:02] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[26/12/2009 00:03:02] 
+[26/12/2009 00:03:02] data/creaturescripts/scripts/playerdeath.lua:41: attempt to concatenate a boolean value
+[26/12/2009 00:03:03] stack traceback:
+[26/12/2009 00:03:03] 	data/creaturescripts/scripts/playerdeath.lua:41: in function <data/creaturescripts/scripts/playerdeath.lua:9>
+[26/12/2009 00:03:03] Juako has logged out.
+[26/12/2009 00:03:05] Juako has logged in.
+[26/12/2009 00:03:09] Diiegho has logged in.
+[26/12/2009 00:05:36] > Broadcasted message: "Diiegho [1209] Murio por Will Smith!!".
+[26/12/2009 00:05:36] > Broadcasted message: "Diiegho [1209] Murio por Will Smith!!".
+[26/12/2009 00:05:37] Diiegho has logged out.
+[26/12/2009 00:05:38] Diiegho has logged in.
+[26/12/2009 00:05:58] > Broadcasted message: "Juako [421] Murio por Hitler!!".
+[26/12/2009 00:06:01] > Broadcasted message: "Juako [421] Murio por Hitler!!".
+[26/12/2009 00:06:02] Juako has logged out.
+[26/12/2009 00:06:10] Juako has logged in.
+[26/12/2009 00:06:33] Account Manager has logged in.
+[26/12/2009 00:06:50] Account Manager has logged out.
+[26/12/2009 00:07:00] Account Manager has logged in.
+[26/12/2009 00:07:02] > Broadcasted message: "Diiegho [1215] Murio por Will Smith!!".
+[26/12/2009 00:07:02] > Broadcasted message: "Diiegho [1215] Murio por Will Smith!!".
+[26/12/2009 00:07:03] Diiegho has logged out.
+[26/12/2009 00:07:08] Diiegho has logged in.
+[26/12/2009 00:07:16] Account Manager has logged out.
+[26/12/2009 00:07:51] > Broadcasted message: "Diiegho [1213] Murio por Will Smith!!".
+[26/12/2009 00:07:53] > Broadcasted message: "Diiegho [1213] Murio por Will Smith!!".
+[26/12/2009 00:07:53] Diiegho has logged out.
+[26/12/2009 00:09:47] > Broadcasted message: "Mu invade Slayer city".
+[26/12/2009 00:10:50] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[26/12/2009 00:11:29] Rorowx has logged in.
+[26/12/2009 00:12:31] > Broadcasted message: "Juako [421] Murio por Demonio!!".
+[26/12/2009 00:12:31] > Broadcasted message: "Juako [421] Murio por Demonio!!".
+[26/12/2009 00:12:32] Juako has logged out.
+[26/12/2009 00:12:34] Juako has logged in.
+[26/12/2009 00:12:59] 
+[26/12/2009 00:12:59] Lua Script Error: [CreatureScript Interface] 
+[26/12/2009 00:12:59] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[26/12/2009 00:12:59] 
+[26/12/2009 00:12:59] luaGetCreatureName(). Creature not found
+[26/12/2009 00:12:59] 
+[26/12/2009 00:12:59] Lua Script Error: [CreatureScript Interface] 
+[26/12/2009 00:12:59] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[26/12/2009 00:12:59] 
+[26/12/2009 00:12:59] luaGetCreatureName(). Creature not found
+[26/12/2009 00:12:59] 
+[26/12/2009 00:12:59] Lua Script Error: [CreatureScript Interface] 
+[26/12/2009 00:12:59] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[26/12/2009 00:12:59] 
+[26/12/2009 00:12:59] data/creaturescripts/scripts/playerdeath.lua:41: attempt to concatenate a boolean value
+[26/12/2009 00:12:59] stack traceback:
+[26/12/2009 00:12:59] 	data/creaturescripts/scripts/playerdeath.lua:41: in function <data/creaturescripts/scripts/playerdeath.lua:9>
+[26/12/2009 00:13:00] 
+[26/12/2009 00:13:00] Lua Script Error: [CreatureScript Interface] 
+[26/12/2009 00:13:00] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[26/12/2009 00:13:00] 
+[26/12/2009 00:13:00] luaGetCreatureName(). Creature not found
+[26/12/2009 00:13:00] 
+[26/12/2009 00:13:00] Lua Script Error: [CreatureScript Interface] 
+[26/12/2009 00:13:00] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[26/12/2009 00:13:00] 
+[26/12/2009 00:13:00] luaGetCreatureName(). Creature not found
+[26/12/2009 00:13:00] 
+[26/12/2009 00:13:00] Lua Script Error: [CreatureScript Interface] 
+[26/12/2009 00:13:00] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[26/12/2009 00:13:00] 
+[26/12/2009 00:13:00] data/creaturescripts/scripts/playerdeath.lua:41: attempt to concatenate a boolean value
+[26/12/2009 00:13:00] stack traceback:
+[26/12/2009 00:13:00] 	data/creaturescripts/scripts/playerdeath.lua:41: in function <data/creaturescripts/scripts/playerdeath.lua:9>
+[26/12/2009 00:13:01] Juako has logged out.
+[26/12/2009 00:13:03] Juako has logged in.
+[26/12/2009 00:13:31] 
+[26/12/2009 00:13:31] Lua Script Error: [CreatureScript Interface] 
+[26/12/2009 00:13:31] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[26/12/2009 00:13:31] 
+[26/12/2009 00:13:31] luaGetCreatureName(). Creature not found
+[26/12/2009 00:13:31] 
+[26/12/2009 00:13:31] Lua Script Error: [CreatureScript Interface] 
+[26/12/2009 00:13:31] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[26/12/2009 00:13:31] 
+[26/12/2009 00:13:31] luaGetCreatureName(). Creature not found
+[26/12/2009 00:13:31] 
+[26/12/2009 00:13:31] Lua Script Error: [CreatureScript Interface] 
+[26/12/2009 00:13:31] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[26/12/2009 00:13:31] 
+[26/12/2009 00:13:31] data/creaturescripts/scripts/playerdeath.lua:41: attempt to concatenate a boolean value
+[26/12/2009 00:13:32] stack traceback:
+[26/12/2009 00:13:32] 	data/creaturescripts/scripts/playerdeath.lua:41: in function <data/creaturescripts/scripts/playerdeath.lua:9>
+[26/12/2009 00:13:32] 
+[26/12/2009 00:13:32] Lua Script Error: [CreatureScript Interface] 
+[26/12/2009 00:13:32] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[26/12/2009 00:13:32] 
+[26/12/2009 00:13:32] luaGetCreatureName(). Creature not found
+[26/12/2009 00:13:32] 
+[26/12/2009 00:13:32] Lua Script Error: [CreatureScript Interface] 
+[26/12/2009 00:13:32] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[26/12/2009 00:13:32] 
+[26/12/2009 00:13:32] luaGetCreatureName(). Creature not found
+[26/12/2009 00:13:32] 
+[26/12/2009 00:13:32] Lua Script Error: [CreatureScript Interface] 
+[26/12/2009 00:13:32] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[26/12/2009 00:13:33] 
+[26/12/2009 00:13:33] data/creaturescripts/scripts/playerdeath.lua:41: attempt to concatenate a boolean value
+[26/12/2009 00:13:33] stack traceback:
+[26/12/2009 00:13:33] 	data/creaturescripts/scripts/playerdeath.lua:41: in function <data/creaturescripts/scripts/playerdeath.lua:9>
+[26/12/2009 00:13:33] Juako has logged out.
+[26/12/2009 00:13:35] Juako has logged in.
+[26/12/2009 00:14:47] > Broadcasted message: "Mu invade Slayer city".
+[26/12/2009 00:15:00] > Broadcasted message: "Rorowx [5253] Murio por Cura tato!!".
+[26/12/2009 00:15:01] > Broadcasted message: "Rorowx [5253] Murio por Cura tato!!".
+[26/12/2009 00:15:01] Rorowx has logged out.
+[26/12/2009 00:15:03] Rorowx has logged in.
+[26/12/2009 00:15:50] > Saving server...
+[26/12/2009 00:16:08] > SAVE: Complete in 18.047 seconds using relational house storage.
+[26/12/2009 00:17:09] 
+[26/12/2009 00:17:09] Lua Script Error: [CreatureScript Interface] 
+[26/12/2009 00:17:09] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[26/12/2009 00:17:09] 
+[26/12/2009 00:17:09] luaGetCreatureName(). Creature not found
+[26/12/2009 00:17:09] 
+[26/12/2009 00:17:09] Lua Script Error: [CreatureScript Interface] 
+[26/12/2009 00:17:09] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[26/12/2009 00:17:10] 
+[26/12/2009 00:17:10] luaGetCreatureName(). Creature not found
+[26/12/2009 00:17:10] 
+[26/12/2009 00:17:10] Lua Script Error: [CreatureScript Interface] 
+[26/12/2009 00:17:10] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[26/12/2009 00:17:10] 
+[26/12/2009 00:17:10] data/creaturescripts/scripts/playerdeath.lua:41: attempt to concatenate a boolean value
+[26/12/2009 00:17:10] stack traceback:
+[26/12/2009 00:17:10] 	data/creaturescripts/scripts/playerdeath.lua:41: in function <data/creaturescripts/scripts/playerdeath.lua:9>
+[26/12/2009 00:17:10] 
+[26/12/2009 00:17:10] Lua Script Error: [CreatureScript Interface] 
+[26/12/2009 00:17:10] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[26/12/2009 00:17:10] 
+[26/12/2009 00:17:10] luaGetCreatureName(). Creature not found
+[26/12/2009 00:17:10] 
+[26/12/2009 00:17:10] Lua Script Error: [CreatureScript Interface] 
+[26/12/2009 00:17:10] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[26/12/2009 00:17:10] 
+[26/12/2009 00:17:10] luaGetCreatureName(). Creature not found
+[26/12/2009 00:17:10] 
+[26/12/2009 00:17:10] Lua Script Error: [CreatureScript Interface] 
+[26/12/2009 00:17:11] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[26/12/2009 00:17:11] 
+[26/12/2009 00:17:11] data/creaturescripts/scripts/playerdeath.lua:41: attempt to concatenate a boolean value
+[26/12/2009 00:17:11] stack traceback:
+[26/12/2009 00:17:11] 	data/creaturescripts/scripts/playerdeath.lua:41: in function <data/creaturescripts/scripts/playerdeath.lua:9>
+[26/12/2009 00:17:11] Rorowx has logged out.
+[26/12/2009 00:17:13] Rorowx has logged in.
+[26/12/2009 00:17:21] Rorowx has logged out.
+[26/12/2009 00:20:51] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[26/12/2009 00:22:02] Hoster Aggresor has logged out.
+[26/12/2009 00:22:03] Hoster Aggresor has logged in.
+[26/12/2009 00:22:11] 
+[26/12/2009 00:22:11] Lua Script Error: [CreatureScript Interface] 
+[26/12/2009 00:22:11] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[26/12/2009 00:22:11] 
+[26/12/2009 00:22:11] luaGetCreatureName(). Creature not found
+[26/12/2009 00:22:11] 
+[26/12/2009 00:22:11] Lua Script Error: [CreatureScript Interface] 
+[26/12/2009 00:22:11] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[26/12/2009 00:22:11] 
+[26/12/2009 00:22:11] luaGetCreatureName(). Creature not found
+[26/12/2009 00:22:11] 
+[26/12/2009 00:22:11] Lua Script Error: [CreatureScript Interface] 
+[26/12/2009 00:22:11] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[26/12/2009 00:22:12] 
+[26/12/2009 00:22:12] data/creaturescripts/scripts/playerdeath.lua:41: attempt to concatenate a boolean value
+[26/12/2009 00:22:12] stack traceback:
+[26/12/2009 00:22:12] 	data/creaturescripts/scripts/playerdeath.lua:41: in function <data/creaturescripts/scripts/playerdeath.lua:9>
+[26/12/2009 00:22:12] 
+[26/12/2009 00:22:12] Lua Script Error: [CreatureScript Interface] 
+[26/12/2009 00:22:12] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[26/12/2009 00:22:12] 
+[26/12/2009 00:22:12] luaGetCreatureName(). Creature not found
+[26/12/2009 00:22:12] 
+[26/12/2009 00:22:12] Lua Script Error: [CreatureScript Interface] 
+[26/12/2009 00:22:12] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[26/12/2009 00:22:12] 
+[26/12/2009 00:22:12] luaGetCreatureName(). Creature not found
+[26/12/2009 00:22:12] 
+[26/12/2009 00:22:12] Lua Script Error: [CreatureScript Interface] 
+[26/12/2009 00:22:12] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[26/12/2009 00:22:12] 
+[26/12/2009 00:22:12] data/creaturescripts/scripts/playerdeath.lua:41: attempt to concatenate a boolean value
+[26/12/2009 00:22:13] stack traceback:
+[26/12/2009 00:22:13] 	data/creaturescripts/scripts/playerdeath.lua:41: in function <data/creaturescripts/scripts/playerdeath.lua:9>
+[26/12/2009 00:22:13] Juako has logged out.
+[26/12/2009 00:22:26] Diiegho has logged in.
+[26/12/2009 00:25:24] Hoster Aggresor has logged out.
+[26/12/2009 00:25:25] Account Manager has logged in.
+[26/12/2009 00:25:36] Account Manager has logged out.
+[26/12/2009 00:25:38] Hoster Aggresor has logged in.
+[26/12/2009 00:26:01] Hoster Aggresor has logged out.
+[26/12/2009 00:26:23] Hoster Aggresor has logged in.
+[26/12/2009 00:26:25] Hoster Aggresor has logged out.
+[26/12/2009 00:26:36] Account Manager has logged in.
+[26/12/2009 00:26:57] Account Manager has logged out.
+[26/12/2009 00:26:58] Hoster Aggresor has logged in.
+[26/12/2009 00:27:17] Diiegho has logged out.
+[26/12/2009 00:27:18] Hoster Aggresor has logged out.
+[26/12/2009 00:27:18] > Saving server...
+[26/12/2009 00:27:25] > SAVE: Complete in 7.313 seconds using relational house storage.
+[26/12/2009 00:27:25] Preparing to shutdown server..
+[26/12/2009 00:27:26] .
+[26/12/2009 00:27:26] Exiting
+[26/12/2009 00:27:37] The Forgotten Server, version 0.3.4 (Crying Damson)
+[26/12/2009 00:27:37] Sever Criado Por Alissow e Comedinha.
+[26/12/2009 00:27:37] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[26/12/2009 00:27:37] Bom Jogo!!!
+[26/12/2009 00:27:37] 
+[26/12/2009 00:27:37] >> Debugging: nothing.
+[26/12/2009 00:27:37] >> Checking software version... outdated, please consider updating!
+[26/12/2009 00:27:38] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[26/12/2009 00:27:38] > Latest version information - version: 0.3.6, patch: 0, build: 3293, timestamp: 1260652199.
+[26/12/2009 00:27:38] [Warning - ConfigManager::getBool] 62
+[26/12/2009 00:27:38] 
+[26/12/2009 00:27:38] >> Loading config (config.lua)
+[26/12/2009 00:27:38] > Using plaintext passwords
+[26/12/2009 00:27:38] >> Loading RSA key
+[26/12/2009 00:27:38] >> Starting SQL connection
+[26/12/2009 00:27:38] >> Running Database Manager
+[26/12/2009 00:27:40] > Optimized database.
+[26/12/2009 00:27:40] >> Loading items
+[26/12/2009 00:27:41] >> Loading groups
+[26/12/2009 00:27:41] >> Loading vocations
+[26/12/2009 00:27:41] >> Loading script systems
+[26/12/2009 00:27:45] >> Loading chat channels
+[26/12/2009 00:27:45] >> Loading outfits
+[26/12/2009 00:27:45] >> Loading experience stages
+[26/12/2009 00:27:45] >> Loading monsters
+[26/12/2009 00:27:48] >> Loading map and spawns...
+[26/12/2009 00:27:49] > Map size: 1100x1100.
+[26/12/2009 00:27:49] > Map descriptions: 
+[26/12/2009 00:27:49] Saved with Remere's Map Editor 1.1.10
+[26/12/2009 00:27:49] Remere 's Map Editor Beta
+[26/12/2009 00:27:51] Duplicate uniqueId 9911
+[26/12/2009 00:27:51] Duplicate uniqueId 9912
+[26/12/2009 00:27:51] Duplicate uniqueId 9913
+[26/12/2009 00:27:52] Duplicate uniqueId 9914
+[26/12/2009 00:27:52] Duplicate uniqueId 9915
+[26/12/2009 00:27:53] Duplicate uniqueId 2471
+[26/12/2009 00:27:55] Duplicate uniqueId 8880
+[26/12/2009 00:27:55] Duplicate uniqueId 8880
+[26/12/2009 00:27:55] Duplicate uniqueId 5006
+[26/12/2009 00:27:56] > Map loading time: 7.985 seconds.
+[26/12/2009 00:27:58] > Data loading time: 2.125 seconds.
+[26/12/2009 00:27:58] > Unserialization time for houses: 0.093 seconds.
+[26/12/2009 00:28:42] > Unserialization time for map: 44.047 seconds.
+[26/12/2009 00:28:42] >> Checking world type... PvP
+[26/12/2009 00:28:42] >> Initializing game state modules and registering services...
+[26/12/2009 00:28:44] > Global address: 201.246.37.70
+[26/12/2009 00:28:44] > Local ports:
+[26/12/2009 00:28:44] 7171	7172	
+[26/12/2009 00:28:44] >> All modules were loaded, server starting up...
+[26/12/2009 00:28:44] >> Aggrox metal server Online!
+[26/12/2009 00:28:44] 
+[26/12/2009 00:28:44] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[26/12/2009 00:28:51] Account Manager has logged in.
+[26/12/2009 00:28:51] Account Manager has logged in.
+[26/12/2009 00:28:57] Account Manager has logged out.
+[26/12/2009 00:29:07] Diiegho has logged in.
+[26/12/2009 00:29:23] Account Manager has logged out.
+[26/12/2009 00:29:23] Account Manager has logged in.
+[26/12/2009 00:29:53] Account Manager has logged out.
+[26/12/2009 00:29:54] Hoster Aggresor has logged in.
+[26/12/2009 00:30:21] Diiegho has logged out.
+[26/12/2009 00:30:21] Hoster Aggresor has logged out.
+[26/12/2009 00:30:21] > Saving server...
+[26/12/2009 00:30:32] > SAVE: Complete in 10.484 seconds using relational house storage.
+[26/12/2009 00:30:32] Preparing to shutdown server..
+[26/12/2009 00:30:32] .
+[26/12/2009 00:30:32] Exiting
+[26/12/2009 21:13:05] The Forgotten Server, version 0.3.4 (Crying Damson)
+[26/12/2009 21:13:05] Sever Criado Por Alissow e Comedinha.
+[26/12/2009 21:13:05] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[26/12/2009 21:13:05] Bom Jogo!!!
+[26/12/2009 21:13:05] 
+[26/12/2009 21:13:05] >> Debugging: nothing.
+[26/12/2009 21:13:05] >> Checking software version... outdated, please consider updating!
+[26/12/2009 21:13:06] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[26/12/2009 21:13:06] > Latest version information - version: 0.3.6, patch: 0, build: 3293, timestamp: 1260652199.
+[26/12/2009 21:13:07] [Warning - ConfigManager::getBool] 62
+[26/12/2009 21:13:07] 
+[26/12/2009 21:13:07] >> Loading config (config.lua)
+[26/12/2009 21:13:07] > Using plaintext passwords
+[26/12/2009 21:13:07] >> Loading RSA key
+[26/12/2009 21:13:07] >> Starting SQL connection
+[26/12/2009 21:13:07] >> Running Database Manager
+[26/12/2009 21:13:09] > Optimized database.
+[26/12/2009 21:13:09] >> Loading items
+[26/12/2009 21:13:10] >> Loading groups
+[26/12/2009 21:13:10] >> Loading vocations
+[26/12/2009 21:13:10] >> Loading script systems
+[26/12/2009 21:13:16] >> Loading chat channels
+[26/12/2009 21:13:16] >> Loading outfits
+[26/12/2009 21:13:16] >> Loading experience stages
+[26/12/2009 21:13:16] >> Loading monsters
+[26/12/2009 21:13:21] >> Loading map and spawns...
+[26/12/2009 21:13:23] > Map size: 1100x1100.
+[26/12/2009 21:13:23] > Map descriptions: 
+[26/12/2009 21:13:23] Saved with Remere's Map Editor 1.1.10
+[26/12/2009 21:13:23] Remere 's Map Editor Beta
+[26/12/2009 21:13:25] Duplicate uniqueId 9911
+[26/12/2009 21:13:26] Duplicate uniqueId 9912
+[26/12/2009 21:13:26] Duplicate uniqueId 9913
+[26/12/2009 21:13:26] Duplicate uniqueId 9914
+[26/12/2009 21:13:26] Duplicate uniqueId 9915
+[26/12/2009 21:13:29] Duplicate uniqueId 2471
+[26/12/2009 21:13:31] Duplicate uniqueId 8880
+[26/12/2009 21:13:32] Duplicate uniqueId 8880
+[26/12/2009 21:13:32] Duplicate uniqueId 5006
+[26/12/2009 21:13:33] > Map loading time: 11.813 seconds.
+[26/12/2009 21:13:36] > Data loading time: 3.563 seconds.
+[26/12/2009 21:13:37] > Unserialization time for houses: 0.625 seconds.
+[26/12/2009 21:14:24] > Unserialization time for map: 46.984 seconds.
+[26/12/2009 21:14:24] >> Checking world type... PvP
+[26/12/2009 21:14:24] >> Initializing game state modules and registering services...
+[26/12/2009 21:14:28] > Global address: 201.246.37.70
+[26/12/2009 21:14:29] > Local ports:
+[26/12/2009 21:14:29] 7171	7172	
+[26/12/2009 21:14:29] >> All modules were loaded, server starting up...
+[26/12/2009 21:14:29] >> Aggrox metal server Online!
+[26/12/2009 21:14:29] 
+[26/12/2009 21:16:04] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[26/12/2009 21:16:11] Hoster Aggresor has logged in.
+[26/12/2009 21:19:13] [Error - MoveEvent::executeStep] Call stack overflow.
+[26/12/2009 21:19:14] [Error - MoveEvent::executeStep] Call stack overflow.
+[26/12/2009 21:23:17] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[26/12/2009 21:27:19] Hoster Aggresor has logged out.
+[26/12/2009 21:27:20] > Saving server...
+[26/12/2009 21:27:37] > SAVE: Complete in 16.093 seconds using relational house storage.
+[26/12/2009 21:27:37] Preparing to shutdown server..
+[26/12/2009 21:27:38] .
+[26/12/2009 21:27:38] Exiting
+[26/12/2009 21:40:20] The Forgotten Server, version 0.3.4 (Crying Damson)
+[26/12/2009 21:40:20] Sever Criado Por Alissow e Comedinha.
+[26/12/2009 21:40:20] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[26/12/2009 21:40:20] Bom Jogo!!!
+[26/12/2009 21:40:20] 
+[26/12/2009 21:40:20] >> Debugging: nothing.
+[26/12/2009 21:40:20] >> Checking software version... outdated, please consider updating!
+[26/12/2009 21:40:21] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[26/12/2009 21:40:21] > Latest version information - version: 0.3.6, patch: 0, build: 3293, timestamp: 1260652199.
+[26/12/2009 21:40:21] [Warning - ConfigManager::getBool] 62
+[26/12/2009 21:40:21] 
+[26/12/2009 21:40:21] >> Loading config (config.lua)
+[26/12/2009 21:40:21] > Using plaintext passwords
+[26/12/2009 21:40:22] >> Loading RSA key
+[26/12/2009 21:40:22] >> Starting SQL connection
+[26/12/2009 21:40:22] >> Running Database Manager
+[26/12/2009 21:40:23] > Optimized database.
+[26/12/2009 21:40:23] >> Loading items
+[26/12/2009 21:40:24] >> Loading groups
+[26/12/2009 21:40:24] >> Loading vocations
+[26/12/2009 21:40:24] >> Loading script systems
+[26/12/2009 21:40:33] >> Loading chat channels
+[26/12/2009 21:40:33] >> Loading outfits
+[26/12/2009 21:40:33] >> Loading experience stages
+[26/12/2009 21:40:33] >> Loading monsters
+[26/12/2009 21:40:36] >> Loading map and spawns...
+[26/12/2009 21:40:37] > Map size: 1100x1100.
+[26/12/2009 21:40:37] > Map descriptions: 
+[26/12/2009 21:40:37] Saved with Remere's Map Editor 1.1.10
+[26/12/2009 21:40:37] Remere 's Map Editor Beta
+[26/12/2009 21:40:39] Duplicate uniqueId 9911
+[26/12/2009 21:40:40] Duplicate uniqueId 9912
+[26/12/2009 21:40:40] Duplicate uniqueId 9913
+[26/12/2009 21:40:40] Duplicate uniqueId 9914
+[26/12/2009 21:40:40] Duplicate uniqueId 9915
+[26/12/2009 21:40:43] Duplicate uniqueId 2471
+[26/12/2009 21:40:53] Duplicate uniqueId 8880
+[26/12/2009 21:40:55] Duplicate uniqueId 8880
+[26/12/2009 21:40:56] Duplicate uniqueId 5006
+[26/12/2009 21:40:57] > Map loading time: 20.89 seconds.
+[26/12/2009 21:41:03] > Data loading time: 6.375 seconds.
+[26/12/2009 21:41:05] > Unserialization time for houses: 1.859 seconds.
+[26/12/2009 21:41:43] > Unserialization time for map: 37.203 seconds.
+[26/12/2009 21:41:43] >> Checking world type... PvP
+[26/12/2009 21:41:43] >> Initializing game state modules and registering services...
+[26/12/2009 21:41:45] > Global address: 201.246.37.70
+[26/12/2009 21:41:45] > Local ports:
+[26/12/2009 21:41:45] 7171	7172	
+[26/12/2009 21:41:45] >> All modules were loaded, server starting up...
+[26/12/2009 21:41:46] >> Aggrox metal server Online!
+[26/12/2009 21:41:46] 
+[26/12/2009 21:44:16] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[26/12/2009 21:44:19] Hoster Aggresor has logged in.
+[26/12/2009 21:50:33] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[26/12/2009 21:53:59] Hoster Aggresor has logged out.
+[26/12/2009 21:55:33] > Saving server...
+[26/12/2009 21:55:46] > SAVE: Complete in 13.016 seconds using relational house storage.
+[26/12/2009 22:00:34] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[26/12/2009 22:10:34] > Saving server...
+[26/12/2009 22:11:15] > SAVE: Complete in 40.235 seconds using relational house storage.
+[26/12/2009 22:11:15] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[26/12/2009 22:16:50] > Saving server...
+[26/12/2009 22:17:23] > SAVE: Complete in 32.312 seconds using relational house storage.
+[26/12/2009 22:17:23] Preparing to shutdown server.

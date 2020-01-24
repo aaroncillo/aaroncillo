@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<raid>
+  <!--Announcements-->
+  <announce delay="0" type="Warning" message="The Orcs are preparing to attack CITYNAME beware!" />
+  <announce delay="3000" type="Event" message="The orcs are attacking CITYNAME! Stop them!" />
+  <announce delay="6000" type="Small Status" message="A Orc Warlord has been summoned!" />
+  <announce delay="10000" type="Default" message="The orcs have died out and finished attacking! Congratulations CITYNAME!" />
+  <!--Single Spawns-->
+  <singlespawn delay="6000" name="Orc Warlord" x="1" y="1" z="1" />
+  <!--Area Spawns-->
+  <areaspawn delay="0" fromx="posX" fromy="posY" fromz="posZ" tox="posX" toy="posY" toz="posZ">
+    <monster name="Orc" amount="5" />
+  </areaspawn>
+  <areaspawn delay="4000" fromx="1" fromy="2" fromz="3" tox="1" toy="2" toz="3">
+    <monster name="Orc Beserker" amount="3" />
+  </areaspawn>
+</raid>
+ 

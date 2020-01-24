@@ -1,0 +1,368 @@
+[30/12/2009 00:00:02] Hoster Aggresor has logged out.
+[30/12/2009 00:00:05] Jack Dee has logged in.
+[30/12/2009 00:00:07] Jack Dee has logged out.
+[30/12/2009 00:00:09] Mono Pirata has logged in.
+[30/12/2009 00:00:39] Mono Pirata has logged out.
+[30/12/2009 00:00:41] Hoster Aggresor has logged in.
+[30/12/2009 00:02:32] Hoster Aggresor has logged out.
+[30/12/2009 00:02:33] Mono Pirata has logged in.
+[30/12/2009 00:03:57] Mono Pirata has logged out.
+[30/12/2009 00:03:59] Hoster Aggresor has logged in.
+[30/12/2009 00:04:57] Hoster Aggresor has logged out.
+[30/12/2009 00:05:01] Mono Pirata has logged in.
+[30/12/2009 00:05:07] 
+[30/12/2009 00:05:07] Lua Script Error: [Action Interface] 
+[30/12/2009 00:05:07] data/actions/scripts/vipflame.lua:onUse
+[30/12/2009 00:05:07] 
+[30/12/2009 00:05:07] luaDoRemoveItem(). Item not found
+[30/12/2009 00:05:40] Mono Pirata has logged out.
+[30/12/2009 00:05:43] Hoster Aggresor has logged in.
+[30/12/2009 00:07:54] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/vipdoorflame.lua)
+[30/12/2009 00:07:54] data/actions/scripts/vipdoorflame.lua:31: '<eof>' expected near 'end'
+[30/12/2009 00:08:05] Hoster Aggresor has logged out.
+[30/12/2009 00:08:07] Mono Pirata has logged in.
+[30/12/2009 00:08:14] Mono Pirata has logged out.
+[30/12/2009 00:08:15] > Broadcasted message: "whatafuck csm invaden Slayer city".
+[30/12/2009 00:08:16] Hoster Aggresor has logged in.
+[30/12/2009 00:08:38] [Error - SingleSpawnEvent::executeEvent] Cannot spawn monster Diblis The Fair
+[30/12/2009 00:09:02] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/vipdoorflame.lua)
+[30/12/2009 00:09:02] data/actions/scripts/vipdoorflame.lua:32: '<eof>' expected near 'end'
+[30/12/2009 00:09:06] Hoster Aggresor has logged out.
+[30/12/2009 00:09:07] Pro Pro has logged in.
+[30/12/2009 00:09:12] Pro Pro has logged out.
+[30/12/2009 00:09:14] Hoster Aggresor has logged in.
+[30/12/2009 00:09:17] > Saving server...
+[30/12/2009 00:09:24] > SAVE: Complete in 6.891 seconds using relational house storage.
+[30/12/2009 00:09:24] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[30/12/2009 00:11:15] > Broadcasted message: "whatafuck csm invaden Slayer city".
+[30/12/2009 00:11:36] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/vipdoorflame.lua)
+[30/12/2009 00:11:36] data/actions/scripts/vipdoorflame.lua:33: '<eof>' expected near 'else'
+[30/12/2009 00:11:38] [Error - SingleSpawnEvent::executeEvent] Cannot spawn monster Diblis The Fair
+[30/12/2009 00:11:41] Hoster Aggresor has logged out.
+[30/12/2009 00:11:43] Pro Pro has logged in.
+[30/12/2009 00:11:46] Pro Pro has logged out.
+[30/12/2009 00:11:48] Hoster Aggresor has logged in.
+[30/12/2009 00:17:59] Hoster Aggresor has logged out.
+[30/12/2009 00:18:01] Mono Pirata has logged in.
+[30/12/2009 00:18:08] Mono Pirata has logged out.
+[30/12/2009 00:18:11] Pro Pro has logged in.
+[30/12/2009 00:19:07] Pro Pro has logged out.
+[30/12/2009 00:19:08] Hoster Aggresor has logged in.
+[30/12/2009 00:19:25] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[30/12/2009 00:19:47] Hoster Aggresor has logged out.
+[30/12/2009 00:19:49] Pro Pro has logged in.
+[30/12/2009 00:21:53] 
+[30/12/2009 00:21:53] Lua Script Error: [Action Interface] 
+[30/12/2009 00:21:53] data/actions/scripts/vipflame.lua:onUse
+[30/12/2009 00:21:53] 
+[30/12/2009 00:21:53] luaDoRemoveItem(). Item not found
+[30/12/2009 00:24:18] > Saving server...
+[30/12/2009 00:24:25] > SAVE: Complete in 6.766 seconds using relational house storage.
+[30/12/2009 00:25:38] Pro Pro has logged out.
+[30/12/2009 00:25:39] Hoster Aggresor has logged in.
+[30/12/2009 00:27:15] > Broadcasted message: "whatafuck csm invaden Slayer city".
+[30/12/2009 00:27:34] [Error - SingleSpawnEvent::executeEvent] Cannot spawn monster whatafuck
+[30/12/2009 00:29:26] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[30/12/2009 00:39:19] > Saving server...
+[30/12/2009 00:39:36] > SAVE: Complete in 17.297 seconds using relational house storage.
+[30/12/2009 00:39:36] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[30/12/2009 00:49:37] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[30/12/2009 00:54:20] > Saving server...
+[30/12/2009 00:54:27] > SAVE: Complete in 7.016 seconds using relational house storage.
+[30/12/2009 00:57:42] > Broadcasted message: "Demonios csm invaden Slayer city".
+[30/12/2009 00:57:51] [Error - SingleSpawnEvent::executeEvent] Cannot spawn monster Demonio
+[30/12/2009 00:59:38] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[30/12/2009 00:59:42] Hoster Aggresor has logged out.
+[30/12/2009 01:09:21] > Saving server...
+[30/12/2009 01:09:28] > SAVE: Complete in 7.109 seconds using relational house storage.
+[30/12/2009 01:09:39] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[30/12/2009 01:19:40] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[30/12/2009 01:24:22] > Saving server...
+[30/12/2009 01:24:28] > SAVE: Complete in 6.437 seconds using relational house storage.
+[30/12/2009 01:29:41] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[30/12/2009 01:39:16] > Broadcasted message: "la limpieza del mapa empieza en 30 segundos, por favor wn recoje tus items!".
+[30/12/2009 01:39:23] > Saving server...
+[30/12/2009 01:39:36] > SAVE: Complete in 13.156 seconds using relational house storage.
+[30/12/2009 01:39:42] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[30/12/2009 01:39:47] > CLEAN: Removed 1 item from 85 tiles in 0.625 seconds.
+[30/12/2009 01:39:47] > Broadcasted message: "el mapa se limpio :P, siguiente limpieza en 2 horas.".
+[30/12/2009 01:41:13] Hoster Aggresor has logged in.
+[30/12/2009 01:42:49] Hoster Aggresor has logged out.
+[30/12/2009 01:42:52] Pro Pro has logged in.
+[30/12/2009 01:49:43] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[30/12/2009 01:52:33] Pro Pro has logged out.
+[30/12/2009 01:54:24] > Saving server...
+[30/12/2009 01:54:43] > SAVE: Complete in 18.813 seconds using relational house storage.
+[30/12/2009 01:59:44] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[30/12/2009 02:09:25] > Saving server...
+[30/12/2009 02:09:41] > SAVE: Complete in 15.218 seconds using relational house storage.
+[30/12/2009 02:09:45] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[30/12/2009 02:19:46] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[30/12/2009 02:24:26] > Saving server...
+[30/12/2009 02:24:32] > SAVE: Complete in 6.437 seconds using relational house storage.
+[30/12/2009 02:29:47] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[30/12/2009 02:36:52] Hoster Aggresor has logged in.
+[30/12/2009 02:39:27] > Saving server...
+[30/12/2009 02:39:43] > SAVE: Complete in 16.641 seconds using relational house storage.
+[30/12/2009 02:39:48] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[30/12/2009 02:49:49] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[30/12/2009 02:49:56] Hoster Aggresor has logged out.
+[30/12/2009 02:49:59] Jack Dee has logged in.
+[30/12/2009 02:50:01] Jack Dee has logged out.
+[30/12/2009 02:50:02] Kina Zarprite has logged in.
+[30/12/2009 02:50:04] Kina Zarprite has logged out.
+[30/12/2009 02:50:05] Mono Pirata has logged in.
+[30/12/2009 02:50:11] Mono Pirata has logged out.
+[30/12/2009 02:50:13] Hoster Aggresor has logged in.
+[30/12/2009 02:50:20] Hoster Aggresor has logged out.
+[30/12/2009 02:50:22] Mono Pirata has logged in.
+[30/12/2009 02:51:56] > Broadcasted message: "Mono Pirata [34142] Murio por Batman!!".
+[30/12/2009 02:51:56] > Broadcasted message: "Mono Pirata [34142] Murio por Batman!!".
+[30/12/2009 02:51:56] Mono Pirata has logged out.
+[30/12/2009 02:51:58] Mono Pirata has logged in.
+[30/12/2009 02:54:28] > Saving server...
+[30/12/2009 02:54:39] > SAVE: Complete in 10.219 seconds using relational house storage.
+[30/12/2009 02:54:51] > Broadcasted message: "Mono Pirata [34108] Murio por yalaharian!!".
+[30/12/2009 02:54:52] > Broadcasted message: "Mono Pirata [34108] Murio por yalaharian!!".
+[30/12/2009 02:54:52] Mono Pirata has logged out.
+[30/12/2009 02:54:54] Mono Pirata has logged in.
+[30/12/2009 02:55:32] Mono Pirata has logged out.
+[30/12/2009 02:55:33] Pro Pro has logged in.
+[30/12/2009 02:55:35] Pro Pro has logged out.
+[30/12/2009 02:55:36] Zorra Zorrienta has logged in.
+[30/12/2009 02:55:50] Zorra Zorrienta has logged out.
+[30/12/2009 02:55:52] Hoster Aggresor has logged in.
+[30/12/2009 02:56:12] Hoster Aggresor has logged out.
+[30/12/2009 02:56:15] Zorra Zorrienta has logged in.
+[30/12/2009 02:56:36] > Broadcasted message: "Zorra Zorrienta [140] Murio por Whatafuck!!".
+[30/12/2009 02:56:36] > Broadcasted message: "Zorra Zorrienta [140] Murio por Whatafuck!!".
+[30/12/2009 02:56:37] Zorra Zorrienta has logged out.
+[30/12/2009 02:56:38] Zorra Zorrienta has logged in.
+[30/12/2009 02:57:21] > Broadcasted message: "Zorra Zorrienta [140] Murio por Whatafuck!!".
+[30/12/2009 02:57:21] > Broadcasted message: "Zorra Zorrienta [140] Murio por Whatafuck!!".
+[30/12/2009 02:57:22] Zorra Zorrienta has logged out.
+[30/12/2009 02:57:23] Zorra Zorrienta has logged in.
+[30/12/2009 02:57:33] > Broadcasted message: "Zorra Zorrienta [140] Murio por Whatafuck!!".
+[30/12/2009 02:57:33] > Broadcasted message: "Zorra Zorrienta [140] Murio por Whatafuck!!".
+[30/12/2009 02:57:34] Zorra Zorrienta has logged out.
+[30/12/2009 02:57:35] Zorra Zorrienta has logged in.
+[30/12/2009 02:57:38] > Broadcasted message: "Zorra Zorrienta [139] Murio por Whatafuck!!".
+[30/12/2009 02:57:38] > Broadcasted message: "Zorra Zorrienta [139] Murio por Whatafuck!!".
+[30/12/2009 02:57:38] Zorra Zorrienta has logged out.
+[30/12/2009 02:57:39] Zorra Zorrienta has logged in.
+[30/12/2009 02:57:44] > Broadcasted message: "Zorra Zorrienta [139] Murio por Whatafuck!!".
+[30/12/2009 02:57:44] > Broadcasted message: "Zorra Zorrienta [139] Murio por Whatafuck!!".
+[30/12/2009 02:57:44] Zorra Zorrienta has logged out.
+[30/12/2009 02:57:46] Zorra Zorrienta has logged in.
+[30/12/2009 02:57:49] > Broadcasted message: "Zorra Zorrienta [139] Murio por Whatafuck!!".
+[30/12/2009 02:57:49] > Broadcasted message: "Zorra Zorrienta [139] Murio por Whatafuck!!".
+[30/12/2009 02:57:49] Zorra Zorrienta has logged out.
+[30/12/2009 02:57:50] Zorra Zorrienta has logged in.
+[30/12/2009 02:57:52] > Broadcasted message: "Zorra Zorrienta [139] Murio por Whatafuck!!".
+[30/12/2009 02:57:53] > Broadcasted message: "Zorra Zorrienta [139] Murio por Whatafuck!!".
+[30/12/2009 02:57:53] Zorra Zorrienta has logged out.
+[30/12/2009 02:57:54] Zorra Zorrienta has logged in.
+[30/12/2009 02:57:57] > Broadcasted message: "Zorra Zorrienta [139] Murio por Whatafuck!!".
+[30/12/2009 02:57:58] > Broadcasted message: "Zorra Zorrienta [139] Murio por Whatafuck!!".
+[30/12/2009 02:57:58] Zorra Zorrienta has logged out.
+[30/12/2009 02:57:59] Zorra Zorrienta has logged in.
+[30/12/2009 02:58:02] > Broadcasted message: "Zorra Zorrienta [139] Murio por Whatafuck!!".
+[30/12/2009 02:58:02] > Broadcasted message: "Zorra Zorrienta [139] Murio por Whatafuck!!".
+[30/12/2009 02:58:03] Zorra Zorrienta has logged out.
+[30/12/2009 02:58:04] Zorra Zorrienta has logged in.
+[30/12/2009 02:58:06] > Broadcasted message: "Zorra Zorrienta [138] Murio por Whatafuck!!".
+[30/12/2009 02:58:06] > Broadcasted message: "Zorra Zorrienta [138] Murio por Whatafuck!!".
+[30/12/2009 02:58:07] Zorra Zorrienta has logged out.
+[30/12/2009 02:58:07] Zorra Zorrienta has logged in.
+[30/12/2009 02:58:10] > Broadcasted message: "Zorra Zorrienta [138] Murio por Whatafuck!!".
+[30/12/2009 02:58:10] > Broadcasted message: "Zorra Zorrienta [138] Murio por Whatafuck!!".
+[30/12/2009 02:58:10] Zorra Zorrienta has logged out.
+[30/12/2009 02:58:11] Zorra Zorrienta has logged in.
+[30/12/2009 02:58:15] > Broadcasted message: "Zorra Zorrienta [138] Murio por Whatafuck!!".
+[30/12/2009 02:58:15] > Broadcasted message: "Zorra Zorrienta [138] Murio por Whatafuck!!".
+[30/12/2009 02:58:15] Zorra Zorrienta has logged out.
+[30/12/2009 02:58:16] Zorra Zorrienta has logged in.
+[30/12/2009 02:58:19] > Broadcasted message: "Zorra Zorrienta [138] Murio por Whatafuck!!".
+[30/12/2009 02:58:19] > Broadcasted message: "Zorra Zorrienta [138] Murio por Whatafuck!!".
+[30/12/2009 02:58:20] Zorra Zorrienta has logged out.
+[30/12/2009 02:58:21] Zorra Zorrienta has logged in.
+[30/12/2009 02:58:30] > Broadcasted message: "Zorra Zorrienta [138] Murio por Whatafuck!!".
+[30/12/2009 02:58:30] > Broadcasted message: "Zorra Zorrienta [138] Murio por Whatafuck!!".
+[30/12/2009 02:58:30] Zorra Zorrienta has logged out.
+[30/12/2009 02:58:33] Zorra Zorrienta has logged in.
+[30/12/2009 02:58:35] > Broadcasted message: "Zorra Zorrienta [137] Murio por Whatafuck!!".
+[30/12/2009 02:58:36] > Broadcasted message: "Zorra Zorrienta [137] Murio por Whatafuck!!".
+[30/12/2009 02:58:36] Zorra Zorrienta has logged out.
+[30/12/2009 02:58:38] Zorra Zorrienta has logged in.
+[30/12/2009 02:58:44] > Broadcasted message: "Zorra Zorrienta [137] Murio por Whatafuck!!".
+[30/12/2009 02:58:44] > Broadcasted message: "Zorra Zorrienta [137] Murio por Whatafuck!!".
+[30/12/2009 02:58:44] Zorra Zorrienta has logged out.
+[30/12/2009 02:58:45] Zorra Zorrienta has logged in.
+[30/12/2009 02:58:49] > Broadcasted message: "Zorra Zorrienta [137] Murio por Whatafuck!!".
+[30/12/2009 02:58:49] > Broadcasted message: "Zorra Zorrienta [137] Murio por Whatafuck!!".
+[30/12/2009 02:58:49] Zorra Zorrienta has logged out.
+[30/12/2009 02:58:50] Zorra Zorrienta has logged in.
+[30/12/2009 02:58:55] Zorra Zorrienta has logged out.
+[30/12/2009 02:59:50] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[30/12/2009 03:00:24] Hoster Aggresor has logged in.
+[30/12/2009 03:09:29] > Saving server...
+[30/12/2009 03:09:41] > SAVE: Complete in 11.906 seconds using relational house storage.
+[30/12/2009 03:09:51] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[30/12/2009 03:10:28] Duplicate uniqueId 2471
+[30/12/2009 03:19:52] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[30/12/2009 03:24:30] > Saving server...
+[30/12/2009 03:24:47] > SAVE: Complete in 16.86 seconds using relational house storage.
+[30/12/2009 03:29:53] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[30/12/2009 03:39:17] > Broadcasted message: "la limpieza del mapa empieza en 30 segundos, por favor wn recoje tus items!".
+[30/12/2009 03:39:20] 
+[30/12/2009 03:39:20] Lua Script Error: [Action Interface] 
+[30/12/2009 03:39:20] data/actions/scripts/gate.lua:onUse
+[30/12/2009 03:39:20] 
+[30/12/2009 03:39:20] attempt to index a number value
+[30/12/2009 03:39:20] stack traceback:
+[30/12/2009 03:39:20] 	[C]: in function 'doSendMagicEffect'
+[30/12/2009 03:39:20] 	data/actions/scripts/gate.lua:7: in function <data/actions/scripts/gate.lua:1>
+[30/12/2009 03:39:22] 
+[30/12/2009 03:39:22] Lua Script Error: [Action Interface] 
+[30/12/2009 03:39:22] data/actions/scripts/gate.lua:onUse
+[30/12/2009 03:39:22] 
+[30/12/2009 03:39:22] attempt to index a number value
+[30/12/2009 03:39:22] stack traceback:
+[30/12/2009 03:39:22] 	[C]: in function 'doSendMagicEffect'
+[30/12/2009 03:39:22] 	data/actions/scripts/gate.lua:7: in function <data/actions/scripts/gate.lua:1>
+[30/12/2009 03:39:31] > Saving server...
+[30/12/2009 03:39:48] > SAVE: Complete in 17.5 seconds using relational house storage.
+[30/12/2009 03:39:53] > CLEAN: Removed 36 items from 129 tiles in 4.578 seconds.
+[30/12/2009 03:39:56] > Broadcasted message: "el mapa se limpio :P, siguiente limpieza en 2 horas.".
+[30/12/2009 03:39:56] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[30/12/2009 03:49:57] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[30/12/2009 03:54:04] 
+[30/12/2009 03:54:04] Lua Script Error: [Action Interface] 
+[30/12/2009 03:54:04] data/actions/scripts/gate.lua:onUse
+[30/12/2009 03:54:04] 
+[30/12/2009 03:54:04] attempt to index a number value
+[30/12/2009 03:54:04] stack traceback:
+[30/12/2009 03:54:04] 	[C]: in function 'doSendMagicEffect'
+[30/12/2009 03:54:04] 	data/actions/scripts/gate.lua:7: in function <data/actions/scripts/gate.lua:1>
+[30/12/2009 03:54:05] 
+[30/12/2009 03:54:05] Lua Script Error: [Action Interface] 
+[30/12/2009 03:54:05] data/actions/scripts/gate.lua:onUse
+[30/12/2009 03:54:05] 
+[30/12/2009 03:54:05] attempt to index a number value
+[30/12/2009 03:54:05] stack traceback:
+[30/12/2009 03:54:05] 	[C]: in function 'doSendMagicEffect'
+[30/12/2009 03:54:05] 	data/actions/scripts/gate.lua:7: in function <data/actions/scripts/gate.lua:1>
+[30/12/2009 03:54:32] > Saving server...
+[30/12/2009 03:54:40] > SAVE: Complete in 7.11 seconds using relational house storage.
+[30/12/2009 03:59:58] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[30/12/2009 04:04:17] The Forgotten Server, version 0.3.4 (Crying Damson)
+[30/12/2009 04:04:18] Sever Criado Por Alissow e Comedinha.
+[30/12/2009 04:04:18] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[30/12/2009 04:04:18] Bom Jogo!!!
+[30/12/2009 04:04:18] 
+[30/12/2009 04:04:18] >> Debugging: nothing.
+[30/12/2009 04:04:18] >> Checking software version... outdated, please consider updating!
+[30/12/2009 04:04:19] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[30/12/2009 04:04:19] > Latest version information - version: 0.3.6, patch: 0, build: 3293, timestamp: 1260652199.
+[30/12/2009 04:04:19] [Warning - ConfigManager::getBool] 62
+[30/12/2009 04:04:19] 
+[30/12/2009 04:04:19] >> Loading config (config.lua)
+[30/12/2009 04:04:19] > Using plaintext passwords
+[30/12/2009 04:04:19] >> Loading RSA key
+[30/12/2009 04:04:19] >> Starting SQL connection
+[30/12/2009 04:04:19] >> Running Database Manager
+[30/12/2009 04:04:21] > Optimized database.
+[30/12/2009 04:04:21] >> Loading items
+[30/12/2009 04:04:22] >> Loading groups
+[30/12/2009 04:04:22] >> Loading vocations
+[30/12/2009 04:04:22] >> Loading script systems
+[30/12/2009 04:04:27] >> Loading chat channels
+[30/12/2009 04:04:27] >> Loading outfits
+[30/12/2009 04:04:27] >> Loading experience stages
+[30/12/2009 04:04:27] >> Loading monsters
+[30/12/2009 04:04:29] >> Loading map and spawns...
+[30/12/2009 04:04:30] > Map size: 1100x1100.
+[30/12/2009 04:04:30] > Map descriptions: 
+[30/12/2009 04:04:30] Saved with Remere's Map Editor 1.1.10
+[30/12/2009 04:04:30] Remere 's Map Editor Beta
+[30/12/2009 04:04:33] Duplicate uniqueId 9911
+[30/12/2009 04:04:33] Duplicate uniqueId 9912
+[30/12/2009 04:04:33] Duplicate uniqueId 9913
+[30/12/2009 04:04:33] Duplicate uniqueId 9914
+[30/12/2009 04:04:33] Duplicate uniqueId 9915
+[30/12/2009 04:04:34] Duplicate uniqueId 2471
+[30/12/2009 04:04:34] Duplicate uniqueId 2471
+[30/12/2009 04:04:37] Duplicate uniqueId 8880
+[30/12/2009 04:04:37] Duplicate uniqueId 8880
+[30/12/2009 04:04:37] Duplicate uniqueId 5006
+[30/12/2009 04:04:38] > Map loading time: 8.782 seconds.
+[30/12/2009 04:04:40] > Data loading time: 1.906 seconds.
+[30/12/2009 04:04:40] > Unserialization time for houses: 0.218 seconds.
+[30/12/2009 04:05:33] > Unserialization time for map: 52.531 seconds.
+[30/12/2009 04:05:33] >> Checking world type... PvP
+[30/12/2009 04:05:33] >> Initializing game state modules and registering services...
+[30/12/2009 04:05:34] > Global address: 201.246.36.209
+[30/12/2009 04:05:35] > Local ports:
+[30/12/2009 04:05:35] 7171	7172	
+[30/12/2009 04:05:35] >> All modules were loaded, server starting up...
+[30/12/2009 04:05:35] >> Aggrox metal server Online!
+[30/12/2009 04:05:35] 
+[30/12/2009 04:05:36] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[30/12/2009 04:05:38] Hoster Aggresor has logged in.
+[30/12/2009 04:06:21] 
+[30/12/2009 04:06:21] Lua Script Error: [Action Interface] 
+[30/12/2009 04:06:21] data/actions/scripts/gate.lua:onUse
+[30/12/2009 04:06:21] 
+[30/12/2009 04:06:21] attempt to index a number value
+[30/12/2009 04:06:21] stack traceback:
+[30/12/2009 04:06:21] 	[C]: in function 'doSendMagicEffect'
+[30/12/2009 04:06:21] 	data/actions/scripts/gate.lua:7: in function <data/actions/scripts/gate.lua:1>
+[30/12/2009 04:13:42] 
+[30/12/2009 04:13:42] Lua Script Error: [Action Interface] 
+[30/12/2009 04:13:42] data/actions/scripts/gate.lua:onUse
+[30/12/2009 04:13:42] 
+[30/12/2009 04:13:42] attempt to index a number value
+[30/12/2009 04:13:42] stack traceback:
+[30/12/2009 04:13:42] 	[C]: in function 'doSendMagicEffect'
+[30/12/2009 04:13:42] 	data/actions/scripts/gate.lua:7: in function <data/actions/scripts/gate.lua:1>
+[30/12/2009 04:14:28] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[30/12/2009 04:19:28] > Saving server...
+[30/12/2009 04:19:35] > SAVE: Complete in 6.937 seconds using relational house storage.
+[30/12/2009 04:24:29] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[30/12/2009 04:34:29] > Saving server...
+[30/12/2009 04:34:42] > SAVE: Complete in 12.703 seconds using relational house storage.
+[30/12/2009 04:34:42] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[30/12/2009 04:37:29] [Warning - Event::loadScript] Cannot load script (data/creaturescripts/scripts/Teleport.lua)
+[30/12/2009 04:37:29] data/creaturescripts/scripts/Teleport.lua:19: malformed number near '1000time_to_pass'
+[30/12/2009 04:44:43] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[30/12/2009 04:49:30] > Saving server...
+[30/12/2009 04:49:36] > SAVE: Complete in 6.578 seconds using relational house storage.
+[30/12/2009 04:53:48] [Warning - Event::loadScript] Cannot load script (data/creaturescripts/scripts/Teleport.lua)
+[30/12/2009 04:53:48] data/creaturescripts/scripts/Teleport.lua:22: ')' expected (to close '(' at line 19) near 'end'
+[30/12/2009 04:54:44] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[30/12/2009 04:57:48] [Warning - Event::loadScript] Cannot load script (data/creaturescripts/scripts/Teleport.lua)
+[30/12/2009 04:57:48] data/creaturescripts/scripts/Teleport.lua:19: syntax error near ')'
+[30/12/2009 04:57:53] [Warning - Event::loadScript] Cannot load script (data/creaturescripts/scripts/Teleport.lua)
+[30/12/2009 04:57:53] data/creaturescripts/scripts/Teleport.lua:19: syntax error near ')'
+[30/12/2009 04:57:58] [Warning - Event::loadScript] Cannot load script (data/creaturescripts/scripts/Teleport.lua)
+[30/12/2009 04:57:59] data/creaturescripts/scripts/Teleport.lua:19: syntax error near ')'
+[30/12/2009 04:59:22] [Warning - Event::loadScript] Cannot load script (data/creaturescripts/scripts/Teleport.lua)
+[30/12/2009 04:59:22] data/creaturescripts/scripts/Teleport.lua:19: syntax error near ')'
+[30/12/2009 04:59:31] > Hoster Aggresor broadcasted: "ctm".
+[30/12/2009 04:59:33] [Warning - Event::loadScript] Cannot load script (data/creaturescripts/scripts/Teleport.lua)
+[30/12/2009 04:59:33] data/creaturescripts/scripts/Teleport.lua:19: syntax error near ')'
+[30/12/2009 05:01:00] [Warning - Event::loadScript] Cannot load script (data/creaturescripts/scripts/Teleport.lua)
+[30/12/2009 05:01:00] data/creaturescripts/scripts/Teleport.lua:19: syntax error near ')'
+[30/12/2009 05:01:35] [Warning - Event::loadScript] Cannot load script (data/creaturescripts/scripts/Teleport.lua)
+[30/12/2009 05:01:35] data/creaturescripts/scripts/Teleport.lua:19: unexpected symbol near ')'
+[30/12/2009 05:01:42] [Warning - Event::loadScript] Cannot load script (data/creaturescripts/scripts/Teleport.lua)
+[30/12/2009 05:01:42] data/creaturescripts/scripts/Teleport.lua:19: unexpected symbol near ')'
+[30/12/2009 05:04:31] > Saving server...
+[30/12/2009 05:04:38] > SAVE: Complete in 6.75 seconds using relational house storage.
+[30/12/2009 05:04:45] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[30/12/2009 05:07:07] Hoster Aggresor has logged out.
+[30/12/2009 05:07:07] > Saving server...
+[30/12/2009 05:07:14] > SAVE: Complete in 7.047 seconds using relational house storage.
+[30/12/2009 05:07:14] Preparing to shutdown server..
+[30/12/2009 05:07:15] .
+[30/12/2009 05:07:15] Exiting

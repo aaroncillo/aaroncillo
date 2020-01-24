@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Judio" nameDescription="a Judio" race="blood" experience="35000" speed="999" manacost="0">
+	<health now="100000" max="100000"/>
+	<look type="128" head="0" body="0" legs="0" feet="0" corpse="3058"/>
+	<targetchange interval="2000" chance="50"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+    <flag summonable="0"/>
+    <flag attackable="1"/>
+    <flag hostile="1"/>
+    <flag illusionable="0"/>
+    <flag convinceable="0"/>
+    <flag pushable="0"/>
+    <flag canpushitems="1"/>
+    <flag canpushcreatures="1"/>
+    <flag staticattack="90"/>
+    <flag targetdistance="1"/>
+    <flag runonhealth="0"/>
+	</flags>
+	<attacks>
+		<attack name="melee" interval="4000" skill="150" attack="3000"/>
+		<attack name="death" interval="3000" chance="20" range="100" target="10" radius="2" min="-1000" max="-2000">
+			<attribute key="shootEffect" value="death"/>
+		</attack>
+	</attacks>
+	<defenses armor="32" defense="50">
+	</defenses>
+	<immunities>
+		<immunity physical="0"/>
+		<immunity energy="1"/>
+		<immunity fire="1"/>
+		<immunity poison="1"/>
+		<immunity lifedrain="0"/>
+		<immunity paralyze="1"/>
+		<immunity outfit="1"/>
+		<immunity drunk="1"/>
+		<immunity invisible="1"/>
+	</immunities>
+	<loot capacity="900">
+		<item id="2474" countmax="1" chance="10000000000"/>
+		<item id="7369" countmax="1" chance="10000000000"/>
+		<item id="7499" countmax="1" chance="10000000000"/>
+		<item id="2160" countmax="100" chance="10000000000"/>
+	</loot>
+</monster>

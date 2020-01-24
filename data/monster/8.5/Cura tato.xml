@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Cura tato" nameDescription="a Padre Marcelo" race="blood" experience="500000" speed="900" manacost="600">
+  <health now="150000" max="150000"/>
+  <look type="57" head="20" body="30" legs="40" feet="50" corpse="6080"/>
+  <targetchange interval="10000" chance="20"/>
+  <strategy attack="100" defense="0"/>
+  <flags>
+    <flag summonable="1"/>
+    <flag attackable="1"/>
+    <flag hostile="1"/>
+    <flag illusionable="1"/>
+    <flag convinceable="0"/>
+    <flag pushable="0"/>
+    <flag canpushitems="1"/>
+    <flag canpushcreatures="1"/>
+    <flag targetdistance="1"/>
+    <flag staticattack="90"/>
+    <flag runonhealth="0"/>
+  </flags>
+  <attacks>
+    <attack name="melee" interval="1000" min="-1000" max="-1500"/>
+    <attack name="chidori" interval="2000" chance="95" min="-3000" max="-5000"/>
+          <attribute key="areaEffect" value="redshimmer"/>
+  </attacks>
+  <defenses armor="20" defense="22">
+    <defense name="healing" interval="1000" chance="17" min="3000" max="5000">
+      <attribute key="areaEffect" value="blueshimmer"/>
+    </defense>
+    <defense name="speed" interval="1000" chance="10" speedchange="2000" duration="3000">
+      <attribute key="areaEffect" value="redshimmer"/>
+    </defense>
+  </defenses>
+  <elements>
+	<element holyPercent="50"/>
+	<element deathPercent="50"/>
+	<element physicalPercent="-15"/>
+  </elements>
+  <immunities>
+	<immunity invisible="1"/>
+  </immunities>
+
+  <loot>
+    <item id="2160" countmax="100" chance1="100000" chancemax="100000"/>
+    <item id="1949" chance="10000"/>
+    <item id="2467" chance="10000"/>
+    <item id="2642" chance="6666"/>
+    <item id="1987" chance="100000">
+      <inside>
+        <item id="2044" chance="6666"/>
+        <item id="2160" countmax="100" chance1="200000" chancemax="100000"/>
+        <item id="2401" chance="3333"/>
+        <item id="2166" chance="1428"/>
+      </inside>
+    </item>
+  </loot>
+</monster>

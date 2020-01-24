@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="perro" nameDescription="a dog" race="blood" experience="23000" speed="500" manacost="220">
+  <health now="5000000" max="5000000"/>
+  <look type="32" head="20" body="30" legs="40" feet="50" corpse="5971"/>
+  <targetchange interval="2000" chance="0"/>
+  <strategy attack="100" defense="500"/>
+    <flags>
+      <flag summonable="0"/>
+      <flag attackable="1"/>
+      <flag hostile="1"/>
+      <flag illusionable="1"/>
+      <flag convinceable="0"/>
+      <flag pushable="0"/>
+      <flag canpushitems="1"/>
+      <flag canpushcreatures="1"/>
+      <flag targetdistance="1"/>
+      <flag staticattack="90"/>
+      <flag runonhealth="0"/>
+    </flags>
+      <attacks>
+      <attack name="melee" interval="2000" skill="0" attack="0"/>
+    </attacks>
+  <defenses armor="1" defense="2"/>
+  <immunities>
+    <immunity physical="0"/>
+    <immunity energy="1"/>
+    <immunity fire="1"/>
+    <immunity poison="0"/>
+    <immunity lifedrain="0"/>
+    <immunity paralyze="0"/>
+    <immunity outfit="0"/>
+    <immunity drunk="1"/>
+    <immunity invisible="1"/>
+  </immunities>
+</monster>

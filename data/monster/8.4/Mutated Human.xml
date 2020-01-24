@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Mutated Human" nameDescription="Mutated Human" race="blood" experience="150" speed="165" manacost="0">
+  <health now="240" max="240"/>
+  <look type="323" head="19" body="71" legs="128" feet="128" addons="1" corpse="5527"/>
+  <targetchange interval="5000" chance="30"/>
+  <strategy attack="90" defense="10"/>
+  <flags>
+    <flag summonable="1"/>
+    <flag attackable="1"/>
+    <flag hostile="1"/>
+    <flag illusionable="1"/>
+    <flag convinceable="1"/>
+    <flag pushable="0"/>
+    <flag canpushitems="1"/>
+    <flag canpushcreatures="1"/>
+    <flag targetdistance="1"/>
+    <flag staticattack="90"/>
+    <flag runonhealth="0"/>
+  </flags>
+  <attacks>
+    <attack name="melee" interval="2000" skill="50" attack="42" poison="90"/>
+  </attacks>
+  <defenses armor="15" defense="25"/>
+  <elements>
+	<element firePercent="20"/>
+	<element icePercent="-10"/>
+  </elements>
+  <loot>
+    <item id="2148" countmax="100" chance1="100000" chancemax="0"/> --GOLD COINS
+    <item id="3976" countmax="10" chance1="100000" chancemax="0"/> --worm
+    <item id="2801" chance1="2000"/> --fern
+    <item id="2406" chance1="2000"/> --sword
+    <item id="2170" chance1="200"/> --silver amulet
+    <item id="7110" chance1="200"/> --penut
+  </loot>
+</monster>
+

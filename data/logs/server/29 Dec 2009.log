@@ -1,0 +1,455 @@
+[29/12/2009 11:37:30] The Forgotten Server, version 0.3.4 (Crying Damson)
+[29/12/2009 11:37:30] Sever Criado Por Alissow e Comedinha.
+[29/12/2009 11:37:30] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[29/12/2009 11:37:30] Bom Jogo!!!
+[29/12/2009 11:37:30] 
+[29/12/2009 11:37:30] >> Debugging: nothing.
+[29/12/2009 11:37:30] >> Checking software version... outdated, please consider updating!
+[29/12/2009 11:37:31] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[29/12/2009 11:37:32] > Latest version information - version: 0.3.6, patch: 0, build: 3293, timestamp: 1260652199.
+[29/12/2009 11:37:32] [Warning - ConfigManager::getBool] 62
+[29/12/2009 11:37:32] 
+[29/12/2009 11:37:32] >> Loading config (config.lua)
+[29/12/2009 11:37:32] > Using plaintext passwords
+[29/12/2009 11:37:32] >> Loading RSA key
+[29/12/2009 11:37:32] >> Starting SQL connection
+[29/12/2009 11:37:32] >> Running Database Manager
+[29/12/2009 11:37:39] > Optimized database.
+[29/12/2009 11:37:39] >> Loading items
+[29/12/2009 11:37:40] >> Loading groups
+[29/12/2009 11:37:40] >> Loading vocations
+[29/12/2009 11:37:40] >> Loading script systems
+[29/12/2009 11:37:49] >> Loading chat channels
+[29/12/2009 11:37:49] >> Loading outfits
+[29/12/2009 11:37:49] >> Loading experience stages
+[29/12/2009 11:37:49] >> Loading monsters
+[29/12/2009 11:37:52] >> Loading map and spawns...
+[29/12/2009 11:37:57] > Map size: 1100x1100.
+[29/12/2009 11:37:58] > Map descriptions: 
+[29/12/2009 11:37:58] Saved with Remere's Map Editor 1.1.10
+[29/12/2009 11:37:58] Remere 's Map Editor Beta
+[29/12/2009 11:38:05] Duplicate uniqueId 9911
+[29/12/2009 11:38:06] Duplicate uniqueId 9912
+[29/12/2009 11:38:06] Duplicate uniqueId 9913
+[29/12/2009 11:38:06] Duplicate uniqueId 9914
+[29/12/2009 11:38:06] Duplicate uniqueId 9915
+[29/12/2009 11:38:10] Duplicate uniqueId 2471
+[29/12/2009 11:38:26] Duplicate uniqueId 8880
+[29/12/2009 11:38:37] Duplicate uniqueId 8880
+[29/12/2009 11:38:38] Duplicate uniqueId 5006
+[29/12/2009 11:38:39] > Map loading time: 47.25 seconds.
+[29/12/2009 11:38:56] > Data loading time: 16.594 seconds.
+[29/12/2009 11:39:12] > Unserialization time for houses: 15.422 seconds.
+[29/12/2009 11:40:06] > Unserialization time for map: 54.438 seconds.
+[29/12/2009 11:40:06] >> Checking world type... PvP
+[29/12/2009 11:40:06] >> Initializing game state modules and registering services...
+[29/12/2009 11:40:15] > Global address: 201.246.36.209
+[29/12/2009 11:40:16] > Local ports:
+[29/12/2009 11:40:16] 7171	7172	
+[29/12/2009 11:40:16] >> All modules were loaded, server starting up...
+[29/12/2009 11:40:16] >> Aggrox metal server Online!
+[29/12/2009 11:40:16] 
+[29/12/2009 11:40:32] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[29/12/2009 11:40:34] Hoster Aggresor has logged in.
+[29/12/2009 11:47:50] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[29/12/2009 11:48:26] Hoster Aggresor has logged out.
+[29/12/2009 11:48:45] Account Manager has logged in.
+[29/12/2009 11:48:48] Account Manager has logged out.
+[29/12/2009 11:48:50] Hoster Aggresor has logged in.
+[29/12/2009 11:52:50] > Saving server...
+[29/12/2009 11:53:00] > SAVE: Complete in 9.579 seconds using relational house storage.
+[29/12/2009 11:57:51] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[29/12/2009 12:02:07] [Warning - Spell::configureSpell] Wrong vocation name: Elite Knight
+[29/12/2009 12:02:49] [Warning - Spell::configureSpell] Wrong vocation name: Elite Knight
+[29/12/2009 12:07:34] [Warning - Spell::configureSpell] Wrong vocation name: Elite Knight
+[29/12/2009 12:07:51] > Saving server...
+[29/12/2009 12:07:58] > SAVE: Complete in 6.922 seconds using relational house storage.
+[29/12/2009 12:07:58] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[29/12/2009 12:09:05] [Warning - Spell::configureSpell] Wrong vocation name: Elite Knight
+[29/12/2009 12:09:14] > Broadcasted message: "Mu invade Slayer city".
+[29/12/2009 12:17:59] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[29/12/2009 12:22:52] > Saving server...
+[29/12/2009 12:23:10] > SAVE: Complete in 18.172 seconds using relational house storage.
+[29/12/2009 12:28:00] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[29/12/2009 12:37:53] > Saving server...
+[29/12/2009 12:38:21] > SAVE: Complete in 28.203 seconds using relational house storage.
+[29/12/2009 12:38:21] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[29/12/2009 12:48:22] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[29/12/2009 12:52:54] > Saving server...
+[29/12/2009 12:53:05] > SAVE: Complete in 11.156 seconds using relational house storage.
+[29/12/2009 12:55:04] Hoster Aggresor has logged out.
+[29/12/2009 12:55:04] > Saving server...
+[29/12/2009 12:55:12] > SAVE: Complete in 8.046 seconds using relational house storage.
+[29/12/2009 12:55:12] Preparing to shutdown server.[29/12/2009 12:55:39] The Forgotten Server, version 0.3.4 (Crying Damson)
+[29/12/2009 12:55:39] Sever Criado Por Alissow e Comedinha.
+[29/12/2009 12:55:39] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[29/12/2009 12:55:39] Bom Jogo!!!
+[29/12/2009 12:55:39] 
+[29/12/2009 12:55:39] >> Debugging: nothing.
+[29/12/2009 12:55:39] >> Checking software version... outdated, please consider updating!
+[29/12/2009 12:55:40] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[29/12/2009 12:55:40] > Latest version information - version: 0.3.6, patch: 0, build: 3293, timestamp: 1260652199.
+[29/12/2009 12:55:40] [Warning - ConfigManager::getBool] 62
+[29/12/2009 12:55:40] 
+[29/12/2009 12:55:40] >> Loading config (config.lua)
+[29/12/2009 12:55:40] > Using plaintext passwords
+[29/12/2009 12:55:40] >> Loading RSA key
+[29/12/2009 12:55:40] >> Starting SQL connection
+[29/12/2009 12:55:40] >> Running Database Manager
+[29/12/2009 12:55:46] > Optimized database.
+[29/12/2009 12:55:46] >> Loading items
+[29/12/2009 12:55:47] >> Loading groups
+[29/12/2009 12:55:47] >> Loading vocations
+[29/12/2009 12:55:47] >> Loading script systems
+[29/12/2009 12:55:53] 
+[29/12/2009 12:55:53] Lua Script Error: [TalkAction Interface] 
+[29/12/2009 12:55:53] data/talkactions/scripts/!petcarry.lua
+[29/12/2009 12:55:53] 
+[29/12/2009 12:55:53] cannot open ./petConfig. lua: No such file or directory
+[29/12/2009 12:55:53] [Warning - Event::loadScript] Cannot load script (data/talkactions/scripts/!petcarry.lua)
+[29/12/2009 12:55:53] 
+[29/12/2009 12:55:53] 
+[29/12/2009 12:55:53] Lua Script Error: [TalkAction Interface] 
+[29/12/2009 12:55:53] data/talkactions/scripts/!petgetitem.lua
+[29/12/2009 12:55:53] 
+[29/12/2009 12:55:53] cannot open ./petConfig. lua: No such file or directory
+[29/12/2009 12:55:53] [Warning - Event::loadScript] Cannot load script (data/talkactions/scripts/!petgetitem.lua)
+[29/12/2009 12:55:54] 
+[29/12/2009 12:55:54] 
+[29/12/2009 12:55:54] Lua Script Error: [TalkAction Interface] 
+[29/12/2009 12:55:54] data/talkactions/scripts/!petattack.lua
+[29/12/2009 12:55:54] 
+[29/12/2009 12:55:54] cannot open ./petConfig. lua: No such file or directory
+[29/12/2009 12:55:54] [Warning - Event::loadScript] Cannot load script (data/talkactions/scripts/!petattack.lua)
+[29/12/2009 12:55:54] 
+[29/12/2009 12:55:55] >> Loading chat channels
+[29/12/2009 12:55:55] >> Loading outfits
+[29/12/2009 12:55:55] >> Loading experience stages
+[29/12/2009 12:55:55] >> Loading monsters
+[29/12/2009 12:56:00] >> Loading map and spawns...
+[29/12/2009 12:56:01] > Map size: 1100x1100.
+[29/12/2009 12:56:01] > Map descriptions: 
+[29/12/2009 12:56:01] Saved with Remere's Map Editor 1.1.10
+[29/12/2009 12:56:01] Remere 's Map Editor Beta
+[29/12/2009 12:56:04] Duplicate uniqueId 9911
+[29/12/2009 12:56:04] Duplicate uniqueId 9912
+[29/12/2009 12:56:04] Duplicate uniqueId 9913
+[29/12/2009 12:56:04] Duplicate uniqueId 9914
+[29/12/2009 12:56:04] Duplicate uniqueId 9915
+[29/12/2009 12:56:07] Duplicate uniqueId 2471
+[29/12/2009 12:56:09] Duplicate uniqueId 8880
+[29/12/2009 12:56:10] Duplicate uniqueId 8880
+[29/12/2009 12:56:10] Duplicate uniqueId 5006
+[29/12/2009 12:56:11] > Map loading time: 10.86 seconds.
+[29/12/2009 12:56:16] > Data loading time: 5.093 seconds.
+[29/12/2009 12:56:18] > Unserialization time for houses: 1.968 seconds.
+[29/12/2009 12:57:07] > Unserialization time for map: 48.735 seconds.
+[29/12/2009 12:57:07] >> Checking world type... PvP
+[29/12/2009 12:57:07] >> Initializing game state modules and registering services...
+[29/12/2009 12:57:23] > Global address: 201.246.36.209
+[29/12/2009 12:57:27] > Local ports:
+[29/12/2009 12:57:27] 7171	7172	
+[29/12/2009 12:57:27] >> All modules were loaded, server starting up...
+[29/12/2009 12:57:27] >> Aggrox metal server Online!
+[29/12/2009 12:57:27] 
+[29/12/2009 12:58:02] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[29/12/2009 12:58:05] Hoster Aggresor has logged in.
+[29/12/2009 12:58:32] 
+[29/12/2009 12:58:32] Lua Script Error: [TalkAction Interface] 
+[29/12/2009 12:58:32] data/talkactions/scripts/!pet.lua:onSay
+[29/12/2009 12:58:32] 
+[29/12/2009 12:58:32] luaGetCreatureMaxHealth(). Creature not found
+[29/12/2009 12:58:32] 
+[29/12/2009 12:58:32] Lua Script Error: [TalkAction Interface] 
+[29/12/2009 12:58:32] data/talkactions/scripts/!pet.lua:onSay
+[29/12/2009 12:58:32] 
+[29/12/2009 12:58:32] luaGetCreatureHealth(). Creature not found
+[29/12/2009 12:58:32] 
+[29/12/2009 12:58:32] Lua Script Error: [TalkAction Interface] 
+[29/12/2009 12:58:32] data/talkactions/scripts/!pet.lua:onSay
+[29/12/2009 12:58:32] 
+[29/12/2009 12:58:32] data/talkactions/scripts/!pet.lua:54: attempt to perform arithmetic on a boolean value
+[29/12/2009 12:58:33] stack traceback:
+[29/12/2009 12:58:33] 	data/talkactions/scripts/!pet.lua:54: in function <data/talkactions/scripts/!pet.lua:15>
+[29/12/2009 12:58:35] 
+[29/12/2009 12:58:35] Lua Script Error: [TalkAction Interface] 
+[29/12/2009 12:58:35] data/talkactions/scripts/!pet.lua:onSay
+[29/12/2009 12:58:35] 
+[29/12/2009 12:58:35] luaGetCreatureMaxHealth(). Creature not found
+[29/12/2009 12:58:35] 
+[29/12/2009 12:58:35] Lua Script Error: [TalkAction Interface] 
+[29/12/2009 12:58:35] data/talkactions/scripts/!pet.lua:onSay
+[29/12/2009 12:58:35] 
+[29/12/2009 12:58:35] luaGetCreatureHealth(). Creature not found
+[29/12/2009 12:58:35] 
+[29/12/2009 12:58:35] Lua Script Error: [TalkAction Interface] 
+[29/12/2009 12:58:35] data/talkactions/scripts/!pet.lua:onSay
+[29/12/2009 12:58:35] 
+[29/12/2009 12:58:35] data/talkactions/scripts/!pet.lua:54: attempt to perform arithmetic on a boolean value
+[29/12/2009 12:58:35] stack traceback:
+[29/12/2009 12:58:35] 	data/talkactions/scripts/!pet.lua:54: in function <data/talkactions/scripts/!pet.lua:15>
+[29/12/2009 12:59:44] 
+[29/12/2009 12:59:44] Lua Script Error: [TalkAction Interface] 
+[29/12/2009 12:59:44] data/talkactions/scripts/!petcarry.lua
+[29/12/2009 12:59:44] 
+[29/12/2009 12:59:44] cannot open ./petConfig. lua: No such file or directory
+[29/12/2009 12:59:44] [Warning - Event::loadScript] Cannot load script (data/talkactions/scripts/!petcarry.lua)
+[29/12/2009 12:59:44] 
+[29/12/2009 12:59:44] 
+[29/12/2009 12:59:44] Lua Script Error: [TalkAction Interface] 
+[29/12/2009 12:59:44] data/talkactions/scripts/!petgetitem.lua
+[29/12/2009 12:59:44] 
+[29/12/2009 12:59:44] cannot open ./petConfig. lua: No such file or directory
+[29/12/2009 12:59:44] [Warning - Event::loadScript] Cannot load script (data/talkactions/scripts/!petgetitem.lua)
+[29/12/2009 12:59:45] 
+[29/12/2009 12:59:45] 
+[29/12/2009 12:59:45] Lua Script Error: [TalkAction Interface] 
+[29/12/2009 12:59:45] data/talkactions/scripts/!petattack.lua
+[29/12/2009 12:59:45] 
+[29/12/2009 12:59:45] cannot open ./petConfig. lua: No such file or directory
+[29/12/2009 12:59:45] [Warning - Event::loadScript] Cannot load script (data/talkactions/scripts/!petattack.lua)
+[29/12/2009 12:59:45] 
+[29/12/2009 13:00:52] [Warning - Event::loadScript] Cannot load script (data/talkactions/scripts/!petcarry.lua)
+[29/12/2009 13:00:52] cannot open data/talkactions/scripts/!petcarry.lua: No such file or directory
+[29/12/2009 13:00:52] [Warning - Event::loadScript] Cannot load script (data/talkactions/scripts/!petgetitem.lua)
+[29/12/2009 13:00:52] cannot open data/talkactions/scripts/!petgetitem.lua: No such file or directory
+[29/12/2009 13:00:52] [Warning - Event::loadScript] Cannot load script (data/talkactions/scripts/!petinfo.lua)
+[29/12/2009 13:00:52] cannot open data/talkactions/scripts/!petinfo.lua: No such file or directory
+[29/12/2009 13:00:52] [Warning - Event::loadScript] Cannot load script (data/talkactions/scripts/!pet.lua)
+[29/12/2009 13:00:52] cannot open data/talkactions/scripts/!pet.lua: No such file or directory
+[29/12/2009 13:00:52] [Warning - Event::loadScript] Cannot load script (data/talkactions/scripts/!petattack.lua)
+[29/12/2009 13:00:53] cannot open data/talkactions/scripts/!petattack.lua: No such file or directory
+[29/12/2009 13:05:56] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[29/12/2009 13:10:56] > Saving server...
+[29/12/2009 13:11:07] > SAVE: Complete in 11.781 seconds using relational house storage.
+[29/12/2009 13:15:57] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[29/12/2009 13:24:38] 
+[29/12/2009 13:24:38] Lua Script Error: [Action Interface] 
+[29/12/2009 13:24:38] data/actions/scripts/teddy.lua:onUse
+[29/12/2009 13:24:38] 
+[29/12/2009 13:24:38] data/actions/scripts/teddy.lua:8: wrong number of arguments
+[29/12/2009 13:24:38] stack traceback:
+[29/12/2009 13:24:38] 	[C]: in function 'random'
+[29/12/2009 13:24:39] 	data/actions/scripts/teddy.lua:8: in function <data/actions/scripts/teddy.lua:1>
+[29/12/2009 13:24:40] 
+[29/12/2009 13:24:40] Lua Script Error: [Action Interface] 
+[29/12/2009 13:24:40] data/actions/scripts/teddy.lua:onUse
+[29/12/2009 13:24:40] 
+[29/12/2009 13:24:40] data/actions/scripts/teddy.lua:8: wrong number of arguments
+[29/12/2009 13:24:40] stack traceback:
+[29/12/2009 13:24:40] 	[C]: in function 'random'
+[29/12/2009 13:24:40] 	data/actions/scripts/teddy.lua:8: in function <data/actions/scripts/teddy.lua:1>
+[29/12/2009 13:24:40] 
+[29/12/2009 13:24:40] Lua Script Error: [Action Interface] 
+[29/12/2009 13:24:41] data/actions/scripts/teddy.lua:onUse
+[29/12/2009 13:24:41] 
+[29/12/2009 13:24:41] data/actions/scripts/teddy.lua:8: wrong number of arguments
+[29/12/2009 13:24:41] stack traceback:
+[29/12/2009 13:24:41] 	[C]: in function 'random'
+[29/12/2009 13:24:41] 	data/actions/scripts/teddy.lua:8: in function <data/actions/scripts/teddy.lua:1>
+[29/12/2009 13:24:41] 
+[29/12/2009 13:24:41] Lua Script Error: [Action Interface] 
+[29/12/2009 13:24:41] data/actions/scripts/teddy.lua:onUse
+[29/12/2009 13:24:41] 
+[29/12/2009 13:24:41] data/actions/scripts/teddy.lua:8: wrong number of arguments
+[29/12/2009 13:24:41] stack traceback:
+[29/12/2009 13:24:41] 	[C]: in function 'random'
+[29/12/2009 13:24:41] 	data/actions/scripts/teddy.lua:8: in function <data/actions/scripts/teddy.lua:1>
+[29/12/2009 13:24:42] 
+[29/12/2009 13:24:42] Lua Script Error: [Action Interface] 
+[29/12/2009 13:24:42] data/actions/scripts/teddy.lua:onUse
+[29/12/2009 13:24:42] 
+[29/12/2009 13:24:42] data/actions/scripts/teddy.lua:8: wrong number of arguments
+[29/12/2009 13:24:42] stack traceback:
+[29/12/2009 13:24:42] 	[C]: in function 'random'
+[29/12/2009 13:24:42] 	data/actions/scripts/teddy.lua:8: in function <data/actions/scripts/teddy.lua:1>
+[29/12/2009 13:24:42] 
+[29/12/2009 13:24:42] Lua Script Error: [Action Interface] 
+[29/12/2009 13:24:43] data/actions/scripts/teddy.lua:onUse
+[29/12/2009 13:24:43] 
+[29/12/2009 13:24:43] data/actions/scripts/teddy.lua:8: wrong number of arguments
+[29/12/2009 13:24:43] stack traceback:
+[29/12/2009 13:24:43] 	[C]: in function 'random'
+[29/12/2009 13:24:43] 	data/actions/scripts/teddy.lua:8: in function <data/actions/scripts/teddy.lua:1>
+[29/12/2009 13:24:43] 
+[29/12/2009 13:24:43] Lua Script Error: [Action Interface] 
+[29/12/2009 13:24:43] data/actions/scripts/teddy.lua:onUse
+[29/12/2009 13:24:43] 
+[29/12/2009 13:24:43] data/actions/scripts/teddy.lua:8: wrong number of arguments
+[29/12/2009 13:24:43] stack traceback:
+[29/12/2009 13:24:43] 	[C]: in function 'random'
+[29/12/2009 13:24:43] 	data/actions/scripts/teddy.lua:8: in function <data/actions/scripts/teddy.lua:1>
+[29/12/2009 13:24:44] 
+[29/12/2009 13:24:44] Lua Script Error: [Action Interface] 
+[29/12/2009 13:24:44] data/actions/scripts/teddy.lua:onUse
+[29/12/2009 13:24:44] 
+[29/12/2009 13:24:44] data/actions/scripts/teddy.lua:8: wrong number of arguments
+[29/12/2009 13:24:44] stack traceback:
+[29/12/2009 13:24:44] 	[C]: in function 'random'
+[29/12/2009 13:24:44] 	data/actions/scripts/teddy.lua:8: in function <data/actions/scripts/teddy.lua:1>
+[29/12/2009 13:24:55] 
+[29/12/2009 13:24:55] Lua Script Error: [Action Interface] 
+[29/12/2009 13:24:55] data/actions/scripts/teddy.lua:onUse
+[29/12/2009 13:24:55] 
+[29/12/2009 13:24:55] data/actions/scripts/teddy.lua:8: wrong number of arguments
+[29/12/2009 13:24:55] stack traceback:
+[29/12/2009 13:24:55] 	[C]: in function 'random'
+[29/12/2009 13:24:55] 	data/actions/scripts/teddy.lua:8: in function <data/actions/scripts/teddy.lua:1>
+[29/12/2009 13:24:55] 
+[29/12/2009 13:24:55] Lua Script Error: [Action Interface] 
+[29/12/2009 13:24:55] data/actions/scripts/teddy.lua:onUse
+[29/12/2009 13:24:56] 
+[29/12/2009 13:24:56] data/actions/scripts/teddy.lua:8: wrong number of arguments
+[29/12/2009 13:24:56] stack traceback:
+[29/12/2009 13:24:56] 	[C]: in function 'random'
+[29/12/2009 13:24:56] 	data/actions/scripts/teddy.lua:8: in function <data/actions/scripts/teddy.lua:1>
+[29/12/2009 13:25:44] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/teddy.lua)
+[29/12/2009 13:25:44] data/actions/scripts/teddy.lua:32: 'end' expected (to close 'if' at line 21) near 'else'
+[29/12/2009 13:25:57] > Saving server...
+[29/12/2009 13:26:21] > SAVE: Complete in 23.375 seconds using relational house storage.
+[29/12/2009 13:26:21] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[29/12/2009 13:40:13] The Forgotten Server, version 0.3.4 (Crying Damson)
+[29/12/2009 13:40:13] Sever Criado Por Alissow e Comedinha.
+[29/12/2009 13:40:13] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[29/12/2009 13:40:13] Bom Jogo!!!
+[29/12/2009 13:40:13] 
+[29/12/2009 13:40:13] >> Debugging: nothing.
+[29/12/2009 13:40:14] >> Checking software version... outdated, please consider updating!
+[29/12/2009 13:40:14] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[29/12/2009 13:40:14] > Latest version information - version: 0.3.6, patch: 0, build: 3293, timestamp: 1260652199.
+[29/12/2009 13:40:15] [Warning - ConfigManager::getBool] 62
+[29/12/2009 13:40:15] 
+[29/12/2009 13:40:15] >> Loading config (config.lua)
+[29/12/2009 13:40:15] > Using plaintext passwords
+[29/12/2009 13:40:15] >> Loading RSA key
+[29/12/2009 13:40:15] >> Starting SQL connection
+[29/12/2009 13:40:15] >> Running Database Manager
+[29/12/2009 13:40:17] > Optimized database.
+[29/12/2009 13:40:17] >> Loading items
+[29/12/2009 13:40:18] >> Loading groups
+[29/12/2009 13:40:18] >> Loading vocations
+[29/12/2009 13:40:18] >> Loading script systems
+[29/12/2009 13:40:35] >> Loading chat channels
+[29/12/2009 13:40:35] >> Loading outfits
+[29/12/2009 13:40:35] >> Loading experience stages
+[29/12/2009 13:40:35] >> Loading monsters
+[29/12/2009 13:40:46] >> Loading map and spawns...
+[29/12/2009 13:40:48] > Map size: 1100x1100.
+[29/12/2009 13:40:48] > Map descriptions: 
+[29/12/2009 13:40:48] Saved with Remere's Map Editor 1.1.10
+[29/12/2009 13:40:48] Remere 's Map Editor Beta
+[29/12/2009 13:40:51] Duplicate uniqueId 9911
+[29/12/2009 13:40:51] Duplicate uniqueId 9912
+[29/12/2009 13:40:51] Duplicate uniqueId 9913
+[29/12/2009 13:40:51] Duplicate uniqueId 9914
+[29/12/2009 13:40:51] Duplicate uniqueId 9915
+[29/12/2009 13:40:54] Duplicate uniqueId 2471
+[29/12/2009 13:41:00] Duplicate uniqueId 8880
+[29/12/2009 13:41:04] Duplicate uniqueId 8880
+[29/12/2009 13:41:05] Duplicate uniqueId 5006
+[29/12/2009 13:41:06] > Map loading time: 20.188 seconds.
+[29/12/2009 13:41:18] > Data loading time: 11.687 seconds.
+[29/12/2009 13:41:27] > Unserialization time for houses: 8.984 seconds.
+[29/12/2009 13:42:18] > Unserialization time for map: 51.313 seconds.
+[29/12/2009 13:42:19] >> Checking world type... PvP
+[29/12/2009 13:42:19] >> Initializing game state modules and registering services...
+[29/12/2009 13:42:32] > Global address: 201.246.36.209
+[29/12/2009 13:42:33] > Local ports:
+[29/12/2009 13:42:33] 7171	7172	
+[29/12/2009 13:42:33] >> All modules were loaded, server starting up...
+[29/12/2009 13:42:33] >> Aggrox metal server Online!
+[29/12/2009 13:42:34] 
+[29/12/2009 13:42:47] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[29/12/2009 13:42:48] Hoster Aggresor has logged in.
+[29/12/2009 13:50:35] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[29/12/2009 13:55:36] > Saving server...
+[29/12/2009 13:55:55] > SAVE: Complete in 19.063 seconds using relational house storage.
+[29/12/2009 14:00:36] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[29/12/2009 14:10:36] > Saving server...
+[29/12/2009 14:10:53] > SAVE: Complete in 16.656 seconds using relational house storage.
+[29/12/2009 14:10:53] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[29/12/2009 14:20:54] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[29/12/2009 14:25:37] > Saving server...
+[29/12/2009 14:25:46] > SAVE: Complete in 9 seconds using relational house storage.
+[29/12/2009 23:38:59] The Forgotten Server, version 0.3.4 (Crying Damson)
+[29/12/2009 23:38:59] Sever Criado Por Alissow e Comedinha.
+[29/12/2009 23:38:59] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[29/12/2009 23:38:59] Bom Jogo!!!
+[29/12/2009 23:38:59] 
+[29/12/2009 23:38:59] >> Debugging: nothing.
+[29/12/2009 23:38:59] >> Checking software version... outdated, please consider updating!
+[29/12/2009 23:39:00] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[29/12/2009 23:39:00] > Latest version information - version: 0.3.6, patch: 0, build: 3293, timestamp: 1260652199.
+[29/12/2009 23:39:00] [Warning - ConfigManager::getBool] 62
+[29/12/2009 23:39:00] 
+[29/12/2009 23:39:00] >> Loading config (config.lua)
+[29/12/2009 23:39:01] > Using plaintext passwords
+[29/12/2009 23:39:01] >> Loading RSA key
+[29/12/2009 23:39:01] >> Starting SQL connection
+[29/12/2009 23:39:01] >> Running Database Manager
+[29/12/2009 23:39:03] > Optimized database.
+[29/12/2009 23:39:03] >> Loading items
+[29/12/2009 23:39:05] >> Loading groups
+[29/12/2009 23:39:06] >> Loading vocations
+[29/12/2009 23:39:06] >> Loading script systems
+[29/12/2009 23:39:15] >> Loading chat channels
+[29/12/2009 23:39:15] >> Loading outfits
+[29/12/2009 23:39:15] >> Loading experience stages
+[29/12/2009 23:39:15] >> Loading monsters
+[29/12/2009 23:39:19] >> Loading map and spawns...
+[29/12/2009 23:39:20] > Map size: 1100x1100.
+[29/12/2009 23:39:20] > Map descriptions: 
+[29/12/2009 23:39:20] Saved with Remere's Map Editor 1.1.10
+[29/12/2009 23:39:20] Remere 's Map Editor Beta
+[29/12/2009 23:39:21] Duplicate uniqueId 9911
+[29/12/2009 23:39:21] Duplicate uniqueId 9912
+[29/12/2009 23:39:21] Duplicate uniqueId 9913
+[29/12/2009 23:39:21] Duplicate uniqueId 9914
+[29/12/2009 23:39:21] Duplicate uniqueId 9915
+[29/12/2009 23:39:23] Duplicate uniqueId 2471
+[29/12/2009 23:39:25] Duplicate uniqueId 8880
+[29/12/2009 23:39:25] Duplicate uniqueId 8880
+[29/12/2009 23:39:25] Duplicate uniqueId 5006
+[29/12/2009 23:39:26] > Map loading time: 6.922 seconds.
+[29/12/2009 23:39:31] > Data loading time: 4.829 seconds.
+[29/12/2009 23:39:32] > Unserialization time for houses: 1.484 seconds.
+[29/12/2009 23:39:56] [Warning - IOMapSerialize::loadTile] NULL item at ( 00065 / 00310 / 013 ) (type = 7815, sid = 1, pid = 0)
+[29/12/2009 23:39:56] [Warning - IOMapSerialize::loadTile] NULL item at ( 00065 / 00311 / 013 ) (type = 7816, sid = 1, pid = 0)
+[29/12/2009 23:40:09] > Unserialization time for map: 36.875 seconds.
+[29/12/2009 23:40:09] >> Checking world type... PvP
+[29/12/2009 23:40:09] >> Initializing game state modules and registering services...
+[29/12/2009 23:40:10] > Global address: 201.246.36.209
+[29/12/2009 23:40:11] > Local ports:
+[29/12/2009 23:40:11] 7171	7172	
+[29/12/2009 23:40:11] >> All modules were loaded, server starting up...
+[29/12/2009 23:40:11] >> Aggrox metal server Online!
+[29/12/2009 23:40:11] 
+[29/12/2009 23:43:00] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[29/12/2009 23:43:02] Hoster Aggresor has logged in.
+[29/12/2009 23:46:32] Hoster Aggresor has logged out.
+[29/12/2009 23:46:34] Hoster Aggresor has logged in.
+[29/12/2009 23:47:46] Hoster Aggresor has logged out.
+[29/12/2009 23:47:46] Hoster Aggresor has logged in.
+[29/12/2009 23:48:52] Hoster Aggresor has logged out.
+[29/12/2009 23:48:54] Pro Pro has logged in.
+[29/12/2009 23:49:16] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[29/12/2009 23:49:24] Pro Pro has logged out.
+[29/12/2009 23:49:28] Kina Zarprite has logged in.
+[29/12/2009 23:49:34] Kina Zarprite has logged out.
+[29/12/2009 23:49:36] Jack Dee has logged in.
+[29/12/2009 23:49:38] Jack Dee has logged out.
+[29/12/2009 23:49:41] Mono Pirata has logged in.
+[29/12/2009 23:49:51] Mono Pirata has logged out.
+[29/12/2009 23:49:53] Hoster Aggresor has logged in.
+[29/12/2009 23:50:03] Hoster Aggresor has logged out.
+[29/12/2009 23:50:05] Mono Pirata has logged in.
+[29/12/2009 23:52:55] Mono Pirata has logged out.
+[29/12/2009 23:52:57] Hoster Aggresor has logged in.
+[29/12/2009 23:54:16] > Saving server...
+[29/12/2009 23:54:26] > SAVE: Complete in 9.594 seconds using relational house storage.
+[29/12/2009 23:59:10] 
+[29/12/2009 23:59:10] Lua Script Error: [Action Interface] 
+[29/12/2009 23:59:11] data/actions/scripts/vipflame.lua:onUse
+[29/12/2009 23:59:11] 
+[29/12/2009 23:59:11] luaDoRemoveItem(). Item not found
+[29/12/2009 23:59:17] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".

@@ -1,0 +1,100 @@
+[06/01/2010 00:00:14] > SAVE: Complete in 77.75 seconds using relational house storage.
+[06/01/2010 00:01:44] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[06/01/2010 00:02:31] > CLEAN: Removed 0 items from 74 tiles in 5.047 seconds.
+[06/01/2010 00:02:33] > Broadcasted message: "el mapa se limpio :P, siguiente limpieza en 2 horas.".
+[06/01/2010 00:06:39] > Saving server...
+[06/01/2010 00:07:09] > SAVE: Complete in 29.813 seconds using relational house storage.
+[06/01/2010 00:07:09] Preparing to shutdown server..
+[06/01/2010 00:07:11] .
+[06/01/2010 00:07:11] Exiting
+[06/01/2010 04:17:34] The Forgotten Server, version 0.3.4 (Crying Damson)
+[06/01/2010 04:17:35] Sever Criado Por Alissow e Comedinha.
+[06/01/2010 04:17:35] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[06/01/2010 04:17:35] Bom Jogo!!!
+[06/01/2010 04:17:35] 
+[06/01/2010 04:17:35] >> Debugging: nothing.
+[06/01/2010 04:17:35] >> Checking software version... outdated, please consider updating!
+[06/01/2010 04:17:36] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[06/01/2010 04:17:36] > Latest version information - version: 0.3.6, patch: 0, build: 3293, timestamp: 1260652199.
+[06/01/2010 04:17:36] [Warning - ConfigManager::getBool] 62
+[06/01/2010 04:17:36] 
+[06/01/2010 04:17:36] >> Loading config (config.lua)
+[06/01/2010 04:17:36] > Using plaintext passwords
+[06/01/2010 04:17:36] >> Loading RSA key
+[06/01/2010 04:17:36] >> Starting SQL connection
+[06/01/2010 04:17:36] >> Running Database Manager
+[06/01/2010 04:17:38] > Optimized database.
+[06/01/2010 04:17:38] >> Loading items
+[06/01/2010 04:17:39] >> Loading groups
+[06/01/2010 04:17:39] >> Loading vocations
+[06/01/2010 04:17:39] >> Loading script systems
+[06/01/2010 04:17:49] [Warning - Event::loadScript] Cannot load script (data/creaturescripts/scripts/inquisitionPortals.lua)
+[06/01/2010 04:17:49] data/creaturescripts/scripts/inquisitionPortals.lua:11: '=' expected near 'elemental_in_pos'
+[06/01/2010 04:17:50] >> Loading chat channels
+[06/01/2010 04:17:50] >> Loading outfits
+[06/01/2010 04:17:50] >> Loading experience stages
+[06/01/2010 04:17:50] >> Loading monsters
+[06/01/2010 04:17:55] >> Loading map and spawns...
+[06/01/2010 04:17:57] > Map size: 1100x1100.
+[06/01/2010 04:17:57] > Map descriptions: 
+[06/01/2010 04:17:57] Saved with Remere's Map Editor 1.1.10
+[06/01/2010 04:17:57] Remere 's Map Editor Beta
+[06/01/2010 04:18:00] Duplicate uniqueId 9911
+[06/01/2010 04:18:00] Duplicate uniqueId 9912
+[06/01/2010 04:18:00] Duplicate uniqueId 9913
+[06/01/2010 04:18:00] Duplicate uniqueId 9914
+[06/01/2010 04:18:00] Duplicate uniqueId 9915
+[06/01/2010 04:18:02] Duplicate uniqueId 2471
+[06/01/2010 04:18:02] Duplicate uniqueId 2471
+[06/01/2010 04:18:09] Duplicate uniqueId 8880
+[06/01/2010 04:18:12] Duplicate uniqueId 5006
+[06/01/2010 04:18:14] > Map loading time: 17.984 seconds.
+[06/01/2010 04:18:43] > Data loading time: 29.312 seconds.
+[06/01/2010 04:18:49] > Unserialization time for houses: 5.86 seconds.
+[06/01/2010 04:19:49] > Unserialization time for map: 59.797 seconds.
+[06/01/2010 04:19:49] >> Checking world type... PvP
+[06/01/2010 04:19:49] >> Initializing game state modules and registering services...
+[06/01/2010 04:20:06] > Global address: 201.246.36.209
+[06/01/2010 04:20:06] > Local ports:
+[06/01/2010 04:20:06] 7171	7172	
+[06/01/2010 04:20:06] >> All modules were loaded, server starting up...
+[06/01/2010 04:20:06] >> Aggrox metal server Online!
+[06/01/2010 04:20:06] 
+[06/01/2010 04:20:16] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[06/01/2010 04:20:18] Hoster Aggresor has logged in.
+[06/01/2010 04:20:18] > Broadcasted message: "Hoster Aggresor se conecto (el es: rei aggresor)".
+[06/01/2010 04:22:44] Hoster Aggresor has logged out.
+[06/01/2010 04:22:45] Hoster Aggresor has logged in.
+[06/01/2010 04:22:45] > Broadcasted message: "Hoster Aggresor se conecto (el es: rei aggresor)".
+[06/01/2010 04:27:51] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[06/01/2010 04:32:51] > Saving server...
+[06/01/2010 04:33:13] > SAVE: Complete in 22.218 seconds using relational house storage.
+[06/01/2010 04:37:51] > Broadcasted message: "[SYSTEMA DE LOTERIA] ganador: Hoster Aggresor, recompensa: 100k! - felicitaciones! (siguiente Loteria en media Hora)".
+[06/01/2010 04:37:53] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[06/01/2010 04:47:52] > Saving server...
+[06/01/2010 04:48:14] > SAVE: Complete in 21.562 seconds using relational house storage.
+[06/01/2010 04:48:14] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[06/01/2010 04:57:52] > Broadcasted message: "[SYSTEMA DE LOTERIA] ganador: Hoster Aggresor, recompensa: 100k! - felicitaciones! (siguiente Loteria en media Hora)".
+[06/01/2010 04:58:15] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[06/01/2010 05:02:53] > Saving server...
+[06/01/2010 05:03:05] > SAVE: Complete in 12.062 seconds using relational house storage.
+[06/01/2010 05:07:19] > Broadcasted message: "whatafuck csm invaden Slayer city".
+[06/01/2010 05:08:16] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[06/01/2010 05:17:53] > Broadcasted message: "[SYSTEMA DE LOTERIA] ganador: Hoster Aggresor, recompensa: 100k! - felicitaciones! (siguiente Loteria en media Hora)".
+[06/01/2010 05:17:54] > Saving server...
+[06/01/2010 05:18:01] > SAVE: Complete in 7 seconds using relational house storage.
+[06/01/2010 05:18:17] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[06/01/2010 05:28:18] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[06/01/2010 05:32:55] > Saving server...
+[06/01/2010 05:33:02] > SAVE: Complete in 6.922 seconds using relational house storage.
+[06/01/2010 05:37:54] > Broadcasted message: "[SYSTEMA DE LOTERIA] ganador: Hoster Aggresor, recompensa: 100k! - felicitaciones! (siguiente Loteria en media Hora)".
+[06/01/2010 05:38:19] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[06/01/2010 05:39:19] > Broadcasted message: "Demonios csm invaden Slayer city".
+[06/01/2010 05:39:28] [Error - SingleSpawnEvent::executeEvent] Cannot spawn monster Demonio
+[06/01/2010 05:47:56] > Saving server...
+[06/01/2010 05:48:27] > SAVE: Complete in 30.968 seconds using relational house storage.
+[06/01/2010 05:48:27] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 2cc !buypromotion y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[06/01/2010 05:55:28] Hoster Aggresor has logged out.
+[06/01/2010 05:55:33] > Saving server...
+[06/01/2010 05:55:55] > SAVE: Complete in 21.641 seconds using relational house storage.
+[06/01/2010 05:55:55] Preparing to shutdown server.

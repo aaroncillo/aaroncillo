@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Mafiry" nameDescription="a mafiry" race="blood" experience="30000" speed="1300" manacost="0">
+   <health now="50000" max="50000"/>
+   <look type="132" head="39" body="0" legs="19" feet="20" addons="2" corpse="3058"/>
+   <targetchange interval="5000" chance="8"/>
+   <strategy attack="100" defense="0"/>
+   <flags>
+     <flag summonable="0"/>
+     <flag attackable="1"/>
+     <flag hostile="1"/>
+     <flag illusionable="1"/>
+     <flag convinceable="0"/>
+     <flag pushable="0"/>
+     <flag canpushitems="1"/>
+     <flag canpushcreatures="0"/>
+     <flag targetdistance="4"/>
+     <flag staticattack="90"/>
+     <flag runonhealth="0"/>
+   </flags>
+   <attacks>
+     <attack name="energy" interval="1000" chance="20" range="7" min="-100" max="-1500">
+       <attribute key="shootEffect" value="energy"/>
+     </attack>
+     <attack name="fire" interval="1000" chance="15" range="7" min="-900" max="-1000">
+       <attribute key="shootEffect" value="fire"/>
+     </attack>
+   </attacks>
+   <defenses armor="20" defense="20">
+     <defense name="healing" interval="1000" chance="13" min="35" max="75">
+       <attribute key="areaEffect" value="blueshimmer"/>
+     </defense>
+     <defense name="speed" interval="1000" chance="10" speedchange="200" duration="2000">
+       <attribute key="areaEffect" value="redshimmer"/>
+     </defense>
+   </defenses>
+   <elements>
+     <element deathPercent="-10"/>
+     <element firePercent="10"/>
+     <element earthPercent="20"/>
+     <element energyPercent="20"/>
+     <element icePercent="10"/>
+     <element holyPercent="20"/>
+   </elements>
+   <immunities>
+     <immunity invisible="1"/>
+   </immunities>
+   <voices interval="5000" chance="10">
+     <voice sentence="ME GUSTA EL PIKOOOOOOOOOOOO!"/>
+     <voice sentence="SOY AWEONAO ME LLAMO MAFIRY!! PA QUE UN NOMBRE MAS SACO WEA!"/>
+     <voice sentence="TE VOY A MATAR QLIAO GAY"/>
+   </voices>
+   <loot>
+     <item id="2149" countmax="20" chance1="100000" chancemax="0"/>
+     <item id="2516" chance="3200"/>
+     <item id="1987" chance="100000">    
+         <inside>
+             <item id="2393" chance="50000"/>
+             <item id="2514" chance="30000"/>
+         </inside>
+     </item>
+   </loot>
+</monster>

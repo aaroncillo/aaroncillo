@@ -1,0 +1,3073 @@
+[31/08/2009 16:39:40] The Forgotten Server, version 0.3.4 (Crying Damson)
+[31/08/2009 16:39:40] Sever Criado Por Alissow e Comedinha.
+[31/08/2009 16:39:40] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[31/08/2009 16:39:40] Bom Jogo!!!
+[31/08/2009 16:39:40] 
+[31/08/2009 16:39:40] >> Debugging: nothing.
+[31/08/2009 16:39:40] >> Checking software version... outdated, please consider updating!
+[31/08/2009 16:39:42] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[31/08/2009 16:39:42] > Latest version information - version: 0.3.5, patch: 1, build: 2576, timestamp: 1249584126.
+[31/08/2009 16:39:42] [Warning - ConfigManager::getBool] 62
+[31/08/2009 16:39:42] 
+[31/08/2009 16:39:42] >> Loading config (config.lua)
+[31/08/2009 16:39:42] > Using plaintext passwords
+[31/08/2009 16:39:42] >> Loading RSA key
+[31/08/2009 16:39:42] >> Starting SQL connection
+[31/08/2009 16:39:42] >> Running Database Manager
+[31/08/2009 16:39:45] > Optimized database.
+[31/08/2009 16:39:45] >> Loading items
+[31/08/2009 16:39:45] >> Loading groups
+[31/08/2009 16:39:45] >> Loading vocations
+[31/08/2009 16:39:45] >> Loading script systems
+[31/08/2009 16:39:45] [Warning - BaseEvents::loadFromXml] Cannot open weapons.xml file.
+[31/08/2009 16:39:45] Line: 506, Info: Premature end of data in tag weapons line 2
+[31/08/2009 16:39:45] 
+[31/08/2009 16:39:45] 
+[31/08/2009 16:39:45] > ERROR: Unable to load Weapons!
+[31/08/2009 16:41:04] The Forgotten Server, version 0.3.4 (Crying Damson)
+[31/08/2009 16:41:04] Sever Criado Por Alissow e Comedinha.
+[31/08/2009 16:41:04] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[31/08/2009 16:41:04] Bom Jogo!!!
+[31/08/2009 16:41:04] 
+[31/08/2009 16:41:04] >> Debugging: nothing.
+[31/08/2009 16:41:04] >> Checking software version... outdated, please consider updating!
+[31/08/2009 16:41:05] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[31/08/2009 16:41:05] > Latest version information - version: 0.3.5, patch: 1, build: 2576, timestamp: 1249584126.
+[31/08/2009 16:41:05] [Warning - ConfigManager::getBool] 62
+[31/08/2009 16:41:05] 
+[31/08/2009 16:41:05] >> Loading config (config.lua)
+[31/08/2009 16:41:05] > Using plaintext passwords
+[31/08/2009 16:41:05] >> Loading RSA key
+[31/08/2009 16:41:05] >> Starting SQL connection
+[31/08/2009 16:41:05] >> Running Database Manager
+[31/08/2009 16:41:07] > Optimized database.
+[31/08/2009 16:41:07] >> Loading items
+[31/08/2009 16:41:07] >> Loading groups
+[31/08/2009 16:41:07] >> Loading vocations
+[31/08/2009 16:41:07] >> Loading script systems
+[31/08/2009 16:41:09] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/backpack2.lua)
+[31/08/2009 16:41:09] data/actions/scripts/backpack2.lua:5: unexpected symbol near ')'
+[31/08/2009 16:41:09] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/backpack1.lua)
+[31/08/2009 16:41:09] data/actions/scripts/backpack1.lua:5: unexpected symbol near ')'
+[31/08/2009 16:41:10] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/razgos1.lua)
+[31/08/2009 16:41:10] data/actions/scripts/razgos1.lua:5: unexpected symbol near ')'
+[31/08/2009 16:41:10] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/boots.lua)
+[31/08/2009 16:41:10] data/actions/scripts/boots.lua:5: unexpected symbol near ')'
+[31/08/2009 16:41:10] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/darknessarmor.lua)
+[31/08/2009 16:41:10] cannot open data/actions/scripts/darknessarmor.lua: No such file or directory
+[31/08/2009 16:41:10] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/darknessshield.lua)
+[31/08/2009 16:41:10] cannot open data/actions/scripts/darknessshield.lua: No such file or directory
+[31/08/2009 16:41:10] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/darknesslegs.lua)
+[31/08/2009 16:41:10] cannot open data/actions/scripts/darknesslegs.lua: No such file or directory
+[31/08/2009 16:41:11] >> Loading chat channels
+[31/08/2009 16:41:11] >> Loading outfits
+[31/08/2009 16:41:11] >> Loading experience stages
+[31/08/2009 16:41:11] >> Loading monsters
+[31/08/2009 16:41:15] >> Loading map and spawns...
+[31/08/2009 16:41:17] > Map size: 512x512.
+[31/08/2009 16:41:17] > Map descriptions: 
+[31/08/2009 16:41:17] Saved with Remere's Map Editor 1.1.7 BETA
+[31/08/2009 16:41:17] SimOne MapEditor 0.5.5
+[31/08/2009 16:41:19] > Map loading time: 3.782 seconds.
+[31/08/2009 16:41:20] [Spawn::addMonster] NULL tile at spawn position (( 00589 / 00148 / 007 ))
+[31/08/2009 16:41:20] [Spawn::addMonster] NULL tile at spawn position (( 00618 / 00150 / 007 ))
+[31/08/2009 16:41:20] [Spawn::addMonster] NULL tile at spawn position (( 00617 / 00169 / 007 ))
+[31/08/2009 16:41:20] [Spawn::addMonster] NULL tile at spawn position (( 00582 / 00183 / 007 ))
+[31/08/2009 16:41:20] [Spawn::addMonster] NULL tile at spawn position (( 00576 / 00191 / 007 ))
+[31/08/2009 16:41:20] [Spawn::addMonster] NULL tile at spawn position (( 00628 / 00197 / 007 ))
+[31/08/2009 16:41:20] [Spawn::addMonster] NULL tile at spawn position (( 00601 / 00206 / 007 ))
+[31/08/2009 16:41:20] [Spawn::addMonster] NULL tile at spawn position (( 00571 / 00209 / 007 ))
+[31/08/2009 16:41:20] [Spawn::addMonster] NULL tile at spawn position (( 00594 / 00213 / 007 ))
+[31/08/2009 16:41:20] [Spawn::addMonster] NULL tile at spawn position (( 00618 / 00221 / 007 ))
+[31/08/2009 16:41:20] [Spawn::addMonster] NULL tile at spawn position (( 00595 / 00228 / 007 ))
+[31/08/2009 16:41:20] [Spawn::addMonster] NULL tile at spawn position (( 00554 / 00229 / 007 ))
+[31/08/2009 16:41:21] [Error - Houses::loadFromXml] Unknown house with id: 29
+[31/08/2009 16:41:21] > WARNING: Could not load house data.
+[31/08/2009 16:41:21] > Data loading time: 1.328 seconds.
+[31/08/2009 16:41:21] > Unserialization time for houses: 0.047 seconds.
+[31/08/2009 16:41:32] > Unserialization time for map: 11.562 seconds.
+[31/08/2009 16:41:32] >> Checking world type... PvP
+[31/08/2009 16:41:32] >> Initializing game state modules and registering services...
+[31/08/2009 16:41:33] > Global address: razgosserver.no-ip.info
+[31/08/2009 16:41:34] > Local ports:
+[31/08/2009 16:41:34] 7171	7172	
+[31/08/2009 16:41:34] >> All modules were loaded, server starting up...
+[31/08/2009 16:41:34] >> Snowz OTs server Online!
+[31/08/2009 16:41:34] 
+[31/08/2009 16:41:54] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[31/08/2009 16:41:56] [Hoster] Dee has logged in.
+[31/08/2009 16:43:40] > CLEAN: Removed 2 items from 59 tiles in 0.047 seconds.
+[31/08/2009 16:45:13] > CLEAN: Removed 1 item from 1 tile in 0.031 seconds.
+[31/08/2009 16:46:32] [Hoster] Dee has logged out.
+[31/08/2009 16:46:33] Zorra Zorrienta has logged in.
+[31/08/2009 16:46:42] Zorra Zorrienta has logged out.
+[31/08/2009 16:47:57] [Hoster] Dee has logged in.
+[31/08/2009 16:48:33] > CLEAN: Removed 4 items from 5 tiles in 0.032 seconds.
+[31/08/2009 16:48:33] Account Manager has logged in.
+[31/08/2009 16:48:52] Account Manager has logged out.
+[31/08/2009 16:49:02] Account Manager has logged in.
+[31/08/2009 16:49:17] [Hoster] Dee has logged out.
+[31/08/2009 16:49:17] Account Manager has logged out.
+[31/08/2009 16:49:19] Mono Pirata has logged in.
+[31/08/2009 16:49:27] Elektro has logged in.
+[31/08/2009 16:49:44] Mono Pirata has logged out.
+[31/08/2009 16:49:46] Mono Pirata has logged in.
+[31/08/2009 16:49:48] Account Manager has logged in.
+[31/08/2009 16:50:04] Mono Pirata has logged out.
+[31/08/2009 16:50:05] Account Manager has logged out.
+[31/08/2009 16:50:06] Mono Pirata has logged in.
+[31/08/2009 16:50:16] Royal Zorra has logged in.
+[31/08/2009 16:51:27] Account Manager has logged in.
+[31/08/2009 16:51:40] Account Manager has logged out.
+[31/08/2009 16:51:45] Account Manager has logged in.
+[31/08/2009 16:52:08] Account Manager has logged out.
+[31/08/2009 16:52:10] Account Manager has logged in.
+[31/08/2009 16:52:14] Loquillooo has logged in.
+[31/08/2009 16:52:22] Account Manager has logged out.
+[31/08/2009 16:52:33] Account Manager has logged in.
+[31/08/2009 16:52:45] Account Manager has logged out.
+[31/08/2009 16:52:51] Account Manager has logged in.
+[31/08/2009 16:53:11] Account Manager has logged out.
+[31/08/2009 16:53:16] Soberbia has logged in.
+[31/08/2009 16:53:34] Mono Pirata has logged out.
+[31/08/2009 16:55:12] Account Manager has logged in.
+[31/08/2009 16:55:22] Loquillooo has logged out.
+[31/08/2009 16:55:24] Account Manager has logged in.
+[31/08/2009 16:55:26] Account Manager has logged out.
+[31/08/2009 16:55:37] Account Manager has logged in.
+[31/08/2009 16:55:42] Royal Zorra has logged out.
+[31/08/2009 16:55:45] Account Manager has logged out.
+[31/08/2009 16:55:45] Royal Zorra has logged in.
+[31/08/2009 16:55:50] Loquilloo has logged in.
+[31/08/2009 16:56:01] Account Manager has logged in.
+[31/08/2009 16:56:02] Account Manager has logged out.
+[31/08/2009 16:56:08] Account Manager has logged in.
+[31/08/2009 16:56:12] > Saving server...
+[31/08/2009 16:56:15] > SAVE: Complete in 2.5 seconds using relational house storage.
+[31/08/2009 16:56:15] Account Manager has logged out.
+[31/08/2009 16:56:20] Account Manager has logged in.
+[31/08/2009 16:56:23] Account Manager has logged in.
+[31/08/2009 16:56:30] Account Manager has logged out.
+[31/08/2009 16:56:37] Nano has logged in.
+[31/08/2009 16:56:45] Account Manager has logged out.
+[31/08/2009 16:56:46] Account Manager has logged out.
+[31/08/2009 16:56:53] Master Nickk has logged in.
+[31/08/2009 16:56:58] Swolls Stikre has logged in.
+[31/08/2009 16:57:19] Account Manager has logged in.
+[31/08/2009 16:57:27] Nano has logged out.
+[31/08/2009 16:57:29] Account Manager has logged in.
+[31/08/2009 16:57:37] Account Manager has logged out.
+[31/08/2009 16:57:42] [Admin] Kogotero Lanza has logged in.
+[31/08/2009 16:57:46] > CLEAN: Removed 67 items from 67 tiles in 0.016 seconds.
+[31/08/2009 16:57:51] Account Manager has logged in.
+[31/08/2009 16:57:54] > [Admin] Kogotero Lanza broadcasted: "wuena cauross".
+[31/08/2009 16:58:17] Elektro has logged out.
+[31/08/2009 16:58:19] Elektro has logged in.
+[31/08/2009 16:58:20] Account Manager has logged out.
+[31/08/2009 16:58:31] Maaatiaas has logged in.
+[31/08/2009 16:58:51] Account Manager has logged out.
+[31/08/2009 16:58:59] Set ray has logged in.
+[31/08/2009 16:59:17] [Admin] Senik One has logged in.
+[31/08/2009 16:59:19] [Hoster] Dee has logged in.
+[31/08/2009 16:59:42] Set ray has logged out.
+[31/08/2009 16:59:46] Account Manager has logged in.
+[31/08/2009 16:59:48] Royal Zorra has logged out.
+[31/08/2009 16:59:50] Royal Zorra has logged in.
+[31/08/2009 17:00:13] Account Manager has logged out.
+[31/08/2009 17:00:17] Account Manager has logged in.
+[31/08/2009 17:00:23] Set ray has logged in.
+[31/08/2009 17:00:24] > [Admin] Senik One broadcasted: "q asa ordinarios qls :)".
+[31/08/2009 17:00:35] Set ray has logged out.
+[31/08/2009 17:00:37] Rix knight has logged in.
+[31/08/2009 17:00:41] Account Manager has logged out.
+[31/08/2009 17:00:50] Account Manager has logged in.
+[31/08/2009 17:00:51] > [Admin] Kogotero Lanza broadcasted: "EL HOSTER DEE ASEE PETESSS GRATISSS CON DRAGONSITO INCLUIDOO :)".
+[31/08/2009 17:01:08] > [Admin] Senik One broadcasted: "JKAJKAJKAJKAJKAJK TA BN SI!".
+[31/08/2009 17:01:20] > [Hoster] Dee broadcasted: "CALLENSE LOS GILE CULIAOS XD".
+[31/08/2009 17:01:22] Account Manager has logged out.
+[31/08/2009 17:01:34] > [Admin] Senik One broadcasted: "kjajkajka pa q po :)".
+[31/08/2009 17:01:36] Master jno has logged in.
+[31/08/2009 17:01:36] > [Admin] Kogotero Lanza broadcasted: "Y EL SENIK ONE SE MARAKEA A GAMBAAA CON CHAMPAÑAZO INCLUIDO".
+[31/08/2009 17:01:39] [Hoster] Dee has logged out.
+[31/08/2009 17:01:41] Mono Pirata has logged in.
+[31/08/2009 17:01:44] > [Admin] Kogotero Lanza broadcasted: "Y EL SENIK ONE SE MARAKEA A GAMBAAA CON CHAMPAÑAZO INCLUIDO".
+[31/08/2009 17:01:45] > [Admin] Senik One broadcasted: "oe cesar serre el msn porcia pa q no emw ey ma".
+[31/08/2009 17:01:58] Royal Zorra has logged out.
+[31/08/2009 17:02:01] Royal Zorra has logged in.
+[31/08/2009 17:02:06] > [Admin] Kogotero Lanza broadcasted: "JKAJKAJKAJKA".
+[31/08/2009 17:02:23] [Admin] Kogotero Lanza has logged out.
+[31/08/2009 17:02:24] > [Admin] Senik One broadcasted: "jkajka pa q po si saemo q el kogotero es el rey de la makaka :)".
+[31/08/2009 17:02:25] Barrendero has logged in.
+[31/08/2009 17:02:28] Royal Zorra has logged out.
+[31/08/2009 17:02:33] Royal Zorra has logged in.
+[31/08/2009 17:02:33] Account Manager has logged in.
+[31/08/2009 17:02:37] [Admin] Senik One has logged out.
+[31/08/2009 17:02:38] Marmotita has logged in.
+[31/08/2009 17:02:48] Account Manager has logged out.
+[31/08/2009 17:02:55] Account Manager has logged in.
+[31/08/2009 17:03:05] Barrendero has logged out.
+[31/08/2009 17:03:08] Elektro has logged out.
+[31/08/2009 17:03:08] Barrendero has logged in.
+[31/08/2009 17:03:10] Elektro has logged in.
+[31/08/2009 17:03:11] Account Manager has logged out.
+[31/08/2009 17:03:17] Barrendero has logged out.
+[31/08/2009 17:03:18] Barrendero has logged in.
+[31/08/2009 17:03:26] Kristacho has logged in.
+[31/08/2009 17:03:35] Chupala has logged in.
+[31/08/2009 17:03:39] Barrendero has logged out.
+[31/08/2009 17:03:40] [Admin] Kogotero Lanza has logged in.
+[31/08/2009 17:03:45] Mono Pirata has logged out.
+[31/08/2009 17:03:47] [Hoster] Dee has logged in.
+[31/08/2009 17:04:12] Chupala has logged out.
+[31/08/2009 17:04:15] Chupala has logged in.
+[31/08/2009 17:04:28] > CLEAN: Removed 246 items from 303 tiles in 0.094 seconds.
+[31/08/2009 17:04:37] Account Manager has logged in.
+[31/08/2009 17:04:52] Account Manager has logged out.
+[31/08/2009 17:04:53] Account Manager has logged in.
+[31/08/2009 17:04:53] Master Nickk has logged out.
+[31/08/2009 17:04:54] Account Manager has logged out.
+[31/08/2009 17:04:56] Master Nickk has logged in.
+[31/08/2009 17:04:58] Account Manager has logged in.
+[31/08/2009 17:05:26] Swolls Stikre has logged out.
+[31/08/2009 17:05:28] Swolls Stikre has logged in.
+[31/08/2009 17:05:31] Account Manager has logged out.
+[31/08/2009 17:05:32] Account Manager has logged in.
+[31/08/2009 17:05:32] Account Manager has logged out.
+[31/08/2009 17:05:33] > [Admin] Kogotero Lanza broadcasted: "vengan agarran ".
+[31/08/2009 17:05:36] Shebby has logged in.
+[31/08/2009 17:05:38] > [Admin] Kogotero Lanza broadcasted: "plata al templo".
+[31/08/2009 17:05:47] > [Hoster] Dee broadcasted: "slayer staff en el templo".
+[31/08/2009 17:06:22] Elektro has logged out.
+[31/08/2009 17:06:49] Marmotita has logged out.
+[31/08/2009 17:06:52] Marmotita has logged in.
+[31/08/2009 17:06:55] > [Hoster] Dee broadcasted: " exp escondidos en la city".
+[31/08/2009 17:07:00] > [Admin] Kogotero Lanza broadcasted: "dragonesss ".
+[31/08/2009 17:07:08] Darkoo has logged in.
+[31/08/2009 17:07:24] Darkoo has logged out.
+[31/08/2009 17:07:25] Darkoo has logged in.
+[31/08/2009 17:07:28] Royal Zorra has logged out.
+[31/08/2009 17:07:31] Royal Zorra has logged in.
+[31/08/2009 17:07:55] > [Admin] Kogotero Lanza broadcasted: "ken keree atreverse a matar una puta¿¿¿¿".
+[31/08/2009 17:07:58] > [Admin] Kogotero Lanza broadcasted: "ken keree atreverse a matar una puta¿¿¿¿".
+[31/08/2009 17:08:06] > [Hoster] Dee broadcasted: "exp escondidos busken".
+[31/08/2009 17:08:14] Master Nickk has logged out.
+[31/08/2009 17:08:16] Master Nickk has logged in.
+[31/08/2009 17:08:17] > [Admin] Kogotero Lanza broadcasted: "cuidao con la puta".
+[31/08/2009 17:08:22] Account Manager has logged in.
+[31/08/2009 17:08:26] Loquilloo has logged out.
+[31/08/2009 17:08:27] > [Admin] Kogotero Lanza broadcasted: "puta afuera del templo".
+[31/08/2009 17:08:30] Maaatiaas has logged out.
+[31/08/2009 17:08:32] Loquilloo has logged in.
+[31/08/2009 17:08:33] Maaatiaas has logged in.
+[31/08/2009 17:08:35] Account Manager has logged in.
+[31/08/2009 17:08:48] Account Manager has logged out.
+[31/08/2009 17:08:48] Darkoo has logged out.
+[31/08/2009 17:08:50] Darkoo has logged in.
+[31/08/2009 17:08:51] Account Manager has logged out.
+[31/08/2009 17:09:08] [Hoster] Dee has logged out.
+[31/08/2009 17:09:28] Darkoo has logged out.
+[31/08/2009 17:09:29] Darkoo has logged in.
+[31/08/2009 17:09:42] > CLEAN: Removed 188 items from 592 tiles in 0.094 seconds.
+[31/08/2009 17:09:57] Swolls Stikre has logged out.
+[31/08/2009 17:09:59] Swolls Stikre has logged in.
+[31/08/2009 17:10:11] Maaatiaas has logged out.
+[31/08/2009 17:10:13] Maaatiaas has logged in.
+[31/08/2009 17:10:27] > CLEAN: Removed 22 items from 88 tiles in 0.047 seconds.
+[31/08/2009 17:10:43] Marmotita has logged out.
+[31/08/2009 17:10:46] Marmotita has logged in.
+[31/08/2009 17:10:51] Darkoo has logged out.
+[31/08/2009 17:10:53] Darkoo has logged in.
+[31/08/2009 17:10:53] Royal Zorra has logged out.
+[31/08/2009 17:10:56] Royal Zorra has logged in.
+[31/08/2009 17:10:58] Account Manager has logged in.
+[31/08/2009 17:11:07] Darkoo has logged out.
+[31/08/2009 17:11:09] Darkoo has logged in.
+[31/08/2009 17:11:13] > Saving server...
+[31/08/2009 17:11:17] > SAVE: Complete in 4.375 seconds using relational house storage.
+[31/08/2009 17:11:25] Chupala has logged out.
+[31/08/2009 17:11:28] Chupala has logged in.
+[31/08/2009 17:11:39] Account Manager has logged out.
+[31/08/2009 17:11:47] Marmotita has logged out.
+[31/08/2009 17:11:48] Account Manager has logged in.
+[31/08/2009 17:11:51] Account Manager has logged out.
+[31/08/2009 17:11:52] Marmotita has logged in.
+[31/08/2009 17:11:52] Account Manager has logged in.
+[31/08/2009 17:11:54] Darkoo has logged out.
+[31/08/2009 17:11:55] Darkoo has logged in.
+[31/08/2009 17:12:07] Darkoo has logged out.
+[31/08/2009 17:12:08] Darkoo has logged in.
+[31/08/2009 17:12:09] Royal Zorra has logged out.
+[31/08/2009 17:12:12] Royal Zorra has logged in.
+[31/08/2009 17:12:17] > CLEAN: Removed 42 items from 116 tiles in 0.016 seconds.
+[31/08/2009 17:12:18] Account Manager has logged out.
+[31/08/2009 17:12:25] Castyo has logged in.
+[31/08/2009 17:12:31] Chika has logged in.
+[31/08/2009 17:12:35] > [Admin] Kogotero Lanza broadcasted: "bolitas afeurra del templo".
+[31/08/2009 17:12:40] Soberbia has logged out.
+[31/08/2009 17:12:42] Soberbia has logged in.
+[31/08/2009 17:12:48] Marmotita has logged out.
+[31/08/2009 17:12:51] Rix knight has logged out.
+[31/08/2009 17:12:53] Marmotita has logged in.
+[31/08/2009 17:12:53] Rix knight has logged in.
+[31/08/2009 17:13:00] Royal Zorra has logged out.
+[31/08/2009 17:13:02] > [Admin] Kogotero Lanza broadcasted: "ken kere desafiar a un bolita??".
+[31/08/2009 17:13:02] Chupala has logged out.
+[31/08/2009 17:13:04] Chupala has logged in.
+[31/08/2009 17:13:04] Royal Zorra has logged in.
+[31/08/2009 17:13:23] Royal Zorra has logged out.
+[31/08/2009 17:13:28] Royal Zorra has logged in.
+[31/08/2009 17:13:43] Royal Zorra has logged out.
+[31/08/2009 17:13:46] Royal Zorra has logged in.
+[31/08/2009 17:13:46] Master Nickk has logged out.
+[31/08/2009 17:13:49] Master Nickk has logged in.
+[31/08/2009 17:14:29] Account Manager has logged in.
+[31/08/2009 17:14:40] Maaatiaas has logged out.
+[31/08/2009 17:14:42] Maaatiaas has logged in.
+[31/08/2009 17:14:49] Account Manager has logged out.
+[31/08/2009 17:14:57] Account Manager has logged in.
+[31/08/2009 17:15:11] Castyo has logged out.
+[31/08/2009 17:15:13] Castyo has logged in.
+[31/08/2009 17:15:17] Account Manager has logged out.
+[31/08/2009 17:15:26] Hankook has logged in.
+[31/08/2009 17:15:41] Soberbia has logged out.
+[31/08/2009 17:15:43] Soberbia has logged in.
+[31/08/2009 17:15:54] Master Nickk has logged out.
+[31/08/2009 17:15:56] Master Nickk has logged in.
+[31/08/2009 17:15:57] Account Manager has logged in.
+[31/08/2009 17:16:00] Account Manager has logged out.
+[31/08/2009 17:16:14] 
+[31/08/2009 17:16:14] Lua Script Error: [Action Interface] 
+[31/08/2009 17:16:14] data/actions/scripts/liquids/strong_health.lua:onUse
+[31/08/2009 17:16:15] 
+[31/08/2009 17:16:15] luaGetPlayerCustomFlagValue(). Player not found
+[31/08/2009 17:16:15] 
+[31/08/2009 17:16:15] Lua Script Error: [Action Interface] 
+[31/08/2009 17:16:15] data/actions/scripts/liquids/strong_health.lua:onUse
+[31/08/2009 17:16:15] 
+[31/08/2009 17:16:15] luaDoCreatureAddHealth(). Creature not found
+[31/08/2009 17:16:16] Chika has logged out.
+[31/08/2009 17:16:17] 
+[31/08/2009 17:16:17] Lua Script Error: [Spell Interface] 
+[31/08/2009 17:16:17] in a timer event called from: 
+[31/08/2009 17:16:17] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[31/08/2009 17:16:17] 
+[31/08/2009 17:16:17] luaDoCombat(). Creature not found
+[31/08/2009 17:16:17] 
+[31/08/2009 17:16:17] Lua Script Error: [Spell Interface] 
+[31/08/2009 17:16:17] in a timer event called from: 
+[31/08/2009 17:16:17] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[31/08/2009 17:16:17] 
+[31/08/2009 17:16:17] luaDoCombat(). Creature not found
+[31/08/2009 17:16:17] 
+[31/08/2009 17:16:17] Lua Script Error: [Spell Interface] 
+[31/08/2009 17:16:17] in a timer event called from: 
+[31/08/2009 17:16:17] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[31/08/2009 17:16:17] 
+[31/08/2009 17:16:17] luaDoCombat(). Creature not found
+[31/08/2009 17:16:18] Chika has logged in.
+[31/08/2009 17:16:49] > [Admin] Kogotero Lanza broadcasted: "ken mata ala puta???".
+[31/08/2009 17:17:17] Darkoo has logged out.
+[31/08/2009 17:17:23] Darkoo has logged in.
+[31/08/2009 17:17:38] Chupala has logged out.
+[31/08/2009 17:17:39] Chupala has logged in.
+[31/08/2009 17:18:03] Albericke has logged in.
+[31/08/2009 17:18:04] Account Manager has logged in.
+[31/08/2009 17:18:21] Marmotita has logged out.
+[31/08/2009 17:18:24] Marmotita has logged in.
+[31/08/2009 17:18:29] 
+[31/08/2009 17:18:29] Lua Script Error: [CreatureScript Interface] 
+[31/08/2009 17:18:29] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[31/08/2009 17:18:29] 
+[31/08/2009 17:18:29] luaGetCreatureName(). Creature not found
+[31/08/2009 17:18:30] 
+[31/08/2009 17:18:30] Lua Script Error: [CreatureScript Interface] 
+[31/08/2009 17:18:30] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[31/08/2009 17:18:30] 
+[31/08/2009 17:18:30] luaGetCreatureName(). Creature not found
+[31/08/2009 17:18:30] Swolls Stikre has logged out.
+[31/08/2009 17:18:31] Account Manager has logged out.
+[31/08/2009 17:18:31] > CLEAN: Removed 249 items from 430 tiles in 0.047 seconds.
+[31/08/2009 17:18:32] Swolls Stikre has logged in.
+[31/08/2009 17:18:41] Account Manager has logged in.
+[31/08/2009 17:18:49] > [Admin] Kogotero Lanza broadcasted: "ken kere participar en un torneo de pvp ??? en la arena?????".
+[31/08/2009 17:19:02] Darkoo has logged out.
+[31/08/2009 17:19:03] Darkoo has logged in.
+[31/08/2009 17:19:12] Account Manager has logged out.
+[31/08/2009 17:19:20] Vergazaurio has logged in.
+[31/08/2009 17:19:25] Account Manager has logged in.
+[31/08/2009 17:19:26] Account Manager has logged out.
+[31/08/2009 17:19:30] > [Admin] Kogotero Lanza broadcasted: "LOS KE KERAN PARTICIPAR DEL TORNEO AVISEN X GAME-CHAT".
+[31/08/2009 17:19:39] > [Admin] Kogotero Lanza broadcasted: "ABRAA PREMIO RAZGOS SET ".
+[31/08/2009 17:19:56] Chupala has logged out.
+[31/08/2009 17:19:57] Chupala has logged in.
+[31/08/2009 17:20:01] > [Admin] Kogotero Lanza broadcasted: "KEN MAS KERE VENIR ??".
+[31/08/2009 17:20:10] > [Admin] Kogotero Lanza broadcasted: "pa traerlo???".
+[31/08/2009 17:20:29] > [Admin] Kogotero Lanza broadcasted: "vengan al torneoo avraa razgos set + la super manarune ".
+[31/08/2009 17:20:36] > [Admin] Kogotero Lanza broadcasted: "KEN KERE VENIR???".
+[31/08/2009 17:20:39] Soberbia has logged out.
+[31/08/2009 17:20:42] Darkoo has logged out.
+[31/08/2009 17:20:43] Darkoo has logged in.
+[31/08/2009 17:20:44] Soberbia has logged in.
+[31/08/2009 17:20:55] Loquilloo has logged out.
+[31/08/2009 17:20:57] Loquilloo has logged in.
+[31/08/2009 17:21:07] 
+[31/08/2009 17:21:07] Lua Script Error: [TalkAction Interface] 
+[31/08/2009 17:21:07] data/talkactions/scripts/teleporthere.lua:onSay
+[31/08/2009 17:21:07] 
+[31/08/2009 17:21:07] luaGetClosestFreeTile(). Creature not found
+[31/08/2009 17:21:29] > [Admin] Kogotero Lanza broadcasted: "SE LES CHUPAA ....".
+[31/08/2009 17:21:33] Rix knight has logged out.
+[31/08/2009 17:21:37] Rix knight has logged in.
+[31/08/2009 17:21:45] > [Admin] Kogotero Lanza broadcasted: "wueno pierden los premioss ...".
+[31/08/2009 17:21:50] Shebby has logged out.
+[31/08/2009 17:21:51] > [Admin] Kogotero Lanza broadcasted: "no abvra eventooo".
+[31/08/2009 17:21:52] Chika has logged out.
+[31/08/2009 17:21:52] Shebby has logged in.
+[31/08/2009 17:21:54] Chika has logged in.
+[31/08/2009 17:21:55] Royal Zorra has logged out.
+[31/08/2009 17:22:01] Royal Zorra has logged in.
+[31/08/2009 17:22:05] > [Admin] Kogotero Lanza broadcasted: "yaa".
+[31/08/2009 17:22:07] > [Admin] Kogotero Lanza broadcasted: "ken ".
+[31/08/2009 17:22:10] > [Admin] Kogotero Lanza broadcasted: "peliara primero??".
+[31/08/2009 17:22:27] Chika has logged out.
+[31/08/2009 17:22:31] Castyo has logged out.
+[31/08/2009 17:22:32] Chika has logged in.
+[31/08/2009 17:22:45] > [Admin] Kogotero Lanza broadcasted: "marmotita no participa ......".
+[31/08/2009 17:23:09] Chika has logged out.
+[31/08/2009 17:23:10] Chika has logged in.
+[31/08/2009 17:23:17] Rix knight has logged out.
+[31/08/2009 17:23:19] Rix knight has logged in.
+[31/08/2009 17:23:21] Marmotita has logged out.
+[31/08/2009 17:23:23] Marmotita has logged in.
+[31/08/2009 17:23:30] [Hoster] Dee has logged in.
+[31/08/2009 17:23:34] Marmotita has logged out.
+[31/08/2009 17:23:35] Chika has logged out.
+[31/08/2009 17:23:37] Marmotita has logged in.
+[31/08/2009 17:23:38] Chika has logged in.
+[31/08/2009 17:24:00] Chika has logged out.
+[31/08/2009 17:24:02] Chika has logged in.
+[31/08/2009 17:24:24] Albericke has logged out.
+[31/08/2009 17:24:26] Albericke has logged in.
+[31/08/2009 17:24:37] Darkoo has logged out.
+[31/08/2009 17:24:38] Darkoo has logged in.
+[31/08/2009 17:25:23] Albericke has logged out.
+[31/08/2009 17:25:26] Albericke has logged in.
+[31/08/2009 17:25:51] [Hoster] Dee has logged out.
+[31/08/2009 17:26:14] > Saving server...
+[31/08/2009 17:26:19] > SAVE: Complete in 5.406 seconds using relational house storage.
+[31/08/2009 17:26:40] Swolls Stikre has logged out.
+[31/08/2009 17:26:41] Swolls Stikre has logged in.
+[31/08/2009 17:26:44] Chupala has logged out.
+[31/08/2009 17:26:45] Chupala has logged in.
+[31/08/2009 17:26:56] Swolls Stikre has logged out.
+[31/08/2009 17:26:58] > [Admin] Kogotero Lanza broadcasted: "jkajka gano darkooo".
+[31/08/2009 17:26:59] Swolls Stikre has logged in.
+[31/08/2009 17:27:18] Swolls Stikre has logged out.
+[31/08/2009 17:27:20] Swolls Stikre has logged in.
+[31/08/2009 17:27:28] Account Manager has logged in.
+[31/08/2009 17:27:42] Account Manager has logged out.
+[31/08/2009 17:27:47] Account Manager has logged in.
+[31/08/2009 17:28:06] Account Manager has logged out.
+[31/08/2009 17:28:17] Hankook has logged out.
+[31/08/2009 17:28:17] Rix knight has logged out.
+[31/08/2009 17:28:17] Maik walk has logged in.
+[31/08/2009 17:28:19] Rix knight has logged in.
+[31/08/2009 17:28:20] Hankook has logged in.
+[31/08/2009 17:28:49] Chika has logged out.
+[31/08/2009 17:28:50] Chika has logged in.
+[31/08/2009 17:29:20] Godpuduh style has logged in.
+[31/08/2009 17:30:06] Mono Pirata has logged in.
+[31/08/2009 17:30:21] Maik walk has logged out.
+[31/08/2009 17:30:35] 
+[31/08/2009 17:30:35] Lua Script Error: [TalkAction Interface] 
+[31/08/2009 17:30:35] data/talkactions/scripts/teleporthere.lua:onSay
+[31/08/2009 17:30:35] 
+[31/08/2009 17:30:35] luaGetClosestFreeTile(). Creature not found
+[31/08/2009 17:30:47] Mono Pirata has logged out.
+[31/08/2009 17:30:51] [Hoster] Dee has logged in.
+[31/08/2009 17:31:01] Godpuduh style has logged out.
+[31/08/2009 17:31:03] Godpuduh style has logged in.
+[31/08/2009 17:31:07] Godpuduh style has logged out.
+[31/08/2009 17:31:08] 
+[31/08/2009 17:31:08] Lua Script Error: [CreatureScript Interface] 
+[31/08/2009 17:31:08] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[31/08/2009 17:31:08] 
+[31/08/2009 17:31:08] luaGetCreatureName(). Creature not found
+[31/08/2009 17:31:08] 
+[31/08/2009 17:31:08] Lua Script Error: [CreatureScript Interface] 
+[31/08/2009 17:31:08] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[31/08/2009 17:31:08] 
+[31/08/2009 17:31:08] luaGetCreatureName(). Creature not found
+[31/08/2009 17:31:08] Rix knight has logged out.
+[31/08/2009 17:31:09] Hankook has logged out.
+[31/08/2009 17:31:09] Godpuduh style has logged in.
+[31/08/2009 17:31:09] > CLEAN: Removed 632 items from 1322 tiles in 0.093 seconds.
+[31/08/2009 17:31:10] Rix knight has logged in.
+[31/08/2009 17:31:10] Godpuduh style has logged out.
+[31/08/2009 17:31:10] Hankook has logged in.
+[31/08/2009 17:31:11] Godpuduh style has logged in.
+[31/08/2009 17:31:15] Godpuduh style has logged out.
+[31/08/2009 17:31:16] Maik walk has logged in.
+[31/08/2009 17:31:16] Godpuduh style has logged in.
+[31/08/2009 17:31:17] Godpuduh style has logged out.
+[31/08/2009 17:31:18] Godpuduh style has logged in.
+[31/08/2009 17:31:19] Godpuduh style has logged out.
+[31/08/2009 17:31:20] Godpuduh style has logged in.
+[31/08/2009 17:31:21] Godpuduh style has logged out.
+[31/08/2009 17:31:22] Godpuduh style has logged in.
+[31/08/2009 17:31:22] Godpuduh style has logged out.
+[31/08/2009 17:31:24] Godpuduh style has logged in.
+[31/08/2009 17:31:24] Godpuduh style has logged out.
+[31/08/2009 17:31:25] Godpuduh style has logged in.
+[31/08/2009 17:31:26] Godpuduh style has logged out.
+[31/08/2009 17:31:27] Godpuduh style has logged in.
+[31/08/2009 17:31:28] Godpuduh style has logged out.
+[31/08/2009 17:31:29] Godpuduh style has logged in.
+[31/08/2009 17:31:30] Godpuduh style has logged out.
+[31/08/2009 17:31:31] Godpuduh style has logged in.
+[31/08/2009 17:31:31] Godpuduh style has logged out.
+[31/08/2009 17:31:32] Godpuduh style has logged in.
+[31/08/2009 17:31:33] Godpuduh style has logged out.
+[31/08/2009 17:31:34] Albericke has logged out.
+[31/08/2009 17:31:34] Godpuduh style has logged in.
+[31/08/2009 17:31:34] Godpuduh style has logged out.
+[31/08/2009 17:31:36] Albericke has logged in.
+[31/08/2009 17:31:36] 
+[31/08/2009 17:31:36] Lua Script Error: [TalkAction Interface] 
+[31/08/2009 17:31:36] data/talkactions/scripts/kick.lua:onSay
+[31/08/2009 17:31:36] 
+[31/08/2009 17:31:36] data/talkactions/scripts/kick.lua:13: attempt to compare number with boolean
+[31/08/2009 17:31:37] stack traceback:
+[31/08/2009 17:31:37] 	data/talkactions/scripts/kick.lua:13: in function <data/talkactions/scripts/kick.lua:1>
+[31/08/2009 17:31:55] Master jno has logged out.
+[31/08/2009 17:31:56] Maik walk has logged out.
+[31/08/2009 17:31:57] Maik walk has logged in.
+[31/08/2009 17:31:58] Account Manager has logged in.
+[31/08/2009 17:31:58] > [Admin] Kogotero Lanza broadcasted: "KE PASA KABROS LES FGUSTA EL SERVER?????".
+[31/08/2009 17:31:59] > [Hoster] Dee broadcasted: "no se metan a ese ot".
+[31/08/2009 17:31:59] Master jno has logged in.
+[31/08/2009 17:32:01] Godpuduh style has logged in.
+[31/08/2009 17:32:06] Royal Zorra has logged out.
+[31/08/2009 17:32:07] > [Hoster] Dee broadcasted: "este le da mil pata en la raja".
+[31/08/2009 17:32:12] Godpuduh style has logged out.
+[31/08/2009 17:32:13] Account Manager has logged in.
+[31/08/2009 17:32:13] Royal Zorra has logged in.
+[31/08/2009 17:32:14] Account Manager has logged out.
+[31/08/2009 17:32:18] > [Admin] Kogotero Lanza broadcasted: "A KUAL??".
+[31/08/2009 17:32:21] Dark Mage has logged in.
+[31/08/2009 17:32:22] > [Admin] Kogotero Lanza broadcasted: "a toos ".
+[31/08/2009 17:32:23] > [Hoster] Dee broadcasted: "al thunder".
+[31/08/2009 17:32:24] Account Manager has logged out.
+[31/08/2009 17:32:25] Godpuduh style has logged in.
+[31/08/2009 17:32:27] > [Hoster] Dee broadcasted: "atoos xD".
+[31/08/2009 17:32:30] Darkoo has logged out.
+[31/08/2009 17:32:31] Darkoo has logged in.
+[31/08/2009 17:32:32] Godpuduh style has logged out.
+[31/08/2009 17:32:32] > [Admin] Kogotero Lanza broadcasted: "kabros sigan invitando gente no mas jajaja".
+[31/08/2009 17:32:33] Godpuduh style has logged in.
+[31/08/2009 17:32:35] Godpuduh style has logged out.
+[31/08/2009 17:32:36] Albericke has logged out.
+[31/08/2009 17:32:37] Account Manager has logged in.
+[31/08/2009 17:32:38] 
+[31/08/2009 17:32:38] Lua Script Error: [TalkAction Interface] 
+[31/08/2009 17:32:38] data/talkactions/scripts/kick.lua:onSay
+[31/08/2009 17:32:38] 
+[31/08/2009 17:32:38] data/talkactions/scripts/kick.lua:13: attempt to compare number with boolean
+[31/08/2009 17:32:38] stack traceback:
+[31/08/2009 17:32:38] 	data/talkactions/scripts/kick.lua:13: in function <data/talkactions/scripts/kick.lua:1>
+[31/08/2009 17:32:39] Albericke has logged in.
+[31/08/2009 17:32:45] [Hoster] Dee has logged out.
+[31/08/2009 17:32:58] Hankook has logged out.
+[31/08/2009 17:32:58] Rix knight has logged out.
+[31/08/2009 17:32:59] Hankook has logged in.
+[31/08/2009 17:33:00] Rix knight has logged in.
+[31/08/2009 17:33:08] Chika has logged out.
+[31/08/2009 17:33:10] Chika has logged in.
+[31/08/2009 17:33:36] Maaatiaas has logged out.
+[31/08/2009 17:33:37] Albericke has logged out.
+[31/08/2009 17:33:40] Albericke has logged in.
+[31/08/2009 17:33:40] Maaatiaas has logged in.
+[31/08/2009 17:33:47] Chika has logged out.
+[31/08/2009 17:33:48] Chika has logged in.
+[31/08/2009 17:33:50] Royal Zorra has logged out.
+[31/08/2009 17:33:53] Royal Zorra has logged in.
+[31/08/2009 17:33:55] Darkoo has logged out.
+[31/08/2009 17:33:56] Darkoo has logged in.
+[31/08/2009 17:34:02] Royal Zorra has logged out.
+[31/08/2009 17:34:03] Dark Mage has logged out.
+[31/08/2009 17:34:04] Maaatiaas has logged out.
+[31/08/2009 17:34:05] Account Manager has logged in.
+[31/08/2009 17:34:07] Maaatiaas has logged in.
+[31/08/2009 17:34:22] Account Manager has logged out.
+[31/08/2009 17:34:29] Rage Pally has logged in.
+[31/08/2009 17:34:33] > [Admin] Kogotero Lanza broadcasted: "q vola caurosss".
+[31/08/2009 17:34:39] > [Admin] Kogotero Lanza broadcasted: "EVENTOOOO ?????".
+[31/08/2009 17:34:43] > [Admin] Kogotero Lanza broadcasted: "keren evento????".
+[31/08/2009 17:34:53] Rix knight has logged out.
+[31/08/2009 17:34:56] Rix knight has logged in.
+[31/08/2009 17:35:05] > [Admin] Kogotero Lanza broadcasted: "keren evento de items????".
+[31/08/2009 17:35:07] > [Admin] Kogotero Lanza broadcasted: "keren evento de items????".
+[31/08/2009 17:35:20] Account Manager has logged out.
+[31/08/2009 17:35:30] > [Admin] Kogotero Lanza broadcasted: "en 10 minutos areee evento de itemsss".
+[31/08/2009 17:35:32] Albericke has logged out.
+[31/08/2009 17:35:33] [Hoster] Dee has logged in.
+[31/08/2009 17:35:34] Albericke has logged in.
+[31/08/2009 17:35:49] Chika has logged out.
+[31/08/2009 17:35:51] Chika has logged in.
+[31/08/2009 17:36:05] Swolls Stikre has logged out.
+[31/08/2009 17:36:06] Swolls Stikre has logged in.
+[31/08/2009 17:36:14] Marmotita has logged out.
+[31/08/2009 17:36:16] Darkoo has logged out.
+[31/08/2009 17:36:17] Darkoo has logged in.
+[31/08/2009 17:36:39] Marmotita has logged in.
+[31/08/2009 17:36:41] [Hoster] Dee has logged out.
+[31/08/2009 17:36:44] Account Manager has logged in.
+[31/08/2009 17:36:54] Darkoo has logged out.
+[31/08/2009 17:36:55] Darkoo has logged in.
+[31/08/2009 17:36:57] Account Manager has logged out.
+[31/08/2009 17:36:58] Account Manager has logged in.
+[31/08/2009 17:36:59] Account Manager has logged out.
+[31/08/2009 17:37:04] > [Admin] Kogotero Lanza broadcasted: "KEN KERE MATAR UNA BOLITA?????".
+[31/08/2009 17:37:06] > [Admin] Kogotero Lanza broadcasted: "KEN KERE MATAR UNA BOLITA?????".
+[31/08/2009 17:37:07] Account Manager has logged in.
+[31/08/2009 17:37:08] Swolls Stikre has logged out.
+[31/08/2009 17:37:10] Swolls Stikre has logged in.
+[31/08/2009 17:37:22] Account Manager has logged out.
+[31/08/2009 17:37:23] Account Manager has logged in.
+[31/08/2009 17:37:23] Account Manager has logged out.
+[31/08/2009 17:37:30] The extros has logged in.
+[31/08/2009 17:37:30] Shebby has logged out.
+[31/08/2009 17:37:31] Maaatiaas has logged out.
+[31/08/2009 17:37:32] Account Manager has logged in.
+[31/08/2009 17:37:32] Shebby has logged in.
+[31/08/2009 17:37:33] Maaatiaas has logged in.
+[31/08/2009 17:37:37] > [Admin] Kogotero Lanza broadcasted: "putas afuera del temploooo :ooo".
+[31/08/2009 17:37:38] Hankook has logged out.
+[31/08/2009 17:37:40] > [Admin] Kogotero Lanza broadcasted: "putas afuera del temploooo :ooo".
+[31/08/2009 17:37:40] Rage Pally has logged out.
+[31/08/2009 17:37:41] Hankook has logged in.
+[31/08/2009 17:37:42] Rage Pally has logged in.
+[31/08/2009 17:37:45] > [Admin] Kogotero Lanza broadcasted: "putas afuera del temploooo :ooo".
+[31/08/2009 17:37:49] Hankook has logged out.
+[31/08/2009 17:37:50] Hankook has logged in.
+[31/08/2009 17:37:54] Hankook has logged out.
+[31/08/2009 17:37:55] Hankook has logged in.
+[31/08/2009 17:37:55] Account Manager has logged out.
+[31/08/2009 17:37:56] Swolls Stikre has logged out.
+[31/08/2009 17:37:58] Swolls Stikre has logged in.
+[31/08/2009 17:38:02] Rage Pally has logged out.
+[31/08/2009 17:38:03] Rage Pally has logged in.
+[31/08/2009 17:38:05] Account Manager has logged in.
+[31/08/2009 17:38:06] Swolls Stikre has logged out.
+[31/08/2009 17:38:07] Swolls Stikre has logged in.
+[31/08/2009 17:38:10] Hankook has logged out.
+[31/08/2009 17:38:11] Hankook has logged in.
+[31/08/2009 17:38:24] Hankook has logged out.
+[31/08/2009 17:38:25] Hankook has logged in.
+[31/08/2009 17:38:32] Account Manager has logged in.
+[31/08/2009 17:38:45] Account Manager has logged out.
+[31/08/2009 17:38:45] Account Manager has logged out.
+[31/08/2009 17:38:49] Account Manager has logged in.
+[31/08/2009 17:38:54] Kipai has logged in.
+[31/08/2009 17:39:01] Account Manager has logged out.
+[31/08/2009 17:39:06] Lk Links has logged in.
+[31/08/2009 17:39:10] Marmotita has logged out.
+[31/08/2009 17:39:14] [Admin] Senik One has logged in.
+[31/08/2009 17:39:21] Rage Pally has logged out.
+[31/08/2009 17:39:22] Rage Pally has logged in.
+[31/08/2009 17:39:23] [Hoster] Dee has logged in.
+[31/08/2009 17:39:37] Darkoo has logged out.
+[31/08/2009 17:39:39] Darkoo has logged in.
+[31/08/2009 17:39:43] Hankook has logged out.
+[31/08/2009 17:39:44] Hankook has logged in.
+[31/08/2009 17:40:10] Maaatiaas has logged out.
+[31/08/2009 17:40:13] Maaatiaas has logged in.
+[31/08/2009 17:40:15] Hankook has logged out.
+[31/08/2009 17:40:16] Hankook has logged in.
+[31/08/2009 17:40:36] Chupala has logged out.
+[31/08/2009 17:40:36] 
+[31/08/2009 17:40:36] Lua Script Error: [Spell Interface] 
+[31/08/2009 17:40:36] in a timer event called from: 
+[31/08/2009 17:40:36] data/spells/scripts/attack/razgosfury.lua:onCastSpell
+[31/08/2009 17:40:36] 
+[31/08/2009 17:40:36] luaDoCombat(). Creature not found
+[31/08/2009 17:40:36] 
+[31/08/2009 17:40:36] Lua Script Error: [Spell Interface] 
+[31/08/2009 17:40:37] in a timer event called from: 
+[31/08/2009 17:40:37] data/spells/scripts/attack/razgosfury.lua:onCastSpell
+[31/08/2009 17:40:37] 
+[31/08/2009 17:40:37] luaDoCombat(). Creature not found
+[31/08/2009 17:40:38] Chupala has logged in.
+[31/08/2009 17:40:59] Darkoo has logged out.
+[31/08/2009 17:41:01] Darkoo has logged in.
+[31/08/2009 17:41:15] > Saving server...
+[31/08/2009 17:41:22] > SAVE: Complete in 6.704 seconds using relational house storage.
+[31/08/2009 17:41:22] Master Nickk has logged out.
+[31/08/2009 17:41:30] > CLEAN: Removed 829 items from 1704 tiles in 0.11 seconds.
+[31/08/2009 17:41:53] Darkoo has logged out.
+[31/08/2009 17:41:54] Darkoo has logged in.
+[31/08/2009 17:42:07] Hankook has logged out.
+[31/08/2009 17:42:09] Hankook has logged in.
+[31/08/2009 17:42:10] Darkoo has logged out.
+[31/08/2009 17:42:11] Darkoo has logged in.
+[31/08/2009 17:42:14] Maik walk has logged out.
+[31/08/2009 17:42:15] [Hoster] Dee has logged out.
+[31/08/2009 17:42:17] Maik walk has logged in.
+[31/08/2009 17:42:48] Hankook has logged out.
+[31/08/2009 17:42:49] Hankook has logged in.
+[31/08/2009 17:43:06] Darkoo has logged out.
+[31/08/2009 17:43:07] Darkoo has logged in.
+[31/08/2009 17:43:24] > [Admin] Kogotero Lanza broadcasted: "EL KE KERA 10000000CC + RAZGOS SET + LA SUPER HIPER MANARUNE ME AVISA :)".
+[31/08/2009 17:43:32] [Hoster] Dee has logged in.
+[31/08/2009 17:43:33] > [Admin] Kogotero Lanza broadcasted: "EL KE KERA 10000000CC + RAZGOS SET + LA SUPER HIPER MANARUNE ME AVISA :)".
+[31/08/2009 17:43:39] Hankook has logged out.
+[31/08/2009 17:43:40] Hankook has logged in.
+[31/08/2009 17:43:42] > [Hoster] Dee broadcasted: "culiao".
+[31/08/2009 17:43:45] > [Hoster] Dee broadcasted: "CTM".
+[31/08/2009 17:43:49] > [Admin] Kogotero Lanza broadcasted: "q wea??".
+[31/08/2009 17:43:50] > [Hoster] Dee broadcasted: "no agai weas".
+[31/08/2009 17:43:53] Rage Pally has logged out.
+[31/08/2009 17:43:54] Rage Pally has logged in.
+[31/08/2009 17:43:57] Account Manager has logged in.
+[31/08/2009 17:44:00] > [Admin] Kogotero Lanza broadcasted: "JKAKJAKJA WEONAOOOOOOOO ERAA BROMAA -.-!!!!!".
+[31/08/2009 17:44:01] > [Hoster] Dee broadcasted: "oe cabros quen save aser las animaciones???".
+[31/08/2009 17:44:03] Chika has logged out.
+[31/08/2009 17:44:05] Chika has logged in.
+[31/08/2009 17:44:08] > [Admin] Senik One broadcasted: "jkajkajka del xd".
+[31/08/2009 17:44:09] Albericke has logged out.
+[31/08/2009 17:44:10] > [Admin] Kogotero Lanza broadcasted: "SIEMPRE TENI Q CAGAR LAS BROMASRR QLLL -.---".
+[31/08/2009 17:44:11] Albericke has logged in.
+[31/08/2009 17:44:11] > [Hoster] Dee broadcasted: "oe cabros quen save aser las animaciones???".
+[31/08/2009 17:44:22] Account Manager has logged out.
+[31/08/2009 17:44:29] Pipe has logged in.
+[31/08/2009 17:44:29] > [Admin] Kogotero Lanza broadcasted: "YO SE MOVER LA PICHULA TE SIRVE??? :)".
+[31/08/2009 17:45:07] Account Manager has logged in.
+[31/08/2009 17:45:24] Account Manager has logged out.
+[31/08/2009 17:45:25] Maik walk has logged out.
+[31/08/2009 17:45:26] Maik walk has logged in.
+[31/08/2009 17:45:31] Account Manager has logged in.
+[31/08/2009 17:45:54] Account Manager has logged out.
+[31/08/2009 17:46:01] Nelson has logged in.
+[31/08/2009 17:46:08] 
+[31/08/2009 17:46:08] Lua Script Error: [CreatureScript Interface] 
+[31/08/2009 17:46:08] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[31/08/2009 17:46:08] 
+[31/08/2009 17:46:08] luaGetCreatureName(). Creature not found
+[31/08/2009 17:46:08] 
+[31/08/2009 17:46:08] Lua Script Error: [CreatureScript Interface] 
+[31/08/2009 17:46:08] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[31/08/2009 17:46:09] 
+[31/08/2009 17:46:09] luaGetCreatureName(). Creature not found
+[31/08/2009 17:46:09] Chupala has logged out.
+[31/08/2009 17:46:09] [Hoster] Dee has logged out.
+[31/08/2009 17:46:11] Chupala has logged in.
+[31/08/2009 17:46:12] Shebby has logged out.
+[31/08/2009 17:46:17] Shebby has logged in.
+[31/08/2009 17:47:01] Chupala has logged out.
+[31/08/2009 17:47:02] 
+[31/08/2009 17:47:02] Lua Script Error: [Spell Interface] 
+[31/08/2009 17:47:02] in a timer event called from: 
+[31/08/2009 17:47:02] data/spells/scripts/attack/razgosfury.lua:onCastSpell
+[31/08/2009 17:47:02] 
+[31/08/2009 17:47:02] luaDoCombat(). Creature not found
+[31/08/2009 17:47:03] Chupala has logged in.
+[31/08/2009 17:47:10] Chika has logged out.
+[31/08/2009 17:47:11] Chika has logged in.
+[31/08/2009 17:47:35] The extros has logged out.
+[31/08/2009 17:47:40] The extros has logged in.
+[31/08/2009 17:47:53] Albericke has logged out.
+[31/08/2009 17:47:58] Albericke has logged in.
+[31/08/2009 17:48:15] Master jno has logged out.
+[31/08/2009 17:48:17] [Error - HouseTile::__queryDestination] Tile at house entry position for house: Forgotten headquarter (Flat 1, Area 42) (46) does not exist.
+[31/08/2009 17:48:17] Master jno has logged in.
+[31/08/2009 17:48:20] Account Manager has logged in.
+[31/08/2009 17:48:28] Lk Links has logged out.
+[31/08/2009 17:48:30] Lk Links has logged in.
+[31/08/2009 17:48:43] Maaatiaas has logged out.
+[31/08/2009 17:48:46] Chika has logged out.
+[31/08/2009 17:48:47] Chika has logged in.
+[31/08/2009 17:48:49] Maaatiaas has logged in.
+[31/08/2009 17:49:06] > [Admin] Kogotero Lanza broadcasted: "albericke q wea keri wom??".
+[31/08/2009 17:49:16] > [Admin] Kogotero Lanza broadcasted: "si toy ocupao asiendo weas iwal po qll ... ".
+[31/08/2009 17:49:28] Account Manager has logged out.
+[31/08/2009 17:49:40] Linda has logged in.
+[31/08/2009 17:49:47] Maaatiaas has logged out.
+[31/08/2009 17:49:51] Maaatiaas has logged in.
+[31/08/2009 17:49:56] The extros has logged out.
+[31/08/2009 17:49:58] The extros has logged in.
+[31/08/2009 17:50:07] Maik walk has logged out.
+[31/08/2009 17:50:10] Maik walk has logged in.
+[31/08/2009 17:50:32] Chupala has logged out.
+[31/08/2009 17:50:34] Chupala has logged in.
+[31/08/2009 17:50:38] Account Manager has logged in.
+[31/08/2009 17:50:47] Account Manager has logged out.
+[31/08/2009 17:50:54] [Hoster] Dee has logged in.
+[31/08/2009 17:51:08] Rage Pally has logged out.
+[31/08/2009 17:51:16] > [Hoster] Dee broadcasted: "qn save aser animaciones?".
+[31/08/2009 17:51:17] Rage Pally has logged in.
+[31/08/2009 17:51:32] Shebby has logged out.
+[31/08/2009 17:51:34] Shebby has logged in.
+[31/08/2009 17:51:36] Rage Pally has logged out.
+[31/08/2009 17:51:38] Rage Pally has logged in.
+[31/08/2009 17:51:47] > [Admin] Kogotero Lanza broadcasted: "no se mecesitan ni god no gm ni tutorr :)".
+[31/08/2009 17:51:50] Maik walk has logged out.
+[31/08/2009 17:51:50] Chika has logged out.
+[31/08/2009 17:51:52] Maik walk has logged in.
+[31/08/2009 17:51:52] Chika has logged in.
+[31/08/2009 17:52:13] Rage Pally has logged out.
+[31/08/2009 17:52:14] Rage Pally has logged in.
+[31/08/2009 17:52:27] The extros has logged out.
+[31/08/2009 17:52:27] Maik walk has logged out.
+[31/08/2009 17:52:28] The extros has logged in.
+[31/08/2009 17:52:29] Maik walk has logged in.
+[31/08/2009 17:52:35] Maaatiaas has logged out.
+[31/08/2009 17:52:37] Maaatiaas has logged in.
+[31/08/2009 17:52:54] The extros has logged out.
+[31/08/2009 17:52:56] The extros has logged in.
+[31/08/2009 17:52:57] Master jno has logged out.
+[31/08/2009 17:52:59] Master jno has logged in.
+[31/08/2009 17:53:00] > [Admin] Kogotero Lanza broadcasted: "no se necesitann gm ni god ni tutoresssss no weveen".
+[31/08/2009 17:53:10] Nelson has logged out.
+[31/08/2009 17:53:12] Nelson has logged in.
+[31/08/2009 17:53:15] The extros has logged out.
+[31/08/2009 17:53:17] The extros has logged in.
+[31/08/2009 17:53:19] The extros has logged out.
+[31/08/2009 17:53:33] Rage Pally has logged out.
+[31/08/2009 17:53:34] Rage Pally has logged in.
+[31/08/2009 17:54:00] [Hoster] Dee has logged out.
+[31/08/2009 17:54:05] Darkoo has logged out.
+[31/08/2009 17:54:05] > [Admin] Kogotero Lanza broadcasted: "se haran magias y spells y super uh pa kinaa ".
+[31/08/2009 17:54:07] Darkoo has logged in.
+[31/08/2009 17:54:13] > [Admin] Kogotero Lanza broadcasted: "pa ke keden to ekilivbraos".
+[31/08/2009 17:54:24] Hankook has logged out.
+[31/08/2009 17:54:25] Hankook has logged in.
+[31/08/2009 17:54:42] [Admin] Senik One has logged out.
+[31/08/2009 17:54:43] Marmotita has logged in.
+[31/08/2009 17:54:52] Albericke has logged out.
+[31/08/2009 17:54:54] Darkoo has logged out.
+[31/08/2009 17:54:55] Albericke has logged in.
+[31/08/2009 17:54:56] Darkoo has logged in.
+[31/08/2009 17:54:58] Hankook has logged out.
+[31/08/2009 17:54:59] Hankook has logged in.
+[31/08/2009 17:55:19] Albericke has logged out.
+[31/08/2009 17:55:22] Hankook has logged out.
+[31/08/2009 17:55:23] Hankook has logged in.
+[31/08/2009 17:55:49] Rix knight has logged out.
+[31/08/2009 17:56:01] 
+[31/08/2009 17:56:01] Lua Script Error: [CreatureScript Interface] 
+[31/08/2009 17:56:01] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[31/08/2009 17:56:01] 
+[31/08/2009 17:56:01] luaGetCreatureName(). Creature not found
+[31/08/2009 17:56:01] 
+[31/08/2009 17:56:01] Lua Script Error: [CreatureScript Interface] 
+[31/08/2009 17:56:01] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[31/08/2009 17:56:01] 
+[31/08/2009 17:56:01] luaGetCreatureName(). Creature not found
+[31/08/2009 17:56:02] Chupala has logged out.
+[31/08/2009 17:56:03] Hankook has logged out.
+[31/08/2009 17:56:05] Hankook has logged in.
+[31/08/2009 17:56:06] Chupala has logged in.
+[31/08/2009 17:56:16] > Saving server...
+[31/08/2009 17:56:24] > SAVE: Complete in 7.625 seconds using relational house storage.
+[31/08/2009 17:56:55] 
+[31/08/2009 17:56:55] Lua Script Error: [CreatureScript Interface] 
+[31/08/2009 17:56:55] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[31/08/2009 17:56:55] 
+[31/08/2009 17:56:55] luaGetCreatureName(). Creature not found
+[31/08/2009 17:56:55] Linda has logged out.
+[31/08/2009 17:57:03] Linda has logged in.
+[31/08/2009 17:57:09] Chupala has logged out.
+[31/08/2009 17:57:10] Chupala has logged in.
+[31/08/2009 17:57:28] Master jno has logged out.
+[31/08/2009 17:57:29] Loquilloo has logged out.
+[31/08/2009 17:57:30] Master jno has logged in.
+[31/08/2009 17:57:31] Hankook has logged out.
+[31/08/2009 17:57:32] Soberbia has logged out.
+[31/08/2009 17:57:35] Hankook has logged in.
+[31/08/2009 17:57:36] Loquilloo has logged in.
+[31/08/2009 17:57:37] Account Manager has logged in.
+[31/08/2009 17:57:40] Soberbia has logged in.
+[31/08/2009 17:58:03] Hankook has logged out.
+[31/08/2009 17:58:06] Chupala has logged out.
+[31/08/2009 17:58:06] Hankook has logged in.
+[31/08/2009 17:58:07] Account Manager has logged out.
+[31/08/2009 17:58:07] Chupala has logged in.
+[31/08/2009 17:58:22] Account Manager has logged in.
+[31/08/2009 17:58:25] Account Manager has logged in.
+[31/08/2009 17:58:35] Loquilloo has logged out.
+[31/08/2009 17:58:36] Soberbia has logged out.
+[31/08/2009 17:58:40] Loquilloo has logged in.
+[31/08/2009 17:58:40] Soberbia has logged in.
+[31/08/2009 17:58:43] Nelson has logged out.
+[31/08/2009 17:58:44] Account Manager has logged out.
+[31/08/2009 17:58:45] Nelson has logged in.
+[31/08/2009 17:58:45] Account Manager has logged out.
+[31/08/2009 17:58:49] Account Manager has logged in.
+[31/08/2009 17:58:54] Gozz Recond has logged in.
+[31/08/2009 17:59:04] Lk Links has logged out.
+[31/08/2009 17:59:06] Account Manager has logged in.
+[31/08/2009 17:59:18] Account Manager has logged out.
+[31/08/2009 17:59:26] Account Manager has logged out.
+[31/08/2009 17:59:29] Bazeelxx has logged in.
+[31/08/2009 17:59:30] 
+[31/08/2009 17:59:30] Lua Script Error: [CreatureScript Interface] 
+[31/08/2009 17:59:30] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[31/08/2009 17:59:31] 
+[31/08/2009 17:59:31] luaGetCreatureName(). Creature not found
+[31/08/2009 17:59:31] 
+[31/08/2009 17:59:31] Lua Script Error: [CreatureScript Interface] 
+[31/08/2009 17:59:31] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[31/08/2009 17:59:31] 
+[31/08/2009 17:59:31] luaGetCreatureName(). Creature not found
+[31/08/2009 17:59:31] Chupala has logged out.
+[31/08/2009 17:59:32] Hankook has logged out.
+[31/08/2009 17:59:32] 
+[31/08/2009 17:59:32] Lua Script Error: [Spell Interface] 
+[31/08/2009 17:59:32] in a timer event called from: 
+[31/08/2009 17:59:32] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[31/08/2009 17:59:32] 
+[31/08/2009 17:59:32] luaDoCombat(). Creature not found
+[31/08/2009 17:59:32] 
+[31/08/2009 17:59:32] Lua Script Error: [Spell Interface] 
+[31/08/2009 17:59:32] in a timer event called from: 
+[31/08/2009 17:59:32] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[31/08/2009 17:59:32] 
+[31/08/2009 17:59:32] luaDoCombat(). Creature not found
+[31/08/2009 17:59:32] 
+[31/08/2009 17:59:32] Lua Script Error: [Spell Interface] 
+[31/08/2009 17:59:32] in a timer event called from: 
+[31/08/2009 17:59:32] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[31/08/2009 17:59:32] 
+[31/08/2009 17:59:32] luaDoCombat(). Creature not found
+[31/08/2009 17:59:33] Chupala has logged in.
+[31/08/2009 17:59:33] Links has logged in.
+[31/08/2009 17:59:33] Hankook has logged in.
+[31/08/2009 17:59:35] Linda has logged out.
+[31/08/2009 17:59:44] Linda has logged in.
+[31/08/2009 17:59:52] > CLEAN: Removed 1352 items from 2586 tiles in 0.046 seconds.
+[31/08/2009 18:00:10] > [Admin] Kogotero Lanza broadcasted: "se tan conectando artos cavross inviten mas gente no mas ".
+[31/08/2009 18:00:46] Hankook has logged out.
+[31/08/2009 18:00:47] Chupala has logged out.
+[31/08/2009 18:00:48] Hankook has logged in.
+[31/08/2009 18:00:49] Chupala has logged in.
+[31/08/2009 18:00:57] > CLEAN: Removed 47 items from 155 tiles in 0.016 seconds.
+[31/08/2009 18:00:59] Rage Pally has logged out.
+[31/08/2009 18:01:01] Rage Pally has logged in.
+[31/08/2009 18:01:06] Darkoo has logged out.
+[31/08/2009 18:01:08] Darkoo has logged in.
+[31/08/2009 18:01:10] Shebby has logged out.
+[31/08/2009 18:01:12] Shebby has logged in.
+[31/08/2009 18:01:15] Marmotita has logged out.
+[31/08/2009 18:01:17] Marmotita has logged in.
+[31/08/2009 18:01:36] > [Admin] Kogotero Lanza broadcasted: "les gusta el serv kabro????".
+[31/08/2009 18:01:54] Account Manager has logged in.
+[31/08/2009 18:02:02] [Hoster] Dee has logged in.
+[31/08/2009 18:02:05] Hankook has logged out.
+[31/08/2009 18:02:08] Hankook has logged in.
+[31/08/2009 18:02:10] Maik walk has logged out.
+[31/08/2009 18:02:14] > CLEAN: Removed 99 items from 155 tiles in 0.078 seconds.
+[31/08/2009 18:02:21] Maik walk has logged in.
+[31/08/2009 18:02:52] Chupala has logged out.
+[31/08/2009 18:02:53] Chupala has logged in.
+[31/08/2009 18:02:55] Account Manager has logged out.
+[31/08/2009 18:02:55] Hankook has logged out.
+[31/08/2009 18:02:57] Hankook has logged in.
+[31/08/2009 18:02:58] Loquilloo has logged out.
+[31/08/2009 18:03:00] Maik walk has logged out.
+[31/08/2009 18:03:01] Loquilloo has logged in.
+[31/08/2009 18:03:02] Maik walk has logged in.
+[31/08/2009 18:03:05] Account Manager has logged in.
+[31/08/2009 18:03:06] Darkoo has logged out.
+[31/08/2009 18:03:07] Darkoo has logged in.
+[31/08/2009 18:03:19] > [Hoster] Dee broadcasted: "voy a aser super uh pa los kina".
+[31/08/2009 18:03:21] Maaatiaas has logged out.
+[31/08/2009 18:03:22] 
+[31/08/2009 18:03:22] Lua Script Error: [Spell Interface] 
+[31/08/2009 18:03:22] in a timer event called from: 
+[31/08/2009 18:03:22] data/spells/scripts/attack/razgosfury.lua:onCastSpell
+[31/08/2009 18:03:22] 
+[31/08/2009 18:03:22] luaDoCombat(). Creature not found
+[31/08/2009 18:03:25] Maaatiaas has logged in.
+[31/08/2009 18:03:31] Maik walk has logged out.
+[31/08/2009 18:03:33] Maik walk has logged in.
+[31/08/2009 18:03:57] Darkoo has logged out.
+[31/08/2009 18:03:59] Darkoo has logged in.
+[31/08/2009 18:04:00] Hankook has logged out.
+[31/08/2009 18:04:01] Chika has logged out.
+[31/08/2009 18:04:02] Hankook has logged in.
+[31/08/2009 18:04:04] Chika has logged in.
+[31/08/2009 18:04:09] Maik walk has logged out.
+[31/08/2009 18:04:11] Maik walk has logged in.
+[31/08/2009 18:04:20] Account Manager has logged out.
+[31/08/2009 18:04:24] Marmotita has logged out.
+[31/08/2009 18:04:27] Marmotita has logged in.
+[31/08/2009 18:04:28] Sikario has logged in.
+[31/08/2009 18:04:39] Maik walk has logged out.
+[31/08/2009 18:04:41] Maik walk has logged in.
+[31/08/2009 18:05:03] > [Admin] Kogotero Lanza broadcasted: "alguien esta interesado en participar en un evento de pvp en arena??? ".
+[31/08/2009 18:05:19] Marmotita has logged out.
+[31/08/2009 18:05:22] Marmotita has logged in.
+[31/08/2009 18:05:30] > [Admin] Kogotero Lanza broadcasted: "algen kere participar en torneoo de PVP ????? ".
+[31/08/2009 18:06:23] Account Manager has logged in.
+[31/08/2009 18:06:32] Chupala has logged out.
+[31/08/2009 18:06:33] Chupala has logged in.
+[31/08/2009 18:06:40] Account Manager has logged out.
+[31/08/2009 18:06:41] Account Manager has logged in.
+[31/08/2009 18:06:42] Account Manager has logged out.
+[31/08/2009 18:06:44] [Hoster] Dee has logged out.
+[31/08/2009 18:06:45] Chika has logged out.
+[31/08/2009 18:06:46] Account Manager has logged in.
+[31/08/2009 18:06:47] Account Manager has logged in.
+[31/08/2009 18:06:47] Chika has logged in.
+[31/08/2009 18:06:56] Darkoo has logged out.
+[31/08/2009 18:06:58] Darkoo has logged in.
+[31/08/2009 18:06:59] Account Manager has logged out.
+[31/08/2009 18:07:00] Account Manager has logged in.
+[31/08/2009 18:07:00] Account Manager has logged out.
+[31/08/2009 18:07:04] Chika has logged out.
+[31/08/2009 18:07:04] Culli has logged in.
+[31/08/2009 18:07:05] Account Manager has logged out.
+[31/08/2009 18:07:05] Chika has logged in.
+[31/08/2009 18:07:15] Kina Zarprite has logged in.
+[31/08/2009 18:07:28] Pipe has logged out.
+[31/08/2009 18:07:29] Marmotita has logged out.
+[31/08/2009 18:07:32] Marmotita has logged in.
+[31/08/2009 18:07:32] Pipe has logged in.
+[31/08/2009 18:07:36] Darkoo has logged out.
+[31/08/2009 18:07:37] Darkoo has logged in.
+[31/08/2009 18:07:47] Maaatiaas has logged out.
+[31/08/2009 18:07:51] Maaatiaas has logged in.
+[31/08/2009 18:08:29] Kristacho has logged out.
+[31/08/2009 18:08:38] Account Manager has logged in.
+[31/08/2009 18:08:42] Kina Zarprite has logged out.
+[31/08/2009 18:08:44] Kina Zarprite has logged in.
+[31/08/2009 18:08:46] Kina Zarprite has logged out.
+[31/08/2009 18:08:48] [Hoster] Dee has logged in.
+[31/08/2009 18:08:53] Linda has logged out.
+[31/08/2009 18:08:57] [Hoster] Dee has logged out.
+[31/08/2009 18:08:59] Kina Zarprite has logged in.
+[31/08/2009 18:09:01] Account Manager has logged out.
+[31/08/2009 18:09:03] Hankook has logged out.
+[31/08/2009 18:09:08] Hankook has logged in.
+[31/08/2009 18:09:09] Kina Zarprite has logged out.
+[31/08/2009 18:09:12] [Hoster] Dee has logged in.
+[31/08/2009 18:09:13] Master Sorcerer has logged in.
+[31/08/2009 18:09:14] Linda has logged in.
+[31/08/2009 18:09:25] Kipai has logged out.
+[31/08/2009 18:09:28] [Hoster] Dee has logged out.
+[31/08/2009 18:09:30] Kina Zarprite has logged in.
+[31/08/2009 18:09:43] Pipe has logged out.
+[31/08/2009 18:09:46] Pipe has logged in.
+[31/08/2009 18:09:49] Maaatiaas has logged out.
+[31/08/2009 18:09:52] Maaatiaas has logged in.
+[31/08/2009 18:09:57] Chika has logged out.
+[31/08/2009 18:09:58] Linda has logged out.
+[31/08/2009 18:09:58] Hankook has logged out.
+[31/08/2009 18:10:02] Hankook has logged in.
+[31/08/2009 18:10:04] Chika has logged in.
+[31/08/2009 18:10:05] Rage Pally has logged out.
+[31/08/2009 18:10:07] Shebby has logged out.
+[31/08/2009 18:10:08] Rage Pally has logged in.
+[31/08/2009 18:10:11] Linda has logged in.
+[31/08/2009 18:10:12] Shebby has logged in.
+[31/08/2009 18:10:14] Links has logged out.
+[31/08/2009 18:10:15] Links has logged in.
+[31/08/2009 18:10:15] Kina Zarprite has logged out.
+[31/08/2009 18:10:17] Kina Zarprite has logged in.
+[31/08/2009 18:10:18] Hankook has logged out.
+[31/08/2009 18:10:19] Gozz Recond has logged out.
+[31/08/2009 18:10:19] Hankook has logged in.
+[31/08/2009 18:10:21] Gozz Recond has logged in.
+[31/08/2009 18:10:30] Hankook has logged out.
+[31/08/2009 18:10:33] Hankook has logged in.
+[31/08/2009 18:10:41] Hankook has logged out.
+[31/08/2009 18:10:48] Pipe has logged out.
+[31/08/2009 18:10:55] Pipe has logged in.
+[31/08/2009 18:10:57] Account Manager has logged in.
+[31/08/2009 18:11:00] Links has logged out.
+[31/08/2009 18:11:17] Links has logged in.
+[31/08/2009 18:11:17] > Saving server...
+[31/08/2009 18:11:24] > SAVE: Complete in 6.813 seconds using relational house storage.
+[31/08/2009 18:11:25] Darkoo has logged out.
+[31/08/2009 18:11:29] Account Manager has logged in.
+[31/08/2009 18:11:30] Darkoo has logged in.
+[31/08/2009 18:11:38] Master Sorcerer has logged out.
+[31/08/2009 18:11:41] Master Sorcerer has logged in.
+[31/08/2009 18:11:53] 
+[31/08/2009 18:11:53] Lua Script Error: [CreatureScript Interface] 
+[31/08/2009 18:11:53] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[31/08/2009 18:11:53] 
+[31/08/2009 18:11:53] luaGetCreatureName(). Creature not found
+[31/08/2009 18:11:53] 
+[31/08/2009 18:11:53] Lua Script Error: [CreatureScript Interface] 
+[31/08/2009 18:11:53] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[31/08/2009 18:11:53] 
+[31/08/2009 18:11:53] luaGetCreatureName(). Creature not found
+[31/08/2009 18:11:54] Chupala has logged out.
+[31/08/2009 18:11:58] Shebby has logged out.
+[31/08/2009 18:12:00] Account Manager has logged out.
+[31/08/2009 18:12:03] Account Manager has logged out.
+[31/08/2009 18:12:08] Account Manager has logged in.
+[31/08/2009 18:12:12] Rage Pally has logged out.
+[31/08/2009 18:12:12] 
+[31/08/2009 18:12:12] Lua Script Error: [Spell Interface] 
+[31/08/2009 18:12:12] in a timer event called from: 
+[31/08/2009 18:12:12] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[31/08/2009 18:12:12] 
+[31/08/2009 18:12:12] luaDoCombat(). Creature not found
+[31/08/2009 18:12:12] 
+[31/08/2009 18:12:12] Lua Script Error: [Spell Interface] 
+[31/08/2009 18:12:12] in a timer event called from: 
+[31/08/2009 18:12:12] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[31/08/2009 18:12:12] 
+[31/08/2009 18:12:12] luaDoCombat(). Creature not found
+[31/08/2009 18:12:12] 
+[31/08/2009 18:12:12] Lua Script Error: [Spell Interface] 
+[31/08/2009 18:12:12] in a timer event called from: 
+[31/08/2009 18:12:13] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[31/08/2009 18:12:13] 
+[31/08/2009 18:12:13] luaDoCombat(). Creature not found
+[31/08/2009 18:12:14] Shebby has logged in.
+[31/08/2009 18:12:14] Rage Pally has logged in.
+[31/08/2009 18:12:14] Chupala has logged in.
+[31/08/2009 18:12:15] Account Manager has logged in.
+[31/08/2009 18:12:16] Kina Zarprite has logged out.
+[31/08/2009 18:12:18] [Hoster] Dee has logged in.
+[31/08/2009 18:12:24] [Hoster] Dee has logged out.
+[31/08/2009 18:12:26] Kina Zarprite has logged in.
+[31/08/2009 18:12:42] Account Manager has logged out.
+[31/08/2009 18:12:47] Account Manager has logged in.
+[31/08/2009 18:12:47] > CLEAN: Removed 767 items from 1643 tiles in 0.187 seconds.
+[31/08/2009 18:12:55] Darkness has logged in.
+[31/08/2009 18:12:57] Account Manager has logged out.
+[31/08/2009 18:13:05] Account Manager has logged out.
+[31/08/2009 18:13:07] Account Manager has logged in.
+[31/08/2009 18:13:14] Account Manager has logged in.
+[31/08/2009 18:13:14] Account Manager has logged out.
+[31/08/2009 18:13:16] Dethknell has logged in.
+[31/08/2009 18:13:21] Master Sorcerer has logged out.
+[31/08/2009 18:13:22] Account Manager has logged in.
+[31/08/2009 18:13:23] Account Manager has logged in.
+[31/08/2009 18:13:24] Account Manager has logged out.
+[31/08/2009 18:13:24] Account Manager has logged in.
+[31/08/2009 18:13:25] Master Sorcerer has logged in.
+[31/08/2009 18:13:34] Account Manager has logged in.
+[31/08/2009 18:13:45] Account Manager has logged out.
+[31/08/2009 18:13:47] Account Manager has logged out.
+[31/08/2009 18:13:50] Account Manager has logged out.
+[31/08/2009 18:13:53] Account Manager has logged in.
+[31/08/2009 18:13:53] Zeus Elite has logged in.
+[31/08/2009 18:13:56] Account Manager has logged out.
+[31/08/2009 18:13:58] Darkoo has logged out.
+[31/08/2009 18:13:59] Account Manager has logged in.
+[31/08/2009 18:14:02] Darkoo has logged in.
+[31/08/2009 18:14:08] Midnight has logged in.
+[31/08/2009 18:14:09] Linda has logged out.
+[31/08/2009 18:14:28] > [Admin] Kogotero Lanza broadcasted: "linda no agas laggg".
+[31/08/2009 18:14:29] Kina Zarprite has logged out.
+[31/08/2009 18:14:30] > [Admin] Kogotero Lanza broadcasted: "-.-".
+[31/08/2009 18:14:31] Linda has logged in.
+[31/08/2009 18:14:33] Mono Pirata has logged in.
+[31/08/2009 18:14:36] Marmotita has logged out.
+[31/08/2009 18:14:38] Account Manager has logged out.
+[31/08/2009 18:14:39] Marmotita has logged in.
+[31/08/2009 18:14:42] Mono Pirata has logged out.
+[31/08/2009 18:14:43] Mono Pirata has logged in.
+[31/08/2009 18:14:48] Gominola has logged in.
+[31/08/2009 18:14:52] Master Sorcerer has logged out.
+[31/08/2009 18:14:54] Master Sorcerer has logged in.
+[31/08/2009 18:14:54] Account Manager has logged out.
+[31/08/2009 18:15:08] Master Sorcerer has logged out.
+[31/08/2009 18:15:10] > [Admin] Kogotero Lanza broadcasted: "NO SE ASEN GM , NI TUTORE , NI GOD .... no wevenn masss".
+[31/08/2009 18:15:10] Master Sorcerer has logged in.
+[31/08/2009 18:15:11] Nicko Mcbrain has logged in.
+[31/08/2009 18:15:30] Marmotita has logged out.
+[31/08/2009 18:15:33] Marmotita has logged in.
+[31/08/2009 18:15:57] Mono Pirata has logged out.
+[31/08/2009 18:16:00] [Hoster] Dee has logged in.
+[31/08/2009 18:16:04] > CLEAN: Removed 339 items from 601 tiles in 0.093 seconds.
+[31/08/2009 18:16:09] [Hoster] Dee has logged out.
+[31/08/2009 18:16:12] Kina Zarprite has logged in.
+[31/08/2009 18:16:15] Kina Zarprite has logged out.
+[31/08/2009 18:16:16] Links has logged out.
+[31/08/2009 18:16:17] Mono Pirata has logged in.
+[31/08/2009 18:16:18] Links has logged in.
+[31/08/2009 18:16:19] Mono Pirata has logged out.
+[31/08/2009 18:16:21] Vergazaurio has logged out.
+[31/08/2009 18:16:21] Kina Zarprite has logged in.
+[31/08/2009 18:16:23] Vergazaurio has logged in.
+[31/08/2009 18:16:28] Zeus Elite has logged out.
+[31/08/2009 18:16:30] Zeus Elite has logged in.
+[31/08/2009 18:16:34] Zeus Elite has logged out.
+[31/08/2009 18:16:40] Marmotita has logged out.
+[31/08/2009 18:16:43] Marmotita has logged in.
+[31/08/2009 18:16:46] Master Sorcerer has logged out.
+[31/08/2009 18:16:48] Master Sorcerer has logged in.
+[31/08/2009 18:16:58] Kina Zarprite has logged out.
+[31/08/2009 18:17:03] Kina Zarprite has logged in.
+[31/08/2009 18:17:05] Links has logged out.
+[31/08/2009 18:17:06] Links has logged in.
+[31/08/2009 18:17:19] Shebby has logged out.
+[31/08/2009 18:17:20] Shebby has logged in.
+[31/08/2009 18:17:23] Maaatiaas has logged out.
+[31/08/2009 18:17:25] Maaatiaas has logged in.
+[31/08/2009 18:17:43] Marmotita has logged out.
+[31/08/2009 18:17:45] Links has logged out.
+[31/08/2009 18:17:48] Marmotita has logged in.
+[31/08/2009 18:17:48] Links has logged in.
+[31/08/2009 18:17:54] Maaatiaas has logged out.
+[31/08/2009 18:18:05] Maaatiaas has logged in.
+[31/08/2009 18:18:18] Bazeelxx has logged out.
+[31/08/2009 18:18:29] > [Admin] Kogotero Lanza broadcasted: "kavbross ".
+[31/08/2009 18:18:30] Darkoo has logged out.
+[31/08/2009 18:18:33] Darkoo has logged in.
+[31/08/2009 18:18:33] Kina Zarprite has logged out.
+[31/08/2009 18:18:33] > [Admin] Kogotero Lanza broadcasted: "en 10 minutos eventoo".
+[31/08/2009 18:18:34] Maaatiaas has logged out.
+[31/08/2009 18:18:35] [Hoster] Dee has logged in.
+[31/08/2009 18:18:36] Maaatiaas has logged in.
+[31/08/2009 18:18:57] Maaatiaas has logged out.
+[31/08/2009 18:19:03] Maaatiaas has logged in.
+[31/08/2009 18:19:08] > [Hoster] Dee broadcasted: "aora la uh kura mas".
+[31/08/2009 18:19:10] [Hoster] Dee has logged out.
+[31/08/2009 18:19:13] Kina Zarprite has logged in.
+[31/08/2009 18:19:36] Dethknell has logged out.
+[31/08/2009 18:19:42] Dethknell has logged in.
+[31/08/2009 18:19:52] Kina Zarprite has logged out.
+[31/08/2009 18:19:52] 
+[31/08/2009 18:19:52] Lua Script Error: [Spell Interface] 
+[31/08/2009 18:19:53] in a timer event called from: 
+[31/08/2009 18:19:53] data/spells/scripts/attack/razgosfury.lua:onCastSpell
+[31/08/2009 18:19:53] 
+[31/08/2009 18:19:53] luaDoCombat(). Creature not found
+[31/08/2009 18:19:53] 
+[31/08/2009 18:19:53] Lua Script Error: [Spell Interface] 
+[31/08/2009 18:19:53] in a timer event called from: 
+[31/08/2009 18:19:53] data/spells/scripts/attack/razgosfury.lua:onCastSpell
+[31/08/2009 18:19:53] 
+[31/08/2009 18:19:53] luaDoCombat(). Creature not found
+[31/08/2009 18:19:57] [Hoster] Dee has logged in.
+[31/08/2009 18:20:02] Account Manager has logged in.
+[31/08/2009 18:20:04] > CLEAN: Removed 324 items from 637 tiles in 0.282 seconds.
+[31/08/2009 18:20:09] Pipe has logged out.
+[31/08/2009 18:20:10] > [Admin] Kogotero Lanza broadcasted: "cabros ai otr spells poderosa para todas las voxcaciones es razgos fury.".
+[31/08/2009 18:20:14] Pipe has logged in.
+[31/08/2009 18:20:19] > [Hoster] Dee broadcasted: "voy a aser una spells para los kina".
+[31/08/2009 18:20:38] Account Manager has logged out.
+[31/08/2009 18:20:39] > [Hoster] Dee broadcasted: "cabros la razgos fury pega mas con los knight".
+[31/08/2009 18:20:40] Account Manager has logged in.
+[31/08/2009 18:20:41] Account Manager has logged out.
+[31/08/2009 18:20:47] The Drako has logged in.
+[31/08/2009 18:20:48] Marmotita has logged out.
+[31/08/2009 18:20:49] [Admin] Senik One has logged in.
+[31/08/2009 18:20:52] Diean has logged in.
+[31/08/2009 18:20:58] Culli has logged out.
+[31/08/2009 18:20:58] Master Sorcerer has logged out.
+[31/08/2009 18:20:59] Pipe has logged out.
+[31/08/2009 18:21:00] Master Sorcerer has logged in.
+[31/08/2009 18:21:01] Pipe has logged in.
+[31/08/2009 18:21:02] Culli has logged in.
+[31/08/2009 18:21:15] Culli has logged out.
+[31/08/2009 18:21:20] Nelson has logged out.
+[31/08/2009 18:21:22] Nelson has logged in.
+[31/08/2009 18:21:25] > [Hoster] Dee broadcasted: "voy a crear el wa".
+[31/08/2009 18:21:26] Chika has logged out.
+[31/08/2009 18:21:26] [Hoster] Dee has logged out.
+[31/08/2009 18:21:29] Chika has logged in.
+[31/08/2009 18:21:41] Nelson has logged out.
+[31/08/2009 18:21:44] Nelson has logged in.
+[31/08/2009 18:21:49] > [Admin] Kogotero Lanza broadcasted: "oe los q maten lvl bajos se van a la carcelll.....".
+[31/08/2009 18:21:56] > [Admin] Kogotero Lanza broadcasted: "dejen leveliar los lvl altos ..... ".
+[31/08/2009 18:21:59] 
+[31/08/2009 18:21:59] Lua Script Error: [Action Interface] 
+[31/08/2009 18:21:59] data/actions/scripts/liquids/health_potion.lua:onUse
+[31/08/2009 18:21:59] 
+[31/08/2009 18:21:59] luaDoCreatureAddHealth(). Creature not found
+[31/08/2009 18:22:00] Nelson has logged out.
+[31/08/2009 18:22:01] Nelson has logged in.
+[31/08/2009 18:22:36] Account Manager has logged in.
+[31/08/2009 18:22:40] Shebby has logged out.
+[31/08/2009 18:22:43] Shebby has logged in.
+[31/08/2009 18:22:50] Darkoo has logged out.
+[31/08/2009 18:22:53] Darkoo has logged in.
+[31/08/2009 18:22:55] Account Manager has logged out.
+[31/08/2009 18:23:02] Account Manager has logged in.
+[31/08/2009 18:23:17] Diean has logged out.
+[31/08/2009 18:23:19] Account Manager has logged out.
+[31/08/2009 18:23:21] Diean has logged in.
+[31/08/2009 18:23:27] Diiegooxkina has logged in.
+[31/08/2009 18:23:29] Links has logged out.
+[31/08/2009 18:23:32] Chika has logged out.
+[31/08/2009 18:23:33] Links has logged in.
+[31/08/2009 18:23:35] Chika has logged in.
+[31/08/2009 18:23:59] Loquilloo has logged out.
+[31/08/2009 18:24:05] Nelson has logged out.
+[31/08/2009 18:24:07] Nelson has logged in.
+[31/08/2009 18:24:28] Master Sorcerer has logged out.
+[31/08/2009 18:24:31] Master Sorcerer has logged in.
+[31/08/2009 18:24:33] Shebby has logged out.
+[31/08/2009 18:24:34] Chika has logged out.
+[31/08/2009 18:24:36] Shebby has logged in.
+[31/08/2009 18:24:37] Chika has logged in.
+[31/08/2009 18:25:00] Maik walk has logged out.
+[31/08/2009 18:25:01] Account Manager has logged in.
+[31/08/2009 18:25:01] Shebby has logged out.
+[31/08/2009 18:25:03] Diean has logged out.
+[31/08/2009 18:25:03] Maik walk has logged in.
+[31/08/2009 18:25:07] Diean has logged in.
+[31/08/2009 18:25:12] Account Manager has logged out.
+[31/08/2009 18:25:20] Account Manager has logged in.
+[31/08/2009 18:25:31] > [Admin] Kogotero Lanza broadcasted: "nueva spells razgos fury.".
+[31/08/2009 18:25:32] Master Sorcerer has logged out.
+[31/08/2009 18:25:35] Master Sorcerer has logged in.
+[31/08/2009 18:25:39] Account Manager has logged out.
+[31/08/2009 18:25:46] Hpes has logged in.
+[31/08/2009 18:26:18] > Saving server...
+[31/08/2009 18:26:32] > SAVE: Complete in 13.641 seconds using relational house storage.
+[31/08/2009 18:26:39] Gominola has logged out.
+[31/08/2009 18:26:41] Gominola has logged in.
+[31/08/2009 18:26:44] Vergazaurio has logged out.
+[31/08/2009 18:26:47] Vergazaurio has logged in.
+[31/08/2009 18:27:17] Chupala has logged out.
+[31/08/2009 18:27:21] Chupala has logged in.
+[31/08/2009 18:27:26] Account Manager has logged in.
+[31/08/2009 18:27:35] Master Sorcerer has logged out.
+[31/08/2009 18:27:39] Master Sorcerer has logged in.
+[31/08/2009 18:27:49] Links has logged out.
+[31/08/2009 18:27:50] Account Manager has logged out.
+[31/08/2009 18:27:50] Maaatiaas has logged out.
+[31/08/2009 18:27:53] Links has logged in.
+[31/08/2009 18:27:54] Account Manager has logged in.
+[31/08/2009 18:28:01] Account Manager has logged in.
+[31/08/2009 18:28:17] Master Sorcerer has logged out.
+[31/08/2009 18:28:20] Master Sorcerer has logged in.
+[31/08/2009 18:28:28] Pipe has logged out.
+[31/08/2009 18:28:30] Pipe has logged in.
+[31/08/2009 18:28:42] Account Manager has logged out.
+[31/08/2009 18:28:43] Account Manager has logged in.
+[31/08/2009 18:28:44] [Admin] Senik One has logged out.
+[31/08/2009 18:28:44] Account Manager has logged out.
+[31/08/2009 18:28:45] Marmotita has logged in.
+[31/08/2009 18:28:53] Lolo kitad has logged in.
+[31/08/2009 18:28:55] Account Manager has logged out.
+[31/08/2009 18:28:57] Account Manager has logged in.
+[31/08/2009 18:29:00] Account Manager has logged in.
+[31/08/2009 18:29:04] Swolls Stikre has logged out.
+[31/08/2009 18:29:07] Swolls Stikre has logged in.
+[31/08/2009 18:29:17] Account Manager has logged out.
+[31/08/2009 18:29:27] 
+[31/08/2009 18:29:27] Lua Script Error: [CreatureScript Interface] 
+[31/08/2009 18:29:27] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[31/08/2009 18:29:27] 
+[31/08/2009 18:29:27] luaGetCreatureName(). Creature not found
+[31/08/2009 18:29:27] 
+[31/08/2009 18:29:27] Lua Script Error: [CreatureScript Interface] 
+[31/08/2009 18:29:27] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[31/08/2009 18:29:27] 
+[31/08/2009 18:29:27] luaGetCreatureName(). Creature not found
+[31/08/2009 18:29:27] Darkoo has logged out.
+[31/08/2009 18:29:28] Yerko has logged in.
+[31/08/2009 18:29:30] Darkoo has logged in.
+[31/08/2009 18:29:36] Swolls Stikre has logged out.
+[31/08/2009 18:29:39] Swolls Stikre has logged in.
+[31/08/2009 18:29:40] Account Manager has logged out.
+[31/08/2009 18:29:53] Diego contreras g has logged in.
+[31/08/2009 18:30:09] Nelson has logged out.
+[31/08/2009 18:30:18] Dethknell has logged out.
+[31/08/2009 18:30:20] Master Sorcerer has logged out.
+[31/08/2009 18:30:24] Master Sorcerer has logged in.
+[31/08/2009 18:30:24] Dethknell has logged in.
+[31/08/2009 18:30:40] [Hoster] Dee has logged in.
+[31/08/2009 18:30:43] [Warning - Event::loadScript] Cannot load script (data/spells/scripts/attack/RazGosEx.lua)
+[31/08/2009 18:30:43] data/spells/scripts/attack/RazGosEx.lua:4: unexpected symbol near ','
+[31/08/2009 18:30:48] Master Sorcerer has logged out.
+[31/08/2009 18:30:50] Linda has logged out.
+[31/08/2009 18:30:52] Master Sorcerer has logged in.
+[31/08/2009 18:30:55] Swolls Stikre has logged out.
+[31/08/2009 18:30:56] Chupala has logged out.
+[31/08/2009 18:31:02] Swolls Stikre has logged in.
+[31/08/2009 18:31:03] Chupala has logged in.
+[31/08/2009 18:31:03] Nelson has logged in.
+[31/08/2009 18:31:08] > [Admin] Kogotero Lanza broadcasted: "clean en 20 segundos recojan itemss".
+[31/08/2009 18:31:11] Master Sorcerer has logged out.
+[31/08/2009 18:31:13] Master Sorcerer has logged in.
+[31/08/2009 18:31:17] Bazeelxx has logged in.
+[31/08/2009 18:31:20] > CLEAN: Removed 903 items from 1600 tiles in 0.109 seconds.
+[31/08/2009 18:31:26] Swolls Stikre has logged out.
+[31/08/2009 18:31:27] Soberbia has logged out.
+[31/08/2009 18:31:27] Swolls Stikre has logged in.
+[31/08/2009 18:31:37] Chika has logged out.
+[31/08/2009 18:31:40] Chika has logged in.
+[31/08/2009 18:31:41] Account Manager has logged in.
+[31/08/2009 18:31:47] Swolls Stikre has logged out.
+[31/08/2009 18:31:48] Swolls Stikre has logged in.
+[31/08/2009 18:31:53] Master Sorcerer has logged out.
+[31/08/2009 18:31:54] Vergazaurio has logged out.
+[31/08/2009 18:31:55] Master Sorcerer has logged in.
+[31/08/2009 18:31:57] Vergazaurio has logged in.
+[31/08/2009 18:31:57] Account Manager has logged in.
+[31/08/2009 18:32:03] Account Manager has logged out.
+[31/08/2009 18:32:04] Account Manager has logged in.
+[31/08/2009 18:32:05] Account Manager has logged out.
+[31/08/2009 18:32:08] Account Manager has logged out.
+[31/08/2009 18:32:10] Okunak has logged in.
+[31/08/2009 18:32:15] Account Manager has logged in.
+[31/08/2009 18:32:23] Diego contreras g has logged out.
+[31/08/2009 18:32:31] Master Sorcerer has logged out.
+[31/08/2009 18:32:33] Master Sorcerer has logged in.
+[31/08/2009 18:32:34] Swolls Stikre has logged out.
+[31/08/2009 18:32:36] Culli has logged in.
+[31/08/2009 18:32:36] Swolls Stikre has logged in.
+[31/08/2009 18:32:37] Account Manager has logged out.
+[31/08/2009 18:32:44] Gozz Recond has logged out.
+[31/08/2009 18:32:46] Culli has logged out.
+[31/08/2009 18:32:47] Matox has logged in.
+[31/08/2009 18:32:54] 
+[31/08/2009 18:32:54] Lua Script Error: [Action Interface] 
+[31/08/2009 18:32:54] data/actions/scripts/liquids/strong_mana.lua:onUse
+[31/08/2009 18:32:54] 
+[31/08/2009 18:32:54] luaGetPlayerCustomFlagValue(). Player not found
+[31/08/2009 18:32:54] 
+[31/08/2009 18:32:54] Lua Script Error: [Action Interface] 
+[31/08/2009 18:32:54] data/actions/scripts/liquids/strong_mana.lua:onUse
+[31/08/2009 18:32:54] 
+[31/08/2009 18:32:54] luaDoCreatureAddMana(). Creature not found
+[31/08/2009 18:32:54] Gozz Recond has logged in.
+[31/08/2009 18:32:59] Marmotita has logged out.
+[31/08/2009 18:33:01] Marmotita has logged in.
+[31/08/2009 18:33:13] Soberbia has logged in.
+[31/08/2009 18:33:15] Chupala has logged out.
+[31/08/2009 18:33:15] Account Manager has logged in.
+[31/08/2009 18:33:16] Chupala has logged in.
+[31/08/2009 18:33:19] Hankook has logged in.
+[31/08/2009 18:33:25] Account Manager has logged out.
+[31/08/2009 18:33:31] Account Manager has logged in.
+[31/08/2009 18:33:35] Account Manager has logged in.
+[31/08/2009 18:33:45] Gominola has logged out.
+[31/08/2009 18:33:48] Gominola has logged in.
+[31/08/2009 18:33:50] Account Manager has logged out.
+[31/08/2009 18:33:57] Eloy has logged in.
+[31/08/2009 18:34:03] Account Manager has logged out.
+[31/08/2009 18:34:14] Hankook has logged out.
+[31/08/2009 18:34:17] Hankook has logged in.
+[31/08/2009 18:34:18] Account Manager has logged in.
+[31/08/2009 18:34:19] Account Manager has logged in.
+[31/08/2009 18:34:23] Linda has logged in.
+[31/08/2009 18:34:35] > CLEAN: Removed 256 items from 450 tiles in 0.078 seconds.
+[31/08/2009 18:34:39] Marmotita has logged out.
+[31/08/2009 18:34:39] Account Manager has logged out.
+[31/08/2009 18:34:42] Marmotita has logged in.
+[31/08/2009 18:34:42] Hesperides has logged in.
+[31/08/2009 18:34:49] > Broadcasted message: "New record: 38 players are logged in.".
+[31/08/2009 18:34:49] Cael Zypas has logged in.
+[31/08/2009 18:34:54] [Hoster] Dee has logged out.
+[31/08/2009 18:35:18] Account Manager has logged in.
+[31/08/2009 18:35:19] Master Sorcerer has logged out.
+[31/08/2009 18:35:19] > [Admin] Kogotero Lanza broadcasted: "18:34 New record: 38 players are logged in. ^^ ".
+[31/08/2009 18:35:21] Master Sorcerer has logged in.
+[31/08/2009 18:35:22] Master Sorcerer has logged out.
+[31/08/2009 18:35:23] > [Admin] Kogotero Lanza broadcasted: "18:34 New record: 38 players are logged in. ^^ ".
+[31/08/2009 18:35:24] Master Paly has logged in.
+[31/08/2009 18:35:26] Hesperides has logged out.
+[31/08/2009 18:35:27] Hesperides has logged in.
+[31/08/2009 18:35:29] > [Admin] Kogotero Lanza broadcasted: "inviten mas fgente kabross".
+[31/08/2009 18:35:32] Account Manager has logged out.
+[31/08/2009 18:35:32] > [Admin] Kogotero Lanza broadcasted: "soberbia dimee ".
+[31/08/2009 18:35:37] Account Manager has logged in.
+[31/08/2009 18:35:39] > Broadcasted message: "New record: 39 players are logged in.".
+[31/08/2009 18:35:39] Account Manager has logged in.
+[31/08/2009 18:35:54] Account Manager has logged out.
+[31/08/2009 18:36:00] Account Manager has logged out.
+[31/08/2009 18:36:02] Chicha has logged in.
+[31/08/2009 18:36:02] Account Manager has logged out.
+[31/08/2009 18:36:10] Account Manager has logged in.
+[31/08/2009 18:36:13] Hesperides has logged out.
+[31/08/2009 18:36:15] Links has logged out.
+[31/08/2009 18:36:18] Hesperides has logged in.
+[31/08/2009 18:36:29] Darkness has logged out.
+[31/08/2009 18:36:32] Darkness has logged in.
+[31/08/2009 18:36:35] Darkoo has logged out.
+[31/08/2009 18:36:37] Gozz Recond has logged out.
+[31/08/2009 18:36:39] Darkoo has logged in.
+[31/08/2009 18:36:42] Account Manager has logged out.
+[31/08/2009 18:36:51] Crnzadiiktoo has logged in.
+[31/08/2009 18:36:56] Master Paly has logged out.
+[31/08/2009 18:36:58] Pipe has logged out.
+[31/08/2009 18:36:58] Master Sorcerer has logged in.
+[31/08/2009 18:37:01] Okunak has logged out.
+[31/08/2009 18:37:01] Pipe has logged in.
+[31/08/2009 18:37:04] Account Manager has logged in.
+[31/08/2009 18:37:08] Swolls Stikre has logged out.
+[31/08/2009 18:37:14] Swolls Stikre has logged in.
+[31/08/2009 18:37:17] Darkoo has logged out.
+[31/08/2009 18:37:19] Linda has logged out.
+[31/08/2009 18:37:19] Darkoo has logged in.
+[31/08/2009 18:37:26] Darkness has logged out.
+[31/08/2009 18:37:30] Darkness has logged in.
+[31/08/2009 18:37:38] Account Manager has logged out.
+[31/08/2009 18:37:48] Okunaks has logged in.
+[31/08/2009 18:37:49] Master Sorcerer has logged out.
+[31/08/2009 18:37:51] Master Paly has logged in.
+[31/08/2009 18:37:54] Master Paly has logged out.
+[31/08/2009 18:37:56] Master Sorcerer has logged in.
+[31/08/2009 18:38:05] Rage Pally has logged out.
+[31/08/2009 18:38:07] Sikario has logged out.
+[31/08/2009 18:38:11] Master Sorcerer has logged out.
+[31/08/2009 18:38:11] Sikario has logged in.
+[31/08/2009 18:38:13] Master Paly has logged in.
+[31/08/2009 18:38:34] Account Manager has logged in.
+[31/08/2009 18:38:39] > CLEAN: Removed 305 items from 527 tiles in 0.015 seconds.
+[31/08/2009 18:38:45] Chika has logged out.
+[31/08/2009 18:38:47] Chika has logged in.
+[31/08/2009 18:38:49] Walker Style Pro has logged in.
+[31/08/2009 18:38:49] Gozz Recond has logged in.
+[31/08/2009 18:38:51] Account Manager has logged out.
+[31/08/2009 18:38:58] Vergazaurio has logged out.
+[31/08/2009 18:39:00] Vergazaurio has logged in.
+[31/08/2009 18:39:01] Hesperides has logged out.
+[31/08/2009 18:39:03] Crnzadiiktoo has logged out.
+[31/08/2009 18:39:03] Hesperides has logged in.
+[31/08/2009 18:39:04] Account Manager has logged in.
+[31/08/2009 18:39:16] Marmotita has logged out.
+[31/08/2009 18:39:20] Marmotita has logged in.
+[31/08/2009 18:39:24] Hankook has logged out.
+[31/08/2009 18:39:24] Account Manager has logged out.
+[31/08/2009 18:39:26] Crnzadiiktoo has logged in.
+[31/08/2009 18:39:27] Crnzadiiktoo has logged out.
+[31/08/2009 18:39:28] Hankook has logged in.
+[31/08/2009 18:40:02] Account Manager has logged in.
+[31/08/2009 18:40:27] Account Manager has logged out.
+[31/08/2009 18:40:48] Hesperides has logged out.
+[31/08/2009 18:40:50] Account Manager has logged in.
+[31/08/2009 18:40:51] Account Manager has logged in.
+[31/08/2009 18:40:52] Hesperides has logged in.
+[31/08/2009 18:41:11] Bazeelxx has logged out.
+[31/08/2009 18:41:12] Marmotita has logged out.
+[31/08/2009 18:41:12] > Broadcasted message: "Game map cleaning within 30 seconds, please pick up your items!".
+[31/08/2009 18:41:13] Pipe has logged out.
+[31/08/2009 18:41:14] Marmotita has logged in.
+[31/08/2009 18:41:14] Bazeelxx has logged in.
+[31/08/2009 18:41:17] Pipe has logged in.
+[31/08/2009 18:41:17] Account Manager has logged out.
+[31/08/2009 18:41:19] > Saving server...
+[31/08/2009 18:41:28] > SAVE: Complete in 8.953 seconds using relational house storage.
+[31/08/2009 18:41:33] Account Manager has logged in.
+[31/08/2009 18:41:35] Account Manager has logged in.
+[31/08/2009 18:41:38] Hesperides has logged out.
+[31/08/2009 18:41:41] Hesperides has logged in.
+[31/08/2009 18:41:42] > CLEAN: Removed 166 items from 312 tiles in 0.031 seconds.
+[31/08/2009 18:41:42] > Broadcasted message: "Game map cleaned, next clean in 2 hours.".
+[31/08/2009 18:41:44] > [Admin] Kogotero Lanza broadcasted: "sorry el lag cabros q se estan editando algunas weas pa q kede mas connotaoo".
+[31/08/2009 18:41:49] Gominola has logged out.
+[31/08/2009 18:41:49] Account Manager has logged out.
+[31/08/2009 18:41:53] [Hoster] Dee has logged in.
+[31/08/2009 18:41:56] Account Manager has logged in.
+[31/08/2009 18:41:56] [Warning - Event::loadScript] Cannot load script (data/spells/scripts/attack/RazGosEx.lua)
+[31/08/2009 18:41:56] cannot open data/spells/scripts/attack/RazGosEx.lua: No such file or directory
+[31/08/2009 18:41:59] Eloy has logged out.
+[31/08/2009 18:42:01] Account Manager has logged in.
+[31/08/2009 18:42:01] Cael Zypas has logged out.
+[31/08/2009 18:42:07] > [Hoster] Dee broadcasted: "nueva spell".
+[31/08/2009 18:42:10] Account Manager has logged out.
+[31/08/2009 18:42:11] > [Hoster] Dee broadcasted: "para kinas".
+[31/08/2009 18:42:15] Raic Dalos has logged in.
+[31/08/2009 18:42:15] Account Manager has logged out.
+[31/08/2009 18:42:16] > [Hoster] Dee broadcasted: "RazGos Exori".
+[31/08/2009 18:42:17] Account Manager has logged out.
+[31/08/2009 18:42:18] Account Manager has logged out.
+[31/08/2009 18:42:21] Gozz Recond has logged out.
+[31/08/2009 18:42:24] Account Manager has logged in.
+[31/08/2009 18:42:26] Gozz Recond has logged in.
+[31/08/2009 18:42:27] Omega has logged in.
+[31/08/2009 18:42:34] Midnight has logged out.
+[31/08/2009 18:42:35] > [Admin] Kogotero Lanza broadcasted: "pa kina RAZGOS EXORI.".
+[31/08/2009 18:42:36] Midnight has logged in.
+[31/08/2009 18:42:38] Vergazaurio has logged out.
+[31/08/2009 18:42:38] Daniela has logged in.
+[31/08/2009 18:42:40] Vergazaurio has logged in.
+[31/08/2009 18:42:51] Bazeelxx has logged out.
+[31/08/2009 18:42:53] Bazeelxx has logged in.
+[31/08/2009 18:42:56] [Warning - Event::loadScript] Cannot load script (data/spells/scripts/attack/RazGosEx.lua)
+[31/08/2009 18:42:56] cannot open data/spells/scripts/attack/RazGosEx.lua: No such file or directory
+[31/08/2009 18:43:05] [Hoster] Dee has logged out.
+[31/08/2009 18:43:07] Kina Zarprite has logged in.
+[31/08/2009 18:43:20] Hesperides has logged out.
+[31/08/2009 18:43:21] Hesperides has logged in.
+[31/08/2009 18:43:21] 
+[31/08/2009 18:43:21] Lua Script Error: [CreatureScript Interface] 
+[31/08/2009 18:43:22] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[31/08/2009 18:43:22] 
+[31/08/2009 18:43:22] luaGetCreatureName(). Creature not found
+[31/08/2009 18:43:22] 
+[31/08/2009 18:43:22] Lua Script Error: [CreatureScript Interface] 
+[31/08/2009 18:43:22] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[31/08/2009 18:43:22] 
+[31/08/2009 18:43:22] luaGetCreatureName(). Creature not found
+[31/08/2009 18:43:22] Gozz Recond has logged out.
+[31/08/2009 18:43:23] Account Manager has logged out.
+[31/08/2009 18:43:24] Gozz Recond has logged in.
+[31/08/2009 18:43:28] Walker Style Pro has logged out.
+[31/08/2009 18:43:30] Ozzmosy has logged in.
+[31/08/2009 18:43:36] > [Admin] Kogotero Lanza broadcasted: "ya se iso pa los kina super uh y razgos exori. tambien hay razgos fury. pa toas las vocaciones pero mas fuerte pa kinaaa".
+[31/08/2009 18:43:45] Vergazaurio has logged out.
+[31/08/2009 18:43:47] Vergazaurio has logged in.
+[31/08/2009 18:43:50] > [Admin] Kogotero Lanza broadcasted: "a no razgos furyy noo ".
+[31/08/2009 18:43:56] > [Admin] Kogotero Lanza broadcasted: "es razgos kina.".
+[31/08/2009 18:44:05] Account Manager has logged in.
+[31/08/2009 18:44:06] Nelson has logged out.
+[31/08/2009 18:44:22] Kina Zarprite has logged out.
+[31/08/2009 18:44:33] 
+[31/08/2009 18:44:33] Lua Script Error: [CreatureScript Interface] 
+[31/08/2009 18:44:33] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[31/08/2009 18:44:33] 
+[31/08/2009 18:44:33] luaGetCreatureName(). Creature not found
+[31/08/2009 18:44:33] 
+[31/08/2009 18:44:33] Lua Script Error: [CreatureScript Interface] 
+[31/08/2009 18:44:33] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[31/08/2009 18:44:33] 
+[31/08/2009 18:44:33] luaGetCreatureName(). Creature not found
+[31/08/2009 18:44:33] Darkoo has logged out.
+[31/08/2009 18:44:34] Account Manager has logged in.
+[31/08/2009 18:44:35] Darkoo has logged in.
+[31/08/2009 18:44:40] Gozz Recond has logged out.
+[31/08/2009 18:44:43] Account Manager has logged out.
+[31/08/2009 18:44:44] Gozz Recond has logged in.
+[31/08/2009 18:44:47] Account Manager has logged out.
+[31/08/2009 18:44:53] Account Manager has logged in.
+[31/08/2009 18:44:56] Omega has logged out.
+[31/08/2009 18:44:59] Vergazaurio has logged out.
+[31/08/2009 18:45:01] Vergazaurio has logged in.
+[31/08/2009 18:45:08] Account Manager has logged in.
+[31/08/2009 18:45:12] Account Manager has logged out.
+[31/08/2009 18:45:16] Chupala has logged out.
+[31/08/2009 18:45:17] Chupala has logged in.
+[31/08/2009 18:45:18] Midnight has logged out.
+[31/08/2009 18:45:19] Midnight has logged in.
+[31/08/2009 18:45:23] The mastrox has logged in.
+[31/08/2009 18:45:23] Swolls Stikre has logged out.
+[31/08/2009 18:45:25] Swolls Stikre has logged in.
+[31/08/2009 18:45:41] Sikario has logged out.
+[31/08/2009 18:45:42] Sikario has logged in.
+[31/08/2009 18:45:57] Account Manager has logged in.
+[31/08/2009 18:46:03] Darkoo has logged out.
+[31/08/2009 18:46:04] Darkoo has logged in.
+[31/08/2009 18:46:06] Account Manager has logged out.
+[31/08/2009 18:46:07] > [Admin] Kogotero Lanza broadcasted: "AFK NO WEBEEN".
+[31/08/2009 18:46:15] Darkness has logged out.
+[31/08/2009 18:46:17] Darkness has logged in.
+[31/08/2009 18:46:22] [Hoster] Dee has logged in.
+[31/08/2009 18:46:25] Darkoo has logged out.
+[31/08/2009 18:46:25] [Warning - Event::loadScript] Cannot load script (data/spells/scripts/razgosfury.lua)
+[31/08/2009 18:46:25] cannot open data/spells/scripts/razgosfury.lua: No such file or directory
+[31/08/2009 18:46:27] Darkoo has logged in.
+[31/08/2009 18:46:31] Account Manager has logged out.
+[31/08/2009 18:46:34] > [Hoster] Dee broadcasted: "mierda se borro el razgos fury".
+[31/08/2009 18:46:37] > CLEAN: Removed 446 items from 905 tiles in 0.078 seconds.
+[31/08/2009 18:46:40] Account Manager has logged in.
+[31/08/2009 18:46:42] > [Hoster] Dee broadcasted: "esperen".
+[31/08/2009 18:46:44] [Hoster] Dee has logged out.
+[31/08/2009 18:46:44] Darkoo has logged out.
+[31/08/2009 18:46:46] Darkoo has logged in.
+[31/08/2009 18:46:53] Chika has logged out.
+[31/08/2009 18:46:54] Master Paly has logged out.
+[31/08/2009 18:46:55] Chika has logged in.
+[31/08/2009 18:46:56] Master Paly has logged in.
+[31/08/2009 18:47:00] Master Paly has logged out.
+[31/08/2009 18:47:02] Master Sorcerer has logged in.
+[31/08/2009 18:47:10] The Drako has logged out.
+[31/08/2009 18:47:11] Darkoo has logged out.
+[31/08/2009 18:47:12] Darkoo has logged in.
+[31/08/2009 18:47:15] Maik walk has logged out.
+[31/08/2009 18:47:16] Maik walk has logged in.
+[31/08/2009 18:47:24] [Hoster] Dee has logged in.
+[31/08/2009 18:47:28] Account Manager has logged in.
+[31/08/2009 18:47:30] Account Manager has logged out.
+[31/08/2009 18:47:33] > [Hoster] Dee broadcasted: "ai puse la fury".
+[31/08/2009 18:47:37] Hesperides has logged out.
+[31/08/2009 18:47:38] Account Manager has logged out.
+[31/08/2009 18:47:39] Xoro Naco has logged in.
+[31/08/2009 18:47:40] Darkoo has logged out.
+[31/08/2009 18:47:41] Hesperides has logged in.
+[31/08/2009 18:47:43] Darkoo has logged in.
+[31/08/2009 18:47:43] Marmotita has logged out.
+[31/08/2009 18:47:45] [Admin] Senik One has logged in.
+[31/08/2009 18:47:46] The Drako has logged in.
+[31/08/2009 18:47:47] Account Manager has logged in.
+[31/08/2009 18:47:48] Account Manager has logged in.
+[31/08/2009 18:47:50] Account Manager has logged in.
+[31/08/2009 18:47:53] Vergazaurio has logged out.
+[31/08/2009 18:47:56] Vergazaurio has logged in.
+[31/08/2009 18:48:07] Bazeelxx has logged out.
+[31/08/2009 18:48:10] Account Manager has logged out.
+[31/08/2009 18:48:13] Hesperides has logged out.
+[31/08/2009 18:48:14] Account Manager has logged out.
+[31/08/2009 18:48:14] 
+[31/08/2009 18:48:14] Lua Script Error: [TalkAction Interface] 
+[31/08/2009 18:48:14] data/talkactions/scripts/teleporthere.lua:onSay
+[31/08/2009 18:48:14] 
+[31/08/2009 18:48:14] luaGetClosestFreeTile(). Creature not found
+[31/08/2009 18:48:17] 
+[31/08/2009 18:48:17] Lua Script Error: [TalkAction Interface] 
+[31/08/2009 18:48:17] data/talkactions/scripts/teleporthere.lua:onSay
+[31/08/2009 18:48:17] 
+[31/08/2009 18:48:17] luaGetClosestFreeTile(). Creature not found
+[31/08/2009 18:48:19] Account Manager has logged in.
+[31/08/2009 18:48:21] Hesperides has logged in.
+[31/08/2009 18:48:21] Account Manager has logged out.
+[31/08/2009 18:48:22] Account Manager has logged in.
+[31/08/2009 18:48:23] Knight Poderoso has logged in.
+[31/08/2009 18:48:24] 
+[31/08/2009 18:48:24] Lua Script Error: [CreatureScript Interface] 
+[31/08/2009 18:48:24] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[31/08/2009 18:48:24] 
+[31/08/2009 18:48:24] luaGetCreatureName(). Creature not found
+[31/08/2009 18:48:24] 
+[31/08/2009 18:48:24] Lua Script Error: [CreatureScript Interface] 
+[31/08/2009 18:48:24] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[31/08/2009 18:48:24] 
+[31/08/2009 18:48:24] luaGetCreatureName(). Creature not found
+[31/08/2009 18:48:25] Daniela has logged out.
+[31/08/2009 18:48:28] Account Manager has logged out.
+[31/08/2009 18:48:35] Darkoo has logged out.
+[31/08/2009 18:48:37] [Admin] Senik One has logged out.
+[31/08/2009 18:48:38] Account Manager has logged in.
+[31/08/2009 18:48:40] Marmotita has logged in.
+[31/08/2009 18:48:41] Darkoo has logged in.
+[31/08/2009 18:48:45] Hesperides has logged out.
+[31/08/2009 18:48:50] Hesperides has logged in.
+[31/08/2009 18:48:51] Account Manager has logged out.
+[31/08/2009 18:48:55] > [Hoster] Dee broadcasted: "nueva spell para los knight:razgos exori (ta poderosa xD)".
+[31/08/2009 18:49:02] The Drako has logged out.
+[31/08/2009 18:49:03] Austin has logged in.
+[31/08/2009 18:49:08] Darkoo has logged out.
+[31/08/2009 18:49:10] Darkoo has logged in.
+[31/08/2009 18:49:11] The Drako has logged in.
+[31/08/2009 18:49:14] Hesperides has logged out.
+[31/08/2009 18:49:15] Hesperides has logged in.
+[31/08/2009 18:49:18] Account Manager has logged out.
+[31/08/2009 18:49:26] Gran kratos has logged in.
+[31/08/2009 18:49:29] Account Manager has logged in.
+[31/08/2009 18:49:40] Account Manager has logged out.
+[31/08/2009 18:49:42] Knight Poderoso has logged out.
+[31/08/2009 18:49:43] Knight Poderoso has logged in.
+[31/08/2009 18:49:46] The Druid has logged in.
+[31/08/2009 18:49:47] Nicko Mcbrain has logged out.
+[31/08/2009 18:49:49] > [Hoster] Dee broadcasted: "un closeserver y un openserver de una no se salgan si se abre en 5 seg".
+[31/08/2009 18:49:52] The Druid has logged out.
+[31/08/2009 18:49:52] The Sor has logged in.
+[31/08/2009 18:49:54] Master jno has logged out.
+[31/08/2009 18:49:54] Diiegooxkina has logged out.
+[31/08/2009 18:49:55] Diean has logged out.
+[31/08/2009 18:49:55] Hpes has logged out.
+[31/08/2009 18:49:55] Lolo kitad has logged out.
+[31/08/2009 18:49:56] Yerko has logged out.
+[31/08/2009 18:49:56] Dethknell has logged out.
+[31/08/2009 18:49:56] Matox has logged out.
+[31/08/2009 18:49:56] Soberbia has logged out.
+[31/08/2009 18:49:57] Chicha has logged out.
+[31/08/2009 18:49:57] Okunaks has logged out.
+[31/08/2009 18:49:57] Hankook has logged out.
+[31/08/2009 18:49:58] Pipe has logged out.
+[31/08/2009 18:49:58] Raic Dalos has logged out.
+[31/08/2009 18:49:59] Ozzmosy has logged out.
+[31/08/2009 18:49:59] Gozz Recond has logged out.
+[31/08/2009 18:49:59] Chupala has logged out.
+[31/08/2009 18:50:00] Midnight has logged out.
+[31/08/2009 18:50:00] The mastrox has logged out.
+[31/08/2009 18:50:00] Swolls Stikre has logged out.
+[31/08/2009 18:50:01] Sikario has logged out.
+[31/08/2009 18:50:01] Darkness has logged out.
+[31/08/2009 18:50:01] Chika has logged out.
+[31/08/2009 18:50:02] Master Sorcerer has logged out.
+[31/08/2009 18:50:02] Maik walk has logged out.
+[31/08/2009 18:50:02] Xoro Naco has logged out.
+[31/08/2009 18:50:02] Vergazaurio has logged out.
+[31/08/2009 18:50:03] Marmotita has logged out.
+[31/08/2009 18:50:03] Austin has logged out.
+[31/08/2009 18:50:03] Darkoo has logged out.
+[31/08/2009 18:50:04] The Drako has logged out.
+[31/08/2009 18:50:04] Hesperides has logged out.
+[31/08/2009 18:50:04] Gran kratos has logged out.
+[31/08/2009 18:50:05] Knight Poderoso has logged out.
+[31/08/2009 18:50:05] The Sor has logged out.
+[31/08/2009 18:50:05] > Saving server...
+[31/08/2009 18:50:08] > SAVE: Complete in 2.141 seconds using relational house storage.
+[31/08/2009 18:50:08] 
+[31/08/2009 18:50:08] Lua Script Error: [Spell Interface] 
+[31/08/2009 18:50:08] in a timer event called from: 
+[31/08/2009 18:50:08] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[31/08/2009 18:50:08] 
+[31/08/2009 18:50:08] luaDoCombat(). Creature not found
+[31/08/2009 18:50:08] 
+[31/08/2009 18:50:08] Lua Script Error: [Spell Interface] 
+[31/08/2009 18:50:08] in a timer event called from: 
+[31/08/2009 18:50:08] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[31/08/2009 18:50:08] 
+[31/08/2009 18:50:08] luaDoCombat(). Creature not found
+[31/08/2009 18:50:08] 
+[31/08/2009 18:50:08] Lua Script Error: [Spell Interface] 
+[31/08/2009 18:50:08] in a timer event called from: 
+[31/08/2009 18:50:08] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[31/08/2009 18:50:08] 
+[31/08/2009 18:50:08] luaDoCombat(). Creature not found
+[31/08/2009 18:50:08] [Admin] Kogotero Lanza has logged out.
+[31/08/2009 18:50:11] Account Manager has logged in.
+[31/08/2009 18:50:13] Master Sorcerer has logged in.
+[31/08/2009 18:50:15] Soberbia has logged in.
+[31/08/2009 18:50:15] Swolls Stikre has logged in.
+[31/08/2009 18:50:15] Raic Dalos has logged in.
+[31/08/2009 18:50:15] The mastrox has logged in.
+[31/08/2009 18:50:16] Chupala has logged in.
+[31/08/2009 18:50:16] Account Manager has logged in.
+[31/08/2009 18:50:16] Okunaks has logged in.
+[31/08/2009 18:50:16] Yerko has logged in.
+[31/08/2009 18:50:18] Account Manager has logged out.
+[31/08/2009 18:50:19] [Admin] Senik One has logged in.
+[31/08/2009 18:50:19] Sikario has logged in.
+[31/08/2009 18:50:20] Hankook has logged in.
+[31/08/2009 18:50:20] Knight Poderoso has logged in.
+[31/08/2009 18:50:20] Hesperides has logged in.
+[31/08/2009 18:50:20] Lolo kitad has logged in.
+[31/08/2009 18:50:21] Maik walk has logged in.
+[31/08/2009 18:50:21] Ozzmosy has logged in.
+[31/08/2009 18:50:22] [Admin] Senik One has logged out.
+[31/08/2009 18:50:24] The Drako has logged in.
+[31/08/2009 18:50:24] Matox has logged in.
+[31/08/2009 18:50:24] > CLEAN: Removed 297 items from 429 tiles in 0.094 seconds.
+[31/08/2009 18:50:28] Midnight has logged in.
+[31/08/2009 18:50:28] Account Manager has logged out.
+[31/08/2009 18:50:30] [Admin] Senik One has logged in.
+[31/08/2009 18:50:30] Xoro Naco has logged in.
+[31/08/2009 18:50:31] Gran kratos has logged in.
+[31/08/2009 18:50:31] Chicha has logged in.
+[31/08/2009 18:50:31] Vergazaurio has logged in.
+[31/08/2009 18:50:31] Chika has logged in.
+[31/08/2009 18:50:32] Darkoo has logged in.
+[31/08/2009 18:50:32] Chicha has logged out.
+[31/08/2009 18:50:35] Darkoo has logged out.
+[31/08/2009 18:50:36] Swolls Stikre has logged out.
+[31/08/2009 18:50:40] Tegua has logged in.
+[31/08/2009 18:50:42] Vergazaurio has logged out.
+[31/08/2009 18:50:44] Chicha has logged in.
+[31/08/2009 18:50:45] Chicha has logged out.
+[31/08/2009 18:50:47] Darkoo has logged in.
+[31/08/2009 18:50:48] Swolls Stikre has logged in.
+[31/08/2009 18:50:49] Master Sorcerer has logged out.
+[31/08/2009 18:50:50] Dethknell has logged in.
+[31/08/2009 18:50:51] Tegua has logged out.
+[31/08/2009 18:50:52] [Admin] Kogotero Lanza has logged in.
+[31/08/2009 18:50:53] Maik walk has logged out.
+[31/08/2009 18:50:54] Vergazaurio has logged in.
+[31/08/2009 18:50:55] Master Sorcerer has logged in.
+[31/08/2009 18:50:57] Xtempo has logged in.
+[31/08/2009 18:50:59] Maik walk has logged in.
+[31/08/2009 18:51:00] The Drako has logged out.
+[31/08/2009 18:51:01] Dethknell has logged out.
+[31/08/2009 18:51:02] Chicha has logged in.
+[31/08/2009 18:51:03] Lolo kitad has logged out.
+[31/08/2009 18:51:03] Master jno has logged in.
+[31/08/2009 18:51:06] The Sor has logged in.
+[31/08/2009 18:51:07] Hankook has logged out.
+[31/08/2009 18:51:07] 
+[31/08/2009 18:51:07] Lua Script Error: [Spell Interface] 
+[31/08/2009 18:51:07] in a timer event called from: 
+[31/08/2009 18:51:07] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[31/08/2009 18:51:08] 
+[31/08/2009 18:51:08] luaDoCombat(). Creature not found
+[31/08/2009 18:51:08] 
+[31/08/2009 18:51:08] Lua Script Error: [Spell Interface] 
+[31/08/2009 18:51:08] in a timer event called from: 
+[31/08/2009 18:51:08] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[31/08/2009 18:51:08] 
+[31/08/2009 18:51:08] luaDoCombat(). Creature not found
+[31/08/2009 18:51:08] 
+[31/08/2009 18:51:08] Lua Script Error: [Spell Interface] 
+[31/08/2009 18:51:08] in a timer event called from: 
+[31/08/2009 18:51:08] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[31/08/2009 18:51:08] 
+[31/08/2009 18:51:08] luaDoCombat(). Creature not found
+[31/08/2009 18:51:11] Xtempo has logged out.
+[31/08/2009 18:51:13] Diiegooxkina has logged in.
+[31/08/2009 18:51:13] Gozz Recond has logged in.
+[31/08/2009 18:51:14] Hankook has logged in.
+[31/08/2009 18:51:15] [Admin] Senik One has logged out.
+[31/08/2009 18:51:16] Austin has logged in.
+[31/08/2009 18:51:17] Tegua has logged in.
+[31/08/2009 18:51:18] [Hoster] Dee has logged out.
+[31/08/2009 18:51:20] Lolo kitad has logged in.
+[31/08/2009 18:51:20] [Admin] Kogotero Lanza has logged out.
+[31/08/2009 18:51:20] Dethknell has logged in.
+[31/08/2009 18:51:20] The Drako has logged in.
+[31/08/2009 18:51:23] [Admin] Senik One has logged in.
+[31/08/2009 18:51:28] Maik walk has logged out.
+[31/08/2009 18:51:29] Barrendero has logged in.
+[31/08/2009 18:51:36] Lolo kitad has logged out.
+[31/08/2009 18:51:38] Maik walk has logged in.
+[31/08/2009 18:51:40] Darkoo has logged out.
+[31/08/2009 18:51:43] Master Sorcerer has logged out.
+[31/08/2009 18:51:46] Lolo kitad has logged in.
+[31/08/2009 18:51:49] Darkoo has logged in.
+[31/08/2009 18:51:50] Master Sorcerer has logged in.
+[31/08/2009 18:51:54] Hesperides has logged out.
+[31/08/2009 18:51:55] Hesperides has logged in.
+[31/08/2009 18:51:56] Ozzmosy has logged out.
+[31/08/2009 18:51:57] Swolls Stikre has logged out.
+[31/08/2009 18:51:58] Ozzmosy has logged in.
+[31/08/2009 18:51:58] Afromatico has logged in.
+[31/08/2009 18:51:58] [Admin] Senik One has logged out.
+[31/08/2009 18:51:59] Swolls Stikre has logged in.
+[31/08/2009 18:51:59] Marmotita has logged in.
+[31/08/2009 18:52:08] Xoro Naco has logged out.
+[31/08/2009 18:52:10] Chika has logged out.
+[31/08/2009 18:52:11] Account Manager has logged in.
+[31/08/2009 18:52:14] Chika has logged in.
+[31/08/2009 18:52:23] The Drako has logged out.
+[31/08/2009 18:52:31] The Drako has logged in.
+[31/08/2009 18:52:33] Hesperides has logged out.
+[31/08/2009 18:52:35] Hesperides has logged in.
+[31/08/2009 18:52:39] Account Manager has logged out.
+[31/08/2009 18:52:46] The Drako has logged out.
+[31/08/2009 18:52:50] Darkoo has logged out.
+[31/08/2009 18:52:51] Choro Mota has logged in.
+[31/08/2009 18:52:53] Darkoo has logged in.
+[31/08/2009 18:53:02] The Drako has logged in.
+[31/08/2009 18:53:19] Hesperides has logged out.
+[31/08/2009 18:53:20] Hesperides has logged in.
+[31/08/2009 18:53:21] Master Sorcerer has logged out.
+[31/08/2009 18:53:23] Master Sorcerer has logged in.
+[31/08/2009 18:53:26] Walker Style Pro has logged in.
+[31/08/2009 18:53:29] Hpes has logged in.
+[31/08/2009 18:53:31] Darkoo has logged out.
+[31/08/2009 18:53:33] Hankook has logged out.
+[31/08/2009 18:53:33] Darkoo has logged in.
+[31/08/2009 18:53:35] Hankook has logged in.
+[31/08/2009 18:53:41] Marmotita has logged out.
+[31/08/2009 18:53:42] Hpes has logged out.
+[31/08/2009 18:53:43] Maik walk has logged out.
+[31/08/2009 18:53:47] Marmotita has logged in.
+[31/08/2009 18:53:50] Maik walk has logged in.
+[31/08/2009 18:53:50] Darkoo has logged out.
+[31/08/2009 18:53:53] Darkoo has logged in.
+[31/08/2009 18:53:54] Hesperides has logged out.
+[31/08/2009 18:53:56] Hesperides has logged in.
+[31/08/2009 18:54:13] Swolls Stikre has logged out.
+[31/08/2009 18:54:15] Account Manager has logged in.
+[31/08/2009 18:54:15] Swolls Stikre has logged in.
+[31/08/2009 18:54:17] Master Sorcerer has logged out.
+[31/08/2009 18:54:18] Swolls Stikre has logged out.
+[31/08/2009 18:54:20] Master Sorcerer has logged in.
+[31/08/2009 18:54:25] Hankook has logged out.
+[31/08/2009 18:54:25] Account Manager has logged out.
+[31/08/2009 18:54:27] Hankook has logged in.
+[31/08/2009 18:54:36] Account Manager has logged in.
+[31/08/2009 18:54:38] Master Sorcerer has logged out.
+[31/08/2009 18:54:42] Master Sorcerer has logged in.
+[31/08/2009 18:54:43] Hankook has logged out.
+[31/08/2009 18:54:45] Hankook has logged in.
+[31/08/2009 18:54:46] [Hoster] Dee has logged in.
+[31/08/2009 18:54:47] Walker Style Pro has logged out.
+[31/08/2009 18:54:52] [Hoster] Dee has logged out.
+[31/08/2009 18:54:54] Walker Style Pro has logged in.
+[31/08/2009 18:54:57] Darkoo has logged out.
+[31/08/2009 18:54:58] Barrendero has logged out.
+[31/08/2009 18:55:00] [Admin] Kogotero Lanza has logged in.
+[31/08/2009 18:55:06] Master jno has logged out.
+[31/08/2009 18:55:08] Master jno has logged in.
+[31/08/2009 18:55:12] Marmotita has logged out.
+[31/08/2009 18:55:17] Marmotita has logged in.
+[31/08/2009 18:55:18] Account Manager has logged out.
+[31/08/2009 18:55:33] Chika has logged out.
+[31/08/2009 18:55:33] Flow factory has logged in.
+[31/08/2009 18:55:35] Chika has logged in.
+[31/08/2009 18:55:45] Marmotita has logged out.
+[31/08/2009 18:55:49] Choro Mota has logged out.
+[31/08/2009 18:55:50] Marmotita has logged in.
+[31/08/2009 18:55:51] Xoro Naco has logged in.
+[31/08/2009 18:55:52] Account Manager has logged in.
+[31/08/2009 18:56:15] Account Manager has logged in.
+[31/08/2009 18:56:19] Xoro Naco has logged out.
+[31/08/2009 18:56:20] > Saving server...
+[31/08/2009 18:56:29] > SAVE: Complete in 8.421 seconds using relational house storage.
+[31/08/2009 18:56:29] Account Manager has logged out.
+[31/08/2009 18:56:31] Xoro Naco has logged in.
+[31/08/2009 18:56:32] Account Manager has logged in.
+[31/08/2009 18:56:33] Xoro Naco has logged out.
+[31/08/2009 18:56:34] Hankook has logged out.
+[31/08/2009 18:56:35] Choro Mota has logged in.
+[31/08/2009 18:56:37] Hankook has logged in.
+[31/08/2009 18:56:38] Vergazaurio has logged out.
+[31/08/2009 18:56:40] Vergazaurio has logged in.
+[31/08/2009 18:56:40] [Admin] Kogotero Lanza has logged out.
+[31/08/2009 18:56:42] Account Manager has logged in.
+[31/08/2009 18:56:47] Gozz Recond has logged out.
+[31/08/2009 18:56:48] Account Manager has logged out.
+[31/08/2009 18:56:52] Gozz Recond has logged in.
+[31/08/2009 18:56:56] Account Manager has logged out.
+[31/08/2009 18:56:57] Account Manager has logged in.
+[31/08/2009 18:57:00] Shebby has logged in.
+[31/08/2009 18:57:03] Master Sorcerer has logged out.
+[31/08/2009 18:57:04] Account Manager has logged in.
+[31/08/2009 18:57:06] Walker Style Pro has logged out.
+[31/08/2009 18:57:06] Master Sorcerer has logged in.
+[31/08/2009 18:57:08] Ozzmosy has logged out.
+[31/08/2009 18:57:09] Walker Style Pro has logged in.
+[31/08/2009 18:57:11] Ozzmosy has logged in.
+[31/08/2009 18:57:11] [Hoster] Dee has logged in.
+[31/08/2009 18:57:17] Hankook has logged out.
+[31/08/2009 18:57:20] Hankook has logged in.
+[31/08/2009 18:57:21] Account Manager has logged out.
+[31/08/2009 18:57:27] [Admin] Kogotero Lanza has logged in.
+[31/08/2009 18:57:33] Account Manager has logged out.
+[31/08/2009 18:57:37] > [Hoster] Dee broadcasted: "cabrso puse mas magias para verlas agan !spells".
+[31/08/2009 18:57:48] Master Sorcerer has logged out.
+[31/08/2009 18:57:50] Master Sorcerer has logged in.
+[31/08/2009 18:57:53] Tegua has logged out.
+[31/08/2009 18:57:56] Tegua has logged in.
+[31/08/2009 18:58:03] 
+[31/08/2009 18:58:03] Lua Script Error: [TalkAction Interface] 
+[31/08/2009 18:58:03] data/talkactions/scripts/teleporthere.lua:onSay
+[31/08/2009 18:58:03] 
+[31/08/2009 18:58:03] luaGetClosestFreeTile(). Creature not found
+[31/08/2009 18:58:08] [Admin] Kogotero Lanza has logged out.
+[31/08/2009 18:58:14] Account Manager has logged in.
+[31/08/2009 18:58:16] Account Manager has logged out.
+[31/08/2009 18:58:17] Pikao Shoro has logged in.
+[31/08/2009 18:58:23] Account Manager has logged in.
+[31/08/2009 18:58:23] Master Sorcerer has logged out.
+[31/08/2009 18:58:24] El Volao has logged in.
+[31/08/2009 18:58:25] Master Sorcerer has logged in.
+[31/08/2009 18:58:26] Account Manager has logged out.
+[31/08/2009 18:59:05] Master Sorcerer has logged out.
+[31/08/2009 18:59:06] Master Sorcerer has logged in.
+[31/08/2009 18:59:13] The mastrox has logged out.
+[31/08/2009 18:59:16] The mastrox has logged in.
+[31/08/2009 18:59:18] Account Manager has logged out.
+[31/08/2009 18:59:19] Chika has logged out.
+[31/08/2009 18:59:22] Chika has logged in.
+[31/08/2009 18:59:29] The mastrox has logged out.
+[31/08/2009 18:59:30] The mastrox has logged in.
+[31/08/2009 18:59:36] Account Manager has logged in.
+[31/08/2009 18:59:49] Flow factory has logged out.
+[31/08/2009 18:59:51] Flow factory has logged in.
+[31/08/2009 18:59:59] Gozz Recond has logged out.
+[31/08/2009 19:00:01] Account Manager has logged in.
+[31/08/2009 19:00:04] Account Manager has logged out.
+[31/08/2009 19:00:05] Gozz Recond has logged in.
+[31/08/2009 19:00:07] Gozz Recond has logged out.
+[31/08/2009 19:00:08] Gozz Recond has logged in.
+[31/08/2009 19:00:17] Marmotita has logged out.
+[31/08/2009 19:00:19] Shebby has logged out.
+[31/08/2009 19:00:20] Shebby has logged in.
+[31/08/2009 19:00:20] Chicha has logged out.
+[31/08/2009 19:00:21] Marmotita has logged in.
+[31/08/2009 19:00:22] Chicha has logged in.
+[31/08/2009 19:00:22] Master Sorcerer has logged out.
+[31/08/2009 19:00:24] Master Sorcerer has logged in.
+[31/08/2009 19:00:27] Raic Dalos has logged out.
+[31/08/2009 19:00:29] Raic Dalos has logged in.
+[31/08/2009 19:00:38] Marmotita has logged out.
+[31/08/2009 19:00:41] Master Pally has logged in.
+[31/08/2009 19:00:41] Marmotita has logged in.
+[31/08/2009 19:00:46] Account Manager has logged out.
+[31/08/2009 19:01:00] Ricardo has logged in.
+[31/08/2009 19:01:25] > CLEAN: Removed 1188 items from 1769 tiles in 0.109 seconds.
+[31/08/2009 19:01:35] > [Hoster] Dee broadcasted: "39 players online".
+[31/08/2009 19:01:39] Hesperides has logged out.
+[31/08/2009 19:01:40] Hesperides has logged in.
+[31/08/2009 19:01:42] Chika has logged out.
+[31/08/2009 19:01:43] Chika has logged in.
+[31/08/2009 19:01:44] Walker Style Pro has logged out.
+[31/08/2009 19:01:45] Walker Style Pro has logged in.
+[31/08/2009 19:01:47] Raic Dalos has logged out.
+[31/08/2009 19:01:49] Raic Dalos has logged in.
+[31/08/2009 19:01:53] Diiegooxkina has logged out.
+[31/08/2009 19:01:57] Diiegooxkina has logged in.
+[31/08/2009 19:02:03] Master Sorcerer has logged out.
+[31/08/2009 19:02:06] Master Sorcerer has logged in.
+[31/08/2009 19:02:16] > [Hoster] Dee broadcasted: "para np'c vallan al super mercado esta el teleport en el templo".
+[31/08/2009 19:02:17] Raic Dalos has logged out.
+[31/08/2009 19:02:20] Raic Dalos has logged in.
+[31/08/2009 19:02:27] Marmotita has logged out.
+[31/08/2009 19:02:34] Marmotita has logged in.
+[31/08/2009 19:02:35] Gran kratos has logged out.
+[31/08/2009 19:02:39] Raic Dalos has logged out.
+[31/08/2009 19:02:41] Raic Dalos has logged in.
+[31/08/2009 19:02:42] Master Sorcerer has logged out.
+[31/08/2009 19:02:45] Master Sorcerer has logged in.
+[31/08/2009 19:02:52] > CLEAN: Removed 155 items from 301 tiles in 0.078 seconds.
+[31/08/2009 19:02:55] Account Manager has logged in.
+[31/08/2009 19:02:57] Austin has logged out.
+[31/08/2009 19:02:58] > [Hoster] Dee broadcasted: "cc en el templo!!!".
+[31/08/2009 19:03:01] Hesperides has logged out.
+[31/08/2009 19:03:03] Austin has logged in.
+[31/08/2009 19:03:04] Hesperides has logged in.
+[31/08/2009 19:03:16] Account Manager has logged out.
+[31/08/2009 19:03:20] Account Manager has logged in.
+[31/08/2009 19:03:22] > Broadcasted message: "New record: 40 players are logged in.".
+[31/08/2009 19:03:22] Account Manager has logged in.
+[31/08/2009 19:03:27] Raic Dalos has logged out.
+[31/08/2009 19:03:30] Raic Dalos has logged in.
+[31/08/2009 19:03:32] Walker Style Pro has logged out.
+[31/08/2009 19:03:34] Walker Style Pro has logged in.
+[31/08/2009 19:03:43] Account Manager has logged out.
+[31/08/2009 19:03:53] Stick has logged in.
+[31/08/2009 19:03:56] Marmotita has logged out.
+[31/08/2009 19:03:59] Marmotita has logged in.
+[31/08/2009 19:04:07] Account Manager has logged out.
+[31/08/2009 19:04:10] Flow factory has logged out.
+[31/08/2009 19:04:11] Flow factory has logged in.
+[31/08/2009 19:04:24] Master Sorcerer has logged out.
+[31/08/2009 19:04:26] Pikao Shoro has logged out.
+[31/08/2009 19:04:27] Master Sorcerer has logged in.
+[31/08/2009 19:04:28] Barrendero has logged in.
+[31/08/2009 19:04:31] Account Manager has logged in.
+[31/08/2009 19:04:39] Barrendero has logged out.
+[31/08/2009 19:04:41] [Admin] Kogotero Lanza has logged in.
+[31/08/2009 19:04:50] Maik walk has logged out.
+[31/08/2009 19:04:53] Maik walk has logged in.
+[31/08/2009 19:05:03] Account Manager has logged out.
+[31/08/2009 19:05:07] [Admin] Kogotero Lanza has logged out.
+[31/08/2009 19:05:09] Pikao Shoro has logged in.
+[31/08/2009 19:05:11] Beltran has logged in.
+[31/08/2009 19:05:27] Chicha has logged out.
+[31/08/2009 19:05:28] Chicha has logged in.
+[31/08/2009 19:05:30] 
+[31/08/2009 19:05:30] Lua Script Error: [Action Interface] 
+[31/08/2009 19:05:30] data/actions/scripts/rwitems.lua:onUse
+[31/08/2009 19:05:30] 
+[31/08/2009 19:05:30] data/actions/scripts/rwitems.lua:7: attempt to call global 'doShowTextWindow' (a nil value)
+[31/08/2009 19:05:30] stack traceback:
+[31/08/2009 19:05:30] 	data/actions/scripts/rwitems.lua:7: in function <data/actions/scripts/rwitems.lua:3>
+[31/08/2009 19:05:33] > Broadcasted message: "New record: 41 players are logged in.".
+[31/08/2009 19:05:33] Account Manager has logged in.
+[31/08/2009 19:05:41] Austin has logged out.
+[31/08/2009 19:05:44] [Error - HouseTile::__queryDestination] Tile at house entry position for house: Forgotten headquarter (Flat 1, Area 42) (46) does not exist.
+[31/08/2009 19:05:44] Austin has logged in.
+[31/08/2009 19:05:47] Account Manager has logged out.
+[31/08/2009 19:05:50] Marmotita has logged out.
+[31/08/2009 19:05:52] Marmotita has logged in.
+[31/08/2009 19:06:00] Account Manager has logged in.
+[31/08/2009 19:06:15] Account Manager has logged out.
+[31/08/2009 19:06:22] Account Manager has logged in.
+[31/08/2009 19:06:26] Sikario has logged out.
+[31/08/2009 19:06:28] 
+[31/08/2009 19:06:28] Lua Script Error: [Action Interface] 
+[31/08/2009 19:06:28] data/actions/scripts/rwitems.lua:onUse
+[31/08/2009 19:06:29] 
+[31/08/2009 19:06:29] data/actions/scripts/rwitems.lua:7: attempt to call global 'doShowTextWindow' (a nil value)
+[31/08/2009 19:06:29] stack traceback:
+[31/08/2009 19:06:29] 	data/actions/scripts/rwitems.lua:7: in function <data/actions/scripts/rwitems.lua:3>
+[31/08/2009 19:06:30] The Drako has logged out.
+[31/08/2009 19:06:30] Sikario has logged in.
+[31/08/2009 19:06:45] Diiegooxkina has logged out.
+[31/08/2009 19:06:46] [Error - HouseTile::__queryDestination] Tile at house entry position for house: Forgotten headquarter (Flat 1, Area 42) (46) does not exist.
+[31/08/2009 19:06:46] Diiegooxkina has logged in.
+[31/08/2009 19:06:50] Vergazaurio has logged out.
+[31/08/2009 19:06:52] Account Manager has logged out.
+[31/08/2009 19:06:52] Vergazaurio has logged in.
+[31/08/2009 19:07:01] Raxx has logged in.
+[31/08/2009 19:07:46] Marmotita has logged out.
+[31/08/2009 19:07:48] Marmotita has logged in.
+[31/08/2009 19:07:52] Account Manager has logged in.
+[31/08/2009 19:08:00] Sikario has logged out.
+[31/08/2009 19:08:02] Sikario has logged in.
+[31/08/2009 19:08:07] Diiegooxkina has logged out.
+[31/08/2009 19:08:10] Diiegooxkina has logged in.
+[31/08/2009 19:08:13] > Broadcasted message: "New record: 42 players are logged in.".
+[31/08/2009 19:08:13] Pexalita has logged in.
+[31/08/2009 19:08:14] Pexalita has logged out.
+[31/08/2009 19:08:16] Sikario has logged out.
+[31/08/2009 19:08:17] Sikario has logged in.
+[31/08/2009 19:08:20] The mastrox has logged out.
+[31/08/2009 19:08:24] Account Manager has logged in.
+[31/08/2009 19:08:25] Account Manager has logged out.
+[31/08/2009 19:08:26] Account Manager has logged out.
+[31/08/2009 19:08:27] The mastrox has logged in.
+[31/08/2009 19:08:33] Account Manager has logged in.
+[31/08/2009 19:08:44] The mastrox has logged out.
+[31/08/2009 19:08:46] The mastrox has logged in.
+[31/08/2009 19:08:49] Marmotita has logged out.
+[31/08/2009 19:08:50] Marmotita has logged in.
+[31/08/2009 19:08:52] Diiegooxkina has logged out.
+[31/08/2009 19:08:54] Account Manager has logged out.
+[31/08/2009 19:08:55] Diiegooxkina has logged in.
+[31/08/2009 19:08:55] Loquilloo has logged in.
+[31/08/2009 19:09:00] Nikolays has logged in.
+[31/08/2009 19:09:01] Sikario has logged out.
+[31/08/2009 19:09:02] The mastrox has logged out.
+[31/08/2009 19:09:03] The mastrox has logged in.
+[31/08/2009 19:09:04] Ozzmosy has logged out.
+[31/08/2009 19:09:05] 
+[31/08/2009 19:09:05] Lua Script Error: [Spell Interface] 
+[31/08/2009 19:09:05] in a timer event called from: 
+[31/08/2009 19:09:05] data/spells/scripts/attack/razgosfury.lua:onCastSpell
+[31/08/2009 19:09:05] 
+[31/08/2009 19:09:05] luaDoCombat(). Creature not found
+[31/08/2009 19:09:06] Sikario has logged in.
+[31/08/2009 19:09:07] Ozzmosy has logged in.
+[31/08/2009 19:09:10] Austin has logged out.
+[31/08/2009 19:09:13] Austin has logged in.
+[31/08/2009 19:09:15] The mastrox has logged out.
+[31/08/2009 19:09:17] The mastrox has logged in.
+[31/08/2009 19:09:18] > [Hoster] Dee broadcasted: "clean en".
+[31/08/2009 19:09:20] > [Hoster] Dee broadcasted: "5".
+[31/08/2009 19:09:21] > [Hoster] Dee broadcasted: "4".
+[31/08/2009 19:09:22] > [Hoster] Dee broadcasted: "3".
+[31/08/2009 19:09:22] > Broadcasted message: "New record: 43 players are logged in.".
+[31/08/2009 19:09:23] Darkness has logged in.
+[31/08/2009 19:09:23] > [Hoster] Dee broadcasted: "2".
+[31/08/2009 19:09:24] > [Hoster] Dee broadcasted: "1".
+[31/08/2009 19:09:27] Darkness has logged out.
+[31/08/2009 19:09:29] Darkness has logged in.
+[31/08/2009 19:09:29] > CLEAN: Removed 781 items from 1279 tiles in 0.25 seconds.
+[31/08/2009 19:09:36] Pikao Shoro has logged out.
+[31/08/2009 19:09:37] The mastrox has logged out.
+[31/08/2009 19:09:37] 
+[31/08/2009 19:09:37] Lua Script Error: [Spell Interface] 
+[31/08/2009 19:09:37] in a timer event called from: 
+[31/08/2009 19:09:37] data/spells/scripts/attack/razgosfury.lua:onCastSpell
+[31/08/2009 19:09:37] 
+[31/08/2009 19:09:37] luaDoCombat(). Creature not found
+[31/08/2009 19:09:37] 
+[31/08/2009 19:09:37] Lua Script Error: [Spell Interface] 
+[31/08/2009 19:09:38] in a timer event called from: 
+[31/08/2009 19:09:38] data/spells/scripts/attack/razgosfury.lua:onCastSpell
+[31/08/2009 19:09:38] 
+[31/08/2009 19:09:38] luaDoCombat(). Creature not found
+[31/08/2009 19:09:38] 
+[31/08/2009 19:09:38] Lua Script Error: [Spell Interface] 
+[31/08/2009 19:09:38] in a timer event called from: 
+[31/08/2009 19:09:38] data/spells/scripts/attack/razgosfury.lua:onCastSpell
+[31/08/2009 19:09:38] 
+[31/08/2009 19:09:38] luaDoCombat(). Creature not found
+[31/08/2009 19:09:39] [Admin] Kogotero Lanza has logged in.
+[31/08/2009 19:09:40] The mastrox has logged in.
+[31/08/2009 19:09:45] Marmotita has logged out.
+[31/08/2009 19:09:46] Marmotita has logged in.
+[31/08/2009 19:09:53] [Admin] Kogotero Lanza has logged out.
+[31/08/2009 19:09:54] Ozzmosy has logged out.
+[31/08/2009 19:09:55] Pikao Shoro has logged in.
+[31/08/2009 19:09:56] Ozzmosy has logged in.
+[31/08/2009 19:10:08] > [Hoster] Dee broadcasted: "voy a tirar 10 razgos manarune en el templo".
+[31/08/2009 19:10:18] Ozzmosy has logged out.
+[31/08/2009 19:10:20] Ozzmosy has logged in.
+[31/08/2009 19:10:26] Darkness has logged out.
+[31/08/2009 19:10:30] Darkness has logged in.
+[31/08/2009 19:10:52] Ozzmosy has logged out.
+[31/08/2009 19:10:52] 
+[31/08/2009 19:10:52] Lua Script Error: [Spell Interface] 
+[31/08/2009 19:10:53] in a timer event called from: 
+[31/08/2009 19:10:53] data/spells/scripts/attack/razgosfury.lua:onCastSpell
+[31/08/2009 19:10:53] 
+[31/08/2009 19:10:53] luaDoCombat(). Creature not found
+[31/08/2009 19:10:55] Ozzmosy has logged in.
+[31/08/2009 19:11:05] Ozzmosy has logged out.
+[31/08/2009 19:11:07] Ozzmosy has logged in.
+[31/08/2009 19:11:21] > Saving server...
+[31/08/2009 19:11:32] > SAVE: Complete in 10.656 seconds using relational house storage.
+[31/08/2009 19:11:45] Pikao Shoro has logged out.
+[31/08/2009 19:11:46] Master Nickk has logged in.
+[31/08/2009 19:11:47] > Broadcasted message: "New record: 44 players are logged in.".
+[31/08/2009 19:11:47] Pikao Shoro has logged in.
+[31/08/2009 19:12:03] Ozzmosy has logged out.
+[31/08/2009 19:12:04] Ozzmosy has logged in.
+[31/08/2009 19:12:13] > [Hoster] Dee broadcasted: "cabros voy a tomarme la once".
+[31/08/2009 19:12:28] Chupala has logged out.
+[31/08/2009 19:12:32] Chupala has logged in.
+[31/08/2009 19:12:34] > Broadcasted message: "New record: 45 players are logged in.".
+[31/08/2009 19:12:34] Account Manager has logged in.
+[31/08/2009 19:12:35] Account Manager has logged out.
+[31/08/2009 19:12:41] Marmotita has logged out.
+[31/08/2009 19:12:41] Nikolays has logged out.
+[31/08/2009 19:12:43] Nico has logged in.
+[31/08/2009 19:12:44] Nikolays has logged in.
+[31/08/2009 19:12:47] Marmotita has logged in.
+[31/08/2009 19:13:00] > [Hoster] Dee broadcasted: "xD".
+[31/08/2009 19:13:10] Lolo kitad has logged out.
+[31/08/2009 19:13:15] [Hoster] Dee has logged out.
+[31/08/2009 19:13:16] Lolo kitad has logged in.
+[31/08/2009 19:13:33] Account Manager has logged in.
+[31/08/2009 19:13:35] > Broadcasted message: "New record: 46 players are logged in.".
+[31/08/2009 19:13:35] Account Manager has logged in.
+[31/08/2009 19:13:47] Pikao Shoro has logged out.
+[31/08/2009 19:13:49] [Admin] Kogotero Lanza has logged in.
+[31/08/2009 19:13:52] Tegua has logged out.
+[31/08/2009 19:13:55] Tegua has logged in.
+[31/08/2009 19:13:55] Account Manager has logged out.
+[31/08/2009 19:13:59] Account Manager has logged out.
+[31/08/2009 19:14:01] Account Manager has logged in.
+[31/08/2009 19:14:01] [Admin] Kogotero Lanza has logged out.
+[31/08/2009 19:14:03] Pikao Shoro has logged in.
+[31/08/2009 19:14:08] Nico has logged out.
+[31/08/2009 19:14:09] Hesperides has logged out.
+[31/08/2009 19:14:10] Account Manager has logged in.
+[31/08/2009 19:14:10] Sikario has logged out.
+[31/08/2009 19:14:11] Hesperides has logged in.
+[31/08/2009 19:14:12] Nico has logged in.
+[31/08/2009 19:14:12] Sikario has logged in.
+[31/08/2009 19:14:27] Ozzmosy has logged out.
+[31/08/2009 19:14:29] Ozzmosy has logged in.
+[31/08/2009 19:14:32] Account Manager has logged out.
+[31/08/2009 19:14:36] Sikario has logged out.
+[31/08/2009 19:14:38] Sikario has logged in.
+[31/08/2009 19:14:39] Alex has logged in.
+[31/08/2009 19:14:43] Master Sorcerer has logged out.
+[31/08/2009 19:14:46] Master Sorcerer has logged in.
+[31/08/2009 19:14:50] Account Manager has logged out.
+[31/08/2009 19:14:56] Knight Poderoso has logged out.
+[31/08/2009 19:15:02] Daddy Yanke has logged in.
+[31/08/2009 19:15:05] Master Sorcerer has logged out.
+[31/08/2009 19:15:06] Master Sorcerer has logged in.
+[31/08/2009 19:15:14] Marmotita has logged out.
+[31/08/2009 19:15:17] Marmotita has logged in.
+[31/08/2009 19:15:24] Walker Style Pro has logged out.
+[31/08/2009 19:15:29] Ozzmosy has logged out.
+[31/08/2009 19:15:30] [Hoster] Dee has logged in.
+[31/08/2009 19:15:31] The Sor has logged out.
+[31/08/2009 19:15:31] Ozzmosy has logged in.
+[31/08/2009 19:15:34] Account Manager has logged in.
+[31/08/2009 19:15:35] Afromatico has logged out.
+[31/08/2009 19:15:42] Afromatico has logged in.
+[31/08/2009 19:15:50] Alex has logged out.
+[31/08/2009 19:15:51] Nico has logged out.
+[31/08/2009 19:15:53] Alex has logged in.
+[31/08/2009 19:15:55] Nico has logged in.
+[31/08/2009 19:15:58] Ozzmosy has logged out.
+[31/08/2009 19:16:01] Ozzmosy has logged in.
+[31/08/2009 19:16:04] [Hoster] Dee has logged out.
+[31/08/2009 19:16:13] Hesperides has logged out.
+[31/08/2009 19:16:14] Account Manager has logged out.
+[31/08/2009 19:16:16] Account Manager has logged in.
+[31/08/2009 19:16:17] Dethknell has logged out.
+[31/08/2009 19:16:17] Hesperides has logged in.
+[31/08/2009 19:16:33] [Notice - ProtocolGame::parsePacket] Loquilloo has sent unknown byte: 0xc0!
+[31/08/2009 19:16:38] Account Manager has logged out.
+[31/08/2009 19:16:41] Nico has logged out.
+[31/08/2009 19:16:44] Account Manager has logged in.
+[31/08/2009 19:16:50] Nico has logged in.
+[31/08/2009 19:17:03] Master Sorcerer has logged out.
+[31/08/2009 19:17:37] Account Manager has logged out.
+[31/08/2009 19:17:42] Maik walk has logged out.
+[31/08/2009 19:17:46] Maik walk has logged in.
+[31/08/2009 19:17:54] Account Manager has logged in.
+[31/08/2009 19:17:56] [Hoster] Dee has logged in.
+[31/08/2009 19:18:04] Raic Dalos has logged out.
+[31/08/2009 19:18:06] Diiegooxkina has logged out.
+[31/08/2009 19:18:06] Raic Dalos has logged in.
+[31/08/2009 19:18:10] Shebby has logged out.
+[31/08/2009 19:18:10] Diiegooxkina has logged in.
+[31/08/2009 19:18:17] Shebby has logged in.
+[31/08/2009 19:18:19] Account Manager has logged out.
+[31/08/2009 19:18:21] Hesperides has logged out.
+[31/08/2009 19:18:23] Hesperides has logged in.
+[31/08/2009 19:18:28] Nikolays has logged out.
+[31/08/2009 19:18:50] Ozzmosy has logged out.
+[31/08/2009 19:18:53] Ozzmosy has logged in.
+[31/08/2009 19:18:57] Account Manager has logged in.
+[31/08/2009 19:19:10] Austin has logged out.
+[31/08/2009 19:19:12] Marmotita has logged out.
+[31/08/2009 19:19:13] [Admin] Senik One has logged in.
+[31/08/2009 19:19:14] Austin has logged in.
+[31/08/2009 19:19:27] Shebby has logged out.
+[31/08/2009 19:19:27] Account Manager has logged out.
+[31/08/2009 19:19:27] Tegua has logged out.
+[31/08/2009 19:19:31] Shebby has logged in.
+[31/08/2009 19:19:33] Tegua has logged in.
+[31/08/2009 19:19:35] Flow factory has logged out.
+[31/08/2009 19:19:36] Hesperides has logged out.
+[31/08/2009 19:19:37] Flow factory has logged in.
+[31/08/2009 19:19:37] Sir sndkf has logged in.
+[31/08/2009 19:19:38] Hesperides has logged in.
+[31/08/2009 19:19:44] Master Nickk has logged out.
+[31/08/2009 19:19:47] Master Nickk has logged in.
+[31/08/2009 19:19:55] Maik walk has logged out.
+[31/08/2009 19:19:57] Flow factory has logged out.
+[31/08/2009 19:19:57] Maik walk has logged in.
+[31/08/2009 19:19:59] Flow factory has logged in.
+[31/08/2009 19:20:02] Gozz Recond has logged out.
+[31/08/2009 19:20:08] Gozz Recond has logged in.
+[31/08/2009 19:20:16] Account Manager has logged in.
+[31/08/2009 19:20:28] Hesperides has logged out.
+[31/08/2009 19:20:36] 
+[31/08/2009 19:20:36] Lua Script Error: [TalkAction Interface] 
+[31/08/2009 19:20:36] data/talkactions/scripts/teleporthere.lua:onSay
+[31/08/2009 19:20:36] 
+[31/08/2009 19:20:36] luaGetClosestFreeTile(). Creature not found
+[31/08/2009 19:20:45] [Admin] Senik One has logged out.
+[31/08/2009 19:20:48] Marmotita has logged in.
+[31/08/2009 19:20:48] Hesperides has logged in.
+[31/08/2009 19:21:01] Account Manager has logged out.
+[31/08/2009 19:21:17] Tegua has logged out.
+[31/08/2009 19:21:24] Tegua has logged in.
+[31/08/2009 19:21:27] Account Manager has logged in.
+[31/08/2009 19:21:28] El Volao has logged out.
+[31/08/2009 19:21:30] Account Manager has logged in.
+[31/08/2009 19:21:31] El Volao has logged in.
+[31/08/2009 19:21:35] Shebby has logged out.
+[31/08/2009 19:21:36] Okunaks has logged out.
+[31/08/2009 19:21:37] Shebby has logged in.
+[31/08/2009 19:21:38] Ricardo has logged out.
+[31/08/2009 19:21:47] Account Manager has logged out.
+[31/08/2009 19:21:48] Okunaks has logged in.
+[31/08/2009 19:21:54] Dreeds has logged in.
+[31/08/2009 19:21:58] Shebby has logged out.
+[31/08/2009 19:22:02] Account Manager has logged out.
+[31/08/2009 19:22:03] Shebby has logged in.
+[31/08/2009 19:22:10] Matox has logged out.
+[31/08/2009 19:22:13] Matox has logged in.
+[31/08/2009 19:22:15] Account Manager has logged in.
+[31/08/2009 19:22:19] Hankook has logged out.
+[31/08/2009 19:22:22] Hankook has logged in.
+[31/08/2009 19:22:31] Master Pally has logged out.
+[31/08/2009 19:22:34] 
+[31/08/2009 19:22:34] Lua Script Error: [CreatureScript Interface] 
+[31/08/2009 19:22:34] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[31/08/2009 19:22:34] 
+[31/08/2009 19:22:34] luaGetCreatureName(). Creature not found
+[31/08/2009 19:22:34] 
+[31/08/2009 19:22:34] Lua Script Error: [CreatureScript Interface] 
+[31/08/2009 19:22:34] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[31/08/2009 19:22:34] 
+[31/08/2009 19:22:34] luaGetCreatureName(). Creature not found
+[31/08/2009 19:22:35] Pikao Shoro has logged out.
+[31/08/2009 19:22:35] Master Pally has logged in.
+[31/08/2009 19:22:40] Pikao Shoro has logged in.
+[31/08/2009 19:22:52] Account Manager has logged out.
+[31/08/2009 19:22:56] The mastrox has logged out.
+[31/08/2009 19:22:59] Pikao Shoro has logged out.
+[31/08/2009 19:22:59] Midnight has logged out.
+[31/08/2009 19:23:02] The mastrox has logged in.
+[31/08/2009 19:23:05] Joaco has logged in.
+[31/08/2009 19:23:06] Gozz Recond has logged out.
+[31/08/2009 19:23:11] Chika has logged out.
+[31/08/2009 19:23:13] Gozz Recond has logged in.
+[31/08/2009 19:23:14] Account Manager has logged in.
+[31/08/2009 19:23:18] Pikao Shoro has logged in.
+[31/08/2009 19:23:31] Account Manager has logged in.
+[31/08/2009 19:23:33] Ozzmosy has logged out.
+[31/08/2009 19:23:34] Master jno has logged out.
+[31/08/2009 19:23:37] Ozzmosy has logged in.
+[31/08/2009 19:23:46] Master Pally has logged out.
+[31/08/2009 19:23:49] Pikao Shoro has logged out.
+[31/08/2009 19:23:50] Master Pally has logged in.
+[31/08/2009 19:23:57] Maik walk has logged out.
+[31/08/2009 19:23:58] Chupala has logged out.
+[31/08/2009 19:23:58] Hankook has logged out.
+[31/08/2009 19:24:03] Hankook has logged in.
+[31/08/2009 19:24:03] Chupala has logged in.
+[31/08/2009 19:24:04] Ozzmosy has logged out.
+[31/08/2009 19:24:06] Maik walk has logged in.
+[31/08/2009 19:24:08] Account Manager has logged out.
+[31/08/2009 19:24:08] Account Manager has logged out.
+[31/08/2009 19:24:12] Master jno has logged in.
+[31/08/2009 19:24:12] Castyo has logged in.
+[31/08/2009 19:24:18] Stick has logged out.
+[31/08/2009 19:24:18] Ozzmosy has logged in.
+[31/08/2009 19:24:19] Chica has logged in.
+[31/08/2009 19:24:22] Alex has logged out.
+[31/08/2009 19:24:37] Account Manager has logged in.
+[31/08/2009 19:24:42] Shebby has logged out.
+[31/08/2009 19:24:57] Master Pally has logged out.
+[31/08/2009 19:24:58] Gozz Recond has logged out.
+[31/08/2009 19:25:01] Master Pally has logged in.
+[31/08/2009 19:25:08] Marmotita has logged out.
+[31/08/2009 19:25:10] [Admin] Senik One has logged in.
+[31/08/2009 19:25:18] Gozz Recond has logged in.
+[31/08/2009 19:25:19] Account Manager has logged out.
+[31/08/2009 19:25:24] Loquilloo has logged out.
+[31/08/2009 19:25:30] > [Admin] Senik One broadcasted: "chao jiles qls traigan getne noma :)".
+[31/08/2009 19:25:31] Moises has logged in.
+[31/08/2009 19:25:33] [Admin] Senik One has logged out.
+[31/08/2009 19:25:45] Gozz Recond has logged out.
+[31/08/2009 19:25:49] Master Nickk has logged out.
+[31/08/2009 19:25:52] Gozz Recond has logged in.
+[31/08/2009 19:25:53] Master Nickk has logged in.
+[31/08/2009 19:25:54] Account Manager has logged in.
+[31/08/2009 19:25:57] Account Manager has logged in.
+[31/08/2009 19:26:19] Ozzmosy has logged out.
+[31/08/2009 19:26:26] Ozzmosy has logged in.
+[31/08/2009 19:26:27] Account Manager has logged out.
+[31/08/2009 19:26:30] Account Manager has logged out.
+[31/08/2009 19:26:36] Account Manager has logged in.
+[31/08/2009 19:26:39] Account Manager has logged in.
+[31/08/2009 19:26:41] The mastrox has logged out.
+[31/08/2009 19:26:52] Austin has logged out.
+[31/08/2009 19:26:55] The mastrox has logged in.
+[31/08/2009 19:26:58] Tegua has logged out.
+[31/08/2009 19:27:01] Tegua has logged in.
+[31/08/2009 19:27:04] The mastrox has logged out.
+[31/08/2009 19:27:06] The mastrox has logged in.
+[31/08/2009 19:27:13] The Sor has logged in.
+[31/08/2009 19:27:13] Account Manager has logged out.
+[31/08/2009 19:27:14] Account Manager has logged out.
+[31/08/2009 19:27:25] Gozz Recond has logged out.
+[31/08/2009 19:27:26] The mastrox has logged out.
+[31/08/2009 19:27:28] The mastrox has logged in.
+[31/08/2009 19:27:29] Gozz Recond has logged in.
+[31/08/2009 19:27:31] Chupala has logged out.
+[31/08/2009 19:27:32] Medusa has logged in.
+[31/08/2009 19:27:34] Chupala has logged in.
+[31/08/2009 19:27:48] The Sor has logged out.
+[31/08/2009 19:27:49] > CLEAN: Removed 1490 items from 2806 tiles in 0.14 seconds.
+[31/08/2009 19:27:50] The Sor has logged in.
+[31/08/2009 19:28:07] Maik walk has logged out.
+[31/08/2009 19:28:11] The mastrox has logged out.
+[31/08/2009 19:28:17] Maik walk has logged in.
+[31/08/2009 19:28:18] The mastrox has logged in.
+[31/08/2009 19:28:19] Lolo kitad has logged out.
+[31/08/2009 19:28:25] Account Manager has logged in.
+[31/08/2009 19:28:33] Nico has logged out.
+[31/08/2009 19:28:35] Account Manager has logged in.
+[31/08/2009 19:28:38] Account Manager has logged in.
+[31/08/2009 19:28:38] Account Manager has logged out.
+[31/08/2009 19:28:50] Account Manager has logged in.
+[31/08/2009 19:28:55] Account Manager has logged out.
+[31/08/2009 19:28:56] Account Manager has logged in.
+[31/08/2009 19:28:59] Hankook has logged out.
+[31/08/2009 19:28:59] Account Manager has logged out.
+[31/08/2009 19:29:01] Account Manager has logged out.
+[31/08/2009 19:29:04] Dris has logged in.
+[31/08/2009 19:29:06] Hankook has logged in.
+[31/08/2009 19:29:07] Maik walk has logged out.
+[31/08/2009 19:29:08] Nico has logged in.
+[31/08/2009 19:29:13] Account Manager has logged in.
+[31/08/2009 19:29:15] Account Manager has logged out.
+[31/08/2009 19:29:18] Account Manager has logged in.
+[31/08/2009 19:29:26] Maik walk has logged in.
+[31/08/2009 19:29:34] Account Manager has logged out.
+[31/08/2009 19:29:43] Lava tu raja has logged in.
+[31/08/2009 19:29:46] Hankook has logged out.
+[31/08/2009 19:29:49] Hankook has logged in.
+[31/08/2009 19:29:59] Account Manager has logged in.
+[31/08/2009 19:30:07] Account Manager has logged out.
+[31/08/2009 19:30:20] Account Manager has logged out.
+[31/08/2009 19:30:23] Rarosq kitad has logged in.
+[31/08/2009 19:30:24] Links has logged in.
+[31/08/2009 19:30:27] Account Manager has logged in.
+[31/08/2009 19:30:39] Soberbia has logged out.
+[31/08/2009 19:30:54] Soberbia has logged in.
+[31/08/2009 19:30:56] Account Manager has logged out.
+[31/08/2009 19:31:00] Nico has logged out.
+[31/08/2009 19:31:05] Nico has logged in.
+[31/08/2009 19:31:06] Wom Paladin has logged in.
+[31/08/2009 19:31:08] Soberbia has logged out.
+[31/08/2009 19:31:14] Yerko has logged out.
+[31/08/2009 19:31:19] Moises has logged out.
+[31/08/2009 19:31:20] Account Manager has logged in.
+[31/08/2009 19:31:25] Dris has logged out.
+[31/08/2009 19:31:30] Afromatico has logged out.
+[31/08/2009 19:31:32] Account Manager has logged in.
+[31/08/2009 19:31:37] Account Manager has logged out.
+[31/08/2009 19:31:39] Darkness has logged out.
+[31/08/2009 19:31:45] Dris has logged in.
+[31/08/2009 19:31:47] Juan of rollal has logged in.
+[31/08/2009 19:31:50] Account Manager has logged in.
+[31/08/2009 19:31:51] Nico has logged out.
+[31/08/2009 19:31:57] Nico has logged in.
+[31/08/2009 19:31:58] Account Manager has logged out.
+[31/08/2009 19:32:07] [Hoster] Dee has logged out.
+[31/08/2009 19:32:10] Kina Zarprite has logged in.
+[31/08/2009 19:32:14] Account Manager has logged out.
+[31/08/2009 19:32:23] Moises has logged in.
+[31/08/2009 19:32:29] Account Manager has logged in.
+[31/08/2009 19:32:37] Account Manager has logged in.
+[31/08/2009 19:32:52] Account Manager has logged in.
+[31/08/2009 19:32:55] Chica has logged out.
+[31/08/2009 19:32:57] Matox has logged out.
+[31/08/2009 19:32:57] Ozzmosy has logged out.
+[31/08/2009 19:32:59] Chupala has logged out.
+[31/08/2009 19:32:59] Chika has logged in.
+[31/08/2009 19:33:00] Account Manager has logged out.
+[31/08/2009 19:33:08] Account Manager has logged out.
+[31/08/2009 19:33:10] Voltio has logged in.
+[31/08/2009 19:33:13] Lava tu raja has logged out.
+[31/08/2009 19:33:26] Account Manager has logged in.
+[31/08/2009 19:33:27] The mastrox has logged out.
+[31/08/2009 19:33:30] The mastrox has logged in.
+[31/08/2009 19:33:33] Ozzmosy has logged in.
+[31/08/2009 19:33:40] Account Manager has logged out.
+[31/08/2009 19:33:45] Account Manager has logged out.
+[31/08/2009 19:33:46] Kina Zarprite has logged out.
+[31/08/2009 19:33:48] Kina Zarprite has logged in.
+[31/08/2009 19:33:52] Kina Zarprite has logged out.
+[31/08/2009 19:33:53] Palandink has logged in.
+[31/08/2009 19:33:53] [Hoster] Dee has logged in.
+[31/08/2009 19:33:55] > CLEAN: Removed 298 items from 558 tiles in 0.203 seconds.
+[31/08/2009 19:34:00] > CLEAN: Removed 3 items from 14 tiles in 0.203 seconds.
+[31/08/2009 19:34:03] > CLEAN: Removed 0 items from 21 tiles in 0.265 seconds.
+[31/08/2009 19:34:04] > CLEAN: Removed 2 items from 9 tiles in 0.125 seconds.
+[31/08/2009 19:34:07] Lord Calabaza has logged in.
+[31/08/2009 19:34:07] Maik walk has logged out.
+[31/08/2009 19:34:08] > CLEAN: Removed 0 items from 7 tiles in 0.109 seconds.
+[31/08/2009 19:34:08] Master jno has logged out.
+[31/08/2009 19:34:09] > CLEAN: Removed 0 items from 1 tile in 0.063 seconds.
+[31/08/2009 19:34:10] > CLEAN: Removed 1 item from 4 tiles in 0.078 seconds.
+[31/08/2009 19:34:13] > CLEAN: Removed 1 item from 9 tiles in 0.062 seconds.
+[31/08/2009 19:34:14] > CLEAN: Removed 0 items from 2 tiles in 0.078 seconds.
+[31/08/2009 19:34:16] > CLEAN: Removed 0 items from 5 tiles in 0.109 seconds.
+[31/08/2009 19:34:17] > CLEAN: Removed 0 items from 6 tiles in 0.078 seconds.
+[31/08/2009 19:34:19] > CLEAN: Removed 1 item from 8 tiles in 0.218 seconds.
+[31/08/2009 19:34:22] > CLEAN: Removed 1 item from 12 tiles in 0.125 seconds.
+[31/08/2009 19:34:39] Tegua has logged out.
+[31/08/2009 19:34:46] Juan of rollal has logged out.
+[31/08/2009 19:34:47] > [Hoster] Dee broadcasted: "cabros un closeserver y un open como en de ase 1horaentran altoke 8 seg".
+[31/08/2009 19:34:48] Account Manager has logged in.
+[31/08/2009 19:34:49] Castyo has logged out.
+[31/08/2009 19:34:50] Dris has logged out.
+[31/08/2009 19:34:50] Account Manager has logged out.
+[31/08/2009 19:34:51] Chika has logged out.
+[31/08/2009 19:34:52] Choro Mota has logged out.
+[31/08/2009 19:34:52] Beltran has logged out.
+[31/08/2009 19:34:52] Chicha has logged out.
+[31/08/2009 19:34:53] Vergazaurio has logged out.
+[31/08/2009 19:34:53] Raxx has logged out.
+[31/08/2009 19:34:54] Sikario has logged out.
+[31/08/2009 19:34:54] Daddy Yanke has logged out.
+[31/08/2009 19:34:54] Raic Dalos has logged out.
+[31/08/2009 19:34:55] Diiegooxkina has logged out.
+[31/08/2009 19:34:55] Sir sndkf has logged out.
+[31/08/2009 19:34:55] Flow factory has logged out.
+[31/08/2009 19:34:56] Hesperides has logged out.
+[31/08/2009 19:34:56] El Volao has logged out.
+[31/08/2009 19:34:56] Okunaks has logged out.
+[31/08/2009 19:34:57] Dreeds has logged out.
+[31/08/2009 19:34:57] Joaco has logged out.
+[31/08/2009 19:34:57] Master Pally has logged out.
+[31/08/2009 19:34:58] Master Nickk has logged out.
+[31/08/2009 19:34:58] Gozz Recond has logged out.
+[31/08/2009 19:34:59] Medusa has logged out.
+[31/08/2009 19:34:59] The Sor has logged out.
+[31/08/2009 19:34:59] Hankook has logged out.
+[31/08/2009 19:35:00] Rarosq kitad has logged out.
+[31/08/2009 19:35:00] Links has logged out.
+[31/08/2009 19:35:00] Wom Paladin has logged out.
+[31/08/2009 19:35:00] Nico has logged out.
+[31/08/2009 19:35:01] Moises has logged out.
+[31/08/2009 19:35:01] Voltio has logged out.
+[31/08/2009 19:35:02] The mastrox has logged out.
+[31/08/2009 19:35:02] Ozzmosy has logged out.
+[31/08/2009 19:35:02] Palandink has logged out.
+[31/08/2009 19:35:03] Lord Calabaza has logged out.
+[31/08/2009 19:35:03] > Saving server...
+[31/08/2009 19:35:05] > SAVE: Complete in 2.047 seconds using relational house storage.
+[31/08/2009 19:35:05] 
+[31/08/2009 19:35:05] Lua Script Error: [Spell Interface] 
+[31/08/2009 19:35:05] in a timer event called from: 
+[31/08/2009 19:35:05] data/spells/scripts/attack/razgosfury.lua:onCastSpell
+[31/08/2009 19:35:05] 
+[31/08/2009 19:35:05] luaDoCombat(). Creature not found
+[31/08/2009 19:35:05] 
+[31/08/2009 19:35:05] Lua Script Error: [Spell Interface] 
+[31/08/2009 19:35:05] in a timer event called from: 
+[31/08/2009 19:35:05] data/spells/scripts/attack/razgosfury.lua:onCastSpell
+[31/08/2009 19:35:06] 
+[31/08/2009 19:35:06] luaDoCombat(). Creature not found
+[31/08/2009 19:35:06] 
+[31/08/2009 19:35:06] Lua Script Error: [Spell Interface] 
+[31/08/2009 19:35:06] in a timer event called from: 
+[31/08/2009 19:35:06] data/spells/scripts/attack/razgosfury.lua:onCastSpell
+[31/08/2009 19:35:06] 
+[31/08/2009 19:35:06] luaDoCombat(). Creature not found
+[31/08/2009 19:35:06] 
+[31/08/2009 19:35:06] Lua Script Error: [Spell Interface] 
+[31/08/2009 19:35:06] in a timer event called from: 
+[31/08/2009 19:35:06] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[31/08/2009 19:35:06] 
+[31/08/2009 19:35:06] luaDoCombat(). Creature not found
+[31/08/2009 19:35:06] 
+[31/08/2009 19:35:06] Lua Script Error: [Spell Interface] 
+[31/08/2009 19:35:06] in a timer event called from: 
+[31/08/2009 19:35:06] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[31/08/2009 19:35:06] 
+[31/08/2009 19:35:06] luaDoCombat(). Creature not found
+[31/08/2009 19:35:07] 
+[31/08/2009 19:35:07] Lua Script Error: [Spell Interface] 
+[31/08/2009 19:35:07] in a timer event called from: 
+[31/08/2009 19:35:07] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[31/08/2009 19:35:07] 
+[31/08/2009 19:35:07] luaDoCombat(). Creature not found
+[31/08/2009 19:35:07] 
+[31/08/2009 19:35:07] Lua Script Error: [Spell Interface] 
+[31/08/2009 19:35:07] in a timer event called from: 
+[31/08/2009 19:35:07] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[31/08/2009 19:35:07] 
+[31/08/2009 19:35:07] luaDoCombat(). Creature not found
+[31/08/2009 19:35:07] 
+[31/08/2009 19:35:07] Lua Script Error: [Spell Interface] 
+[31/08/2009 19:35:07] in a timer event called from: 
+[31/08/2009 19:35:07] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[31/08/2009 19:35:07] 
+[31/08/2009 19:35:07] luaDoCombat(). Creature not found
+[31/08/2009 19:35:08] 
+[31/08/2009 19:35:08] Lua Script Error: [Spell Interface] 
+[31/08/2009 19:35:08] in a timer event called from: 
+[31/08/2009 19:35:08] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[31/08/2009 19:35:08] 
+[31/08/2009 19:35:08] luaDoCombat(). Creature not found
+[31/08/2009 19:35:08] 
+[31/08/2009 19:35:08] Lua Script Error: [Spell Interface] 
+[31/08/2009 19:35:08] in a timer event called from: 
+[31/08/2009 19:35:08] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[31/08/2009 19:35:08] 
+[31/08/2009 19:35:08] luaDoCombat(). Creature not found
+[31/08/2009 19:35:08] 
+[31/08/2009 19:35:08] Lua Script Error: [Spell Interface] 
+[31/08/2009 19:35:08] in a timer event called from: 
+[31/08/2009 19:35:08] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[31/08/2009 19:35:08] 
+[31/08/2009 19:35:08] luaDoCombat(). Creature not found
+[31/08/2009 19:35:08] 
+[31/08/2009 19:35:08] Lua Script Error: [Spell Interface] 
+[31/08/2009 19:35:09] in a timer event called from: 
+[31/08/2009 19:35:09] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[31/08/2009 19:35:09] 
+[31/08/2009 19:35:09] luaDoCombat(). Creature not found
+[31/08/2009 19:35:09] 
+[31/08/2009 19:35:09] Lua Script Error: [Spell Interface] 
+[31/08/2009 19:35:09] in a timer event called from: 
+[31/08/2009 19:35:09] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[31/08/2009 19:35:09] 
+[31/08/2009 19:35:09] luaDoCombat(). Creature not found
+[31/08/2009 19:35:09] 
+[31/08/2009 19:35:09] Lua Script Error: [Spell Interface] 
+[31/08/2009 19:35:09] in a timer event called from: 
+[31/08/2009 19:35:09] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[31/08/2009 19:35:09] 
+[31/08/2009 19:35:09] luaDoCombat(). Creature not found
+[31/08/2009 19:35:09] 
+[31/08/2009 19:35:09] Lua Script Error: [Spell Interface] 
+[31/08/2009 19:35:10] in a timer event called from: 
+[31/08/2009 19:35:10] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[31/08/2009 19:35:10] 
+[31/08/2009 19:35:10] luaDoCombat(). Creature not found
+[31/08/2009 19:35:10] 
+[31/08/2009 19:35:10] Lua Script Error: [Spell Interface] 
+[31/08/2009 19:35:10] in a timer event called from: 
+[31/08/2009 19:35:10] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[31/08/2009 19:35:10] 
+[31/08/2009 19:35:10] luaDoCombat(). Creature not found
+[31/08/2009 19:35:10] 
+[31/08/2009 19:35:10] Lua Script Error: [Spell Interface] 
+[31/08/2009 19:35:10] in a timer event called from: 
+[31/08/2009 19:35:10] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[31/08/2009 19:35:10] 
+[31/08/2009 19:35:10] luaDoCombat(). Creature not found
+[31/08/2009 19:35:10] 
+[31/08/2009 19:35:10] Lua Script Error: [Spell Interface] 
+[31/08/2009 19:35:10] in a timer event called from: 
+[31/08/2009 19:35:11] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[31/08/2009 19:35:11] 
+[31/08/2009 19:35:11] luaDoCombat(). Creature not found
+[31/08/2009 19:35:11] 
+[31/08/2009 19:35:11] Lua Script Error: [Spell Interface] 
+[31/08/2009 19:35:11] in a timer event called from: 
+[31/08/2009 19:35:11] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[31/08/2009 19:35:11] 
+[31/08/2009 19:35:11] luaDoCombat(). Creature not found
+[31/08/2009 19:35:11] 
+[31/08/2009 19:35:11] Lua Script Error: [Spell Interface] 
+[31/08/2009 19:35:11] in a timer event called from: 
+[31/08/2009 19:35:11] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[31/08/2009 19:35:11] 
+[31/08/2009 19:35:11] luaDoCombat(). Creature not found
+[31/08/2009 19:35:11] 
+[31/08/2009 19:35:11] Lua Script Error: [Spell Interface] 
+[31/08/2009 19:35:11] in a timer event called from: 
+[31/08/2009 19:35:12] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[31/08/2009 19:35:12] 
+[31/08/2009 19:35:12] luaDoCombat(). Creature not found
+[31/08/2009 19:35:12] 
+[31/08/2009 19:35:12] Lua Script Error: [Spell Interface] 
+[31/08/2009 19:35:12] in a timer event called from: 
+[31/08/2009 19:35:12] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[31/08/2009 19:35:12] 
+[31/08/2009 19:35:12] luaDoCombat(). Creature not found
+[31/08/2009 19:35:12] 
+[31/08/2009 19:35:12] Lua Script Error: [Spell Interface] 
+[31/08/2009 19:35:12] in a timer event called from: 
+[31/08/2009 19:35:12] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[31/08/2009 19:35:12] 
+[31/08/2009 19:35:12] luaDoCombat(). Creature not found
+[31/08/2009 19:35:12] 
+[31/08/2009 19:35:12] Lua Script Error: [Spell Interface] 
+[31/08/2009 19:35:12] in a timer event called from: 
+[31/08/2009 19:35:12] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[31/08/2009 19:35:13] 
+[31/08/2009 19:35:13] luaDoCombat(). Creature not found
+[31/08/2009 19:35:13] 
+[31/08/2009 19:35:13] Lua Script Error: [Spell Interface] 
+[31/08/2009 19:35:13] in a timer event called from: 
+[31/08/2009 19:35:13] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[31/08/2009 19:35:13] 
+[31/08/2009 19:35:13] luaDoCombat(). Creature not found
+[31/08/2009 19:35:13] 
+[31/08/2009 19:35:13] Lua Script Error: [Spell Interface] 
+[31/08/2009 19:35:13] in a timer event called from: 
+[31/08/2009 19:35:13] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[31/08/2009 19:35:13] 
+[31/08/2009 19:35:13] luaDoCombat(). Creature not found
+[31/08/2009 19:35:13] 
+[31/08/2009 19:35:13] Lua Script Error: [Spell Interface] 
+[31/08/2009 19:35:13] in a timer event called from: 
+[31/08/2009 19:35:13] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[31/08/2009 19:35:14] 
+[31/08/2009 19:35:14] luaDoCombat(). Creature not found
+[31/08/2009 19:35:14] 
+[31/08/2009 19:35:14] Lua Script Error: [Spell Interface] 
+[31/08/2009 19:35:14] in a timer event called from: 
+[31/08/2009 19:35:14] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[31/08/2009 19:35:14] 
+[31/08/2009 19:35:14] luaDoCombat(). Creature not found
+[31/08/2009 19:35:14] 
+[31/08/2009 19:35:14] Lua Script Error: [Spell Interface] 
+[31/08/2009 19:35:14] in a timer event called from: 
+[31/08/2009 19:35:14] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[31/08/2009 19:35:14] 
+[31/08/2009 19:35:14] luaDoCombat(). Creature not found
+[31/08/2009 19:35:14] 
+[31/08/2009 19:35:14] Lua Script Error: [Spell Interface] 
+[31/08/2009 19:35:14] in a timer event called from: 
+[31/08/2009 19:35:14] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[31/08/2009 19:35:15] 
+[31/08/2009 19:35:15] luaDoCombat(). Creature not found
+[31/08/2009 19:35:15] 
+[31/08/2009 19:35:15] Lua Script Error: [Spell Interface] 
+[31/08/2009 19:35:15] in a timer event called from: 
+[31/08/2009 19:35:15] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[31/08/2009 19:35:15] 
+[31/08/2009 19:35:15] luaDoCombat(). Creature not found
+[31/08/2009 19:35:15] 
+[31/08/2009 19:35:15] Lua Script Error: [Spell Interface] 
+[31/08/2009 19:35:15] in a timer event called from: 
+[31/08/2009 19:35:15] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[31/08/2009 19:35:15] 
+[31/08/2009 19:35:15] luaDoCombat(). Creature not found
+[31/08/2009 19:35:15] 
+[31/08/2009 19:35:15] Lua Script Error: [Spell Interface] 
+[31/08/2009 19:35:15] in a timer event called from: 
+[31/08/2009 19:35:15] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[31/08/2009 19:35:16] 
+[31/08/2009 19:35:16] luaDoCombat(). Creature not found
+[31/08/2009 19:35:16] 
+[31/08/2009 19:35:16] Lua Script Error: [Spell Interface] 
+[31/08/2009 19:35:16] in a timer event called from: 
+[31/08/2009 19:35:16] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[31/08/2009 19:35:16] 
+[31/08/2009 19:35:16] luaDoCombat(). Creature not found
+[31/08/2009 19:35:16] 
+[31/08/2009 19:35:16] Lua Script Error: [Spell Interface] 
+[31/08/2009 19:35:16] in a timer event called from: 
+[31/08/2009 19:35:16] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[31/08/2009 19:35:16] 
+[31/08/2009 19:35:16] luaDoCombat(). Creature not found
+[31/08/2009 19:35:16] 
+[31/08/2009 19:35:16] Lua Script Error: [Spell Interface] 
+[31/08/2009 19:35:16] in a timer event called from: 
+[31/08/2009 19:35:16] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[31/08/2009 19:35:16] 
+[31/08/2009 19:35:16] luaDoCombat(). Creature not found
+[31/08/2009 19:35:17] 
+[31/08/2009 19:35:17] Lua Script Error: [Spell Interface] 
+[31/08/2009 19:35:17] in a timer event called from: 
+[31/08/2009 19:35:17] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[31/08/2009 19:35:17] 
+[31/08/2009 19:35:17] luaDoCombat(). Creature not found
+[31/08/2009 19:35:17] 
+[31/08/2009 19:35:17] Lua Script Error: [Spell Interface] 
+[31/08/2009 19:35:17] in a timer event called from: 
+[31/08/2009 19:35:17] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[31/08/2009 19:35:17] 
+[31/08/2009 19:35:17] luaDoCombat(). Creature not found
+[31/08/2009 19:35:17] 
+[31/08/2009 19:35:17] Lua Script Error: [Spell Interface] 
+[31/08/2009 19:35:17] in a timer event called from: 
+[31/08/2009 19:35:17] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[31/08/2009 19:35:18] 
+[31/08/2009 19:35:18] luaDoCombat(). Creature not found
+[31/08/2009 19:35:18] 
+[31/08/2009 19:35:18] Lua Script Error: [Spell Interface] 
+[31/08/2009 19:35:18] in a timer event called from: 
+[31/08/2009 19:35:18] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[31/08/2009 19:35:18] 
+[31/08/2009 19:35:18] luaDoCombat(). Creature not found
+[31/08/2009 19:35:18] 
+[31/08/2009 19:35:18] Lua Script Error: [Spell Interface] 
+[31/08/2009 19:35:18] in a timer event called from: 
+[31/08/2009 19:35:18] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[31/08/2009 19:35:18] 
+[31/08/2009 19:35:18] luaDoCombat(). Creature not found
+[31/08/2009 19:35:18] 
+[31/08/2009 19:35:18] Lua Script Error: [Spell Interface] 
+[31/08/2009 19:35:19] in a timer event called from: 
+[31/08/2009 19:35:19] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[31/08/2009 19:35:19] 
+[31/08/2009 19:35:19] luaDoCombat(). Creature not found
+[31/08/2009 19:35:19] 
+[31/08/2009 19:35:19] Lua Script Error: [Spell Interface] 
+[31/08/2009 19:35:19] in a timer event called from: 
+[31/08/2009 19:35:19] data/spells/scripts/attack/razgosfury.lua:onCastSpell
+[31/08/2009 19:35:19] 
+[31/08/2009 19:35:19] luaDoCombat(). Creature not found
+[31/08/2009 19:35:19] 
+[31/08/2009 19:35:19] Lua Script Error: [Spell Interface] 
+[31/08/2009 19:35:19] in a timer event called from: 
+[31/08/2009 19:35:19] data/spells/scripts/attack/razgosfury.lua:onCastSpell
+[31/08/2009 19:35:19] 
+[31/08/2009 19:35:19] luaDoCombat(). Creature not found
+[31/08/2009 19:35:19] 
+[31/08/2009 19:35:20] Lua Script Error: [Spell Interface] 
+[31/08/2009 19:35:20] in a timer event called from: 
+[31/08/2009 19:35:20] data/spells/scripts/attack/razgosfury.lua:onCastSpell
+[31/08/2009 19:35:20] 
+[31/08/2009 19:35:20] luaDoCombat(). Creature not found
+[31/08/2009 19:35:28] Chika has logged in.
+[31/08/2009 19:35:29] Raic Dalos has logged in.
+[31/08/2009 19:35:29] Rarosq kitad has logged in.
+[31/08/2009 19:35:30] Sir sndkf has logged in.
+[31/08/2009 19:35:35] Diiegooxkina has logged in.
+[31/08/2009 19:35:35] Vergazaurio has logged in.
+[31/08/2009 19:35:36] Flow factory has logged in.
+[31/08/2009 19:35:36] Dreeds has logged in.
+[31/08/2009 19:35:38] Daddy Yanke has logged in.
+[31/08/2009 19:35:40] [Error - HouseTile::__queryDestination] Tile at house entry position for house: Forgotten headquarter (Flat 1, Area 42) (46) does not exist.
+[31/08/2009 19:35:41] El Volao has logged in.
+[31/08/2009 19:35:41] Hankook has logged in.
+[31/08/2009 19:35:41] Account Manager has logged in.
+[31/08/2009 19:35:42] Moises has logged in.
+[31/08/2009 19:35:42] Joaco has logged in.
+[31/08/2009 19:35:42] Chika has logged out.
+[31/08/2009 19:35:44] Choro Mota has logged in.
+[31/08/2009 19:35:45] Account Manager has logged out.
+[31/08/2009 19:35:46] Sikario has logged in.
+[31/08/2009 19:35:48] Chicha has logged in.
+[31/08/2009 19:35:50] Beltran has logged in.
+[31/08/2009 19:35:52] The mastrox has logged in.
+[31/08/2009 19:35:54] Chica has logged in.
+[31/08/2009 19:36:01] Voltio has logged in.
+[31/08/2009 19:36:22] [Hoster] Dee has logged out.
+[31/08/2009 19:36:23] Master Nickk has logged in.
+[31/08/2009 19:36:24] Ozzmosy has logged in.
+[31/08/2009 19:36:33] Vergazaurio has logged out.
+[31/08/2009 19:37:01] The Sor has logged in.
+[31/08/2009 19:37:08] Lord Calabaza has logged in.
+[31/08/2009 19:37:24] Rarosq kitad has logged out.
+[31/08/2009 19:37:33] Lolo kitad has logged in.
+[31/08/2009 19:37:49] Palandink has logged in.
+[31/08/2009 19:37:53] Okunaks has logged in.
+[31/08/2009 19:38:26] [Hoster] Dee has logged in.
+[31/08/2009 19:38:32] Diiegooxkina has logged out.
+[31/08/2009 19:38:33] [Error - HouseTile::__queryDestination] Tile at house entry position for house: Forgotten headquarter (Flat 1, Area 42) (46) does not exist.
+[31/08/2009 19:38:33] Diiegooxkina has logged in.
+[31/08/2009 19:39:00] Flow factory has logged out.
+[31/08/2009 19:39:01] Diiegooxkina has logged out.
+[31/08/2009 19:39:02] Diiegooxkina has logged in.
+[31/08/2009 19:39:02] Flow factory has logged in.
+[31/08/2009 19:39:46] Ozzmosy has logged out.
+[31/08/2009 19:39:50] Ozzmosy has logged in.
+[31/08/2009 19:39:51] Master Nickk has logged out.
+[31/08/2009 19:39:55] Master Nickk has logged in.
+[31/08/2009 19:40:10] Master jno has logged in.
+[31/08/2009 19:40:15] The mastrox has logged out.
+[31/08/2009 19:40:17] Flow factory has logged out.
+[31/08/2009 19:40:18] The mastrox has logged in.
+[31/08/2009 19:40:19] Flow factory has logged in.
+[31/08/2009 19:40:31] Flow factory has logged out.
+[31/08/2009 19:40:33] Account Manager has logged in.
+[31/08/2009 19:40:34] Flow factory has logged in.
+[31/08/2009 19:40:35] Hankook has logged out.
+[31/08/2009 19:40:35] Choro Mota has logged out.
+[31/08/2009 19:40:37] Hankook has logged in.
+[31/08/2009 19:40:37] Choro Mota has logged in.
+[31/08/2009 19:40:49] The Sor has logged out.
+[31/08/2009 19:40:50] The Sor has logged in.
+[31/08/2009 19:40:51] Account Manager has logged out.
+[31/08/2009 19:40:57] Account Manager has logged in.
+[31/08/2009 19:41:17] Daddy Yanke has logged out.
+[31/08/2009 19:41:19] Account Manager has logged in.
+[31/08/2009 19:41:20] Daddy Yanke has logged in.
+[31/08/2009 19:41:22] Account Manager has logged out.
+[31/08/2009 19:41:29] Kano has logged in.
+[31/08/2009 19:41:40] Account Manager has logged out.
+[31/08/2009 19:41:42] Gozz Recond has logged in.
+[31/08/2009 19:41:43] Hankook has logged out.
+[31/08/2009 19:41:44] Hankook has logged in.
+[31/08/2009 19:41:48] Diiegooxkina has logged out.
+[31/08/2009 19:41:50] Account Manager has logged in.
+[31/08/2009 19:42:06] Hankook has logged out.
+[31/08/2009 19:42:06] Account Manager has logged in.
+[31/08/2009 19:42:07] Hankook has logged in.
+[31/08/2009 19:42:13] Flow factory has logged out.
+[31/08/2009 19:42:14] Flow factory has logged in.
+[31/08/2009 19:42:21] [Warning - Event::loadScript] Cannot load script (data/globalevents/scripts/texto.lua)
+[31/08/2009 19:42:21] data/globalevents/scripts/texto.lua:5: '}' expected (to close '{' at line 2) near '['
+[31/08/2009 19:42:36] Account Manager has logged out.
+[31/08/2009 19:42:37] Account Manager has logged out.
+[31/08/2009 19:42:45] Diiegooxpro has logged in.
+[31/08/2009 19:42:45] The mastrox has logged out.
+[31/08/2009 19:42:47] The mastrox has logged in.
+[31/08/2009 19:42:48] Anarkista has logged in.
+[31/08/2009 19:42:50] The mastrox has logged out.
+[31/08/2009 19:43:17] Hankook has logged out.
+[31/08/2009 19:43:18] Hankook has logged in.
+[31/08/2009 19:43:19] Dreeds has logged out.
+[31/08/2009 19:43:20] Dreeds has logged in.
+[31/08/2009 19:43:29] Flow factory has logged out.
+[31/08/2009 19:43:31] [Warning - Event::loadScript] Cannot load script (data/globalevents/scripts/texto.lua)
+[31/08/2009 19:43:31] data/globalevents/scripts/texto.lua:5: '}' expected (to close '{' at line 2) near '['
+[31/08/2009 19:43:31] Flow factory has logged in.
+[31/08/2009 19:43:33] [Hoster] Dee has logged out.
+[31/08/2009 19:43:45] Master Nickk has logged out.
+[31/08/2009 19:43:47] Master Nickk has logged in.
+[31/08/2009 19:44:02] Account Manager has logged in.
+[31/08/2009 19:44:04] Flow factory has logged out.
+[31/08/2009 19:44:16] Account Manager has logged out.
+[31/08/2009 19:44:17] Gozz Recond has logged out.
+[31/08/2009 19:44:19] Okunaks has logged out.
+[31/08/2009 19:44:19] Gozz Recond has logged in.
+[31/08/2009 19:44:21] Okunak has logged in.
+[31/08/2009 19:44:22] Crnzadiiktoo has logged in.
+[31/08/2009 19:44:35] Dreeds has logged out.
+[31/08/2009 19:44:43] Dreeds has logged in.
+[31/08/2009 19:45:01] Gozz Recond has logged out.
+[31/08/2009 19:45:03] Gozz Recond has logged in.
+[31/08/2009 19:45:12] Diiegooxpro has logged out.
+[31/08/2009 19:45:15] Diiegooxsorc has logged in.
+[31/08/2009 19:45:28] [Hoster] Dee has logged in.
+[31/08/2009 19:45:47] > [Hoster] Dee broadcasted: "cabros cierro abro el miercoles si dios kere".
+[31/08/2009 19:45:49] Knight Poderoso has logged in.
+[31/08/2009 19:45:52] Okunak has logged out.
+[31/08/2009 19:45:53] Gozz Recond has logged out.
+[31/08/2009 19:45:54] Okunaks has logged in.
+[31/08/2009 19:45:55] Gozz Recond has logged in.
+[31/08/2009 19:46:12] [Hoster] Dee has logged out.
+[31/08/2009 19:46:15] Raic Dalos has logged out.
+[31/08/2009 19:46:16] Sir sndkf has logged out.
+[31/08/2009 19:46:16] El Volao has logged out.
+[31/08/2009 19:46:16] Moises has logged out.
+[31/08/2009 19:46:16] Joaco has logged out.
+[31/08/2009 19:46:17] Sikario has logged out.
+[31/08/2009 19:46:17] Chicha has logged out.
+[31/08/2009 19:46:17] Beltran has logged out.
+[31/08/2009 19:46:18] Chica has logged out.
+[31/08/2009 19:46:18] Voltio has logged out.
+[31/08/2009 19:46:18] Lord Calabaza has logged out.
+[31/08/2009 19:46:19] Lolo kitad has logged out.
+[31/08/2009 19:46:19] Palandink has logged out.
+[31/08/2009 19:46:19] Ozzmosy has logged out.
+[31/08/2009 19:46:20] Master jno has logged out.
+[31/08/2009 19:46:20] Choro Mota has logged out.
+[31/08/2009 19:46:20] The Sor has logged out.
+[31/08/2009 19:46:21] Daddy Yanke has logged out.
+[31/08/2009 19:46:21] Kano has logged out.
+[31/08/2009 19:46:21] Anarkista has logged out.
+[31/08/2009 19:46:21] Hankook has logged out.
+[31/08/2009 19:46:22] Master Nickk has logged out.
+[31/08/2009 19:46:22] Crnzadiiktoo has logged out.
+[31/08/2009 19:46:22] Dreeds has logged out.
+[31/08/2009 19:46:23] Diiegooxsorc has logged out.
+[31/08/2009 19:46:23] Knight Poderoso has logged out.
+[31/08/2009 19:46:24] Okunaks has logged out.
+[31/08/2009 19:46:24] Gozz Recond has logged out.
+[31/08/2009 19:46:24] > Saving server...
+[31/08/2009 19:46:26] > SAVE: Complete in 1.875 seconds using relational house storage.
+[31/08/2009 19:46:26] Preparing to shutdown

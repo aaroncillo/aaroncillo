@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<raid>
+  <!--Announcements-->
+  <announce delay="60000" type="Event" message="Mu invade Slayer city" />
+  <!--Single Spawns-->
+  <singlespawn delay="60000" name="Mu" x="144" y="57" z="7" />
+</raid>

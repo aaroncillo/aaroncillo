@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <monster name="Warlock" tp="1" species="human"  nameDescription="a warlock" race="blood" experience="6000" speed="220" manacost="0">
+    <health now="5700" max="5700"/>
+    <look type="130" head="19" body="71" legs="128" feet="128" corpse="3128"/>
+    <targetchange interval="60000" chance="0"/>
+    <strategy attack="100" defense="0"/>
+    <flags>
+      <flag summonable="0"/>
+      <flag attackable="1"/>
+      <flag hostile="1"/>
+      <flag illusionable="0"/>
+      <flag convinceable="0"/>
+      <flag pushable="0"/>
+      <flag canpushitems="1"/>
+      <flag staticattack="30"/>
+      <flag lightlevel="0"/>
+      <flag lightcolor="0"/>
+      <flag targetdistance="5"/>
+      <flag runonhealth="1000"/>
+    </flags>
+    <attacks>
+      <attack name="melee" interval="2000" min="-100" max="-300"/>
+      <attack name="Explosive Arrow" interval="2000" chance="50" min="-100" max="-350"/>
+      <attack name="Explosive Arrow" interval="2000" chance="80" min="-80" max="-300"/>
+    </attacks>
+    <defenses armor="40" defense="45">
+      <defense name="Ultimate Healing" interval="4000" chance="5" min="100" max="200"/>
+    </defenses>
+    <immunities>
+      <immunity physical="0"/>
+      <immunity energy="1"/>
+      <immunity fire="1"/>
+      <immunity poison="1"/>
+      <immunity lifedrain="0"/>
+      <immunity paralyze="1"/>
+      <immunity outfit="1"/>
+      <immunity drunk="1"/>
+      <immunity invisible="1"/>
+    </immunities>
+    <loot>
+      <item id="2148" countmax="100" chance1="100000" chancemax="0"/>
+      <item id="2600" chance="10000"/>
+      <item id="2657" chance="2000"/>
+      <item id="7388" chance="1000"/>
+      <item id="2658" chance="2000"/>
+      <item id="2659" chance="2000"/>
+      <item id="2497" chance="3000"/>
+      <item id="2517" chance="5000"/>
+      <item id="5884" chance="10000"/>
+      <item id="7590" chance="5000"/>
+      <item id="7591" chance="5000"/>
+      <item id="2004" chance="100000">
+        <inside>
+          <item id="2148" countmax="50" chance1="80000" chancemax="0"/>
+          <item id="2411" chance="5000"/>
+          <item id="2792" countmax="5" chance1="6666" chancemax="0"/>
+          <item id="2793" countmax="2" chance1="6666" chancemax="0"/>
+          <item id="2656" chance="1333"/>
+          <item id="2466" chance="800"/>
+          <item id="2436" chance="1428"/>
+          <item id="2123" chance="1000"/>
+        </inside>
+      </item>
+    </loot>
+  </monster>

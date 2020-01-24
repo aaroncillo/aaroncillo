@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="gozzler" nameDescription="gozzler" race="blood" experience="180" speed="220" manacost="800">
+  <health now="240" max="240"/>
+  <look type="313" head="20" body="30" legs="40" feet="50" corpse="5527"/>
+  <targetchange interval="5000" chance="8"/>
+  <strategy attack="100" defense="0"/>
+  <flags>
+    <flag summonable="1"/>
+    <flag attackable="1"/>
+    <flag hostile="1"/>
+    <flag illusionable="1"/>
+    <flag convinceable="0"/>
+    <flag pushable="0"/>
+    <flag canpushitems="1"/>
+    <flag canpushcreatures="1"/>
+    <flag targetdistance="1"/>
+    <flag staticattack="90"/>
+    <flag runonhealth="300"/>
+  </flags>
+  <attacks>
+    <attack name="melee" interval="2000" min="-80" max="-111"/>
+    <attack name="lifedrain" interval="1000" chance="20" range="1" min="-47" max="-60">
+      <attribute key="areaEffect" value="redshimmer"/>
+    </attack>
+  </attacks>
+  <defenses armor="17" defense="23">
+     <defense name="speed" interval="1500" chance="120" range="7" speedchange="300" duration="30000">
+      <attribute key="areaEffect" value="redshimmer"/>
+    </defense>
+  </defenses>
+  <elements>
+	<element deathPercent="50"/>
+	<element physicalPercent="15"/>
+	<element holyPercent="50"/>
+  </elements>
+  <immunities>
+    <immunity lifedrain="1"/>
+    <immunity paralyze="1"/>
+    <immunity invisible="1"/>
+  </immunities>
+    <loot>
+      <item id="2148" countmax="51" chance1="100000" chancemax="0"/>
+      <item id="2050" chance1="3000"/>
+      <item id="2015" chance1="3000"/>
+      <item id="2385" chance1="4000"/>
+      <item id="2394" chance1="5000"/>
+      <item id="2510" chance1="2000"/>
+      <item id="2378" chance1="1000"/>
+    </loot>
+  </monster>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Love Demon" nameDescription="Love Demon" race="fire" experience="500000" speed="1500" manacost="0">
+  <health now="150000" max="150000"/>
+  <look type="12" head="91" body="91" legs="104" feet="91" corpse="6068"/>
+  <targetchange interval="10000" chance="20"/>
+  <strategy attack="100" defense="0"/>
+  <flags>
+    <flag summonable="0"/>
+    <flag attackable="1"/>
+    <flag hostile="1"/>
+    <flag illusionable="0"/>
+    <flag convinceable="1"/>
+    <flag pushable="0"/>
+    <flag canpushitems="1"/>
+    <flag canpushcreatures="1"/>
+    <flag staticattack="85"/>
+    <flag targetdistance="1"/>
+    <flag runonhealth="0"/>
+  </flags>
+<attacks>
+    <attack name="melee" interval="2000" min="-3000" max="-5000"/>
+    <attack name="fire" interval="2000" chance="50" range="7" radius="8" target="1" min="-3500" max="-5000">
+		<attribute key="shootEffect" value="fire"/>
+		<attribute key="areaEffect" value="firearea"/>
+	</attack>
+    <attack name="lifedrain" interval="2000" chance="25" radius="8" target="0" min="-2000" max="-4000">
+		<attribute key="areaEffect" value="rednote"/>
+	</attack>
+	<attack name="death" interval="3000" chance="16" length="8" spread="0" min="-1500" max="-5000">
+		<attribute key="areaEffect" value="mortarea"/>
+	</attack>
+    <attack name="speed" interval="2000" chance="25" target="1" speedchange="-3000" duration="4000">
+		<attribute key="areaEffect" value="redshimmer"/>
+	</attack>
+</attacks>
+<defenses armor="700" defense="700">
+    <defense name="healing" interval="1000" chance="50" min="1000" max="2000">
+      <attribute key="areaEffect" value="blueshimmer"/>
+    </defense>
+  </defenses>
+	<elements>
+		<element physicalPercent="20"/>
+		<element icePercent="-20"/>
+		<element deathPercent="35"/>
+	</elements>
+  <immunities>
+    <immunity energy="0"/>
+    <immunity fire="0"/>
+    <immunity poison="0"/>
+    <immunity lifedrain="0"/>
+    <immunity paralyze="0"/>
+    <immunity invisible="1"/>
+  </immunities>
+  <summons maxSummons="1">
+    <summon name="Ferumbras" interval="2500" chance="25"/>
+  </summons>
+  <voices interval="5000" chance="10000">
+    <voice sentence="te amo ctm!!" yell="1"/>
+    <voice sentence="soy un fleto de mierda!"/>
+	<voice sentence="me gusta el piko!!!" yell="1"/>
+  </voices>
+	<loot>
+		<item id="2160" chance="50000" countmax="100" /> -- white pearl
+		<item id="2160" chance="45000" countmax="100"/> -- Black Pearl
+		<item id="2149" chance="5500" countmax="4" /> -- small emerald
+		<item id="7958" chance="50000" /> -- moonlight rod
+		<item id="2396" chance="1429" /> -- ice rapier
+		<item id="2462" chance="4700" /> -- devil helmet
+		<item id="2214" chance="4000" /> -- ring of healing
+		<item id="2004" chance="100000" > -- bag
+			<inside>
+				<item id="2387" chance="10000" /> -- double axe
+				<item id="7431" chance="7900" /> -- Demonbone
+				<item if="2514" chance="9000" /> -- Mastermind Shield
+				<item id="5943" chance="3400"/> -- Morgaroth Hearth
+				<item id="2393" chance="12000" /> -- giant sword
+				<item id="2195" chance="10333" /> -- boots of haste
+				<item id="2421" chance="7509" /> -- thunder hammer
+			</inside>
+		</item>
+	</loot>
+</monster>

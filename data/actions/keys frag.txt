@@ -1,0 +1,5 @@
+<action itemid="2086" script="key.lua"   /> 
+action uniqueid="1249" script="vocum.lua" />
+action uniqueid="1250" script="vocdois.lua" />
+action uniqueid="1231" script="voctres.lua" />
+action uniqueid="1232" script="vocquatro.lua" />

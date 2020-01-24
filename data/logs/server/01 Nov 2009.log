@@ -1,0 +1,899 @@
+[01/11/2009 02:50:29] The Forgotten Server, version 0.3.4 (Crying Damson)
+[01/11/2009 02:50:29] Sever Criado Por Alissow e Comedinha.
+[01/11/2009 02:50:29] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[01/11/2009 02:50:29] Bom Jogo!!!
+[01/11/2009 02:50:29] 
+[01/11/2009 02:50:29] >> Debugging: nothing.
+[01/11/2009 02:50:29] >> Checking software version... outdated, please consider updating!
+[01/11/2009 02:50:30] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[01/11/2009 02:50:30] > Latest version information - version: 0.3.5, patch: 1, build: 2576, timestamp: 1249584126.
+[01/11/2009 02:50:30] [Warning - ConfigManager::getBool] 62
+[01/11/2009 02:50:31] 
+[01/11/2009 02:50:31] >> Loading config (config.lua)
+[01/11/2009 02:50:31] > Using plaintext passwords
+[01/11/2009 02:50:31] >> Loading RSA key
+[01/11/2009 02:50:31] >> Starting SQL connection
+[01/11/2009 02:50:31] >> Running Database Manager
+[01/11/2009 02:50:33] > Optimized database.
+[01/11/2009 02:50:33] >> Loading items
+[01/11/2009 02:50:34] >> Loading groups
+[01/11/2009 02:50:34] >> Loading vocations
+[01/11/2009 02:50:34] >> Loading script systems
+[01/11/2009 02:50:35] [Warning - Actions::registerEvent] Duplicate registered item id: 2148
+[01/11/2009 02:50:35] [Warning - Actions::registerEvent] Duplicate registered item id: 2152
+[01/11/2009 02:50:35] [Warning - Actions::registerEvent] Duplicate registered item id: 2160
+[01/11/2009 02:50:36] >> Loading chat channels
+[01/11/2009 02:50:37] >> Loading outfits
+[01/11/2009 02:50:37] >> Loading experience stages
+[01/11/2009 02:50:37] >> Loading monsters
+[01/11/2009 02:50:37] >> Loading map and spawns...
+[01/11/2009 02:50:38] > Map size: 512x512.
+[01/11/2009 02:50:38] > Map descriptions: 
+[01/11/2009 02:50:38] Saved with Remere's Map Editor 1.1.9
+[01/11/2009 02:50:38] Remere 's Map Editor Beta
+[01/11/2009 02:50:39] Duplicate uniqueId 2506
+[01/11/2009 02:50:40] Duplicate uniqueId 2471
+[01/11/2009 02:50:41] > Map loading time: 3.391 seconds.
+[01/11/2009 02:50:41] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:41] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:41] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:41] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:41] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:41] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:41] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/Addon Seller.xml).
+[01/11/2009 02:50:41] Info: failed to load external entity "data/npc/Addon Seller.xml"
+[01/11/2009 02:50:41] 
+[01/11/2009 02:50:41] 
+[01/11/2009 02:50:41] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:42] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:42] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:42] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:42] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:42] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:42] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:42] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:42] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:42] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:42] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:42] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:42] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:42] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:42] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:42] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:42] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:42] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:42] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:42] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:42] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:42] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:42] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:42] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:42] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:42] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:42] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:42] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:42] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:43] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:43] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:43] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:43] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:43] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:43] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:43] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:43] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:43] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:43] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:43] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:43] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:43] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:43] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:43] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:43] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:43] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:43] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:43] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:43] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:43] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:43] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:43] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:43] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:43] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:43] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:43] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:44] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:44] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:44] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:44] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:44] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/Addon Seller.xml).
+[01/11/2009 02:50:44] Info: failed to load external entity "data/npc/Addon Seller.xml"
+[01/11/2009 02:50:44] 
+[01/11/2009 02:50:44] 
+[01/11/2009 02:50:44] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:44] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:44] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:44] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:44] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/Addon Seller.xml).
+[01/11/2009 02:50:44] Info: failed to load external entity "data/npc/Addon Seller.xml"
+[01/11/2009 02:50:44] 
+[01/11/2009 02:50:44] 
+[01/11/2009 02:50:44] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:44] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:44] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:44] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:44] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:45] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:45] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:45] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:45] [Warning - Spawns::loadFromXml]  ( 00051 / 00272 / 007 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 02:50:45] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:45] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:45] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:45] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:45] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:45] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:45] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:45] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:45] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:45] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:45] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:45] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:45] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:45] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:45] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:45] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:45] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:45] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:45] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:46] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:46] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:46] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:46] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:46] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:46] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:46] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:46] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:46] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:46] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:46] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:46] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:46] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:46] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:46] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:46] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:46] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:46] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:46] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:46] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:46] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:46] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:46] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:46] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:46] [Warning - Spawns::loadFromXml]  ( 00050 / 00228 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 02:50:47] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:47] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:47] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:47] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:47] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:47] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:47] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:47] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:47] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:47] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:47] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:47] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:47] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:47] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:47] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:47] [Warning - Spawns::loadFromXml]  ( 00159 / 00310 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 02:50:47] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:47] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:47] [Warning - Spawns::loadFromXml]  ( 00154 / 00314 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 02:50:47] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:47] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:48] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:48] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:48] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:48] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:48] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:48] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:48] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:48] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:48] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:48] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:48] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:48] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:48] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:48] [Warning - Spawns::loadFromXml] Whatafuck ( 00058 / 00310 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 02:50:48] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00310 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 02:50:48] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00311 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 02:50:48] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00312 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 02:50:48] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00313 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 02:50:48] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00314 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 02:50:49] [Warning - Spawns::loadFromXml] Whatafuck ( 00041 / 00314 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 02:50:49] [Warning - Spawns::loadFromXml] Whatafuck ( 00042 / 00314 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 02:50:49] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00315 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 02:50:49] [Warning - Spawns::loadFromXml] Whatafuck ( 00041 / 00315 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 02:50:49] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00316 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 02:50:49] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00317 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 02:50:49] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00318 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 02:50:49] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00319 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 02:50:49] [Warning - Spawns::loadFromXml] Whatafuck ( 00041 / 00319 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 02:50:49] [Warning - Spawns::loadFromXml] Whatafuck ( 00042 / 00319 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 02:50:49] [Warning - Spawns::loadFromXml] Whatafuck ( 00053 / 00324 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 02:50:50] [Warning - Spawns::loadFromXml] Whatafuck ( 00052 / 00325 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 02:50:50] [Warning - Spawns::loadFromXml] Whatafuck ( 00053 / 00325 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 02:50:50] [Warning - Spawns::loadFromXml] Whatafuck ( 00052 / 00326 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 02:50:50] [Warning - Spawns::loadFromXml] Whatafuck ( 00037 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 02:50:50] [Warning - Spawns::loadFromXml] Whatafuck ( 00038 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 02:50:50] [Warning - Spawns::loadFromXml] Whatafuck ( 00039 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 02:50:50] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 02:50:50] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:50] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:50] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:50] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:50] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:51] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:51] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:51] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:51] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:51] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:51] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:51] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:51] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:51] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:51] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:51] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:51] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:51] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:51] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:51] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:51] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:51] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:51] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:51] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:51] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:51] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:51] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:51] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:51] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:51] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:51] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:52] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:52] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:52] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:52] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:52] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:52] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:52] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:52] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:52] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:52] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:52] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:52] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:52] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:52] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:52] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:52] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:52] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:52] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:52] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:52] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:52] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:52] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:52] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:52] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:52] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:52] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:52] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:53] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:53] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:53] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:53] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:53] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:53] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:53] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:53] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:53] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:53] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:53] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:53] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:53] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:53] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:53] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:53] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:53] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:53] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:53] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:53] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:53] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:53] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:53] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:53] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:53] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:53] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:54] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:54] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:54] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:54] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:54] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:54] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:54] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:54] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:54] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:54] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:54] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:54] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:54] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:54] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:54] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:54] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:54] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:54] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:54] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:54] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:54] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:54] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:54] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:54] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:54] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:54] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:54] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:55] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:55] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:55] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:55] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:55] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:55] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:55] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:55] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:55] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:55] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:55] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:55] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:55] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:55] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:55] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:55] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:55] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:55] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:55] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:55] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:55] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:55] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:55] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:55] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:55] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:55] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:55] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:56] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:56] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:56] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:56] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:56] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:56] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:56] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:56] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:56] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:56] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:56] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:56] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:56] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:56] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:56] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:56] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:56] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:56] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:56] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:56] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:56] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:56] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:56] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:56] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:56] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:56] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:56] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:56] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:57] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:57] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:57] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:57] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:57] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:57] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:57] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:57] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:57] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:57] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:57] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:57] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:57] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:57] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:57] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:57] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:57] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:57] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:57] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:57] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:57] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:57] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:57] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:57] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:57] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:57] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:57] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:58] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:58] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:58] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:58] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:58] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:58] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:58] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:58] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:58] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:58] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:58] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:58] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:58] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:58] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:58] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:58] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:58] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:58] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:58] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:58] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:58] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:58] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:58] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:58] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:59] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:59] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:59] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:59] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:59] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:59] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:59] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:59] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:59] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:59] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:59] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:59] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:59] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:59] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:59] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:59] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:59] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:59] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:59] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:59] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:59] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:59] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:59] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:59] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:59] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:59] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:50:59] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:51:00] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:51:00] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:51:00] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:51:00] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:51:00] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:51:00] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:51:00] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:51:00] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:51:00] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:51:00] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:51:00] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:51:00] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:51:00] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:51:00] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:51:00] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:51:00] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:51:00] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:51:00] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:51:00] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:51:00] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:51:00] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:51:00] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:51:00] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:51:00] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:51:00] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:51:00] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:51:00] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:51:01] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:51:01] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:51:01] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:51:01] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:51:01] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:51:01] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:51:01] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:51:01] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:51:01] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:51:01] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:51:01] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:51:01] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:51:01] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:51:01] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:51:01] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:51:01] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:51:01] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:51:01] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:51:01] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:51:01] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:51:01] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:51:01] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:51:01] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:51:01] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:51:01] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:51:01] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:51:01] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:51:02] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:51:02] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:51:02] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:51:02] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:51:02] [Spawn::addMonster] Cannot find ""
+[01/11/2009 02:51:02] [Warning - Houses::loadFromXml] House entry not set for:  (158)
+[01/11/2009 02:51:02] > Data loading time: 21.172 seconds.
+[01/11/2009 02:51:02] > Unserialization time for houses: 0.094 seconds.
+[01/11/2009 02:51:14] > Unserialization time for map: 11.5 seconds.
+[01/11/2009 02:51:14] >> Checking world type... PvP
+[01/11/2009 02:51:14] >> Initializing game state modules and registering services...
+[01/11/2009 02:51:14] > Global address: 201.246.47.141
+[01/11/2009 02:51:15] > Local ports:
+[01/11/2009 02:51:15] 7171	7172	
+[01/11/2009 02:51:15] >> All modules were loaded, server starting up...
+[01/11/2009 02:51:15] >> Aggrometal server server Online!
+[01/11/2009 02:51:15] 
+[01/11/2009 02:51:55] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[01/11/2009 02:51:57] Hoster Aggresor has logged in.
+[01/11/2009 02:53:19] > Broadcasted message: "whatafuck csm invaden aggro city".
+[01/11/2009 02:53:42] [Error - SingleSpawnEvent::executeEvent] Cannot spawn monster Diblis The Fair
+[01/11/2009 03:00:37] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo para saber tus spells diga !spells. PD: los addons se compran asi ej: first citizen addon, second citizen addon, los items se compran con bulma el npc que esta en el subterraneo del templo para vips".
+[01/11/2009 03:02:48] Reloaded monsters.
+[01/11/2009 03:05:37] > Saving server...
+[01/11/2009 03:05:45] > SAVE: Complete in 7.609 seconds using relational house storage.
+[01/11/2009 03:10:38] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo para saber tus spells diga !spells. PD: los addons se compran asi ej: first citizen addon, second citizen addon, los items se compran con bulma el npc que esta en el subterraneo del templo para vips".
+[01/11/2009 03:15:14] > Broadcasted message: "O lord das torturas invadio a sala de Tafariel, os deuses nao gostaram nada disso...".
+[01/11/2009 03:15:15] [Error - SingleSpawnEvent::executeEvent] Cannot spawn monster Mr. Punish
+[01/11/2009 03:15:24] [Warning - Actions::registerEvent] Duplicate registered item id: 2148
+[01/11/2009 03:15:25] [Warning - Actions::registerEvent] Duplicate registered item id: 2152
+[01/11/2009 03:15:25] [Warning - Actions::registerEvent] Duplicate registered item id: 2160
+[01/11/2009 03:15:25] 
+[01/11/2009 03:15:25] Lua Script Error: [Npc interface] 
+[01/11/2009 03:15:25] data/npc/scripts/default.lua:onThink
+[01/11/2009 03:15:25] 
+[01/11/2009 03:15:25] luaCreateConditionObject(). This function can only be used while loading the script.
+[01/11/2009 03:15:25] 
+[01/11/2009 03:15:25] Lua Script Error: 
+[01/11/2009 03:15:25] luaSetConditionParam(). This function can only be used while loading the script.
+[01/11/2009 03:15:25] 
+[01/11/2009 03:15:25] Lua Script Error: 
+[01/11/2009 03:15:25] luaCreateConditionObject(). This function can only be used while loading the script.
+[01/11/2009 03:15:25] 
+[01/11/2009 03:15:25] Lua Script Error: 
+[01/11/2009 03:15:25] luaAddDamageCondition(). This function can only be used while loading the script.
+[01/11/2009 03:15:26] 
+[01/11/2009 03:15:26] Lua Script Error: 
+[01/11/2009 03:15:26] luaAddDamageCondition(). This function can only be used while loading the script.
+[01/11/2009 03:15:26] 
+[01/11/2009 03:15:26] Lua Script Error: 
+[01/11/2009 03:15:26] luaAddDamageCondition(). This function can only be used while loading the script.
+[01/11/2009 03:15:26] 
+[01/11/2009 03:15:26] Lua Script Error: 
+[01/11/2009 03:15:26] luaAddDamageCondition(). This function can only be used while loading the script.
+[01/11/2009 03:15:26] 
+[01/11/2009 03:15:26] Lua Script Error: 
+[01/11/2009 03:15:26] luaAddDamageCondition(). This function can only be used while loading the script.
+[01/11/2009 03:15:26] 
+[01/11/2009 03:15:26] Lua Script Error: 
+[01/11/2009 03:15:26] luaCreateConditionObject(). This function can only be used while loading the script.
+[01/11/2009 03:15:26] 
+[01/11/2009 03:15:26] Lua Script Error: 
+[01/11/2009 03:15:26] luaAddDamageCondition(). This function can only be used while loading the script.
+[01/11/2009 03:15:26] 
+[01/11/2009 03:15:26] Lua Script Error: 
+[01/11/2009 03:15:27] luaAddDamageCondition(). This function can only be used while loading the script.
+[01/11/2009 03:15:27] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/boots.lua)
+[01/11/2009 03:15:27] data/actions/scripts/boots.lua:5: unexpected symbol near ')'
+[01/11/2009 03:15:27] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/darknessarmor.lua)
+[01/11/2009 03:15:27] cannot open data/actions/scripts/darknessarmor.lua: No such file or directory
+[01/11/2009 03:15:28] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/darknessshield.lua)
+[01/11/2009 03:15:28] cannot open data/actions/scripts/darknessshield.lua: No such file or directory
+[01/11/2009 03:15:28] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/darknesslegs.lua)
+[01/11/2009 03:15:28] cannot open data/actions/scripts/darknesslegs.lua: No such file or directory
+[01/11/2009 03:15:28] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/razgoslegs.lua)
+[01/11/2009 03:15:28] data/actions/scripts/razgoslegs.lua:5: unexpected symbol near ')'
+[01/11/2009 03:15:28] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/razgosmask.lua)
+[01/11/2009 03:15:28] data/actions/scripts/razgosmask.lua:5: unexpected symbol near ')'
+[01/11/2009 03:15:28] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/spellrune.lua)
+[01/11/2009 03:15:29] data/actions/scripts/spellrune.lua:5: unexpected symbol near ')'
+[01/11/2009 03:15:29] Reloaded actions.
+[01/11/2009 03:18:14] > Broadcasted message: "O lord das torturas invadio a sala de Tafariel, os deuses nao gostaram nada disso...".
+[01/11/2009 03:18:15] [Error - SingleSpawnEvent::executeEvent] Cannot spawn monster Mr. Punish
+[01/11/2009 03:20:38] > Saving server...
+[01/11/2009 03:20:45] > SAVE: Complete in 6.281 seconds using relational house storage.
+[01/11/2009 03:20:45] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo para saber tus spells diga !spells. PD: los addons se compran asi ej: first citizen addon, second citizen addon, los items se compran con bulma el npc que esta en el subterraneo del templo para vips".
+[01/11/2009 03:22:54] 
+[01/11/2009 03:22:54] Lua Script Error: [Npc interface] 
+[01/11/2009 03:22:54] data/npc/scripts/promotion.lua:onThink
+[01/11/2009 03:22:54] 
+[01/11/2009 03:22:54] luaSetConditionParam(). This function can only be used while loading the script.
+[01/11/2009 03:22:55] [Warning - Actions::registerEvent] Duplicate registered item id: 2148
+[01/11/2009 03:22:55] [Warning - Actions::registerEvent] Duplicate registered item id: 2152
+[01/11/2009 03:22:55] [Warning - Actions::registerEvent] Duplicate registered item id: 2160
+[01/11/2009 03:22:55] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/darknessarmor.lua)
+[01/11/2009 03:22:56] cannot open data/actions/scripts/darknessarmor.lua: No such file or directory
+[01/11/2009 03:22:56] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/darknessshield.lua)
+[01/11/2009 03:22:56] cannot open data/actions/scripts/darknessshield.lua: No such file or directory
+[01/11/2009 03:22:56] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/darknesslegs.lua)
+[01/11/2009 03:22:56] cannot open data/actions/scripts/darknesslegs.lua: No such file or directory
+[01/11/2009 03:22:56] Reloaded actions.
+[01/11/2009 03:23:35] [Warning - Actions::registerEvent] Duplicate registered item id: 2148
+[01/11/2009 03:23:36] [Warning - Actions::registerEvent] Duplicate registered item id: 2152
+[01/11/2009 03:23:36] [Warning - Actions::registerEvent] Duplicate registered item id: 2160
+[01/11/2009 03:23:36] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/darknessshield.lua)
+[01/11/2009 03:23:36] data/actions/scripts/darknessshield.lua:5: unexpected symbol near ')'
+[01/11/2009 03:23:36] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/darknesslegs.lua)
+[01/11/2009 03:23:37] cannot open data/actions/scripts/darknesslegs.lua: No such file or directory
+[01/11/2009 03:23:37] Reloaded actions.
+[01/11/2009 03:23:55] [Warning - Actions::registerEvent] Duplicate registered item id: 2148
+[01/11/2009 03:23:55] [Warning - Actions::registerEvent] Duplicate registered item id: 2152
+[01/11/2009 03:23:55] [Warning - Actions::registerEvent] Duplicate registered item id: 2160
+[01/11/2009 03:23:56] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/darknessshield.lua)
+[01/11/2009 03:23:56] data/actions/scripts/darknessshield.lua:5: unexpected symbol near ')'
+[01/11/2009 03:23:56] Reloaded actions.
+[01/11/2009 03:24:35] [Warning - Actions::registerEvent] Duplicate registered item id: 2148
+[01/11/2009 03:24:35] [Warning - Actions::registerEvent] Duplicate registered item id: 2152
+[01/11/2009 03:24:35] [Warning - Actions::registerEvent] Duplicate registered item id: 2160
+[01/11/2009 03:24:36] Reloaded actions.
+[01/11/2009 03:26:14] > Broadcasted message: "A suprema corte de Zathroth mais uma ves resolveu causar caos e destruicao aos mortais e mandou um de seus lacaios The Imperor para destruir quem va ao encontro da sala de infernatil.".
+[01/11/2009 03:26:15] [Error - SingleSpawnEvent::executeEvent] Cannot spawn monster The Imperor
+[01/11/2009 03:26:19] Reloaded monsters.
+[01/11/2009 03:30:46] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo para saber tus spells diga !spells. PD: los addons se compran asi ej: first citizen addon, second citizen addon, los items se compran con bulma el npc que esta en el subterraneo del templo para vips".
+[01/11/2009 03:32:14] [Error - SingleSpawnEvent::executeEvent] Cannot spawn monster Grynch Clan Goblin
+[01/11/2009 03:35:39] > Saving server...
+[01/11/2009 03:35:47] > SAVE: Complete in 7.343 seconds using relational house storage.
+[01/11/2009 03:39:19] > Broadcasted message: "whatafuck csm invaden aggro city".
+[01/11/2009 03:39:43] [Error - SingleSpawnEvent::executeEvent] Cannot spawn monster Diblis The Fair
+[01/11/2009 03:40:47] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo para saber tus spells diga !spells. PD: los addons se compran asi ej: first citizen addon, second citizen addon, los items se compran con bulma el npc que esta en el subterraneo del templo para vips".
+[01/11/2009 03:48:14] > Broadcasted message: "Dracola, o dragao morto vivo veio em busca de mais almas para dar em oferendas a seu mestre Ashfalor, um drago que ninguem nunca viveu para contar historia.".
+[01/11/2009 03:48:16] [Error - SingleSpawnEvent::executeEvent] Cannot spawn monster Dracola
+[01/11/2009 03:50:40] > Saving server...
+[01/11/2009 03:50:47] > SAVE: Complete in 7.063 seconds using relational house storage.
+[01/11/2009 03:50:48] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo para saber tus spells diga !spells. PD: los addons se compran asi ej: first citizen addon, second citizen addon, los items se compran con bulma el npc que esta en el subterraneo del templo para vips".
+[01/11/2009 04:00:49] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo para saber tus spells diga !spells. PD: los addons se compran asi ej: first citizen addon, second citizen addon, los items se compran con bulma el npc que esta en el subterraneo del templo para vips".
+[01/11/2009 04:05:41] > Saving server...
+[01/11/2009 04:05:50] > SAVE: Complete in 8.953 seconds using relational house storage.
+[01/11/2009 04:10:50] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo para saber tus spells diga !spells. PD: los addons se compran asi ej: first citizen addon, second citizen addon, los items se compran con bulma el npc que esta en el subterraneo del templo para vips".
+[01/11/2009 04:15:15] > Broadcasted message: "Dracola, o dragao morto vivo veio em busca de mais almas para dar em oferendas a seu mestre Ashfalor, um drago que ninguem nunca viveu para contar historia.".
+[01/11/2009 04:15:16] [Error - SingleSpawnEvent::executeEvent] Cannot spawn monster Dracola
+[01/11/2009 04:20:42] > Saving server...
+[01/11/2009 04:20:49] > SAVE: Complete in 7.64 seconds using relational house storage.
+[01/11/2009 04:20:51] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo para saber tus spells diga !spells. PD: los addons se compran asi ej: first citizen addon, second citizen addon, los items se compran con bulma el npc que esta en el subterraneo del templo para vips".
+[01/11/2009 04:22:15] > Broadcasted message: "Bazir o lord da mentira pos mais um desafio em sua sala para atormentar os mortais".
+[01/11/2009 04:22:16] [Error - SingleSpawnEvent::executeEvent] Cannot spawn monster The Countess Sorrow
+[01/11/2009 04:26:20] Hoster Aggresor has logged out.
+[01/11/2009 04:30:52] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo para saber tus spells diga !spells. PD: los addons se compran asi ej: first citizen addon, second citizen addon, los items se compran con bulma el npc que esta en el subterraneo del templo para vips".
+[01/11/2009 04:35:43] > Saving server...
+[01/11/2009 04:35:56] > SAVE: Complete in 12.687 seconds using relational house storage.
+[01/11/2009 04:40:53] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo para saber tus spells diga !spells. PD: los addons se compran asi ej: first citizen addon, second citizen addon, los items se compran con bulma el npc que esta en el subterraneo del templo para vips".
+[01/11/2009 04:43:15] > Broadcasted message: "Mu invade aggro city".
+[01/11/2009 04:50:37] > Broadcasted message: "la limpieza del mapa empieza en 30 segundos, por favor wn recoje tus items!".
+[01/11/2009 04:50:44] > Saving server...
+[01/11/2009 04:50:50] > SAVE: Complete in 6.375 seconds using relational house storage.
+[01/11/2009 04:50:54] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo para saber tus spells diga !spells. PD: los addons se compran asi ej: first citizen addon, second citizen addon, los items se compran con bulma el npc que esta en el subterraneo del templo para vips".
+[01/11/2009 04:51:07] > CLEAN: Removed 11 items from 58 tiles in 0.391 seconds.
+[01/11/2009 04:51:07] > Broadcasted message: "el mapa se limpio :P, siguiente limpieza en 2 horas.".
+[01/11/2009 04:58:34] > Saving server...
+[01/11/2009 04:58:42] > SAVE: Complete in 7.578 seconds using relational house storage.
+[01/11/2009 04:58:42] Preparing to shutdown server..
+[01/11/2009 04:58:43] .
+[01/11/2009 04:58:43] Exiting
+[01/11/2009 04:59:26] The Forgotten Server, version 0.3.4 (Crying Damson)
+[01/11/2009 04:59:26] Sever Criado Por Alissow e Comedinha.
+[01/11/2009 04:59:26] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[01/11/2009 04:59:26] Bom Jogo!!!
+[01/11/2009 04:59:26] 
+[01/11/2009 04:59:26] >> Debugging: nothing.
+[01/11/2009 04:59:26] >> Checking software version... outdated, please consider updating!
+[01/11/2009 04:59:27] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[01/11/2009 04:59:27] > Latest version information - version: 0.3.5, patch: 1, build: 2576, timestamp: 1249584126.
+[01/11/2009 04:59:28] [Warning - ConfigManager::getBool] 62
+[01/11/2009 04:59:28] 
+[01/11/2009 04:59:28] >> Loading config (config.lua)
+[01/11/2009 04:59:28] > Using plaintext passwords
+[01/11/2009 04:59:28] >> Loading RSA key
+[01/11/2009 04:59:28] >> Starting SQL connection
+[01/11/2009 04:59:28] >> Running Database Manager
+[01/11/2009 04:59:29] > Optimized database.
+[01/11/2009 04:59:29] >> Loading items
+[01/11/2009 04:59:30] >> Loading groups
+[01/11/2009 04:59:30] >> Loading vocations
+[01/11/2009 04:59:30] >> Loading script systems
+[01/11/2009 04:59:32] [Warning - Actions::registerEvent] Duplicate registered item id: 2148
+[01/11/2009 04:59:32] [Warning - Actions::registerEvent] Duplicate registered item id: 2152
+[01/11/2009 04:59:32] [Warning - Actions::registerEvent] Duplicate registered item id: 2160
+[01/11/2009 04:59:34] >> Loading chat channels
+[01/11/2009 04:59:34] >> Loading outfits
+[01/11/2009 04:59:34] >> Loading experience stages
+[01/11/2009 04:59:34] >> Loading monsters
+[01/11/2009 04:59:37] >> Loading map and spawns...
+[01/11/2009 04:59:38] > Map size: 512x512.
+[01/11/2009 04:59:38] > Map descriptions: 
+[01/11/2009 04:59:38] Saved with Remere's Map Editor 1.1.9
+[01/11/2009 04:59:38] Remere 's Map Editor Beta
+[01/11/2009 04:59:39] Duplicate uniqueId 2506
+[01/11/2009 04:59:40] Duplicate uniqueId 2471
+[01/11/2009 04:59:42] > Map loading time: 4.625 seconds.
+[01/11/2009 04:59:42] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/Addon Seller.xml).
+[01/11/2009 04:59:42] Info: failed to load external entity "data/npc/Addon Seller.xml"
+[01/11/2009 04:59:43] 
+[01/11/2009 04:59:43] 
+[01/11/2009 04:59:43] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/Addon Seller.xml).
+[01/11/2009 04:59:43] Info: failed to load external entity "data/npc/Addon Seller.xml"
+[01/11/2009 04:59:43] 
+[01/11/2009 04:59:43] 
+[01/11/2009 04:59:43] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/Addon Seller.xml).
+[01/11/2009 04:59:43] Info: failed to load external entity "data/npc/Addon Seller.xml"
+[01/11/2009 04:59:43] 
+[01/11/2009 04:59:43] 
+[01/11/2009 04:59:43] [Warning - Spawns::loadFromXml] Snow Soul ( 00044 / 00277 / 007 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 04:59:43] [Warning - Spawns::loadFromXml] Whatafuck ( 00058 / 00310 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 04:59:43] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00310 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 04:59:44] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00311 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 04:59:44] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00312 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 04:59:44] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00313 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 04:59:44] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00314 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 04:59:44] [Warning - Spawns::loadFromXml] Whatafuck ( 00041 / 00314 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 04:59:44] [Warning - Spawns::loadFromXml] Whatafuck ( 00042 / 00314 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 04:59:44] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00315 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 04:59:45] [Warning - Spawns::loadFromXml] Whatafuck ( 00041 / 00315 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 04:59:45] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00316 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 04:59:45] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00317 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 04:59:45] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00318 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 04:59:45] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00319 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 04:59:45] [Warning - Spawns::loadFromXml] Whatafuck ( 00041 / 00319 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 04:59:45] [Warning - Spawns::loadFromXml] Whatafuck ( 00042 / 00319 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 04:59:45] [Warning - Spawns::loadFromXml] Whatafuck ( 00053 / 00324 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 04:59:46] [Warning - Spawns::loadFromXml] Whatafuck ( 00052 / 00325 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 04:59:46] [Warning - Spawns::loadFromXml] Whatafuck ( 00053 / 00325 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 04:59:46] [Warning - Spawns::loadFromXml] Whatafuck ( 00052 / 00326 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 04:59:46] [Warning - Spawns::loadFromXml] Whatafuck ( 00037 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 04:59:46] [Warning - Spawns::loadFromXml] Whatafuck ( 00038 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 04:59:46] [Warning - Spawns::loadFromXml] Whatafuck ( 00039 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 04:59:46] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 04:59:47] [Warning - Spawns::loadFromXml] Gorg Bosh ( 00146 / 00343 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 04:59:47] [Warning - Spawns::loadFromXml] Saddam Hussein ( 00098 / 00385 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 04:59:47] [Warning - Houses::loadFromXml] House entry not set for:  (158)
+[01/11/2009 04:59:47] > Data loading time: 5.156 seconds.
+[01/11/2009 04:59:47] > Unserialization time for houses: 0.14 seconds.
+[01/11/2009 05:00:03] > Unserialization time for map: 15.406 seconds.
+[01/11/2009 05:00:03] >> Checking world type... PvP
+[01/11/2009 05:00:03] >> Initializing game state modules and registering services...
+[01/11/2009 05:00:04] > Global address: 201.246.47.141
+[01/11/2009 05:00:04] > Local ports:
+[01/11/2009 05:00:04] 7171	7172	
+[01/11/2009 05:00:04] >> All modules were loaded, server starting up...
+[01/11/2009 05:00:04] >> Aggrometal server server Online!
+[01/11/2009 05:00:04] 
+[01/11/2009 05:00:17] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[01/11/2009 05:00:20] Hoster Aggresor has logged in.
+[01/11/2009 05:09:35] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo para saber tus spells diga !spells. PD: los addons se compran asi ej: first citizen addon, second citizen addon, los items se compran con bulma el npc que esta en el subterraneo del templo para vips".
+[01/11/2009 05:14:35] > Saving server...
+[01/11/2009 05:14:46] > SAVE: Complete in 10.219 seconds using relational house storage.
+[01/11/2009 05:19:36] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo para saber tus spells diga !spells. PD: los addons se compran asi ej: first citizen addon, second citizen addon, los items se compran con bulma el npc que esta en el subterraneo del templo para vips".
+[01/11/2009 05:29:36] > Saving server...
+[01/11/2009 05:29:43] > SAVE: Complete in 6.797 seconds using relational house storage.
+[01/11/2009 05:29:43] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo para saber tus spells diga !spells. PD: los addons se compran asi ej: first citizen addon, second citizen addon, los items se compran con bulma el npc que esta en el subterraneo del templo para vips".
+[01/11/2009 05:33:03] > Broadcasted message: "O lord das torturas invadio a sala de Tafariel, os deuses nao gostaram nada disso...".
+[01/11/2009 05:33:05] [Error - SingleSpawnEvent::executeEvent] Cannot spawn monster Mr. Punish
+[01/11/2009 05:39:45] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo para saber tus spells diga !spells. PD: los addons se compran asi ej: first citizen addon, second citizen addon, los items se compran con bulma el npc que esta en el subterraneo del templo para vips".
+[01/11/2009 05:44:37] > Saving server...
+[01/11/2009 05:44:49] > SAVE: Complete in 11.859 seconds using relational house storage.
+[01/11/2009 05:49:45] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo para saber tus spells diga !spells. PD: los addons se compran asi ej: first citizen addon, second citizen addon, los items se compran con bulma el npc que esta en el subterraneo del templo para vips".
+[01/11/2009 05:59:38] > Saving server...
+[01/11/2009 05:59:45] > SAVE: Complete in 7.203 seconds using relational house storage.
+[01/11/2009 05:59:46] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo para saber tus spells diga !spells. PD: los addons se compran asi ej: first citizen addon, second citizen addon, los items se compran con bulma el npc que esta en el subterraneo del templo para vips".
+[01/11/2009 06:00:48] Hoster Aggresor has logged out.
+[01/11/2009 22:57:44] The Forgotten Server, version 0.3.4 (Crying Damson)
+[01/11/2009 22:57:44] Sever Criado Por Alissow e Comedinha.
+[01/11/2009 22:57:44] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[01/11/2009 22:57:44] Bom Jogo!!!
+[01/11/2009 22:57:44] 
+[01/11/2009 22:57:44] >> Debugging: nothing.
+[01/11/2009 22:57:44] >> Checking software version... outdated, please consider updating!
+[01/11/2009 22:57:48] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[01/11/2009 22:57:48] > Latest version information - version: 0.3.5, patch: 1, build: 2576, timestamp: 1249584126.
+[01/11/2009 22:57:48] [Warning - ConfigManager::getBool] 62
+[01/11/2009 22:57:48] 
+[01/11/2009 22:57:48] >> Loading config (config.lua)
+[01/11/2009 22:57:48] > Using plaintext passwords
+[01/11/2009 22:57:48] >> Loading RSA key
+[01/11/2009 22:57:48] >> Starting SQL connection
+[01/11/2009 22:57:49] >> Running Database Manager
+[01/11/2009 22:57:51] > Optimized database.
+[01/11/2009 22:57:51] >> Loading items
+[01/11/2009 22:57:52] >> Loading groups
+[01/11/2009 22:57:53] >> Loading vocations
+[01/11/2009 22:57:53] >> Loading script systems
+[01/11/2009 22:57:57] [Warning - Actions::registerEvent] Duplicate registered item id: 2148
+[01/11/2009 22:57:57] [Warning - Actions::registerEvent] Duplicate registered item id: 2152
+[01/11/2009 22:57:57] [Warning - Actions::registerEvent] Duplicate registered item id: 2160
+[01/11/2009 22:58:02] >> Loading chat channels
+[01/11/2009 22:58:02] >> Loading outfits
+[01/11/2009 22:58:02] >> Loading experience stages
+[01/11/2009 22:58:02] >> Loading monsters
+[01/11/2009 22:58:06] >> Loading map and spawns...
+[01/11/2009 22:58:07] > Map size: 512x512.
+[01/11/2009 22:58:07] > Map descriptions: 
+[01/11/2009 22:58:08] Saved with Remere's Map Editor 1.1.9
+[01/11/2009 22:58:08] Remere 's Map Editor Beta
+[01/11/2009 22:58:10] Duplicate uniqueId 2506
+[01/11/2009 22:58:11] Duplicate uniqueId 2471
+[01/11/2009 22:58:12] Duplicate uniqueId 8877
+[01/11/2009 22:58:13] > Map loading time: 6.687 seconds.
+[01/11/2009 22:58:15] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/Addon Seller.xml).
+[01/11/2009 22:58:15] Info: failed to load external entity "data/npc/Addon Seller.xml"
+[01/11/2009 22:58:15] 
+[01/11/2009 22:58:15] 
+[01/11/2009 22:58:15] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/Addon Seller.xml).
+[01/11/2009 22:58:15] Info: failed to load external entity "data/npc/Addon Seller.xml"
+[01/11/2009 22:58:16] 
+[01/11/2009 22:58:16] 
+[01/11/2009 22:58:16] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/Addon Seller.xml).
+[01/11/2009 22:58:16] Info: failed to load external entity "data/npc/Addon Seller.xml"
+[01/11/2009 22:58:16] 
+[01/11/2009 22:58:16] 
+[01/11/2009 22:58:16] [Warning - Spawns::loadFromXml] Snow Soul ( 00044 / 00277 / 007 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 22:58:16] [Warning - Spawns::loadFromXml] Whatafuck ( 00058 / 00310 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 22:58:16] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00310 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 22:58:16] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00311 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 22:58:17] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00312 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 22:58:17] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00313 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 22:58:17] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00314 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 22:58:17] [Warning - Spawns::loadFromXml] Whatafuck ( 00041 / 00314 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 22:58:17] [Warning - Spawns::loadFromXml] Whatafuck ( 00042 / 00314 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 22:58:17] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00315 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 22:58:17] [Warning - Spawns::loadFromXml] Whatafuck ( 00041 / 00315 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 22:58:17] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00316 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 22:58:18] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00317 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 22:58:18] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00318 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 22:58:18] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00319 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 22:58:18] [Warning - Spawns::loadFromXml] Whatafuck ( 00041 / 00319 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 22:58:18] [Warning - Spawns::loadFromXml] Whatafuck ( 00042 / 00319 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 22:58:18] [Warning - Spawns::loadFromXml] Whatafuck ( 00053 / 00324 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 22:58:18] [Warning - Spawns::loadFromXml] Whatafuck ( 00052 / 00325 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 22:58:18] [Warning - Spawns::loadFromXml] Whatafuck ( 00053 / 00325 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 22:58:18] [Warning - Spawns::loadFromXml] Whatafuck ( 00052 / 00326 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 22:58:18] [Warning - Spawns::loadFromXml] Whatafuck ( 00037 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 22:58:18] [Warning - Spawns::loadFromXml] Whatafuck ( 00038 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 22:58:19] [Warning - Spawns::loadFromXml] Whatafuck ( 00039 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 22:58:19] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 22:58:19] [Warning - Spawns::loadFromXml] Gorg Bosh ( 00146 / 00343 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 22:58:19] [Warning - Spawns::loadFromXml] Saddam Hussein ( 00098 / 00385 / 008 ) spawntime cannot be less than 1 seconds.
+[01/11/2009 22:58:19] [Warning - Houses::loadFromXml] House entry not set for:  (158)
+[01/11/2009 22:58:19] > Data loading time: 6.406 seconds.
+[01/11/2009 22:58:21] > Unserialization time for houses: 1.968 seconds.
+[01/11/2009 22:58:33] > Unserialization time for map: 11.375 seconds.
+[01/11/2009 22:58:33] >> Checking world type... PvP
+[01/11/2009 22:58:33] >> Initializing game state modules and registering services...
+[01/11/2009 22:58:34] > Global address: 201.246.47.141
+[01/11/2009 22:58:36] > Local ports:
+[01/11/2009 22:58:36] 7171	7172	
+[01/11/2009 22:58:36] >> All modules were loaded, server starting up...
+[01/11/2009 22:58:36] >> Aggrometal server server Online!
+[01/11/2009 22:58:36] 
+[01/11/2009 23:00:24] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[01/11/2009 23:00:27] Hoster Aggresor has logged in.
+[01/11/2009 23:08:03] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo para saber tus spells diga !spells. PD: los addons se compran asi ej: first citizen addon, second citizen addon, los items se compran con bulma el npc que esta en el subterraneo del templo para vips".
+[01/11/2009 23:13:03] > Saving server...
+[01/11/2009 23:13:18] > SAVE: Complete in 14.782 seconds using relational house storage.
+[01/11/2009 23:18:04] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo para saber tus spells diga !spells. PD: los addons se compran asi ej: first citizen addon, second citizen addon, los items se compran con bulma el npc que esta en el subterraneo del templo para vips".
+[01/11/2009 23:28:04] > Saving server...
+[01/11/2009 23:28:21] > SAVE: Complete in 16.797 seconds using relational house storage.
+[01/11/2009 23:28:21] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo para saber tus spells diga !spells. PD: los addons se compran asi ej: first citizen addon, second citizen addon, los items se compran con bulma el npc que esta en el subterraneo del templo para vips".
+[01/11/2009 23:38:22] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo para saber tus spells diga !spells. PD: los addons se compran asi ej: first citizen addon, second citizen addon, los items se compran con bulma el npc que esta en el subterraneo del templo para vips".
+[01/11/2009 23:43:05] > Saving server...
+[01/11/2009 23:43:13] > SAVE: Complete in 7.797 seconds using relational house storage.
+[01/11/2009 23:48:23] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo para saber tus spells diga !spells. PD: los addons se compran asi ej: first citizen addon, second citizen addon, los items se compran con bulma el npc que esta en el subterraneo del templo para vips".
+[01/11/2009 23:58:07] > Saving server...
+[01/11/2009 23:58:33] > SAVE: Complete in 26.5 seconds using relational house storage.
+[01/11/2009 23:58:33] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo para saber tus spells diga !spells. PD: los addons se compran asi ej: first citizen addon, second citizen addon, los items se compran con bulma el npc que esta en el subterraneo del templo para vips".

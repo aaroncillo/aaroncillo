@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Caballero de bronce" script="data/npc/scripts/default.lua" walkinterval="2000" floorchange="0">
+	<health now="100" max="100"/>
+	<look type="134" head="57" body="57" legs="57" feet="57" addons="3"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="oe wn |PLAYERNAME|. anda pasa por las 12 casas y salva a andromeda ctm! me trai la fur set ok di {trade}."/>
+		<parameter key="shop_sellable" value="mammoth fur cape,7463,5000000;mammoth fur shorts,7464,5000000;fur boots,7457,5000000;jester hat,7957,5000000"/>
+	</parameters>
+</npc>

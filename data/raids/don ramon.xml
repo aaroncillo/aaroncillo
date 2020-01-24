@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<raid>
+  <!--Announcements-->
+  <announce delay="500" type="Event" message=" Don Ramon A Llegado En Busca De Victimas" />
+  <!--Single Spawns-->
+  <singlespawn delay="10000" name="Don Ramon" x="160" y="67" z="7" />
+</raid>

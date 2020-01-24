@@ -1,0 +1,202 @@
+[17/12/2009 19:26:41] The Forgotten Server, version 0.3.4 (Crying Damson)
+[17/12/2009 19:26:45] Sever Criado Por Alissow e Comedinha.
+[17/12/2009 19:26:48] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[17/12/2009 19:26:51] Bom Jogo!!!
+[17/12/2009 19:26:52] 
+[17/12/2009 19:26:52] >> Debugging: nothing.
+[17/12/2009 19:26:54] >> Checking software version... outdated, please consider updating!
+[17/12/2009 19:26:58] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[17/12/2009 19:27:00] > Latest version information - version: 0.3.6, patch: 0, build: 3293, timestamp: 1260652199.
+[17/12/2009 19:27:01] [Warning - ConfigManager::getBool] 62
+[17/12/2009 19:27:01] 
+[17/12/2009 19:27:01] >> Loading config (config.lua)
+[17/12/2009 19:27:01] > Using plaintext passwords
+[17/12/2009 19:27:01] >> Loading RSA key
+[17/12/2009 19:27:01] >> Starting SQL connection
+[17/12/2009 19:27:01] >> Running Database Manager
+[17/12/2009 19:27:14] > Optimized database.
+[17/12/2009 19:27:14] >> Loading items
+[17/12/2009 19:27:16] [Warning - Items::loadFromXml] Unknown key value skillDistance
+[17/12/2009 19:27:16] >> Loading groups
+[17/12/2009 19:27:16] >> Loading vocations
+[17/12/2009 19:27:16] >> Loading script systems
+[17/12/2009 19:27:21] [Warning - Actions::registerEvent] Duplicate registered item with id: 7131, in fromid: 7131 and toid: 7132
+[17/12/2009 19:27:21] [Warning - Actions::registerEvent] Duplicate registered item with id: 7132, in fromid: 7131 and toid: 7132
+[17/12/2009 19:27:33] >> Loading chat channels
+[17/12/2009 19:27:33] >> Loading outfits
+[17/12/2009 19:27:33] >> Loading experience stages
+[17/12/2009 19:27:34] >> Loading monsters
+[17/12/2009 19:27:41] >> Loading map and spawns...
+[17/12/2009 19:27:47] > Map size: 1100x1100.
+[17/12/2009 19:27:48] > Map descriptions: 
+[17/12/2009 19:27:48] Saved with Remere's Map Editor 1.1.9
+[17/12/2009 19:27:48] Remere 's Map Editor Beta
+[17/12/2009 19:28:07] Duplicate uniqueId 9911
+[17/12/2009 19:28:11] Duplicate uniqueId 9912
+[17/12/2009 19:28:12] Duplicate uniqueId 9913
+[17/12/2009 19:28:12] Duplicate uniqueId 9914
+[17/12/2009 19:28:12] Duplicate uniqueId 9915
+[17/12/2009 19:28:25] Duplicate uniqueId 2471
+[17/12/2009 19:28:43] Duplicate uniqueId 8880
+[17/12/2009 19:28:50] Duplicate uniqueId 8880
+[17/12/2009 19:28:51] Duplicate uniqueId 5006
+[17/12/2009 19:28:51] > Map loading time: 70.609 seconds.
+[17/12/2009 19:29:05] [Notice - Npc::Npc] NPC Name: Blesser - autowalk has been deprecated, use walkinterval.
+[17/12/2009 19:29:05] [Warning - NpcScript::NpcScript] Cannot load script: data/npc/scripts/bless.lua
+[17/12/2009 19:29:06] data/npc/scripts/bless.lua:39: unfinished string near ''Yo vendo todas'
+[17/12/2009 19:29:13] > Data loading time: 21.718 seconds.
+[17/12/2009 19:29:20] > Unserialization time for houses: 6 seconds.
+[17/12/2009 19:30:08] > Unserialization time for map: 47.953 seconds.
+[17/12/2009 19:30:08] >> Checking world type... PvP
+[17/12/2009 19:30:08] >> Initializing game state modules and registering services...
+[17/12/2009 19:30:29] > Global address: 201.246.44.166
+[17/12/2009 19:30:33] > Local ports:
+[17/12/2009 19:30:33] 7171	7172	
+[17/12/2009 19:30:33] >> All modules were loaded, server starting up...
+[17/12/2009 19:30:34] >> Aggrox metal server Online!
+[17/12/2009 19:30:34] 
+[17/12/2009 19:36:30] > Saving server...
+[17/12/2009 19:37:00] > SAVE: Complete in 30.25 seconds using relational house storage.
+[17/12/2009 19:37:33] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 100cc y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[17/12/2009 19:42:12] > Saving server...
+[17/12/2009 19:42:20] > SAVE: Complete in 8.078 seconds using relational house storage.
+[17/12/2009 19:42:21] Preparing to shutdown server..
+[17/12/2009 19:42:22] .
+[17/12/2009 19:42:22] Exiting
+[17/12/2009 19:46:01] The Forgotten Server, version 0.3.4 (Crying Damson)
+[17/12/2009 19:46:02] Sever Criado Por Alissow e Comedinha.
+[17/12/2009 19:46:02] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[17/12/2009 19:46:02] Bom Jogo!!!
+[17/12/2009 19:46:02] 
+[17/12/2009 19:46:02] >> Debugging: nothing.
+[17/12/2009 19:46:02] >> Checking software version... outdated, please consider updating!
+[17/12/2009 19:46:03] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[17/12/2009 19:46:03] > Latest version information - version: 0.3.6, patch: 0, build: 3293, timestamp: 1260652199.
+[17/12/2009 19:46:03] [Warning - ConfigManager::getBool] 62
+[17/12/2009 19:46:03] 
+[17/12/2009 19:46:03] >> Loading config (config.lua)
+[17/12/2009 19:46:04] > Using plaintext passwords
+[17/12/2009 19:46:04] >> Loading RSA key
+[17/12/2009 19:46:04] >> Starting SQL connection
+[17/12/2009 19:46:04] >> Running Database Manager
+[17/12/2009 19:46:06] > Optimized database.
+[17/12/2009 19:46:06] >> Loading items
+[17/12/2009 19:46:07] [Warning - Items::loadFromXml] Unknown key value skillDistance
+[17/12/2009 19:46:08] >> Loading groups
+[17/12/2009 19:46:08] >> Loading vocations
+[17/12/2009 19:46:08] >> Loading script systems
+[17/12/2009 19:46:11] [Warning - Actions::registerEvent] Duplicate registered item with id: 7131, in fromid: 7131 and toid: 7132
+[17/12/2009 19:46:11] [Warning - Actions::registerEvent] Duplicate registered item with id: 7132, in fromid: 7131 and toid: 7132
+[17/12/2009 19:46:16] >> Loading chat channels
+[17/12/2009 19:46:17] >> Loading outfits
+[17/12/2009 19:46:17] >> Loading experience stages
+[17/12/2009 19:46:17] >> Loading monsters
+[17/12/2009 19:46:22] >> Loading map and spawns...
+[17/12/2009 19:46:24] > Map size: 1100x1100.
+[17/12/2009 19:46:24] > Map descriptions: 
+[17/12/2009 19:46:24] Saved with Remere's Map Editor 1.1.9
+[17/12/2009 19:46:24] Remere 's Map Editor Beta
+[17/12/2009 19:46:26] Duplicate uniqueId 9911
+[17/12/2009 19:46:26] Duplicate uniqueId 9912
+[17/12/2009 19:46:27] Duplicate uniqueId 9913
+[17/12/2009 19:46:27] Duplicate uniqueId 9914
+[17/12/2009 19:46:27] Duplicate uniqueId 9915
+[17/12/2009 19:46:28] Duplicate uniqueId 2471
+[17/12/2009 19:46:30] Duplicate uniqueId 8880
+[17/12/2009 19:46:31] Duplicate uniqueId 8880
+[17/12/2009 19:46:31] Duplicate uniqueId 5006
+[17/12/2009 19:46:32] > Map loading time: 9.672 seconds.
+[17/12/2009 19:46:33] [Notice - Npc::Npc] NPC Name: Blesser - autowalk has been deprecated, use walkinterval.
+[17/12/2009 19:46:33] [Warning - NpcScript::NpcScript] Cannot load script: data/npc/scripts/bless.lua
+[17/12/2009 19:46:33] data/npc/scripts/bless.lua:39: unfinished string near ''Yo vendo todas'
+[17/12/2009 19:46:35] > Data loading time: 2.578 seconds.
+[17/12/2009 19:46:35] > Unserialization time for houses: 0.234 seconds.
+[17/12/2009 19:47:15] > Unserialization time for map: 39.797 seconds.
+[17/12/2009 19:47:15] >> Checking world type... PvP
+[17/12/2009 19:47:15] >> Initializing game state modules and registering services...
+[17/12/2009 19:47:17] > Global address: 201.246.44.166
+[17/12/2009 19:47:18] > Local ports:
+[17/12/2009 19:47:18] 7171	7172	
+[17/12/2009 19:47:18] >> All modules were loaded, server starting up...
+[17/12/2009 19:47:18] >> Aggrox metal server Online!
+[17/12/2009 19:47:18] 
+[17/12/2009 19:49:31] > Saving server...
+[17/12/2009 19:50:07] > SAVE: Complete in 35.188 seconds using relational house storage.
+[17/12/2009 19:50:07] Preparing to shutdown server..
+[17/12/2009 19:50:08] .
+[17/12/2009 19:50:08] Exiting
+[17/12/2009 20:51:24] The Forgotten Server, version 0.3.4 (Crying Damson)
+[17/12/2009 20:51:24] Sever Criado Por Alissow e Comedinha.
+[17/12/2009 20:51:24] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[17/12/2009 20:51:24] Bom Jogo!!!
+[17/12/2009 20:51:24] 
+[17/12/2009 20:51:24] >> Debugging: nothing.
+[17/12/2009 20:51:24] >> Checking software version... outdated, please consider updating!
+[17/12/2009 20:51:25] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[17/12/2009 20:51:25] > Latest version information - version: 0.3.6, patch: 0, build: 3293, timestamp: 1260652199.
+[17/12/2009 20:51:25] [Warning - ConfigManager::getBool] 62
+[17/12/2009 20:51:25] 
+[17/12/2009 20:51:25] >> Loading config (config.lua)
+[17/12/2009 20:51:25] > Using plaintext passwords
+[17/12/2009 20:51:25] >> Loading RSA key
+[17/12/2009 20:51:26] >> Starting SQL connection
+[17/12/2009 20:51:26] >> Running Database Manager
+[17/12/2009 20:51:29] > Optimized database.
+[17/12/2009 20:51:29] >> Loading items
+[17/12/2009 20:51:30] [Warning - Items::loadFromXml] Unknown key value skillDistance
+[17/12/2009 20:51:32] >> Loading groups
+[17/12/2009 20:51:32] >> Loading vocations
+[17/12/2009 20:51:32] >> Loading script systems
+[17/12/2009 20:51:42] [Warning - Actions::registerEvent] Duplicate registered item with id: 7131, in fromid: 7131 and toid: 7132
+[17/12/2009 20:51:42] [Warning - Actions::registerEvent] Duplicate registered item with id: 7132, in fromid: 7131 and toid: 7132
+[17/12/2009 20:52:05] >> Loading chat channels
+[17/12/2009 20:52:05] >> Loading outfits
+[17/12/2009 20:52:06] >> Loading experience stages
+[17/12/2009 20:52:06] >> Loading monsters
+[17/12/2009 20:52:27] >> Loading map and spawns...
+[17/12/2009 20:52:29] > Map size: 1100x1100.
+[17/12/2009 20:52:29] > Map descriptions: 
+[17/12/2009 20:52:29] Saved with Remere's Map Editor 1.1.9
+[17/12/2009 20:52:29] Remere 's Map Editor Beta
+[17/12/2009 20:52:31] Duplicate uniqueId 9911
+[17/12/2009 20:52:32] Duplicate uniqueId 9912
+[17/12/2009 20:52:32] Duplicate uniqueId 9913
+[17/12/2009 20:52:32] Duplicate uniqueId 9914
+[17/12/2009 20:52:32] Duplicate uniqueId 9915
+[17/12/2009 20:52:35] Duplicate uniqueId 2471
+[17/12/2009 20:52:37] Duplicate uniqueId 8880
+[17/12/2009 20:52:38] Duplicate uniqueId 8880
+[17/12/2009 20:52:39] Duplicate uniqueId 5006
+[17/12/2009 20:52:39] > Map loading time: 12.438 seconds.
+[17/12/2009 20:52:41] [Notice - Npc::Npc] NPC Name: Blesser - autowalk has been deprecated, use walkinterval.
+[17/12/2009 20:52:41] [Warning - NpcScript::NpcScript] Cannot load script: data/npc/scripts/bless.lua
+[17/12/2009 20:52:41] data/npc/scripts/bless.lua:39: unfinished string near ''Yo vendo todas'
+[17/12/2009 20:52:42] > Data loading time: 2.922 seconds.
+[17/12/2009 20:52:43] > Unserialization time for houses: 0.531 seconds.
+[17/12/2009 20:52:43] [Warning - IOMapSerialize::loadTile] NULL item at ( 00141 / 00029 / 007 ) (type = 1760, sid = 1, pid = 0)
+[17/12/2009 20:52:44] [Warning - IOMapSerialize::loadTile] NULL item at ( 00142 / 00029 / 007 ) (type = 1761, sid = 1, pid = 0)
+[17/12/2009 20:52:45] [Warning - IOMapSerialize::loadTile] NULL item at ( 00095 / 00034 / 007 ) (type = 8538, sid = 1, pid = 0)
+[17/12/2009 20:52:46] [Warning - IOMapSerialize::loadTile] NULL item at ( 00112 / 00034 / 007 ) (type = 8538, sid = 1, pid = 0)
+[17/12/2009 20:52:48] Failed to unserialize attr_type: 20 for item: 1754
+[17/12/2009 20:52:48] [Warning - IOMapSerialize::loadTile] Unserialization error [0]
+[17/12/2009 20:52:48] Failed to unserialize attr_type: 20 for item: 1755
+[17/12/2009 20:52:48] [Warning - IOMapSerialize::loadTile] Unserialization error [0]
+[17/12/2009 20:53:28] > Unserialization time for map: 45.25 seconds.
+[17/12/2009 20:53:29] >> Checking world type... PvP
+[17/12/2009 20:53:29] >> Initializing game state modules and registering services...
+[17/12/2009 20:53:32] > Global address: 201.246.44.166
+[17/12/2009 20:53:35] > Local ports:
+[17/12/2009 20:53:36] 7171	7172	
+[17/12/2009 20:53:36] >> All modules were loaded, server starting up...
+[17/12/2009 20:53:36] >> Aggrox metal server Online!
+[17/12/2009 20:53:36] 
+[17/12/2009 20:58:30] > Broadcasted message: "Mu invade Slayer city".
+[17/12/2009 21:02:06] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 100cc y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[17/12/2009 21:07:05] > Saving server...
+[17/12/2009 21:07:10] > SAVE: Complete in 5.109 seconds using relational house storage.
+[17/12/2009 21:11:42] > Saving server...
+[17/12/2009 21:12:26] > SAVE: Complete in 43.969 seconds using relational house storage.
+[17/12/2009 21:12:26] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 100cc y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[17/12/2009 21:12:27] Preparing to shutdown server..
+[17/12/2009 21:12:27] .
+[17/12/2009 21:12:27] Exiting

@@ -1,0 +1,838 @@
+[08/12/2009 00:00:25] > Broadcasted message: "The plasmother, um dos demonios de Verminor e emcaminhado para sala do pantano da pits of inferno e como esperado esta aterrorizando todos que passam por la.".
+[08/12/2009 00:00:28] [Error - SingleSpawnEvent::executeEvent] Cannot spawn monster The plasmother
+[08/12/2009 00:01:39] > Saving server...
+[08/12/2009 00:02:29] > SAVE: Complete in 48.25 seconds using relational house storage.
+[08/12/2009 00:06:40] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 100cc y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[08/12/2009 00:07:18] > Saving server...
+[08/12/2009 00:07:32] > SAVE: Complete in 13.86 seconds using relational house storage.
+[08/12/2009 00:07:32] Preparing to shutdown server..
+[08/12/2009 00:07:32] .
+[08/12/2009 00:07:32] Exiting
+[08/12/2009 01:01:29] The Forgotten Server, version 0.3.4 (Crying Damson)
+[08/12/2009 01:01:29] Sever Criado Por Alissow e Comedinha.
+[08/12/2009 01:01:29] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[08/12/2009 01:01:29] Bom Jogo!!!
+[08/12/2009 01:01:29] 
+[08/12/2009 01:01:29] >> Debugging: nothing.
+[08/12/2009 01:01:29] >> Checking software version... outdated, please consider updating!
+[08/12/2009 01:01:30] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[08/12/2009 01:01:30] > Latest version information - version: 0.3.5, patch: 1, build: 2576, timestamp: 1249584126.
+[08/12/2009 01:01:30] [Warning - ConfigManager::getBool] 62
+[08/12/2009 01:01:30] 
+[08/12/2009 01:01:30] >> Loading config (config.lua)
+[08/12/2009 01:01:30] > Using plaintext passwords
+[08/12/2009 01:01:30] >> Loading RSA key
+[08/12/2009 01:01:30] >> Starting SQL connection
+[08/12/2009 01:01:30] >> Running Database Manager
+[08/12/2009 01:01:44] > Optimized database.
+[08/12/2009 01:01:44] >> Loading items
+[08/12/2009 01:01:45] [Warning - Items::loadFromXml] Unknown key value skillDistance
+[08/12/2009 01:01:45] >> Loading groups
+[08/12/2009 01:01:45] >> Loading vocations
+[08/12/2009 01:01:45] >> Loading script systems
+[08/12/2009 01:01:52] [Warning - Actions::registerEvent] Duplicate registered item with id: 7131, in fromid: 7131 and toid: 7132
+[08/12/2009 01:01:52] [Warning - Actions::registerEvent] Duplicate registered item with id: 7132, in fromid: 7131 and toid: 7132
+[08/12/2009 01:01:56] [Warning - Actions::registerEvent] Duplicate registered item uniqueid: 7004
+[08/12/2009 01:02:01] >> Loading chat channels
+[08/12/2009 01:02:01] >> Loading outfits
+[08/12/2009 01:02:01] >> Loading experience stages
+[08/12/2009 01:02:01] >> Loading monsters
+[08/12/2009 01:02:13] >> Loading map and spawns...
+[08/12/2009 01:02:19] > Map size: 1000x1000.
+[08/12/2009 01:02:19] > Map descriptions: 
+[08/12/2009 01:02:19] Saved with Remere's Map Editor 1.1.9
+[08/12/2009 01:02:19] Remere 's Map Editor Beta
+[08/12/2009 01:02:21] Duplicate uniqueId 9911
+[08/12/2009 01:02:21] Duplicate uniqueId 9912
+[08/12/2009 01:02:21] Duplicate uniqueId 9913
+[08/12/2009 01:02:21] Duplicate uniqueId 9914
+[08/12/2009 01:02:21] Duplicate uniqueId 9915
+[08/12/2009 01:02:22] Duplicate uniqueId 7004
+[08/12/2009 01:02:22] Duplicate uniqueId 2471
+[08/12/2009 01:02:23] Duplicate uniqueId 8880
+[08/12/2009 01:02:23] Duplicate uniqueId 8880
+[08/12/2009 01:02:23] Duplicate uniqueId 5006
+[08/12/2009 01:02:24] > Map loading time: 10.297 seconds.
+[08/12/2009 01:02:28] [Warning - Spawns::loadFromXml] Demonio ( 00030 / 00166 / 007 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 01:02:28] [Warning - Spawns::loadFromXml] Demonio ( 00035 / 00166 / 007 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 01:02:28] [Warning - Spawns::loadFromXml] Demonio ( 00035 / 00168 / 007 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 01:02:28] [Warning - Spawns::loadFromXml] Demonio ( 00028 / 00169 / 007 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 01:02:28] [Warning - Spawns::loadFromXml] Demonio ( 00031 / 00170 / 007 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 01:02:29] [Warning - Spawns::loadFromXml] Demonio ( 00037 / 00170 / 007 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 01:02:29] [Warning - Spawns::loadFromXml] Demonio ( 00029 / 00171 / 007 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 01:02:29] [Warning - Spawns::loadFromXml] Demonio ( 00027 / 00172 / 007 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 01:02:29] [Warning - Spawns::loadFromXml] Demonio ( 00036 / 00172 / 007 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 01:02:29] [Warning - Spawns::loadFromXml] Demonio ( 00029 / 00173 / 007 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 01:02:29] [Warning - Spawns::loadFromXml] Demonio ( 00034 / 00175 / 007 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 01:02:29] [Warning - Spawns::loadFromXml] Demonio ( 00036 / 00175 / 007 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 01:02:30] [Warning - Spawns::loadFromXml] Demonio ( 00027 / 00176 / 007 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 01:02:34] [Warning - Spawns::loadFromXml] Whatafuck ( 00060 / 00309 / 008 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 01:02:34] [Warning - Spawns::loadFromXml] Whatafuck ( 00053 / 00312 / 008 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 01:02:35] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00313 / 008 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 01:02:35] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00317 / 008 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 01:02:35] [Warning - Spawns::loadFromXml] Whatafuck ( 00047 / 00313 / 008 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 01:02:35] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00314 / 008 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 01:02:35] [Warning - Spawns::loadFromXml] Whatafuck ( 00045 / 00315 / 008 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 01:02:35] [Warning - Spawns::loadFromXml] Whatafuck ( 00042 / 00316 / 008 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 01:02:35] [Warning - Spawns::loadFromXml] Whatafuck ( 00048 / 00316 / 008 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 01:02:35] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00318 / 008 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 01:02:35] [Warning - Spawns::loadFromXml] Whatafuck ( 00047 / 00318 / 008 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 01:02:36] [Warning - Spawns::loadFromXml] Whatafuck ( 00043 / 00321 / 008 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 01:02:36] [Warning - Spawns::loadFromXml] Whatafuck ( 00048 / 00321 / 008 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 01:02:36] [Warning - Spawns::loadFromXml] Whatafuck ( 00055 / 00319 / 008 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 01:02:36] [Warning - Spawns::loadFromXml] Whatafuck ( 00051 / 00321 / 008 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 01:02:36] [Warning - Spawns::loadFromXml] Whatafuck ( 00058 / 00321 / 008 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 01:02:36] [Warning - Spawns::loadFromXml] Whatafuck ( 00054 / 00322 / 008 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 01:02:36] [Warning - Spawns::loadFromXml] Whatafuck ( 00052 / 00325 / 008 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 01:02:36] [Warning - Spawns::loadFromXml] Whatafuck ( 00052 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 01:02:36] [Warning - Spawns::loadFromXml] Whatafuck ( 00055 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 01:02:36] [Warning - Spawns::loadFromXml] Whatafuck ( 00038 / 00322 / 008 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 01:02:37] [Warning - Spawns::loadFromXml] Whatafuck ( 00037 / 00326 / 008 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 01:02:37] [Warning - Spawns::loadFromXml] Whatafuck ( 00038 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 01:02:37] [Warning - Spawns::loadFromXml] Rotworm ( 00065 / 00031 / 012 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 01:02:37] [Warning - Spawns::loadFromXml] Rotworm ( 00073 / 00035 / 012 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 01:02:37] [Warning - Spawns::loadFromXml] Carrion Worm ( 00046 / 00046 / 012 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 01:02:37] [Warning - Spawns::loadFromXml] Rotworm ( 00087 / 00046 / 012 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 01:02:37] [Warning - Spawns::loadFromXml] Rotworm ( 00055 / 00058 / 012 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 01:02:37] [Warning - Spawns::loadFromXml] Rotworm ( 00057 / 00058 / 012 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 01:02:37] [Warning - Spawns::loadFromXml] Rotworm ( 00057 / 00060 / 012 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 01:02:37] [Warning - Spawns::loadFromXml] Rotworm ( 00067 / 00061 / 012 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 01:02:38] [Warning - Spawns::loadFromXml] Michael Jackson ( 00051 / 00026 / 013 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 01:02:38] [Warning - Spawns::loadFromXml] Love Demon ( 00060 / 00095 / 013 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 01:02:38] [Warning - Spawns::loadFromXml] Batman ( 00064 / 00145 / 013 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 01:02:38] [Warning - Spawns::loadFromXml] Batman ( 00055 / 00156 / 013 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 01:02:38] [Warning - Spawns::loadFromXml] Batman ( 00043 / 00155 / 013 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 01:02:38] [Warning - Spawns::loadFromXml] Batman ( 00042 / 00161 / 013 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 01:02:38] [Warning - Spawns::loadFromXml] Hell Dragon ( 00038 / 00227 / 013 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 01:02:38] [Warning - Spawns::loadFromXml] Hell Dragon ( 00044 / 00229 / 013 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 01:02:38] [Warning - Spawns::loadFromXml] Hell Dragon ( 00057 / 00237 / 013 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 01:02:39] [Warning - Spawns::loadFromXml] Hell Dragon ( 00055 / 00246 / 013 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 01:02:39] > Data loading time: 15 seconds.
+[08/12/2009 01:02:39] > Unserialization time for houses: 0.421 seconds.
+[08/12/2009 01:03:11] > Unserialization time for map: 32.125 seconds.
+[08/12/2009 01:03:12] >> Checking world type... PvP
+[08/12/2009 01:03:12] >> Initializing game state modules and registering services...
+[08/12/2009 01:03:15] > Global address: 201.246.32.164
+[08/12/2009 01:03:17] > Local ports:
+[08/12/2009 01:03:17] 7171	7172	
+[08/12/2009 01:03:17] >> All modules were loaded, server starting up...
+[08/12/2009 01:03:17] >> Aggrox metal server Online!
+[08/12/2009 01:03:17] 
+[08/12/2009 01:12:02] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 100cc y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[08/12/2009 01:17:03] > Saving server...
+[08/12/2009 01:17:16] > SAVE: Complete in 13.031 seconds using relational house storage.
+[08/12/2009 01:17:16] > Saving server...
+[08/12/2009 01:17:21] > SAVE: Complete in 5.329 seconds using relational house storage.
+[08/12/2009 01:22:03] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 100cc y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[08/12/2009 01:27:21] > Broadcasted message: "The plasmother, um dos demonios de Verminor e emcaminhado para sala do pantano da pits of inferno e como esperado esta aterrorizando todos que passam por la.".
+[08/12/2009 01:27:23] [Error - SingleSpawnEvent::executeEvent] Cannot spawn monster The plasmother
+[08/12/2009 01:32:03] > Saving server...
+[08/12/2009 01:32:19] > SAVE: Complete in 15.703 seconds using relational house storage.
+[08/12/2009 01:32:19] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 100cc y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[08/12/2009 01:42:20] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 100cc y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[08/12/2009 01:47:04] > Saving server...
+[08/12/2009 01:47:36] > SAVE: Complete in 31.547 seconds using relational house storage.
+[08/12/2009 01:48:36] [Error - SingleSpawnEvent::executeEvent] Cannot spawn monster Grynch Clan Goblin
+[08/12/2009 01:52:21] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 100cc y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[08/12/2009 01:56:47] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[08/12/2009 01:57:57] > Saving server...
+[08/12/2009 01:58:08] > SAVE: Complete in 11.437 seconds using relational house storage.
+[08/12/2009 01:58:08] Preparing to shutdown server..
+[08/12/2009 01:58:09] .
+[08/12/2009 01:58:09] Exiting
+[08/12/2009 15:50:55] The Forgotten Server, version 0.3.4 (Crying Damson)
+[08/12/2009 15:50:55] Sever Criado Por Alissow e Comedinha.
+[08/12/2009 15:50:55] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[08/12/2009 15:50:55] Bom Jogo!!!
+[08/12/2009 15:50:55] 
+[08/12/2009 15:50:55] >> Debugging: nothing.
+[08/12/2009 15:50:55] >> Checking software version... failed - could not parse remote file (are you connected to the internet?)
+[08/12/2009 15:51:10] 
+[08/12/2009 15:51:10] >> Loading config (config.lua)
+[08/12/2009 15:51:10] > Using plaintext passwords
+[08/12/2009 15:51:10] >> Loading RSA key
+[08/12/2009 15:51:10] >> Starting SQL connection
+[08/12/2009 15:51:10] >> Running Database Manager
+[08/12/2009 15:51:12] > Optimized database.
+[08/12/2009 15:51:12] >> Loading items
+[08/12/2009 15:51:12] [Warning - Items::loadFromXml] Unknown key value skillDistance
+[08/12/2009 15:51:13] >> Loading groups
+[08/12/2009 15:51:13] >> Loading vocations
+[08/12/2009 15:51:13] >> Loading script systems
+[08/12/2009 15:51:14] [Warning - Actions::registerEvent] Duplicate registered item with id: 7131, in fromid: 7131 and toid: 7132
+[08/12/2009 15:51:14] [Warning - Actions::registerEvent] Duplicate registered item with id: 7132, in fromid: 7131 and toid: 7132
+[08/12/2009 15:51:18] >> Loading chat channels
+[08/12/2009 15:51:18] >> Loading outfits
+[08/12/2009 15:51:18] >> Loading experience stages
+[08/12/2009 15:51:18] >> Loading monsters
+[08/12/2009 15:51:21] >> Loading map and spawns...
+[08/12/2009 15:51:22] > Map size: 1100x1100.
+[08/12/2009 15:51:22] > Map descriptions: 
+[08/12/2009 15:51:22] Saved with Remere's Map Editor 1.1.9
+[08/12/2009 15:51:22] Remere 's Map Editor Beta
+[08/12/2009 15:51:23] Duplicate uniqueId 9911
+[08/12/2009 15:51:23] Duplicate uniqueId 9912
+[08/12/2009 15:51:23] Duplicate uniqueId 9913
+[08/12/2009 15:51:23] Duplicate uniqueId 9914
+[08/12/2009 15:51:23] Duplicate uniqueId 9915
+[08/12/2009 15:51:24] Duplicate uniqueId 2471
+[08/12/2009 15:51:25] Duplicate uniqueId 8880
+[08/12/2009 15:51:25] Duplicate uniqueId 8880
+[08/12/2009 15:51:25] Duplicate uniqueId 5006
+[08/12/2009 15:51:25] > Map loading time: 4.125 seconds.
+[08/12/2009 15:51:26] [Warning - Spawns::loadFromXml] Demonio ( 00030 / 00166 / 007 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 15:51:26] [Warning - Spawns::loadFromXml] Demonio ( 00035 / 00166 / 007 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 15:51:26] [Warning - Spawns::loadFromXml] Demonio ( 00035 / 00168 / 007 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 15:51:26] [Warning - Spawns::loadFromXml] Demonio ( 00028 / 00169 / 007 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 15:51:26] [Warning - Spawns::loadFromXml] Demonio ( 00031 / 00170 / 007 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 15:51:26] [Warning - Spawns::loadFromXml] Demonio ( 00037 / 00170 / 007 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 15:51:27] [Warning - Spawns::loadFromXml] Demonio ( 00029 / 00171 / 007 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 15:51:27] [Warning - Spawns::loadFromXml] Demonio ( 00027 / 00172 / 007 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 15:51:27] [Warning - Spawns::loadFromXml] Demonio ( 00036 / 00172 / 007 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 15:51:27] [Warning - Spawns::loadFromXml] Demonio ( 00029 / 00173 / 007 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 15:51:27] [Warning - Spawns::loadFromXml] Demonio ( 00034 / 00175 / 007 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 15:51:27] [Warning - Spawns::loadFromXml] Demonio ( 00036 / 00175 / 007 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 15:51:27] [Warning - Spawns::loadFromXml] Demonio ( 00027 / 00176 / 007 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 15:51:27] [Warning - Spawns::loadFromXml] Whatafuck ( 00060 / 00309 / 008 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 15:51:27] [Warning - Spawns::loadFromXml] Whatafuck ( 00053 / 00312 / 008 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 15:51:27] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00313 / 008 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 15:51:28] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00317 / 008 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 15:51:28] [Warning - Spawns::loadFromXml] Whatafuck ( 00047 / 00313 / 008 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 15:51:28] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00314 / 008 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 15:51:28] [Warning - Spawns::loadFromXml] Whatafuck ( 00045 / 00315 / 008 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 15:51:28] [Warning - Spawns::loadFromXml] Whatafuck ( 00042 / 00316 / 008 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 15:51:28] [Warning - Spawns::loadFromXml] Whatafuck ( 00048 / 00316 / 008 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 15:51:28] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00318 / 008 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 15:51:28] [Warning - Spawns::loadFromXml] Whatafuck ( 00047 / 00318 / 008 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 15:51:28] [Warning - Spawns::loadFromXml] Whatafuck ( 00043 / 00321 / 008 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 15:51:28] [Warning - Spawns::loadFromXml] Whatafuck ( 00048 / 00321 / 008 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 15:51:28] [Warning - Spawns::loadFromXml] Whatafuck ( 00055 / 00319 / 008 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 15:51:28] [Warning - Spawns::loadFromXml] Whatafuck ( 00051 / 00321 / 008 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 15:51:29] [Warning - Spawns::loadFromXml] Whatafuck ( 00058 / 00321 / 008 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 15:51:29] [Warning - Spawns::loadFromXml] Whatafuck ( 00054 / 00322 / 008 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 15:51:29] [Warning - Spawns::loadFromXml] Whatafuck ( 00052 / 00325 / 008 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 15:51:29] [Warning - Spawns::loadFromXml] Whatafuck ( 00052 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 15:51:29] [Warning - Spawns::loadFromXml] Whatafuck ( 00055 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 15:51:29] [Warning - Spawns::loadFromXml] Whatafuck ( 00038 / 00322 / 008 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 15:51:29] [Warning - Spawns::loadFromXml] Whatafuck ( 00037 / 00326 / 008 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 15:51:29] [Warning - Spawns::loadFromXml] Whatafuck ( 00038 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 15:51:29] [Warning - Spawns::loadFromXml] Rotworm ( 00065 / 00031 / 012 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 15:51:29] [Warning - Spawns::loadFromXml] Rotworm ( 00073 / 00035 / 012 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 15:51:29] [Warning - Spawns::loadFromXml] Carrion Worm ( 00046 / 00046 / 012 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 15:51:29] [Warning - Spawns::loadFromXml] Rotworm ( 00087 / 00046 / 012 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 15:51:30] [Warning - Spawns::loadFromXml] Rotworm ( 00055 / 00058 / 012 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 15:51:30] [Warning - Spawns::loadFromXml] Rotworm ( 00057 / 00058 / 012 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 15:51:30] [Warning - Spawns::loadFromXml] Rotworm ( 00057 / 00060 / 012 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 15:51:30] [Warning - Spawns::loadFromXml] Rotworm ( 00067 / 00061 / 012 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 15:51:30] [Warning - Spawns::loadFromXml] Michael Jackson ( 00051 / 00026 / 013 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 15:51:30] [Warning - Spawns::loadFromXml] Love Demon ( 00060 / 00095 / 013 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 15:51:30] [Warning - Spawns::loadFromXml] Batman ( 00064 / 00145 / 013 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 15:51:30] [Warning - Spawns::loadFromXml] Batman ( 00055 / 00156 / 013 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 15:51:30] [Warning - Spawns::loadFromXml] Batman ( 00043 / 00155 / 013 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 15:51:30] [Warning - Spawns::loadFromXml] Batman ( 00042 / 00161 / 013 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 15:51:30] [Warning - Spawns::loadFromXml] Hell Dragon ( 00038 / 00227 / 013 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 15:51:30] [Warning - Spawns::loadFromXml] Hell Dragon ( 00044 / 00229 / 013 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 15:51:30] [Warning - Spawns::loadFromXml] Hell Dragon ( 00057 / 00237 / 013 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 15:51:31] [Warning - Spawns::loadFromXml] Hell Dragon ( 00055 / 00246 / 013 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 15:51:31] > Data loading time: 5.218 seconds.
+[08/12/2009 15:51:31] > Unserialization time for houses: 0.078 seconds.
+[08/12/2009 15:51:59] > Unserialization time for map: 27.984 seconds.
+[08/12/2009 15:51:59] >> Checking world type... PvP
+[08/12/2009 15:51:59] >> Initializing game state modules and registering services...
+[08/12/2009 15:52:00] > Global address: 201.246.32.164
+[08/12/2009 15:52:00] > Local ports:
+[08/12/2009 15:52:00] 7171	7172	
+[08/12/2009 15:52:00] >> All modules were loaded, server starting up...
+[08/12/2009 15:52:00] >> Aggrox metal server Online!
+[08/12/2009 15:52:00] 
+[08/12/2009 15:53:29] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[08/12/2009 15:53:31] Hoster Aggresor has logged in.
+[08/12/2009 16:01:19] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 100cc y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[08/12/2009 16:06:19] > Saving server...
+[08/12/2009 16:06:33] > SAVE: Complete in 14.313 seconds using relational house storage.
+[08/12/2009 16:11:20] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 100cc y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[08/12/2009 16:12:00] [Error - SingleSpawnEvent::executeEvent] Cannot spawn monster Grynch Clan Goblin
+[08/12/2009 16:13:48] Hoster Aggresor has logged out.
+[08/12/2009 16:13:48] > Saving server...
+[08/12/2009 16:13:56] > SAVE: Complete in 7.328 seconds using relational house storage.
+[08/12/2009 16:13:56] Preparing to shutdown server..
+[08/12/2009 16:13:57] .
+[08/12/2009 16:13:57] Exiting
+[08/12/2009 21:08:37] The Forgotten Server, version 0.3.4 (Crying Damson)
+[08/12/2009 21:08:37] Sever Criado Por Alissow e Comedinha.
+[08/12/2009 21:08:37] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[08/12/2009 21:08:37] Bom Jogo!!!
+[08/12/2009 21:08:37] 
+[08/12/2009 21:08:37] >> Debugging: nothing.
+[08/12/2009 21:08:37] >> Checking software version... outdated, please consider updating!
+[08/12/2009 21:08:38] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[08/12/2009 21:08:38] > Latest version information - version: 0.3.5, patch: 1, build: 2576, timestamp: 1249584126.
+[08/12/2009 21:08:38] [Warning - ConfigManager::getBool] 62
+[08/12/2009 21:08:38] 
+[08/12/2009 21:08:38] >> Loading config (config.lua)
+[08/12/2009 21:08:38] > Using plaintext passwords
+[08/12/2009 21:08:38] >> Loading RSA key
+[08/12/2009 21:08:38] >> Starting SQL connection
+[08/12/2009 21:08:38] >> Running Database Manager
+[08/12/2009 21:08:41] > Optimized database.
+[08/12/2009 21:08:41] >> Loading items
+[08/12/2009 21:08:41] [Warning - Items::loadFromXml] Unknown key value skillDistance
+[08/12/2009 21:08:42] >> Loading groups
+[08/12/2009 21:08:42] >> Loading vocations
+[08/12/2009 21:08:42] >> Loading script systems
+[08/12/2009 21:08:44] [Warning - Actions::registerEvent] Duplicate registered item with id: 7131, in fromid: 7131 and toid: 7132
+[08/12/2009 21:08:44] [Warning - Actions::registerEvent] Duplicate registered item with id: 7132, in fromid: 7131 and toid: 7132
+[08/12/2009 21:08:49] >> Loading chat channels
+[08/12/2009 21:08:49] >> Loading outfits
+[08/12/2009 21:08:49] >> Loading experience stages
+[08/12/2009 21:08:49] >> Loading monsters
+[08/12/2009 21:08:53] >> Loading map and spawns...
+[08/12/2009 21:08:55] > Map size: 1100x1100.
+[08/12/2009 21:08:55] > Map descriptions: 
+[08/12/2009 21:08:55] Saved with Remere's Map Editor 1.1.9
+[08/12/2009 21:08:55] Remere 's Map Editor Beta
+[08/12/2009 21:08:56] Duplicate uniqueId 9911
+[08/12/2009 21:08:56] Duplicate uniqueId 9912
+[08/12/2009 21:08:56] Duplicate uniqueId 9913
+[08/12/2009 21:08:57] Duplicate uniqueId 9914
+[08/12/2009 21:08:57] Duplicate uniqueId 9915
+[08/12/2009 21:08:58] Duplicate uniqueId 2471
+[08/12/2009 21:08:59] Duplicate uniqueId 8880
+[08/12/2009 21:08:59] Duplicate uniqueId 8880
+[08/12/2009 21:09:00] Duplicate uniqueId 5006
+[08/12/2009 21:09:00] > Map loading time: 6.953 seconds.
+[08/12/2009 21:09:03] [Warning - Spawns::loadFromXml] Demonio ( 00030 / 00166 / 007 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 21:09:04] [Warning - Spawns::loadFromXml] Demonio ( 00035 / 00166 / 007 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 21:09:04] [Warning - Spawns::loadFromXml] Demonio ( 00035 / 00168 / 007 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 21:09:04] [Warning - Spawns::loadFromXml] Demonio ( 00028 / 00169 / 007 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 21:09:04] [Warning - Spawns::loadFromXml] Demonio ( 00031 / 00170 / 007 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 21:09:04] [Warning - Spawns::loadFromXml] Demonio ( 00037 / 00170 / 007 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 21:09:04] [Warning - Spawns::loadFromXml] Demonio ( 00029 / 00171 / 007 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 21:09:04] [Warning - Spawns::loadFromXml] Demonio ( 00027 / 00172 / 007 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 21:09:04] [Warning - Spawns::loadFromXml] Demonio ( 00036 / 00172 / 007 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 21:09:04] [Warning - Spawns::loadFromXml] Demonio ( 00029 / 00173 / 007 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 21:09:04] [Warning - Spawns::loadFromXml] Demonio ( 00034 / 00175 / 007 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 21:09:05] [Warning - Spawns::loadFromXml] Demonio ( 00036 / 00175 / 007 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 21:09:05] [Warning - Spawns::loadFromXml] Demonio ( 00027 / 00176 / 007 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 21:09:06] [Warning - Spawns::loadFromXml] Whatafuck ( 00060 / 00309 / 008 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 21:09:06] [Warning - Spawns::loadFromXml] Whatafuck ( 00053 / 00312 / 008 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 21:09:06] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00313 / 008 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 21:09:06] [Warning - Spawns::loadFromXml] Whatafuck ( 00059 / 00317 / 008 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 21:09:07] [Warning - Spawns::loadFromXml] Whatafuck ( 00047 / 00313 / 008 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 21:09:07] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00314 / 008 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 21:09:07] [Warning - Spawns::loadFromXml] Whatafuck ( 00045 / 00315 / 008 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 21:09:07] [Warning - Spawns::loadFromXml] Whatafuck ( 00042 / 00316 / 008 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 21:09:08] [Warning - Spawns::loadFromXml] Whatafuck ( 00048 / 00316 / 008 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 21:09:08] [Warning - Spawns::loadFromXml] Whatafuck ( 00040 / 00318 / 008 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 21:09:08] [Warning - Spawns::loadFromXml] Whatafuck ( 00047 / 00318 / 008 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 21:09:08] [Warning - Spawns::loadFromXml] Whatafuck ( 00043 / 00321 / 008 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 21:09:08] [Warning - Spawns::loadFromXml] Whatafuck ( 00048 / 00321 / 008 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 21:09:08] [Warning - Spawns::loadFromXml] Whatafuck ( 00055 / 00319 / 008 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 21:09:08] [Warning - Spawns::loadFromXml] Whatafuck ( 00051 / 00321 / 008 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 21:09:09] [Warning - Spawns::loadFromXml] Whatafuck ( 00058 / 00321 / 008 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 21:09:09] [Warning - Spawns::loadFromXml] Whatafuck ( 00054 / 00322 / 008 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 21:09:09] [Warning - Spawns::loadFromXml] Whatafuck ( 00052 / 00325 / 008 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 21:09:09] [Warning - Spawns::loadFromXml] Whatafuck ( 00052 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 21:09:09] [Warning - Spawns::loadFromXml] Whatafuck ( 00055 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 21:09:09] [Warning - Spawns::loadFromXml] Whatafuck ( 00038 / 00322 / 008 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 21:09:10] [Warning - Spawns::loadFromXml] Whatafuck ( 00037 / 00326 / 008 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 21:09:10] [Warning - Spawns::loadFromXml] Whatafuck ( 00038 / 00328 / 008 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 21:09:10] [Warning - Spawns::loadFromXml] Rotworm ( 00065 / 00031 / 012 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 21:09:10] [Warning - Spawns::loadFromXml] Rotworm ( 00073 / 00035 / 012 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 21:09:11] [Warning - Spawns::loadFromXml] Carrion Worm ( 00046 / 00046 / 012 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 21:09:11] [Warning - Spawns::loadFromXml] Rotworm ( 00087 / 00046 / 012 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 21:09:11] [Warning - Spawns::loadFromXml] Rotworm ( 00055 / 00058 / 012 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 21:09:11] [Warning - Spawns::loadFromXml] Rotworm ( 00057 / 00058 / 012 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 21:09:11] [Warning - Spawns::loadFromXml] Rotworm ( 00057 / 00060 / 012 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 21:09:11] [Warning - Spawns::loadFromXml] Rotworm ( 00067 / 00061 / 012 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 21:09:11] [Warning - Spawns::loadFromXml] Michael Jackson ( 00051 / 00026 / 013 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 21:09:11] [Warning - Spawns::loadFromXml] Love Demon ( 00060 / 00095 / 013 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 21:09:12] [Warning - Spawns::loadFromXml] Batman ( 00064 / 00145 / 013 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 21:09:12] [Warning - Spawns::loadFromXml] Batman ( 00055 / 00156 / 013 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 21:09:12] [Warning - Spawns::loadFromXml] Batman ( 00043 / 00155 / 013 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 21:09:12] [Warning - Spawns::loadFromXml] Batman ( 00042 / 00161 / 013 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 21:09:12] [Warning - Spawns::loadFromXml] Hell Dragon ( 00038 / 00227 / 013 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 21:09:12] [Warning - Spawns::loadFromXml] Hell Dragon ( 00044 / 00229 / 013 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 21:09:12] [Warning - Spawns::loadFromXml] Hell Dragon ( 00057 / 00237 / 013 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 21:09:12] [Warning - Spawns::loadFromXml] Hell Dragon ( 00055 / 00246 / 013 ) spawntime cannot be less than 1 seconds.
+[08/12/2009 21:09:12] > Data loading time: 12.047 seconds.
+[08/12/2009 21:09:13] > Unserialization time for houses: 0.359 seconds.
+[08/12/2009 21:09:57] > Unserialization time for map: 43.891 seconds.
+[08/12/2009 21:09:57] >> Checking world type... PvP
+[08/12/2009 21:09:58] >> Initializing game state modules and registering services...
+[08/12/2009 21:10:02] > Global address: 201.246.45.168
+[08/12/2009 21:10:02] > Local ports:
+[08/12/2009 21:10:02] 7171	7172	
+[08/12/2009 21:10:02] >> All modules were loaded, server starting up...
+[08/12/2009 21:10:03] >> Aggrox metal server Online!
+[08/12/2009 21:10:03] 
+[08/12/2009 21:10:16] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[08/12/2009 21:10:19] Hoster Aggresor has logged in.
+[08/12/2009 21:10:47] 
+[08/12/2009 21:10:47] Lua Script Error: [Action Interface] 
+[08/12/2009 21:10:47] data/actions/scripts/gate.lua:onUse
+[08/12/2009 21:10:47] 
+[08/12/2009 21:10:47] attempt to index a number value
+[08/12/2009 21:10:47] stack traceback:
+[08/12/2009 21:10:47] 	[C]: in function 'doSendMagicEffect'
+[08/12/2009 21:10:47] 	data/actions/scripts/gate.lua:7: in function <data/actions/scripts/gate.lua:1>
+[08/12/2009 21:10:48] 
+[08/12/2009 21:10:48] Lua Script Error: [Action Interface] 
+[08/12/2009 21:10:48] data/actions/scripts/gate.lua:onUse
+[08/12/2009 21:10:48] 
+[08/12/2009 21:10:48] attempt to index a number value
+[08/12/2009 21:10:48] stack traceback:
+[08/12/2009 21:10:48] 	[C]: in function 'doSendMagicEffect'
+[08/12/2009 21:10:48] 	data/actions/scripts/gate.lua:11: in function <data/actions/scripts/gate.lua:1>
+[08/12/2009 21:10:56] 
+[08/12/2009 21:10:56] Lua Script Error: [Action Interface] 
+[08/12/2009 21:10:56] data/actions/scripts/gate2.lua:onUse
+[08/12/2009 21:10:56] 
+[08/12/2009 21:10:56] attempt to index a number value
+[08/12/2009 21:10:56] stack traceback:
+[08/12/2009 21:10:56] 	[C]: in function 'doSendMagicEffect'
+[08/12/2009 21:10:56] 	data/actions/scripts/gate2.lua:7: in function <data/actions/scripts/gate2.lua:1>
+[08/12/2009 21:11:00] 
+[08/12/2009 21:11:00] Lua Script Error: [Action Interface] 
+[08/12/2009 21:11:00] data/actions/scripts/gate2.lua:onUse
+[08/12/2009 21:11:00] 
+[08/12/2009 21:11:00] attempt to index a number value
+[08/12/2009 21:11:00] stack traceback:
+[08/12/2009 21:11:00] 	[C]: in function 'doSendMagicEffect'
+[08/12/2009 21:11:00] 	data/actions/scripts/gate2.lua:11: in function <data/actions/scripts/gate2.lua:1>
+[08/12/2009 21:14:35] [Warning - Actions::registerEvent] Duplicate registered item with id: 7131, in fromid: 7131 and toid: 7132
+[08/12/2009 21:14:35] [Warning - Actions::registerEvent] Duplicate registered item with id: 7132, in fromid: 7131 and toid: 7132
+[08/12/2009 21:14:45] 
+[08/12/2009 21:14:45] Lua Script Error: [Action Interface] 
+[08/12/2009 21:14:45] data/actions/scripts/gate.lua:onUse
+[08/12/2009 21:14:45] 
+[08/12/2009 21:14:45] attempt to index a number value
+[08/12/2009 21:14:45] stack traceback:
+[08/12/2009 21:14:45] 	[C]: in function 'doSendMagicEffect'
+[08/12/2009 21:14:45] 	data/actions/scripts/gate.lua:7: in function <data/actions/scripts/gate.lua:1>
+[08/12/2009 21:14:54] 
+[08/12/2009 21:14:54] Lua Script Error: [Action Interface] 
+[08/12/2009 21:14:54] data/actions/scripts/gate.lua:onUse
+[08/12/2009 21:14:55] 
+[08/12/2009 21:14:55] attempt to index a number value
+[08/12/2009 21:14:55] stack traceback:
+[08/12/2009 21:14:55] 	[C]: in function 'doSendMagicEffect'
+[08/12/2009 21:14:55] 	data/actions/scripts/gate.lua:7: in function <data/actions/scripts/gate.lua:1>
+[08/12/2009 21:14:55] 
+[08/12/2009 21:14:55] Lua Script Error: [Action Interface] 
+[08/12/2009 21:14:55] data/actions/scripts/gate.lua:onUse
+[08/12/2009 21:14:55] 
+[08/12/2009 21:14:55] attempt to index a number value
+[08/12/2009 21:14:55] stack traceback:
+[08/12/2009 21:14:55] 	[C]: in function 'doSendMagicEffect'
+[08/12/2009 21:14:55] 	data/actions/scripts/gate.lua:7: in function <data/actions/scripts/gate.lua:1>
+[08/12/2009 21:14:56] 
+[08/12/2009 21:14:56] Lua Script Error: [Action Interface] 
+[08/12/2009 21:14:57] data/actions/scripts/gate.lua:onUse
+[08/12/2009 21:14:57] 
+[08/12/2009 21:14:57] attempt to index a number value
+[08/12/2009 21:14:57] stack traceback:
+[08/12/2009 21:14:57] 	[C]: in function 'doSendMagicEffect'
+[08/12/2009 21:14:57] 	data/actions/scripts/gate.lua:7: in function <data/actions/scripts/gate.lua:1>
+[08/12/2009 21:18:50] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 100cc y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[08/12/2009 21:20:32] Hoster Aggresor has logged out.
+[08/12/2009 21:20:36] Zerox has logged in.
+[08/12/2009 21:23:44] > Broadcasted message: "Zerox [5469] Murio por Aggrox demon!!".
+[08/12/2009 21:23:45] > Broadcasted message: "Zerox [5469] Murio por Aggrox demon!!".
+[08/12/2009 21:23:45] Zerox has logged out.
+[08/12/2009 21:23:46] Zerox has logged in.
+[08/12/2009 21:23:50] > Saving server...
+[08/12/2009 21:24:04] > SAVE: Complete in 13.422 seconds using relational house storage.
+[08/12/2009 21:26:00] Zerox has logged out.
+[08/12/2009 21:26:02] Hoster Aggresor has logged in.
+[08/12/2009 21:28:51] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 100cc y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[08/12/2009 21:29:40] Hoster Aggresor has logged out.
+[08/12/2009 21:29:42] Zerox has logged in.
+[08/12/2009 21:32:07] 
+[08/12/2009 21:32:07] Lua Script Error: [Action Interface] 
+[08/12/2009 21:32:07] data/actions/scripts/gate.lua:onUse
+[08/12/2009 21:32:07] 
+[08/12/2009 21:32:07] attempt to index a number value
+[08/12/2009 21:32:07] stack traceback:
+[08/12/2009 21:32:07] 	[C]: in function 'doSendMagicEffect'
+[08/12/2009 21:32:07] 	data/actions/scripts/gate.lua:7: in function <data/actions/scripts/gate.lua:1>
+[08/12/2009 21:34:06] 
+[08/12/2009 21:34:06] Lua Script Error: [Action Interface] 
+[08/12/2009 21:34:06] data/actions/scripts/gate2.lua:onUse
+[08/12/2009 21:34:06] 
+[08/12/2009 21:34:06] attempt to index a number value
+[08/12/2009 21:34:06] stack traceback:
+[08/12/2009 21:34:06] 	[C]: in function 'doSendMagicEffect'
+[08/12/2009 21:34:06] 	data/actions/scripts/gate2.lua:7: in function <data/actions/scripts/gate2.lua:1>
+[08/12/2009 21:36:41] > Broadcasted message: "Zerox [5468] Murio por Aggrox constrictor!!".
+[08/12/2009 21:36:41] > Broadcasted message: "Zerox [5468] Murio por Aggrox constrictor!!".
+[08/12/2009 21:36:41] Zerox has logged out.
+[08/12/2009 21:36:43] Zerox has logged in.
+[08/12/2009 21:38:06] > Broadcasted message: "Zerox [5463] Murio por Aggrox giant!!".
+[08/12/2009 21:38:07] > Broadcasted message: "Zerox [5463] Murio por Aggrox giant!!".
+[08/12/2009 21:38:07] Zerox has logged out.
+[08/12/2009 21:38:09] Zerox has logged in.
+[08/12/2009 21:38:51] > Saving server...
+[08/12/2009 21:39:01] > SAVE: Complete in 9.953 seconds using relational house storage.
+[08/12/2009 21:39:01] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 100cc y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[08/12/2009 21:45:09] > Broadcasted message: "Demonios csm invaden Slayer city".
+[08/12/2009 21:45:32] [Error - SingleSpawnEvent::executeEvent] Cannot spawn monster Diblis The Fair
+[08/12/2009 21:46:09] > Broadcasted message: "whatafuck csm invaden Slayer city".
+[08/12/2009 21:46:32] [Error - SingleSpawnEvent::executeEvent] Cannot spawn monster Diblis The Fair
+[08/12/2009 21:49:02] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 100cc y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[08/12/2009 21:53:52] > Saving server...
+[08/12/2009 21:54:00] > SAVE: Complete in 8 seconds using relational house storage.
+[08/12/2009 21:55:15] Zerox has logged out.
+[08/12/2009 21:55:17] Zerox has logged in.
+[08/12/2009 21:55:49] 
+[08/12/2009 21:55:49] Lua Script Error: [Spell Interface] 
+[08/12/2009 21:55:50] in a timer event called from: 
+[08/12/2009 21:55:50] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[08/12/2009 21:55:50] 
+[08/12/2009 21:55:50] luaDoCombat(). Creature not found
+[08/12/2009 21:55:50] 
+[08/12/2009 21:55:50] Lua Script Error: [Spell Interface] 
+[08/12/2009 21:55:50] in a timer event called from: 
+[08/12/2009 21:55:50] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[08/12/2009 21:55:50] 
+[08/12/2009 21:55:50] luaDoCombat(). Creature not found
+[08/12/2009 21:55:50] 
+[08/12/2009 21:55:50] Lua Script Error: [Spell Interface] 
+[08/12/2009 21:55:50] in a timer event called from: 
+[08/12/2009 21:55:50] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[08/12/2009 21:55:50] 
+[08/12/2009 21:55:50] luaDoCombat(). Creature not found
+[08/12/2009 21:55:50] 
+[08/12/2009 21:55:50] Lua Script Error: [Spell Interface] 
+[08/12/2009 21:55:50] in a timer event called from: 
+[08/12/2009 21:55:50] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[08/12/2009 21:55:50] 
+[08/12/2009 21:55:50] luaDoCombat(). Creature not found
+[08/12/2009 21:55:50] 
+[08/12/2009 21:55:50] Lua Script Error: [Spell Interface] 
+[08/12/2009 21:55:50] in a timer event called from: 
+[08/12/2009 21:55:50] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[08/12/2009 21:55:50] 
+[08/12/2009 21:55:50] luaDoCombat(). Creature not found
+[08/12/2009 21:55:51] 
+[08/12/2009 21:55:51] Lua Script Error: [Spell Interface] 
+[08/12/2009 21:55:51] in a timer event called from: 
+[08/12/2009 21:55:51] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[08/12/2009 21:55:51] 
+[08/12/2009 21:55:51] luaDoCombat(). Creature not found
+[08/12/2009 21:55:53] 
+[08/12/2009 21:55:53] Lua Script Error: [Spell Interface] 
+[08/12/2009 21:55:53] in a timer event called from: 
+[08/12/2009 21:55:53] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[08/12/2009 21:55:53] 
+[08/12/2009 21:55:53] luaDoCombat(). Creature not found
+[08/12/2009 21:55:53] 
+[08/12/2009 21:55:53] Lua Script Error: [Spell Interface] 
+[08/12/2009 21:55:53] in a timer event called from: 
+[08/12/2009 21:55:53] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[08/12/2009 21:55:53] 
+[08/12/2009 21:55:53] luaDoCombat(). Creature not found
+[08/12/2009 21:55:53] 
+[08/12/2009 21:55:53] Lua Script Error: [Spell Interface] 
+[08/12/2009 21:55:53] in a timer event called from: 
+[08/12/2009 21:55:53] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[08/12/2009 21:55:53] 
+[08/12/2009 21:55:53] luaDoCombat(). Creature not found
+[08/12/2009 21:56:17] 
+[08/12/2009 21:56:17] Lua Script Error: [Spell Interface] 
+[08/12/2009 21:56:17] in a timer event called from: 
+[08/12/2009 21:56:17] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[08/12/2009 21:56:17] 
+[08/12/2009 21:56:17] luaDoCombat(). Creature not found
+[08/12/2009 21:56:17] 
+[08/12/2009 21:56:17] Lua Script Error: [Spell Interface] 
+[08/12/2009 21:56:17] in a timer event called from: 
+[08/12/2009 21:56:17] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[08/12/2009 21:56:17] 
+[08/12/2009 21:56:17] luaDoCombat(). Creature not found
+[08/12/2009 21:56:17] 
+[08/12/2009 21:56:17] Lua Script Error: [Spell Interface] 
+[08/12/2009 21:56:17] in a timer event called from: 
+[08/12/2009 21:56:17] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[08/12/2009 21:56:17] 
+[08/12/2009 21:56:17] luaDoCombat(). Creature not found
+[08/12/2009 21:59:03] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 100cc y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[08/12/2009 22:00:54] Zerox has logged out.
+[08/12/2009 22:00:57] Hoster Aggresor has logged in.
+[08/12/2009 22:01:31] Hoster Aggresor has logged out.
+[08/12/2009 22:01:32] Zerox has logged in.
+[08/12/2009 22:03:51] > Broadcasted message: "Zerox [5488] Murio por Aggrox constrictor!!".
+[08/12/2009 22:03:51] > Broadcasted message: "Zerox [5488] Murio por Aggrox constrictor!!".
+[08/12/2009 22:03:52] Zerox has logged out.
+[08/12/2009 22:03:53] Zerox has logged in.
+[08/12/2009 22:05:51] Zerox has logged out.
+[08/12/2009 22:05:54] Hoster Aggresor has logged in.
+[08/12/2009 22:06:03] [Warning - Monsters::loadMonster] Cannot load monster (Aggrox constrictor) file (data/monster/Quaras/Aggrox constrictor.xml).
+[08/12/2009 22:06:03] Line: 25, Info: Extra content at the end of the document
+[08/12/2009 22:06:03] 
+[08/12/2009 22:06:03] 
+[08/12/2009 22:06:16] Hoster Aggresor has logged out.
+[08/12/2009 22:06:17] Zerox has logged in.
+[08/12/2009 22:07:01] > Broadcasted message: "Zerox [5483] Murio por Aggrox demon!!".
+[08/12/2009 22:07:01] > Broadcasted message: "Zerox [5483] Murio por Aggrox demon!!".
+[08/12/2009 22:07:01] Zerox has logged out.
+[08/12/2009 22:07:03] Zerox has logged in.
+[08/12/2009 22:08:40] > Broadcasted message: "Zerox [5477] Murio por Aggrox demon!!".
+[08/12/2009 22:08:41] > Broadcasted message: "Zerox [5477] Murio por Aggrox demon!!".
+[08/12/2009 22:08:41] Zerox has logged out.
+[08/12/2009 22:08:42] Zerox has logged in.
+[08/12/2009 22:08:53] > Saving server...
+[08/12/2009 22:09:01] > SAVE: Complete in 7.375 seconds using relational house storage.
+[08/12/2009 22:09:04] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 100cc y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[08/12/2009 22:12:04] > Broadcasted message: "The plasmother, um dos demonios de Verminor e emcaminhado para sala do pantano da pits of inferno e como esperado esta aterrorizando todos que passam por la.".
+[08/12/2009 22:12:05] [Error - SingleSpawnEvent::executeEvent] Cannot spawn monster The plasmother
+[08/12/2009 22:13:09] > Broadcasted message: "whatafuck csm invaden Slayer city".
+[08/12/2009 22:13:32] [Error - SingleSpawnEvent::executeEvent] Cannot spawn monster Diblis The Fair
+[08/12/2009 22:14:07] > Broadcasted message: "Zerox [5758] Murio por Whatafuck!!".
+[08/12/2009 22:14:07] > Broadcasted message: "Zerox [5758] Murio por Whatafuck!!".
+[08/12/2009 22:14:08] Zerox has logged out.
+[08/12/2009 22:14:09] Zerox has logged in.
+[08/12/2009 22:14:17] > Broadcasted message: "Zerox [5753] Murio por Whatafuck!!".
+[08/12/2009 22:14:18] > Broadcasted message: "Zerox [5753] Murio por Whatafuck!!".
+[08/12/2009 22:14:18] Zerox has logged out.
+[08/12/2009 22:14:19] Zerox has logged in.
+[08/12/2009 22:14:43] 
+[08/12/2009 22:14:43] Lua Script Error: [Spell Interface] 
+[08/12/2009 22:14:43] in a timer event called from: 
+[08/12/2009 22:14:43] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[08/12/2009 22:14:43] 
+[08/12/2009 22:14:43] luaDoCombat(). Creature not found
+[08/12/2009 22:14:43] 
+[08/12/2009 22:14:43] Lua Script Error: [Spell Interface] 
+[08/12/2009 22:14:43] in a timer event called from: 
+[08/12/2009 22:14:43] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[08/12/2009 22:14:43] 
+[08/12/2009 22:14:43] luaDoCombat(). Creature not found
+[08/12/2009 22:14:44] 
+[08/12/2009 22:14:44] Lua Script Error: [Spell Interface] 
+[08/12/2009 22:14:44] in a timer event called from: 
+[08/12/2009 22:14:44] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[08/12/2009 22:14:44] 
+[08/12/2009 22:14:44] luaDoCombat(). Creature not found
+[08/12/2009 22:14:46] 
+[08/12/2009 22:14:46] Lua Script Error: [Spell Interface] 
+[08/12/2009 22:14:46] in a timer event called from: 
+[08/12/2009 22:14:46] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[08/12/2009 22:14:46] 
+[08/12/2009 22:14:46] luaDoCombat(). Creature not found
+[08/12/2009 22:14:46] 
+[08/12/2009 22:14:46] Lua Script Error: [Spell Interface] 
+[08/12/2009 22:14:46] in a timer event called from: 
+[08/12/2009 22:14:46] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[08/12/2009 22:14:46] 
+[08/12/2009 22:14:46] luaDoCombat(). Creature not found
+[08/12/2009 22:14:46] 
+[08/12/2009 22:14:46] Lua Script Error: [Spell Interface] 
+[08/12/2009 22:14:46] in a timer event called from: 
+[08/12/2009 22:14:46] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[08/12/2009 22:14:46] 
+[08/12/2009 22:14:46] luaDoCombat(). Creature not found
+[08/12/2009 22:14:46] 
+[08/12/2009 22:14:46] Lua Script Error: [Spell Interface] 
+[08/12/2009 22:14:46] in a timer event called from: 
+[08/12/2009 22:14:46] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[08/12/2009 22:14:47] 
+[08/12/2009 22:14:47] luaDoCombat(). Creature not found
+[08/12/2009 22:14:47] 
+[08/12/2009 22:14:47] Lua Script Error: [Spell Interface] 
+[08/12/2009 22:14:47] in a timer event called from: 
+[08/12/2009 22:14:47] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[08/12/2009 22:14:47] 
+[08/12/2009 22:14:47] luaDoCombat(). Creature not found
+[08/12/2009 22:14:47] 
+[08/12/2009 22:14:47] Lua Script Error: [Spell Interface] 
+[08/12/2009 22:14:47] in a timer event called from: 
+[08/12/2009 22:14:47] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[08/12/2009 22:14:47] 
+[08/12/2009 22:14:47] luaDoCombat(). Creature not found
+[08/12/2009 22:14:47] 
+[08/12/2009 22:14:47] Lua Script Error: [Spell Interface] 
+[08/12/2009 22:14:47] in a timer event called from: 
+[08/12/2009 22:14:47] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[08/12/2009 22:14:47] 
+[08/12/2009 22:14:47] luaDoCombat(). Creature not found
+[08/12/2009 22:14:47] 
+[08/12/2009 22:14:47] Lua Script Error: [Spell Interface] 
+[08/12/2009 22:14:47] in a timer event called from: 
+[08/12/2009 22:14:47] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[08/12/2009 22:14:47] 
+[08/12/2009 22:14:47] luaDoCombat(). Creature not found
+[08/12/2009 22:14:47] 
+[08/12/2009 22:14:47] Lua Script Error: [Spell Interface] 
+[08/12/2009 22:14:47] in a timer event called from: 
+[08/12/2009 22:14:48] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[08/12/2009 22:14:48] 
+[08/12/2009 22:14:48] luaDoCombat(). Creature not found
+[08/12/2009 22:15:02] 
+[08/12/2009 22:15:02] Lua Script Error: [Spell Interface] 
+[08/12/2009 22:15:02] in a timer event called from: 
+[08/12/2009 22:15:02] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[08/12/2009 22:15:02] 
+[08/12/2009 22:15:02] luaDoCombat(). Creature not found
+[08/12/2009 22:15:02] 
+[08/12/2009 22:15:02] Lua Script Error: [Spell Interface] 
+[08/12/2009 22:15:02] in a timer event called from: 
+[08/12/2009 22:15:02] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[08/12/2009 22:15:02] 
+[08/12/2009 22:15:02] luaDoCombat(). Creature not found
+[08/12/2009 22:15:02] 
+[08/12/2009 22:15:02] Lua Script Error: [Spell Interface] 
+[08/12/2009 22:15:02] in a timer event called from: 
+[08/12/2009 22:15:02] data/spells/scripts/attack/PALLYUM.lua:onCastSpell
+[08/12/2009 22:15:02] 
+[08/12/2009 22:15:02] luaDoCombat(). Creature not found
+[08/12/2009 22:15:38] 
+[08/12/2009 22:15:38] Lua Script Error: [CreatureScript Interface] 
+[08/12/2009 22:15:38] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[08/12/2009 22:15:38] 
+[08/12/2009 22:15:38] luaGetCreatureName(). Creature not found
+[08/12/2009 22:15:38] 
+[08/12/2009 22:15:38] Lua Script Error: [CreatureScript Interface] 
+[08/12/2009 22:15:38] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[08/12/2009 22:15:38] 
+[08/12/2009 22:15:38] luaGetCreatureName(). Creature not found
+[08/12/2009 22:15:38] 
+[08/12/2009 22:15:38] Lua Script Error: [CreatureScript Interface] 
+[08/12/2009 22:15:38] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[08/12/2009 22:15:38] 
+[08/12/2009 22:15:38] data/creaturescripts/scripts/playerdeath.lua:41: attempt to concatenate a boolean value
+[08/12/2009 22:15:38] stack traceback:
+[08/12/2009 22:15:38] 	data/creaturescripts/scripts/playerdeath.lua:41: in function <data/creaturescripts/scripts/playerdeath.lua:9>
+[08/12/2009 22:15:38] 
+[08/12/2009 22:15:38] Lua Script Error: [CreatureScript Interface] 
+[08/12/2009 22:15:39] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[08/12/2009 22:15:39] 
+[08/12/2009 22:15:39] luaGetCreatureName(). Creature not found
+[08/12/2009 22:15:39] 
+[08/12/2009 22:15:39] Lua Script Error: [CreatureScript Interface] 
+[08/12/2009 22:15:39] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[08/12/2009 22:15:39] 
+[08/12/2009 22:15:39] luaGetCreatureName(). Creature not found
+[08/12/2009 22:15:39] 
+[08/12/2009 22:15:39] Lua Script Error: [CreatureScript Interface] 
+[08/12/2009 22:15:39] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[08/12/2009 22:15:39] 
+[08/12/2009 22:15:39] data/creaturescripts/scripts/playerdeath.lua:41: attempt to concatenate a boolean value
+[08/12/2009 22:15:39] stack traceback:
+[08/12/2009 22:15:39] 	data/creaturescripts/scripts/playerdeath.lua:41: in function <data/creaturescripts/scripts/playerdeath.lua:9>
+[08/12/2009 22:15:39] Zerox has logged out.
+[08/12/2009 22:15:42] Zerox has logged in.
+[08/12/2009 22:18:58] Zerox has logged out.
+[08/12/2009 22:19:01] Hoster Aggresor has logged in.
+[08/12/2009 22:19:05] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 100cc y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[08/12/2009 22:19:07] > CLEAN: Removed 86 items from 249 tiles in 0.281 seconds.
+[08/12/2009 22:22:37] [Warning - Monsters::loadMonster] Cannot load monster (Aggrox constrictor) file (data/monster/Quaras/Aggrox constrictor.xml).
+[08/12/2009 22:22:37] Line: 25, Info: Extra content at the end of the document
+[08/12/2009 22:22:37] 
+[08/12/2009 22:22:37] 
+[08/12/2009 22:23:54] > Saving server...
+[08/12/2009 22:24:01] > SAVE: Complete in 7.015 seconds using relational house storage.
+[08/12/2009 22:28:52] [Warning - Monsters::loadMonster] Cannot load monster (Aggrox constrictor) file (data/monster/Quaras/Aggrox constrictor.xml).
+[08/12/2009 22:28:53] Line: 25, Info: Extra content at the end of the document
+[08/12/2009 22:28:53] 
+[08/12/2009 22:28:53] 
+[08/12/2009 22:29:06] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 100cc y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[08/12/2009 22:30:12] > Broadcasted message: "whatafuck csm invaden Slayer city".
+[08/12/2009 22:30:35] [Error - SingleSpawnEvent::executeEvent] Cannot spawn monster Diblis The Fair
+[08/12/2009 22:30:46] [Warning - Monsters::loadMonster] Cannot load monster (Aggrox constrictor) file (data/monster/Quaras/Aggrox constrictor.xml).
+[08/12/2009 22:30:46] Line: 25, Info: Extra content at the end of the document
+[08/12/2009 22:30:46] 
+[08/12/2009 22:30:46] 
+[08/12/2009 22:34:24] > CLEAN: Removed 42 items from 39 tiles in 0.063 seconds.
+[08/12/2009 22:38:55] > Saving server...
+[08/12/2009 22:39:09] > SAVE: Complete in 14.203 seconds using relational house storage.
+[08/12/2009 22:39:09] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 100cc y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[08/12/2009 22:41:02] > CLEAN: Removed 66 items from 43 tiles in 0.063 seconds.
+[08/12/2009 22:49:10] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 100cc y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[08/12/2009 22:49:24] [Notice - Game::reloadInfo] Reload type does not work.
+[08/12/2009 22:57:22] 
+[08/12/2009 22:57:22] Lua Script Error: [TalkAction Interface] 
+[08/12/2009 22:57:22] data/talkactions/scripts/createitem.lua:onSay
+[08/12/2009 22:57:22] 
+[08/12/2009 22:57:22] luaDoCreateItemEx(). Item not found
+[08/12/2009 22:57:23] 
+[08/12/2009 22:57:23] Lua Script Error: [TalkAction Interface] 
+[08/12/2009 22:57:23] data/talkactions/scripts/createitem.lua:onSay
+[08/12/2009 22:57:23] 
+[08/12/2009 22:57:23] luaDoPlayerAddItemEx(). Item not found
+[08/12/2009 22:57:26] 
+[08/12/2009 22:57:26] Lua Script Error: [TalkAction Interface] 
+[08/12/2009 22:57:26] data/talkactions/scripts/createitem.lua:onSay
+[08/12/2009 22:57:26] 
+[08/12/2009 22:57:26] luaDoCreateItemEx(). Item not found
+[08/12/2009 22:57:26] 
+[08/12/2009 22:57:26] Lua Script Error: [TalkAction Interface] 
+[08/12/2009 22:57:26] data/talkactions/scripts/createitem.lua:onSay
+[08/12/2009 22:57:26] 
+[08/12/2009 22:57:26] luaDoPlayerAddItemEx(). Item not found
+[08/12/2009 22:57:29] 
+[08/12/2009 22:57:29] Lua Script Error: [TalkAction Interface] 
+[08/12/2009 22:57:29] data/talkactions/scripts/createitem.lua:onSay
+[08/12/2009 22:57:29] 
+[08/12/2009 22:57:29] luaDoCreateItemEx(). Item not found
+[08/12/2009 22:57:29] 
+[08/12/2009 22:57:29] Lua Script Error: [TalkAction Interface] 
+[08/12/2009 22:57:29] data/talkactions/scripts/createitem.lua:onSay
+[08/12/2009 22:57:29] 
+[08/12/2009 22:57:29] luaDoPlayerAddItemEx(). Item not found
+[08/12/2009 22:57:31] 
+[08/12/2009 22:57:31] Lua Script Error: [TalkAction Interface] 
+[08/12/2009 22:57:31] data/talkactions/scripts/createitem.lua:onSay
+[08/12/2009 22:57:31] 
+[08/12/2009 22:57:31] luaDoCreateItemEx(). Item not found
+[08/12/2009 22:57:31] 
+[08/12/2009 22:57:31] Lua Script Error: [TalkAction Interface] 
+[08/12/2009 22:57:31] data/talkactions/scripts/createitem.lua:onSay
+[08/12/2009 22:57:31] 
+[08/12/2009 22:57:31] luaDoPlayerAddItemEx(). Item not found
+[08/12/2009 22:57:32] 
+[08/12/2009 22:57:32] Lua Script Error: [TalkAction Interface] 
+[08/12/2009 22:57:32] data/talkactions/scripts/createitem.lua:onSay
+[08/12/2009 22:57:32] 
+[08/12/2009 22:57:32] luaDoCreateItemEx(). Item not found
+[08/12/2009 22:57:32] 
+[08/12/2009 22:57:32] Lua Script Error: [TalkAction Interface] 
+[08/12/2009 22:57:32] data/talkactions/scripts/createitem.lua:onSay
+[08/12/2009 22:57:33] 
+[08/12/2009 22:57:33] luaDoPlayerAddItemEx(). Item not found
+[08/12/2009 22:57:34] 
+[08/12/2009 22:57:34] Lua Script Error: [TalkAction Interface] 
+[08/12/2009 22:57:34] data/talkactions/scripts/createitem.lua:onSay
+[08/12/2009 22:57:34] 
+[08/12/2009 22:57:34] luaDoCreateItemEx(). Item not found
+[08/12/2009 22:57:34] 
+[08/12/2009 22:57:34] Lua Script Error: [TalkAction Interface] 
+[08/12/2009 22:57:34] data/talkactions/scripts/createitem.lua:onSay
+[08/12/2009 22:57:34] 
+[08/12/2009 22:57:34] luaDoPlayerAddItemEx(). Item not found
+[08/12/2009 22:58:35] 
+[08/12/2009 22:58:35] Lua Script Error: [Action Interface] 
+[08/12/2009 22:58:35] data/actions/scripts/gate2.lua:onUse
+[08/12/2009 22:58:35] 
+[08/12/2009 22:58:35] attempt to index a number value
+[08/12/2009 22:58:35] stack traceback:
+[08/12/2009 22:58:35] 	[C]: in function 'doSendMagicEffect'
+[08/12/2009 22:58:35] 	data/actions/scripts/gate2.lua:11: in function <data/actions/scripts/gate2.lua:1>
+[08/12/2009 23:04:51] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 100cc y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[08/12/2009 23:09:51] > Saving server...
+[08/12/2009 23:10:07] > SAVE: Complete in 16.36 seconds using relational house storage.
+[08/12/2009 23:14:52] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 100cc y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[08/12/2009 23:24:53] > Saving server...
+[08/12/2009 23:25:04] > SAVE: Complete in 10.906 seconds using relational house storage.
+[08/12/2009 23:25:04] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 100cc y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[08/12/2009 23:35:05] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 100cc y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[08/12/2009 23:39:53] > Saving server...
+[08/12/2009 23:40:02] > SAVE: Complete in 8.531 seconds using relational house storage.
+[08/12/2009 23:43:15] > Broadcasted message: "whatafuck csm invaden Slayer city".
+[08/12/2009 23:43:38] [Error - SingleSpawnEvent::executeEvent] Cannot spawn monster Diblis The Fair
+[08/12/2009 23:45:06] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 100cc y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[08/12/2009 23:54:54] > Saving server...
+[08/12/2009 23:55:13] > SAVE: Complete in 18.578 seconds using relational house storage.
+[08/12/2009 23:55:13] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 100cc y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[08/12/2009 23:58:14] > Broadcasted message: "Dracola, o dragao morto vivo veio em busca de mais almas para dar em oferendas a seu mestre Ashfalor, um drago que ninguem nunca viveu para contar historia.".
+[08/12/2009 23:58:15] [Error - SingleSpawnEvent::executeEvent] Cannot spawn monster Dracola

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Gorg Bosh" nameDescription="a Gorg Bosh" race="blood" experience="35000" speed="999" manacost="0">
+	<health now="100000" max="100000"/>
+	<look type="266" head="38" body="38" legs="38" feet="38" corpse="3058"/>
+	<targetchange interval="2000" chance="50"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+		<flag summonable="0"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="0"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="4"/>
+		<flag runonhealth="1000"/>
+	</flags>
+	<attacks>
+		<attack name="melee" interval="3000" skill="1000" attack="3000"/>
+		<attack name="death" interval="1000" chance="10000" range="10" target="1" radius="2" min="-1000" max="-3000">
+			<attribute key="shootEffect" value="death"/>
+		</attack>
+	</attacks>
+	<defenses armor="32" defense="50">
+	</defenses>
+	<immunities>
+		<immunity physical="0"/>
+		<immunity energy="1"/>
+		<immunity fire="1"/>
+		<immunity poison="1"/>
+		<immunity lifedrain="0"/>
+		<immunity paralyze="1"/>
+		<immunity outfit="1"/>
+		<immunity drunk="1"/>
+		<immunity invisible="1"/>
+	</immunities>
+	<summons maxSummons="1">
+		<summon name="noob" interval="1000" chance="10" max="2"/>
+	</summons>
+	<voices interval="5000" chance="10">
+		<voice sentence="Ohh nooo saddam wanna kill me :/"/>
+	</voices>
+	<loot capacity="900">
+		<item id="2474" countmax="1" chance="10000000000"/>
+		<item id="7499" countmax="1" chance="10000000000"/>
+	</loot>
+</monster>

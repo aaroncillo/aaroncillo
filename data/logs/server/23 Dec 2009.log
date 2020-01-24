@@ -1,0 +1,67 @@
+[23/12/2009 23:29:09] The Forgotten Server, version 0.3.4 (Crying Damson)
+[23/12/2009 23:29:09] Sever Criado Por Alissow e Comedinha.
+[23/12/2009 23:29:09] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[23/12/2009 23:29:09] Bom Jogo!!!
+[23/12/2009 23:29:10] 
+[23/12/2009 23:29:10] >> Debugging: nothing.
+[23/12/2009 23:29:10] >> Checking software version... outdated, please consider updating!
+[23/12/2009 23:29:10] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[23/12/2009 23:29:11] > Latest version information - version: 0.3.6, patch: 0, build: 3293, timestamp: 1260652199.
+[23/12/2009 23:29:11] [Warning - ConfigManager::getBool] 62
+[23/12/2009 23:29:11] 
+[23/12/2009 23:29:11] >> Loading config (config.lua)
+[23/12/2009 23:29:11] > Using plaintext passwords
+[23/12/2009 23:29:11] >> Loading RSA key
+[23/12/2009 23:29:11] >> Starting SQL connection
+[23/12/2009 23:29:11] >> Running Database Manager
+[23/12/2009 23:29:12] > Optimized database.
+[23/12/2009 23:29:12] >> Loading items
+[23/12/2009 23:29:13] [Warning - Items::loadFromXml] Unknown key value skillDistance
+[23/12/2009 23:29:13] >> Loading groups
+[23/12/2009 23:29:14] >> Loading vocations
+[23/12/2009 23:29:14] >> Loading script systems
+[23/12/2009 23:29:15] [Warning - Actions::registerEvent] Duplicate registered item with id: 7131, in fromid: 7131 and toid: 7132
+[23/12/2009 23:29:15] [Warning - Actions::registerEvent] Duplicate registered item with id: 7132, in fromid: 7131 and toid: 7132
+[23/12/2009 23:29:19] >> Loading chat channels
+[23/12/2009 23:29:19] >> Loading outfits
+[23/12/2009 23:29:20] >> Loading experience stages
+[23/12/2009 23:29:20] >> Loading monsters
+[23/12/2009 23:29:25] >> Loading map and spawns...
+[23/12/2009 23:29:26] > Map size: 1100x1100.
+[23/12/2009 23:29:26] > Map descriptions: 
+[23/12/2009 23:29:26] Saved with Remere's Map Editor 1.1.9
+[23/12/2009 23:29:26] Remere 's Map Editor Beta
+[23/12/2009 23:29:28] Duplicate uniqueId 9911
+[23/12/2009 23:29:28] Duplicate uniqueId 9912
+[23/12/2009 23:29:28] Duplicate uniqueId 9913
+[23/12/2009 23:29:28] Duplicate uniqueId 9914
+[23/12/2009 23:29:28] Duplicate uniqueId 9915
+[23/12/2009 23:29:30] Duplicate uniqueId 2471
+[23/12/2009 23:29:35] Duplicate uniqueId 8880
+[23/12/2009 23:29:35] Duplicate uniqueId 8880
+[23/12/2009 23:29:36] Duplicate uniqueId 5006
+[23/12/2009 23:29:37] > Map loading time: 12.125 seconds.
+[23/12/2009 23:29:38] [Notice - Npc::Npc] NPC Name: Blesser - autowalk has been deprecated, use walkinterval.
+[23/12/2009 23:29:38] [Warning - NpcScript::NpcScript] Cannot load script: data/npc/scripts/bless.lua
+[23/12/2009 23:29:38] data/npc/scripts/bless.lua:39: unfinished string near ''Yo vendo todas'
+[23/12/2009 23:29:43] > Data loading time: 5.985 seconds.
+[23/12/2009 23:29:43] > Unserialization time for houses: 0.531 seconds.
+[23/12/2009 23:30:31] > Unserialization time for map: 47.515 seconds.
+[23/12/2009 23:30:31] >> Checking world type... PvP
+[23/12/2009 23:30:31] >> Initializing game state modules and registering services...
+[23/12/2009 23:30:47] > Global address: 201.246.44.66
+[23/12/2009 23:30:48] > Local ports:
+[23/12/2009 23:30:48] 7171	7172	
+[23/12/2009 23:30:48] >> All modules were loaded, server starting up...
+[23/12/2009 23:30:48] >> Aggrox metal server Online!
+[23/12/2009 23:30:48] 
+[23/12/2009 23:30:49] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[23/12/2009 23:30:51] Hoster Aggresor has logged in.
+[23/12/2009 23:39:20] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 100cc y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[23/12/2009 23:43:50] > Broadcasted message: "Mu invade Slayer city".
+[23/12/2009 23:44:20] > Saving server...
+[23/12/2009 23:44:29] > SAVE: Complete in 8.719 seconds using relational house storage.
+[23/12/2009 23:49:21] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 100cc y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".
+[23/12/2009 23:59:21] > Saving server...
+[23/12/2009 23:59:29] > SAVE: Complete in 7.437 seconds using relational house storage.
+[23/12/2009 23:59:29] > Broadcasted message: "hola bienvenido a aggrometal server si eres nuevo coloca !spells la promotion vale 100cc y tienes beneficios en las magias attacke mas rapido y otras cosas mas, foro del server http://aggrometal.foroactivo.net".

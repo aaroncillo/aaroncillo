@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="God of the light" nameDescription="a God of the Light" race="blood" experience="0" speed="2500" manacost="0">
+  <health now="250000000" max="250000000"/>
+  <look type="133" head="0" body="78" legs="0" feet="0" addons="3" />
+  <targetchange interval="5000" chance="8"/>
+  <strategy attack="100" defense="0"/>
+  <flags>
+    <flag summonable="0"/>
+    <flag attackable="1"/>
+    <flag hostile="1"/>
+    <flag illusionable="0"/>
+    <flag convinceable="0"/>
+    <flag pushable="0"/>
+    <flag canpushitems="1"/>
+    <flag canpushcreatures="0"/>
+    <flag targetdistance="0"/>
+    <flag staticattack="90"/>
+    <flag runonhealth="0"/>
+  </flags>
+  <attacks>
+<attack name="god of light" interval="1000" chance="55" min="-2800000" max="-5000000">
+</attack>
+ <attack name="holy" interval="1000" chance="20" range="7" radius="10"  target="0" min="-2000000" max="-3000000">
+	  <attribute key="areaEffect" value="holydamage"/>
+         <attribute key="shootEffect" value="smallholy"/>
+	</attack>
+  </attacks>
+  <defenses armor="3" defense="10"/>
+  <elements>
+	<element earthPercent="100"/>
+	<element icePercent="20"/>
+	<element firePercent="-10"/>
+	<element energyPercent="-10"/>
+  </elements>
+</monster>

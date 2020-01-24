@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <monster name="Eva Maria Leon Jaramillo" tp="1" nameDescription="a Por ella soy eva" race="blood" experience="3000" speed="2070" manacost="0">
+    <health now="9900000" max="9900000"/>
+   <look type="289" head="114" body="86" legs="86" feet="87" addons="2" corpse="6080"/>
+    <targetchange interval="60000" chance="0"/>
+    <strategy attack="100" defense="0"/>
+    <flags>
+      <flag summonable="0"/>
+      <flag attackable="1"/>
+      <flag hostile="1"/>
+      <flag illusionable="0"/>
+      <flag convinceable="0"/>
+      <flag pushable="0"/>
+      <flag canpushitems="1"/>
+      <flag staticattack="70"/>
+      <flag lightlevel="0"/>
+      <flag lightcolor="0"/>
+      <flag targetdistance="1"/>
+      <flag runonhealth="0"/>
+    </flags>
+    <attacks>
+    <attack name="melee" interval="1000" min="-600000" max="-900000"/>
+    <attack name="fire" interval="500" chance="13" range="7" min="-3000000" max="-5000000">
+      <attribute key="shootEffect" value="fire"/>
+      <attribute key="areaEffect" value="firearea"/>
+    </attack>
+    <attack name="physical" interval="1000" chance="34" range="7" radius="1" target="1" min="-300000" max="-600000">
+      <attribute key="shootEffect" value="infernalbolt"/>
+    </attack>
+    </attacks>
+    <defenses armor="30" defense="30">
+    </defenses>
+	<elements>
+	  <element icePercent="50"/>
+	  <element holyPercent="20"/>
+	  <element energyPercent="20"/>
+	  <element earthPercent="-13"/>
+	  <element deathPercent="-7"/>
+	</elements>
+    <immunities>
+      <immunity paralyze="1"/>
+    </immunities>
+<voices interval="3000" chance="500">
+      <voice sentence="Viuda De Suluaga"/>
+      <voice sentence="La Vida Es Color De Rosa,La Vida Es Felizidad(8)"/>
+    </voices>
+
+
+  </monster>

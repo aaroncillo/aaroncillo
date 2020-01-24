@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Enchanted Seller" script="data/npc/scripts/default.lua" walkinterval="2000" floorchange="0">
+    <health now="100" max="100"/> 
+    <look type="132" head="0" body="114" legs="94" feet="0" addons="3"/>
+    <parameters> 
+        <parameter key="module_shop" value="1"/> 
+		<parameter key="message_greet" value="Ola |PLAYERNAME|. yo vendo items para encantar di {trade}."/>
+        <parameter key="shop_buyable" value="energy soil,8303,10000;fire soil,8299,10000;earth soil,8298,10000;ice soil,8302,10000"/>
+    </parameters> 
+</npc> 

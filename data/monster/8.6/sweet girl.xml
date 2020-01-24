@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Sweet Girl" nameDescription="a sweet girl" race="blood" experience="900000000" speed="2500" manacost="0">
+  <health now="40000000" max="40000000"/>
+  <look type="142" head="97" body="14" legs="0" feet="0" addons="3"/>
+  <targetchange interval="5000" chance="8"/>
+  <strategy attack="50" defense="0"/>
+  <flags>
+    <flag summonable="0"/>
+    <flag attackable="1"/>
+    <flag hostile="1"/>
+    <flag illusionable="0"/>
+    <flag convinceable="0"/>
+    <flag pushable="0"/>
+    <flag canpushitems="1"/>
+    <flag canpushcreatures="0"/>
+    <flag targetdistance="0"/>
+    <flag staticattack="90"/>
+    <flag runonhealth="0"/>
+  </flags>
+  <attacks>
+ <attack name="fritemort" interval="1000" chance="55" min="-1000000" max="-2500000">
+  </attack>
+<attack name="death" interval="2000" chance="100" range="7" min="-2000000" max="-3000000">
+        <attribute key="shootEffect" value="suddendeath"/>
+	  <attribute key="areaEffect" value="mortarea"/>
+        </attack>
+   <attack name="fire" interval="2000" chance="13" range="7" min="-1000000" max="-2000000">
+      <attribute key="areaEffect" value="firearea"/>
+    </attack>
+    <attack name="melee" interval="2000" skill="22" attack="42" poison="90"/>
+  </attacks>
+<immunities>
+<immunity invisible="1"/>
+</immunities>
+  <defenses armor="3" defense="10"/>
+  <elements>
+	<element earthPercent="100"/>
+	<element icePercent="20"/>
+	<element firePercent="-10"/>
+	<element energyPercent="-10"/>
+  </elements>
+</monster>

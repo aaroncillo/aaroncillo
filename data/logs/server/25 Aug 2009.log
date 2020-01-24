@@ -1,0 +1,2510 @@
+[25/08/2009 15:03:05] The Forgotten Server, version 0.3.4 (Crying Damson)
+[25/08/2009 15:03:05] Sever Criado Por Alissow e Comedinha.
+[25/08/2009 15:03:05] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[25/08/2009 15:03:05] Bom Jogo!!!
+[25/08/2009 15:03:05] 
+[25/08/2009 15:03:05] >> Debugging: nothing.
+[25/08/2009 15:03:05] >> Checking software version... outdated, please consider updating!
+[25/08/2009 15:03:07] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[25/08/2009 15:03:07] > Latest version information - version: 0.3.5, patch: 1, build: 2576, timestamp: 1249584126.
+[25/08/2009 15:03:08] [Warning - ConfigManager::getBool] 62
+[25/08/2009 15:03:08] 
+[25/08/2009 15:03:08] >> Loading config (config.lua)
+[25/08/2009 15:03:08] > Using plaintext passwords
+[25/08/2009 15:03:08] >> Loading RSA key
+[25/08/2009 15:03:08] >> Starting SQL connection
+[25/08/2009 15:03:08] >> Running Database Manager
+[25/08/2009 15:03:08] > Optimized database.
+[25/08/2009 15:03:08] >> Loading items
+[25/08/2009 15:03:09] >> Loading groups
+[25/08/2009 15:03:09] >> Loading vocations
+[25/08/2009 15:03:09] >> Loading script systems
+[25/08/2009 15:03:09] [Warning - Weapons::registerEvent] Duplicate registered item with id: 7410
+[25/08/2009 15:03:12] >> Loading chat channels
+[25/08/2009 15:03:12] >> Loading outfits
+[25/08/2009 15:03:12] >> Loading experience stages
+[25/08/2009 15:03:12] >> Loading monsters
+[25/08/2009 15:03:14] >> Loading map and spawns...
+[25/08/2009 15:03:15] > Map size: 512x512.
+[25/08/2009 15:03:15] > Map descriptions: 
+[25/08/2009 15:03:15] Saved with Remere's Map Editor 1.1.7 BETA
+[25/08/2009 15:03:15] Remere 's Map Editor Beta
+[25/08/2009 15:03:16] Duplicate uniqueId 2471
+[25/08/2009 15:03:17] > Map loading time: 2.984 seconds.
+[25/08/2009 15:03:18] [Warning - Houses::loadFromXml] House entry not set for:  (158)
+[25/08/2009 15:03:18] > Data loading time: 0.89 seconds.
+[25/08/2009 15:03:18] > Unserialization time for houses: 0 seconds.
+[25/08/2009 15:03:30] > Unserialization time for map: 11.25 seconds.
+[25/08/2009 15:03:30] >> Checking world type... PvP
+[25/08/2009 15:03:30] >> Initializing game state modules and registering services...
+[25/08/2009 15:03:31] > Global address: 127.0.0.1
+[25/08/2009 15:03:31] > Local ports:
+[25/08/2009 15:03:31] 7171	7172	
+[25/08/2009 15:03:31] >> All modules were loaded, server starting up...
+[25/08/2009 15:03:31] >> Slayer Ots By Jhou server Online!
+[25/08/2009 15:03:31] 
+[25/08/2009 15:03:38] > Saving server...
+[25/08/2009 15:03:39] > SAVE: Complete in 1.203 seconds using relational house storage.
+[25/08/2009 15:03:39] Preparing to shutdown server..
+[25/08/2009 15:03:40] .
+[25/08/2009 15:03:40] Exiting
+[25/08/2009 15:04:47] The Forgotten Server, version 0.3.4 (Crying Damson)
+[25/08/2009 15:04:47] Sever Criado Por Alissow e Comedinha.
+[25/08/2009 15:04:47] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[25/08/2009 15:04:47] Bom Jogo!!!
+[25/08/2009 15:04:47] 
+[25/08/2009 15:04:47] >> Debugging: nothing.
+[25/08/2009 15:04:47] >> Checking software version... outdated, please consider updating!
+[25/08/2009 15:04:48] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[25/08/2009 15:04:48] > Latest version information - version: 0.3.5, patch: 1, build: 2576, timestamp: 1249584126.
+[25/08/2009 15:04:48] [Warning - ConfigManager::getBool] 62
+[25/08/2009 15:04:49] 
+[25/08/2009 15:04:49] >> Loading config (config.lua)
+[25/08/2009 15:04:49] > Using plaintext passwords
+[25/08/2009 15:04:49] >> Loading RSA key
+[25/08/2009 15:04:49] >> Starting SQL connection
+[25/08/2009 15:04:49] >> Running Database Manager
+[25/08/2009 15:04:50] > Optimized database.
+[25/08/2009 15:04:50] >> Loading items
+[25/08/2009 15:04:50] >> Loading groups
+[25/08/2009 15:04:50] >> Loading vocations
+[25/08/2009 15:04:51] >> Loading script systems
+[25/08/2009 15:04:52] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/razgos1.lua)
+[25/08/2009 15:04:52] data/actions/scripts/razgos1.lua:5: unexpected symbol near ')'
+[25/08/2009 15:04:52] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/boots.lua)
+[25/08/2009 15:04:52] data/actions/scripts/boots.lua:5: unexpected symbol near ')'
+[25/08/2009 15:04:52] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/darknessarmor.lua)
+[25/08/2009 15:04:52] cannot open data/actions/scripts/darknessarmor.lua: No such file or directory
+[25/08/2009 15:04:53] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/darknessshield.lua)
+[25/08/2009 15:04:53] cannot open data/actions/scripts/darknessshield.lua: No such file or directory
+[25/08/2009 15:04:53] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/darknesslegs.lua)
+[25/08/2009 15:04:53] cannot open data/actions/scripts/darknesslegs.lua: No such file or directory
+[25/08/2009 15:04:54] >> Loading chat channels
+[25/08/2009 15:04:54] >> Loading outfits
+[25/08/2009 15:04:54] >> Loading experience stages
+[25/08/2009 15:04:54] >> Loading monsters
+[25/08/2009 15:04:56] >> Loading map and spawns...
+[25/08/2009 15:04:57] > Map size: 512x512.
+[25/08/2009 15:04:57] > Map descriptions: 
+[25/08/2009 15:04:57] Saved with Remere's Map Editor 1.1.7 BETA
+[25/08/2009 15:04:57] SimOne MapEditor 0.5.5
+[25/08/2009 15:05:00] > Map loading time: 3.485 seconds.
+[25/08/2009 15:05:00] [Spawn::addMonster] NULL tile at spawn position (( 00589 / 00148 / 007 ))
+[25/08/2009 15:05:00] [Spawn::addMonster] NULL tile at spawn position (( 00618 / 00150 / 007 ))
+[25/08/2009 15:05:01] [Spawn::addMonster] NULL tile at spawn position (( 00617 / 00169 / 007 ))
+[25/08/2009 15:05:01] [Spawn::addMonster] NULL tile at spawn position (( 00582 / 00183 / 007 ))
+[25/08/2009 15:05:01] [Spawn::addMonster] NULL tile at spawn position (( 00576 / 00191 / 007 ))
+[25/08/2009 15:05:01] [Spawn::addMonster] NULL tile at spawn position (( 00628 / 00197 / 007 ))
+[25/08/2009 15:05:01] [Spawn::addMonster] NULL tile at spawn position (( 00601 / 00206 / 007 ))
+[25/08/2009 15:05:01] [Spawn::addMonster] NULL tile at spawn position (( 00571 / 00209 / 007 ))
+[25/08/2009 15:05:01] [Spawn::addMonster] NULL tile at spawn position (( 00594 / 00213 / 007 ))
+[25/08/2009 15:05:01] [Spawn::addMonster] NULL tile at spawn position (( 00618 / 00221 / 007 ))
+[25/08/2009 15:05:02] [Spawn::addMonster] NULL tile at spawn position (( 00595 / 00228 / 007 ))
+[25/08/2009 15:05:02] [Spawn::addMonster] NULL tile at spawn position (( 00554 / 00229 / 007 ))
+[25/08/2009 15:05:02] [Warning - Houses::loadFromXml] House entry not set for:  (158)
+[25/08/2009 15:05:02] > Data loading time: 2.203 seconds.
+[25/08/2009 15:05:02] > Unserialization time for houses: 0.031 seconds.
+[25/08/2009 15:05:13] > Unserialization time for map: 11.172 seconds.
+[25/08/2009 15:05:14] >> Checking world type... PvP
+[25/08/2009 15:05:14] >> Initializing game state modules and registering services...
+[25/08/2009 15:05:15] > Global address: razgosserver.no-ip.info
+[25/08/2009 15:05:16] > Local ports:
+[25/08/2009 15:05:16] 7171	7172	
+[25/08/2009 15:05:16] >> All modules were loaded, server starting up...
+[25/08/2009 15:05:16] >> Snowz OTs server Online!
+[25/08/2009 15:05:16] 
+[25/08/2009 15:05:33] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[25/08/2009 15:05:33] Account Manager has logged in.
+[25/08/2009 15:05:35] Account Manager has logged out.
+[25/08/2009 15:05:41] GOD Dee has logged in.
+[25/08/2009 15:05:45] > Saving server...
+[25/08/2009 15:05:47] > SAVE: Complete in 1.891 seconds using relational house storage.
+[25/08/2009 15:13:38] GOD Dee has logged out.
+[25/08/2009 15:13:42] GOD Dee has logged in.
+[25/08/2009 15:13:46] GOD Dee has logged out.
+[25/08/2009 15:13:49] Mono Pirata has logged in.
+[25/08/2009 15:14:02] Mono Pirata has logged out.
+[25/08/2009 15:14:09] GOD Dee has logged in.
+[25/08/2009 15:14:17] GOD Dee has logged out.
+[25/08/2009 15:14:18] Mono Pirata has logged in.
+[25/08/2009 15:14:22] Kogotero Lanza has logged in.
+[25/08/2009 15:14:38] > Kogotero Lanza broadcasted: "wuena oee".
+[25/08/2009 15:15:26] Mono Pirata has logged out.
+[25/08/2009 15:15:28] GOD Dee has logged in.
+[25/08/2009 15:15:34] GOD Dee has logged out.
+[25/08/2009 15:15:36] Mono Pirata has logged in.
+[25/08/2009 15:16:17] Mono Pirata has logged out.
+[25/08/2009 15:16:18] GOD Dee has logged in.
+[25/08/2009 15:16:36] Kogotero Lanza has logged out.
+[25/08/2009 15:16:38] Barrendero has logged in.
+[25/08/2009 15:18:08] Barrendero has logged out.
+[25/08/2009 15:18:10] Barrendero has logged in.
+[25/08/2009 15:18:25] Barrendero has logged out.
+[25/08/2009 15:18:27] Barrendero has logged in.
+[25/08/2009 15:18:32] Barrendero has logged out.
+[25/08/2009 15:18:34] Barrendero has logged in.
+[25/08/2009 15:18:44] Barrendero has logged out.
+[25/08/2009 15:18:46] Barrendero has logged in.
+[25/08/2009 15:19:55] > Saving server...
+[25/08/2009 15:19:58] > SAVE: Complete in 2.313 seconds using relational house storage.
+[25/08/2009 15:20:02] Barrendero has logged out.
+[25/08/2009 15:20:05] Barrendero has logged in.
+[25/08/2009 15:20:12] GOD Dee has logged out.
+[25/08/2009 15:20:13] Boonart has logged in.
+[25/08/2009 15:20:14] Mono Pirata has logged in.
+[25/08/2009 15:20:19] Mono Pirata has logged out.
+[25/08/2009 15:20:22] Mono Pirata has logged in.
+[25/08/2009 15:20:29] Mono Pirata has logged out.
+[25/08/2009 15:20:34] GOD Dee has logged in.
+[25/08/2009 15:20:40] > Boonart broadcasted: "wenaaaaaaa volaaa!!".
+[25/08/2009 15:21:46] GOD Dee has logged out.
+[25/08/2009 15:22:05] Barrendero has logged out.
+[25/08/2009 15:22:07] Kogotero Lanza has logged in.
+[25/08/2009 15:23:42] > CLEAN: Removed 30 items from 88 tiles in 0.062 seconds.
+[25/08/2009 15:24:55] Kogotero Lanza has logged out.
+[25/08/2009 15:24:58] Barrendero has logged in.
+[25/08/2009 15:27:16] Marmotita has logged in.
+[25/08/2009 15:28:05] > Marmotita broadcasted: "wena".
+[25/08/2009 15:28:13] > Marmotita broadcasted: "hjaha onde leveo ql??".
+[25/08/2009 15:29:42] Barrendero has logged out.
+[25/08/2009 15:29:45] Barrendero has logged in.
+[25/08/2009 15:30:24] Marmotita has logged out.
+[25/08/2009 15:30:26] Marmotita has logged in.
+[25/08/2009 15:31:11] > Boonart broadcasted: "yaaa lleege".
+[25/08/2009 15:31:30] Account Manager has logged in.
+[25/08/2009 15:31:42] Account Manager has logged out.
+[25/08/2009 15:31:44] Account Manager has logged in.
+[25/08/2009 15:31:45] Account Manager has logged out.
+[25/08/2009 15:31:51] Account Manager has logged in.
+[25/08/2009 15:32:10] Account Manager has logged out.
+[25/08/2009 15:32:11] Account Manager has logged in.
+[25/08/2009 15:32:12] Account Manager has logged out.
+[25/08/2009 15:32:19] Pexalita has logged in.
+[25/08/2009 15:33:15] Marmotita has logged out.
+[25/08/2009 15:33:17] Marmotita has logged in.
+[25/08/2009 15:34:14] Account Manager has logged in.
+[25/08/2009 15:34:56] > Saving server...
+[25/08/2009 15:34:59] > SAVE: Complete in 2.64 seconds using relational house storage.
+[25/08/2009 15:35:14] Marmotita has logged out.
+[25/08/2009 15:35:14] Account Manager has logged out.
+[25/08/2009 15:35:17] Marmotita has logged in.
+[25/08/2009 15:35:28] Account Manager has logged in.
+[25/08/2009 15:36:04] Account Manager has logged out.
+[25/08/2009 15:36:06] Account Manager has logged in.
+[25/08/2009 15:36:29] Account Manager has logged out.
+[25/08/2009 15:36:44] Account Manager has logged in.
+[25/08/2009 15:37:29] Account Manager has logged out.
+[25/08/2009 15:37:38] Ekooor has logged in.
+[25/08/2009 15:38:52] Barrendero has logged out.
+[25/08/2009 15:38:55] Kogotero Lanza has logged in.
+[25/08/2009 15:38:58] Account Manager has logged in.
+[25/08/2009 15:39:18] Account Manager has logged out.
+[25/08/2009 15:39:27] Albericke has logged in.
+[25/08/2009 15:40:20] Kogotero Lanza has logged out.
+[25/08/2009 15:40:22] Barrendero has logged in.
+[25/08/2009 15:41:59] Albericke has logged out.
+[25/08/2009 15:42:02] Albericke has logged in.
+[25/08/2009 15:42:09] Pexalita has logged out.
+[25/08/2009 15:42:12] Pexalita has logged in.
+[25/08/2009 15:46:06] Pexalita has logged out.
+[25/08/2009 15:46:08] Pexalita has logged in.
+[25/08/2009 15:46:58] Diean has logged in.
+[25/08/2009 15:47:05] > Boonart broadcasted: "game chat cualqier wea".
+[25/08/2009 15:48:30] Diean has logged out.
+[25/08/2009 15:48:33] Diean has logged in.
+[25/08/2009 15:49:46] Diean has logged out.
+[25/08/2009 15:49:57] > Saving server...
+[25/08/2009 15:50:00] > SAVE: Complete in 3.468 seconds using relational house storage.
+[25/08/2009 15:51:17] Albericke has logged out.
+[25/08/2009 15:51:19] Albericke has logged in.
+[25/08/2009 15:51:22] GOD Dee has logged in.
+[25/08/2009 15:51:42] > GOD Dee broadcasted: "oe ya termine zona nueva en 5 minutos reset".
+[25/08/2009 15:51:56] GOD Dee has logged out.
+[25/08/2009 15:52:09] Account Manager has logged in.
+[25/08/2009 15:52:18] Account Manager has logged out.
+[25/08/2009 15:52:27] Account Manager has logged in.
+[25/08/2009 15:52:39] Account Manager has logged out.
+[25/08/2009 15:52:46] Chino mage has logged in.
+[25/08/2009 15:55:44] Account Manager has logged in.
+[25/08/2009 15:55:53] GOD Dee has logged in.
+[25/08/2009 15:55:58] Albericke has logged out.
+[25/08/2009 15:56:01] Albericke has logged in.
+[25/08/2009 15:56:08] > GOD Dee broadcasted: "cabros reset nueva zona de hunt y suvire un poco la exp".
+[25/08/2009 15:56:15] > Saving server...
+[25/08/2009 15:56:19] > SAVE: Complete in 3.5 seconds using relational house storage.
+[25/08/2009 15:56:21] Boonart has logged out.
+[25/08/2009 15:56:22] Marmotita has logged out.
+[25/08/2009 15:56:22] Ekooor has logged out.
+[25/08/2009 15:56:23] Barrendero has logged out.
+[25/08/2009 15:56:24] Pexalita has logged out.
+[25/08/2009 15:56:24] Chino mage has logged out.
+[25/08/2009 15:56:25] Account Manager has logged out.
+[25/08/2009 15:56:25] GOD Dee has logged out.
+[25/08/2009 15:56:26] Albericke has logged out.
+[25/08/2009 15:56:27] > Saving server...
+[25/08/2009 15:56:28] > SAVE: Complete in 1.64 sec[25/08/2009 15:56:29] Tonds husinge F relaotirgoonal houtse storagtee.n
+[25/08/2009 15:56:30] 
+ Se[25/08/2009 15:56:30] Lua Srcript Errvor: [eSpellr I, nterfvace] e
+[25/08/2009 15:56:30] in ar tsioimer evennt 0. cal3led f.rom: 4 (
+[25/08/2009 15:56:31] data/sCpellsr/scripyints/atgtack/w hataheDamlls.lua:oonn)
+CastSp[25/08/2009 15:56:32] Sell
+[25/08/2009 15:56:33] 
+[25/08/2009 15:56:33] leveuaDoCormbat( C)ria. Credatureo not foun dP
+or Al[25/08/2009 15:56:34] 
+[25/08/2009 15:56:34] Lua issScow ripet  CEormreodri:n h[aSpell. Int
+[25/08/2009 15:56:34] Puerbflaiccei]d a
+d[25/08/2009 15:56:35] ien : a twiwwm.sotser everv.bent cloalledg spfot.corom: m <- 
+[25/08/2009 15:56:35] data<- </- Tudspello sobre ostser/v.
+[25/08/2009 15:56:35] Bsocm Jogroi!p!t!s
+/a[25/08/2009 15:56:35] 
+ttack[25/08/2009 15:56:35] >/>w hDaetbauhgeglil.nlua:og: nonCastthingSpell.
+
+[25/08/2009 15:56:36] 
+[25/08/2009 15:56:36] luaD[25/08/2009 15:56:36] >> oCoCheckmibnagt (s)o. Cfreattuwraer en ovte rfsoiuondn
+...[25/08/2009 15:56:36] 
+[25/08/2009 15:56:36] Lu a Script Error: [Spell Interface] 
+[25/08/2009 15:56:37] in a timer event called from: 
+[25/08/2009 15:56:37] datouta/spelldsa/tsecdr,i pptlse/attaack/whatahseel lc.olnusai:doenrC ausptdSapell
+t[25/08/2009 15:56:38] 
+[25/08/2009 15:56:38] luaDing!
+oComb[25/08/2009 15:56:38] > Curat().rent  Creaversituonre  niontf ofromuantdi
+[25/08/2009 15:56:38] Prepon - arving tero siosn: 0.hutdow3n.4, patch: [25/08/2009 16:01:51] The Forgotten Server, version 0.3.4 (Crying Damson)
+[25/08/2009 16:01:51] Sever Criado Por Alissow e Comedinha.
+[25/08/2009 16:01:51] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[25/08/2009 16:01:51] Bom Jogo!!!
+[25/08/2009 16:01:51] 
+[25/08/2009 16:01:51] >> Debugging: nothing.
+[25/08/2009 16:01:51] >> Checking software version... outdated, please consider updating!
+[25/08/2009 16:01:53] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[25/08/2009 16:01:53] > Latest version information - version: 0.3.5, patch: 1, build: 2576, timestamp: 1249584126.
+[25/08/2009 16:01:53] [Warning - ConfigManager::getBool] 62
+[25/08/2009 16:01:53] 
+[25/08/2009 16:01:53] >> Loading config (config.lua)
+[25/08/2009 16:01:53] > Using plaintext passwords
+[25/08/2009 16:01:53] >> Loading RSA key
+[25/08/2009 16:01:53] >> Starting SQL connection
+[25/08/2009 16:01:53] >> Running Database Manager
+[25/08/2009 16:01:56] > Optimized database.
+[25/08/2009 16:01:56] >> Loading items
+[25/08/2009 16:01:57] >> Loading groups
+[25/08/2009 16:01:57] >> Loading vocations
+[25/08/2009 16:01:57] >> Loading script systems
+[25/08/2009 16:02:03] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/backpack2.lua)
+[25/08/2009 16:02:03] data/actions/scripts/backpack2.lua:5: unexpected symbol near ')'
+[25/08/2009 16:02:03] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/backpack1.lua)
+[25/08/2009 16:02:03] data/actions/scripts/backpack1.lua:5: unexpected symbol near ')'
+[25/08/2009 16:02:03] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/razgos1.lua)
+[25/08/2009 16:02:03] data/actions/scripts/razgos1.lua:5: unexpected symbol near ')'
+[25/08/2009 16:02:03] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/boots.lua)
+[25/08/2009 16:02:03] data/actions/scripts/boots.lua:5: unexpected symbol near ')'
+[25/08/2009 16:02:04] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/darknessarmor.lua)
+[25/08/2009 16:02:04] cannot open data/actions/scripts/darknessarmor.lua: No such file or directory
+[25/08/2009 16:02:04] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/darknessshield.lua)
+[25/08/2009 16:02:04] cannot open data/actions/scripts/darknessshield.lua: No such file or directory
+[25/08/2009 16:02:04] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/darknesslegs.lua)
+[25/08/2009 16:02:04] cannot open data/actions/scripts/darknesslegs.lua: No such file or directory
+[25/08/2009 16:02:06] >> Loading chat channels
+[25/08/2009 16:02:06] >> Loading outfits
+[25/08/2009 16:02:06] >> Loading experience stages
+[25/08/2009 16:02:06] >> Loading monsters
+[25/08/2009 16:02:11] >> Loading map and spawns...
+[25/08/2009 16:02:13] > Map size: 512x512.
+[25/08/2009 16:02:13] > Map descriptions: 
+[25/08/2009 16:02:13] Saved with Remere's Map Editor 1.1.7 BETA
+[25/08/2009 16:02:13] SimOne MapEditor 0.5.5
+[25/08/2009 16:02:15] > Map loading time: 4.094 seconds.
+[25/08/2009 16:02:16] [Spawn::addMonster] NULL tile at spawn position (( 00589 / 00148 / 007 ))
+[25/08/2009 16:02:16] [Spawn::addMonster] NULL tile at spawn position (( 00618 / 00150 / 007 ))
+[25/08/2009 16:02:16] [Spawn::addMonster] NULL tile at spawn position (( 00617 / 00169 / 007 ))
+[25/08/2009 16:02:16] [Spawn::addMonster] NULL tile at spawn position (( 00582 / 00183 / 007 ))
+[25/08/2009 16:02:16] [Spawn::addMonster] NULL tile at spawn position (( 00576 / 00191 / 007 ))
+[25/08/2009 16:02:16] [Spawn::addMonster] NULL tile at spawn position (( 00628 / 00197 / 007 ))
+[25/08/2009 16:02:16] [Spawn::addMonster] NULL tile at spawn position (( 00601 / 00206 / 007 ))
+[25/08/2009 16:02:17] [Spawn::addMonster] NULL tile at spawn position (( 00571 / 00209 / 007 ))
+[25/08/2009 16:02:17] [Spawn::addMonster] NULL tile at spawn position (( 00594 / 00213 / 007 ))
+[25/08/2009 16:02:17] [Spawn::addMonster] NULL tile at spawn position (( 00618 / 00221 / 007 ))
+[25/08/2009 16:02:17] [Spawn::addMonster] NULL tile at spawn position (( 00595 / 00228 / 007 ))
+[25/08/2009 16:02:17] [Spawn::addMonster] NULL tile at spawn position (( 00554 / 00229 / 007 ))
+[25/08/2009 16:02:17] [Warning - Houses::loadFromXml] House entry not set for:  (158)
+[25/08/2009 16:02:17] > Data loading time: 1.719 seconds.
+[25/08/2009 16:02:17] > Unserialization time for houses: 0.032 seconds.
+[25/08/2009 16:02:28] > Unserialization time for map: 10.89 seconds.
+[25/08/2009 16:02:28] >> Checking world type... PvP
+[25/08/2009 16:02:28] >> Initializing game state modules and registering services...
+[25/08/2009 16:02:29] > Global address: razgosserver.no-ip.info
+[25/08/2009 16:02:30] > Local ports:
+[25/08/2009 16:02:30] 7171	7172	
+[25/08/2009 16:02:30] >> All modules were loaded, server starting up...
+[25/08/2009 16:02:30] >> Snowz OTs server Online!
+[25/08/2009 16:02:30] 
+[25/08/2009 16:02:34] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[25/08/2009 16:02:45] Account Manager has logged in.
+[25/08/2009 16:02:46] Marmotita has logged in.
+[25/08/2009 16:02:47] Account Manager has logged in.
+[25/08/2009 16:02:47] Account Manager has logged out.
+[25/08/2009 16:02:51] Mono Pirata has logged in.
+[25/08/2009 16:02:54] Pexalita has logged in.
+[25/08/2009 16:03:00] Account Manager has logged out.
+[25/08/2009 16:03:07] Account Manager has logged in.
+[25/08/2009 16:03:11] Barrendero has logged in.
+[25/08/2009 16:03:18] Barrendero has logged out.
+[25/08/2009 16:03:20] Barrendero has logged in.
+[25/08/2009 16:03:30] Account Manager has logged out.
+[25/08/2009 16:03:34] Maukes has logged in.
+[25/08/2009 16:03:37] Mariicela has logged in.
+[25/08/2009 16:03:44] Mono Pirata has logged out.
+[25/08/2009 16:03:46] GOD Dee has logged in.
+[25/08/2009 16:03:53] Account Manager has logged in.
+[25/08/2009 16:04:22] Account Manager has logged out.
+[25/08/2009 16:04:25] Boonart has logged in.
+[25/08/2009 16:05:00] Account Manager has logged in.
+[25/08/2009 16:05:07] Marmotita has logged out.
+[25/08/2009 16:05:12] Marmotita has logged in.
+[25/08/2009 16:05:29] Maukes has logged out.
+[25/08/2009 16:05:30] Account Manager has logged out.
+[25/08/2009 16:05:31] Elder Maukes has logged in.
+[25/08/2009 16:05:33] Ekooor has logged in.
+[25/08/2009 16:05:51] Account Manager has logged in.
+[25/08/2009 16:05:51] Account Manager has logged in.
+[25/08/2009 16:06:14] Account Manager has logged out.
+[25/08/2009 16:06:40] Account Manager has logged in.
+[25/08/2009 16:06:41] Account Manager has logged out.
+[25/08/2009 16:06:50] Barrendero has logged out.
+[25/08/2009 16:06:52] Barrendero has logged in.
+[25/08/2009 16:06:55] Kynoxentia has logged in.
+[25/08/2009 16:07:01] Elder Maukes has logged out.
+[25/08/2009 16:07:02] Elder Maukes has logged in.
+[25/08/2009 16:07:09] Marmotita has logged out.
+[25/08/2009 16:07:14] Account Manager has logged out.
+[25/08/2009 16:07:17] Account Manager has logged in.
+[25/08/2009 16:07:27] Account Manager has logged in.
+[25/08/2009 16:07:41] Account Manager has logged out.
+[25/08/2009 16:07:47] Senik One has logged in.
+[25/08/2009 16:08:12] Account Manager has logged out.
+[25/08/2009 16:08:14] Barrendero has logged out.
+[25/08/2009 16:08:16] Barrendero has logged in.
+[25/08/2009 16:08:22] Betaaxxxz has logged in.
+[25/08/2009 16:08:42] Account Manager has logged in.
+[25/08/2009 16:08:42] Senik One has logged out.
+[25/08/2009 16:08:44] Senik One has logged in.
+[25/08/2009 16:08:51] Pexalita has logged out.
+[25/08/2009 16:08:53] Pexalita has logged in.
+[25/08/2009 16:09:03] Account Manager has logged out.
+[25/08/2009 16:09:04] Account Manager has logged in.
+[25/08/2009 16:09:13] Account Manager has logged out.
+[25/08/2009 16:09:19] Account Manager has logged in.
+[25/08/2009 16:09:47] Senik One has logged out.
+[25/08/2009 16:09:49] Senik One has logged in.
+[25/08/2009 16:10:00] Elder Maukes has logged out.
+[25/08/2009 16:10:02] Elder Maukes has logged in.
+[25/08/2009 16:10:07] Account Manager has logged out.
+[25/08/2009 16:10:14] Walker Style Pro has logged in.
+[25/08/2009 16:10:30] Albericke has logged in.
+[25/08/2009 16:10:52] Elder Maukes has logged out.
+[25/08/2009 16:10:58] Elder Maukes has logged in.
+[25/08/2009 16:11:00] Elder Maukes has logged out.
+[25/08/2009 16:11:02] Maukes has logged in.
+[25/08/2009 16:11:24] Senik One has logged out.
+[25/08/2009 16:11:32] > GOD Dee broadcasted: "plata en el templo".
+[25/08/2009 16:11:53] Senik One has logged in.
+[25/08/2009 16:11:59] Barrendero has logged out.
+[25/08/2009 16:12:01] Barrendero has logged in.
+[25/08/2009 16:12:19] 
+[25/08/2009 16:12:19] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 16:12:20] data/talkactions/scripts/kick.lua:onSay
+[25/08/2009 16:12:20] 
+[25/08/2009 16:12:20] data/talkactions/scripts/kick.lua:13: attempt to compare number with boolean
+[25/08/2009 16:12:21] stack traceback:
+[25/08/2009 16:12:21] 	data/talkactions/scripts/kick.lua:13: in function <data/talkactions/scripts/kick.lua:1>
+[25/08/2009 16:12:27] GOD Dee has logged out.
+[25/08/2009 16:12:28] GOD Dee has logged in.
+[25/08/2009 16:12:50] 
+[25/08/2009 16:12:50] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 16:12:50] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 16:12:50] 
+[25/08/2009 16:12:50] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 16:12:53] Senik One has logged out.
+[25/08/2009 16:12:54] Senik One has logged in.
+[25/08/2009 16:12:56] Senik One has logged out.
+[25/08/2009 16:12:57] Marmotita has logged in.
+[25/08/2009 16:13:08] Marmotita has logged out.
+[25/08/2009 16:13:09] > GOD Dee broadcasted: "las runas se venden en el dp".
+[25/08/2009 16:13:09] Marmotita has logged in.
+[25/08/2009 16:14:15] Barrendero has logged out.
+[25/08/2009 16:14:17] Kogotero Lanza has logged in.
+[25/08/2009 16:14:35] Maukes has logged out.
+[25/08/2009 16:14:45] Kogotero Lanza has logged out.
+[25/08/2009 16:14:47] Kogotero Lanza has logged in.
+[25/08/2009 16:14:48] GOD Dee has logged out.
+[25/08/2009 16:15:39] Boonart has logged out.
+[25/08/2009 16:15:50] Walker Style Pro has logged out.
+[25/08/2009 16:16:45] Marmotita has logged out.
+[25/08/2009 16:16:48] Marmotita has logged in.
+[25/08/2009 16:16:56] Koonstanza has logged in.
+[25/08/2009 16:17:05] > Kogotero Lanza broadcasted: "pa las magias digan .!spells".
+[25/08/2009 16:17:07] > Saving server...
+[25/08/2009 16:17:11] > SAVE: Complete in 3.515 seconds using relational house storage.
+[25/08/2009 16:17:13] Koonstanza has logged out.
+[25/08/2009 16:17:15] Koonstanza has logged in.
+[25/08/2009 16:17:46] [Hoster] Dee has logged in.
+[25/08/2009 16:17:51] Kogotero Lanza has logged out.
+[25/08/2009 16:17:52] Account Manager has logged in.
+[25/08/2009 16:17:54] Account Manager has logged out.
+[25/08/2009 16:17:56] 
+[25/08/2009 16:17:56] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 16:17:56] data/talkactions/scripts/kick.lua:onSay
+[25/08/2009 16:17:56] 
+[25/08/2009 16:17:56] data/talkactions/scripts/kick.lua:13: attempt to compare number with boolean
+[25/08/2009 16:17:56] stack traceback:
+[25/08/2009 16:17:56] 	data/talkactions/scripts/kick.lua:13: in function <data/talkactions/scripts/kick.lua:1>
+[25/08/2009 16:18:06] [Admin] Kogotero Lanza has logged in.
+[25/08/2009 16:18:15] [Admin] Boonart has logged in.
+[25/08/2009 16:18:22] Marmotita has logged out.
+[25/08/2009 16:18:23] Marmotita has logged in.
+[25/08/2009 16:18:37] > [Admin] Kogotero Lanza broadcasted: "OE INVITEN FGENTESS".
+[25/08/2009 16:19:08] Albericke has logged out.
+[25/08/2009 16:19:10] Albericke has logged in.
+[25/08/2009 16:19:35] > [Admin] Kogotero Lanza broadcasted: "cuando juega chile??".
+[25/08/2009 16:19:53] > [Admin] Kogotero Lanza broadcasted: "valee konii ^^".
+[25/08/2009 16:20:03] Albericke has logged out.
+[25/08/2009 16:20:06] Albericke has logged in.
+[25/08/2009 16:20:35] > [Hoster] Dee broadcasted: "ya cabros evento de preguntas".
+[25/08/2009 16:20:51] > [Admin] Kogotero Lanza broadcasted: "KEN FUE EL PRIMERO EN METERSELO X EL ORTO AL DEE??? :D primera pregunta es esaa....".
+[25/08/2009 16:21:04] > [Hoster] Dee broadcasted: "aweonao callate".
+[25/08/2009 16:21:11] > [Hoster] Dee broadcasted: "calmao toy pensaando".
+[25/08/2009 16:21:19] > [Admin] Kogotero Lanza broadcasted: "KEN LE ISO 1 MAMELUKO AL BOONART???".
+[25/08/2009 16:21:40] > [Hoster] Dee broadcasted: "qien sale en el billete de luca?".
+[25/08/2009 16:21:41] > [Hoster] Dee broadcasted: "qien sale en el billete de luca?".
+[25/08/2009 16:21:51] > [Hoster] Dee broadcasted: "qien sale en el billete de luca?".
+[25/08/2009 16:21:53] > [Admin] Kogotero Lanza broadcasted: "BILL CLINTON :o???".
+[25/08/2009 16:21:58] > [Admin] Kogotero Lanza broadcasted: "BILL CLINTON :o???".
+[25/08/2009 16:22:05] > [Hoster] Dee broadcasted: "ajkawjkw culiao perdio".
+[25/08/2009 16:22:08] > [Hoster] Dee broadcasted: "5".
+[25/08/2009 16:22:09] > [Hoster] Dee broadcasted: "4".
+[25/08/2009 16:22:11] > [Hoster] Dee broadcasted: "3".
+[25/08/2009 16:22:12] Marmotita has logged out.
+[25/08/2009 16:22:12] > [Hoster] Dee broadcasted: "2".
+[25/08/2009 16:22:14] > [Hoster] Dee broadcasted: "1".
+[25/08/2009 16:22:14] > [Admin] Kogotero Lanza broadcasted: "YO PO".
+[25/08/2009 16:22:16] > [Hoster] Dee broadcasted: "naien ".
+[25/08/2009 16:22:17] > [Admin] Kogotero Lanza broadcasted: ":D".
+[25/08/2009 16:22:18] > [Hoster] Dee broadcasted: "es".
+[25/08/2009 16:22:24] > [Hoster] Dee broadcasted: "ignacio carrera".
+[25/08/2009 16:22:29] [Admin] Senik One has logged in.
+[25/08/2009 16:22:29] > [Admin] Kogotero Lanza broadcasted: "chaa el qll sabioo ".
+[25/08/2009 16:22:32] > [Admin] Kogotero Lanza broadcasted: "q waa oeee".
+[25/08/2009 16:22:36] Account Manager has logged in.
+[25/08/2009 16:22:55] Account Manager has logged in.
+[25/08/2009 16:22:57] > [Admin] Kogotero Lanza broadcasted: "yo pregunto aora".
+[25/08/2009 16:23:04] Account Manager has logged out.
+[25/08/2009 16:23:04] Albericke has logged out.
+[25/08/2009 16:23:06] Albericke has logged in.
+[25/08/2009 16:23:11] Account Manager has logged in.
+[25/08/2009 16:23:32] Account Manager has logged out.
+[25/08/2009 16:23:42] > [Admin] Kogotero Lanza broadcasted: "cuando fue la ultima vez q me eche un polvo a) hoy dia b) ayer c) el fin de semana .....".
+[25/08/2009 16:23:45] Zana dras has logged in.
+[25/08/2009 16:23:50] > [Admin] Kogotero Lanza broadcasted: "cuando fue la ultima vez q me eche un polvo a) hoy dia b) ayer c) el fin de semana .....".
+[25/08/2009 16:24:13] > [Admin] Kogotero Lanza broadcasted: "game chat oe :d".
+[25/08/2009 16:24:14] Ekooor has logged out.
+[25/08/2009 16:24:18] Ekooor has logged in.
+[25/08/2009 16:24:25] > CLEAN: Removed 316 items from 662 tiles in 0.109 seconds.
+[25/08/2009 16:24:27] > [Admin] Kogotero Lanza broadcasted: "cuando fue la ultima vez q me eche un polvo a) hoy dia b) ayer c) el fin de semana .....".
+[25/08/2009 16:24:32] Account Manager has logged out.
+[25/08/2009 16:24:34] > [Admin] Kogotero Lanza broadcasted: "cuando fue la ultima vez q me eche un polvo a) hoy dia b) ayer c) el fin de semana ..... CONTESTEN X EL GAME CHAT ^^".
+[25/08/2009 16:24:49] > [Admin] Senik One broadcasted: "te anday puro makakiando kogottero ql  xdddd".
+[25/08/2009 16:24:50] Betaaxxxz has logged out.
+[25/08/2009 16:24:52] Betaaxxxz has logged in.
+[25/08/2009 16:25:43] > [Admin] Kogotero Lanza broadcasted: "ALGXNA MINA RIKA EN EL SERVER???".
+[25/08/2009 16:25:56] [Hoster] Dee has logged out.
+[25/08/2009 16:25:57] [Hoster] Dee has logged in.
+[25/08/2009 16:25:59] > [Admin] Senik One broadcasted: "nah... pxras gordas bigotuas xdd".
+[25/08/2009 16:26:01] [Hoster] Dee has logged out.
+[25/08/2009 16:26:06] > [Admin] Senik One broadcasted: "jkajaajkajkajkjka".
+[25/08/2009 16:26:18] > [Admin] Kogotero Lanza broadcasted: "pta xoro mi mina no llegaa womm".
+[25/08/2009 16:26:21] 
+[25/08/2009 16:26:21] Lua Script Error: [Action Interface] 
+[25/08/2009 16:26:21] data/actions/scripts/liquids/strong_health.lua:onUse
+[25/08/2009 16:26:21] 
+[25/08/2009 16:26:21] luaGetPlayerCustomFlagValue(). Player not found
+[25/08/2009 16:26:21] 
+[25/08/2009 16:26:21] Lua Script Error: [Action Interface] 
+[25/08/2009 16:26:21] data/actions/scripts/liquids/strong_health.lua:onUse
+[25/08/2009 16:26:21] 
+[25/08/2009 16:26:21] luaDoCreatureAddHealth(). Creature not found
+[25/08/2009 16:26:34] > [Admin] Senik One broadcasted: "se ta asikalando :)".
+[25/08/2009 16:26:37] > [Admin] Kogotero Lanza broadcasted: "ESTAMOS ATRASAOS PA LA SESION DE OI DIA".
+[25/08/2009 16:27:22] Pexalita has logged out.
+[25/08/2009 16:27:23] Pexalita has logged in.
+[25/08/2009 16:28:21] [Admin] Senik One has logged out.
+[25/08/2009 16:28:21] Marmotita has logged in.
+[25/08/2009 16:28:30] Account Manager has logged in.
+[25/08/2009 16:28:34] Account Manager has logged out.
+[25/08/2009 16:28:44] > [Admin] Kogotero Lanza broadcasted: "oe dee esta casa ta mala o noo¿¿¿".
+[25/08/2009 16:28:48] Account Manager has logged in.
+[25/08/2009 16:29:13] Account Manager has logged out.
+[25/08/2009 16:29:32] Account Manager has logged in.
+[25/08/2009 16:30:03] Account Manager has logged out.
+[25/08/2009 16:30:18] Lord Etal has logged in.
+[25/08/2009 16:30:58] Account Manager has logged in.
+[25/08/2009 16:31:25] Account Manager has logged out.
+[25/08/2009 16:31:28] Account Manager has logged in.
+[25/08/2009 16:31:33] Account Manager has logged in.
+[25/08/2009 16:31:33] Rubiosky has logged in.
+[25/08/2009 16:31:43] Account Manager has logged out.
+[25/08/2009 16:31:49] Account Manager has logged in.
+[25/08/2009 16:32:03] Account Manager has logged out.
+[25/08/2009 16:32:04] Account Manager has logged out.
+[25/08/2009 16:32:08] Theclaudio has logged in.
+[25/08/2009 16:32:08] > Saving server...
+[25/08/2009 16:32:12] > SAVE: Complete in 4.25 seconds using relational house storage.
+[25/08/2009 16:32:17] Thunder has logged in.
+[25/08/2009 16:33:22] Pexalita has logged out.
+[25/08/2009 16:33:23] Account Manager has logged in.
+[25/08/2009 16:33:23] Pexalita has logged in.
+[25/08/2009 16:33:24] > [Admin] Kogotero Lanza broadcasted: "kauros inviten fgenteee ".
+[25/08/2009 16:33:27] > [Admin] Kogotero Lanza broadcasted: ":D".
+[25/08/2009 16:33:36] Albericke has logged out.
+[25/08/2009 16:33:38] Albericke has logged in.
+[25/08/2009 16:33:44] Theclaudio has logged out.
+[25/08/2009 16:33:44] Account Manager has logged out.
+[25/08/2009 16:33:45] Account Manager has logged in.
+[25/08/2009 16:33:46] Rubiosky has logged out.
+[25/08/2009 16:33:46] Theclaudio has logged in.
+[25/08/2009 16:33:48] Rubiosky has logged in.
+[25/08/2009 16:33:52] Account Manager has logged out.
+[25/08/2009 16:33:52] > [Admin] Kogotero Lanza broadcasted: "yo ke??".
+[25/08/2009 16:33:53] Account Manager has logged in.
+[25/08/2009 16:34:04] Account Manager has logged out.
+[25/08/2009 16:34:10] Rorowx has logged in.
+[25/08/2009 16:34:10] > [Admin] Kogotero Lanza broadcasted: "ke kosa??".
+[25/08/2009 16:34:21] Account Manager has logged in.
+[25/08/2009 16:34:27] Account Manager has logged out.
+[25/08/2009 16:34:28] Account Manager has logged in.
+[25/08/2009 16:34:30] Kynoxentia has logged out.
+[25/08/2009 16:34:36] Kynoxentia has logged in.
+[25/08/2009 16:34:40] > [Admin] Kogotero Lanza broadcasted: "escondere 1 bp con alguna cosaaa jajaj para q vbusken ".
+[25/08/2009 16:34:48] > [Admin] Kogotero Lanza broadcasted: "puede estar en cualker parte de la cityy ".
+[25/08/2009 16:34:50] Account Manager has logged out.
+[25/08/2009 16:34:53] Rubiosky has logged out.
+[25/08/2009 16:34:56] Account Manager has logged in.
+[25/08/2009 16:34:57] Rubiosky has logged in.
+[25/08/2009 16:35:21] > [Admin] Kogotero Lanza broadcasted: "yo avisooo".
+[25/08/2009 16:35:52] Account Manager has logged out.
+[25/08/2009 16:36:00] Marcelo has logged in.
+[25/08/2009 16:36:08] Marmotita has logged out.
+[25/08/2009 16:36:09] Marmotita has logged in.
+[25/08/2009 16:36:11] Account Manager has logged in.
+[25/08/2009 16:36:43] Account Manager has logged out.
+[25/08/2009 16:36:50] Account Manager has logged in.
+[25/08/2009 16:37:07] Zana dras has logged out.
+[25/08/2009 16:37:10] Zana dras has logged in.
+[25/08/2009 16:37:34] Account Manager has logged out.
+[25/08/2009 16:38:19] Account Manager has logged in.
+[25/08/2009 16:38:20] Marmotita has logged out.
+[25/08/2009 16:38:20] > [Admin] Kogotero Lanza broadcasted: "listo vbusken la bp tiene razgos set ..... ".
+[25/08/2009 16:38:23] Marmotita has logged in.
+[25/08/2009 16:38:29] > [Admin] Kogotero Lanza broadcasted: "puede estar en cualker partee ..... .".
+[25/08/2009 16:38:30] Account Manager has logged in.
+[25/08/2009 16:38:31] Account Manager has logged out.
+[25/08/2009 16:38:34] Account Manager has logged out.
+[25/08/2009 16:38:41] Account Manager has logged in.
+[25/08/2009 16:38:46] Account Manager has logged in.
+[25/08/2009 16:38:46] Account Manager has logged out.
+[25/08/2009 16:38:55] Account Manager has logged out.
+[25/08/2009 16:38:56] Account Manager has logged in.
+[25/08/2009 16:39:04] Account Manager has logged in.
+[25/08/2009 16:39:04] Account Manager has logged out.
+[25/08/2009 16:39:08] Foxero has logged in.
+[25/08/2009 16:39:21] > [Admin] Kogotero Lanza broadcasted: "busken busken busken".
+[25/08/2009 16:39:29] > [Admin] Kogotero Lanza broadcasted: "kjajka nadiee todaviaaa xdd no estan serkaaa".
+[25/08/2009 16:39:29] Account Manager has logged in.
+[25/08/2009 16:39:30] Account Manager has logged out.
+[25/08/2009 16:39:59] Account Manager has logged out.
+[25/08/2009 16:40:00] Account Manager has logged in.
+[25/08/2009 16:40:01] Account Manager has logged out.
+[25/08/2009 16:40:01] > [Admin] Kogotero Lanza broadcasted: "hay razgos set".
+[25/08/2009 16:40:11] > [Admin] Kogotero Lanza broadcasted: "+ 200 cc".
+[25/08/2009 16:40:13] Rubiosky has logged out.
+[25/08/2009 16:40:15] Rubiosky has logged in.
+[25/08/2009 16:40:18] Account Manager has logged in.
+[25/08/2009 16:40:31] Marmotita has logged out.
+[25/08/2009 16:40:33] Marmotita has logged in.
+[25/08/2009 16:40:58] > [Admin] Kogotero Lanza broadcasted: "veo a thunder ....".
+[25/08/2009 16:41:04] Account Manager has logged out.
+[25/08/2009 16:41:07] > [Admin] Kogotero Lanza broadcasted: "la encontroooo ^^".
+[25/08/2009 16:41:10] > CLEAN: Removed 592 items from 1019 tiles in 0.031 seconds.
+[25/08/2009 16:41:16] > [Admin] Kogotero Lanza broadcasted: "gano thunderrr".
+[25/08/2009 16:41:17] Loko Alex has logged in.
+[25/08/2009 16:41:38] Albericke has logged out.
+[25/08/2009 16:42:34] Account Manager has logged in.
+[25/08/2009 16:42:48] Account Manager has logged out.
+[25/08/2009 16:42:49] Account Manager has logged in.
+[25/08/2009 16:42:50] Account Manager has logged out.
+[25/08/2009 16:42:55] Account Manager has logged in.
+[25/08/2009 16:43:00] Account Manager has logged in.
+[25/08/2009 16:43:06] > [Admin] Kogotero Lanza broadcasted: "en un rato mas otro eventitoo".
+[25/08/2009 16:43:09] Account Manager has logged out.
+[25/08/2009 16:43:11] Account Manager has logged out.
+[25/08/2009 16:43:14] Scoby Doo has logged in.
+[25/08/2009 16:43:21] Account Manager has logged in.
+[25/08/2009 16:43:29] Foxero has logged out.
+[25/08/2009 16:43:31] Foxero has logged in.
+[25/08/2009 16:43:32] Foxero has logged out.
+[25/08/2009 16:43:35] Account Manager has logged in.
+[25/08/2009 16:43:37] Account Manager has logged out.
+[25/08/2009 16:43:43] Account Manager has logged out.
+[25/08/2009 16:43:44] Foxero has logged in.
+[25/08/2009 16:43:45] Frankocoz has logged in.
+[25/08/2009 16:43:45] Foxero has logged out.
+[25/08/2009 16:43:50] Account Manager has logged in.
+[25/08/2009 16:44:07] 
+[25/08/2009 16:44:07] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 16:44:07] data/talkactions/scripts/kick.lua:onSay
+[25/08/2009 16:44:07] 
+[25/08/2009 16:44:07] data/talkactions/scripts/kick.lua:13: attempt to compare number with boolean
+[25/08/2009 16:44:07] stack traceback:
+[25/08/2009 16:44:07] 	data/talkactions/scripts/kick.lua:13: in function <data/talkactions/scripts/kick.lua:1>
+[25/08/2009 16:44:14] Account Manager has logged out.
+[25/08/2009 16:44:19] Theclaudio has logged out.
+[25/08/2009 16:44:20] El Admi Es Bkn has logged in.
+[25/08/2009 16:44:23] Theclaudio has logged in.
+[25/08/2009 16:44:45] > [Admin] Kogotero Lanza broadcasted: "si ven 1 ql diciendo weas de otro serv me avisan gana premio :)".
+[25/08/2009 16:45:16] Theclaudio has logged out.
+[25/08/2009 16:45:18] Theclaudio has logged in.
+[25/08/2009 16:45:18] El Admi Es Bkn has logged out.
+[25/08/2009 16:45:20] El Admi Es Bkn has logged in.
+[25/08/2009 16:45:55] > [Admin] Kogotero Lanza broadcasted: "KE PASA MARMOTITAAA JAJAJA".
+[25/08/2009 16:46:16] Pexalita has logged out.
+[25/08/2009 16:46:19] Pexalita has logged in.
+[25/08/2009 16:46:19] Pexalita has logged out.
+[25/08/2009 16:46:21] Pexalita has logged in.
+[25/08/2009 16:46:22] Pexalita has logged out.
+[25/08/2009 16:46:23] Pexalita has logged in.
+[25/08/2009 16:46:24] Pexalita has logged out.
+[25/08/2009 16:46:25] Pexalita has logged in.
+[25/08/2009 16:46:26] Pexalita has logged out.
+[25/08/2009 16:46:27] Pexalita has logged in.
+[25/08/2009 16:46:28] Pexalita has logged out.
+[25/08/2009 16:46:30] Pexalita has logged in.
+[25/08/2009 16:46:30] Pexalita has logged out.
+[25/08/2009 16:46:31] Pexalita has logged in.
+[25/08/2009 16:46:32] Pexalita has logged out.
+[25/08/2009 16:46:33] Account Manager has logged in.
+[25/08/2009 16:46:36] Account Manager has logged out.
+[25/08/2009 16:46:37] Pexalita has logged in.
+[25/08/2009 16:46:38] Pexalita has logged out.
+[25/08/2009 16:46:39] Pexalita has logged in.
+[25/08/2009 16:46:40] Pexalita has logged out.
+[25/08/2009 16:46:41] Pexalita has logged in.
+[25/08/2009 16:46:42] Pexalita has logged out.
+[25/08/2009 16:46:44] Pexalita has logged in.
+[25/08/2009 16:46:45] Pexalita has logged out.
+[25/08/2009 16:46:46] Pexalita has logged in.
+[25/08/2009 16:46:47] Pexalita has logged out.
+[25/08/2009 16:46:48] Account Manager has logged in.
+[25/08/2009 16:46:50] Account Manager has logged out.
+[25/08/2009 16:46:52] Pexalita has logged in.
+[25/08/2009 16:46:53] Pexalita has logged out.
+[25/08/2009 16:46:54] Pexalita has logged in.
+[25/08/2009 16:46:55] Pexalita has logged out.
+[25/08/2009 16:46:56] El Admi Es Bkn has logged out.
+[25/08/2009 16:46:56] Pexalita has logged in.
+[25/08/2009 16:46:57] El Admi Es Bkn has logged in.
+[25/08/2009 16:46:57] Pexalita has logged out.
+[25/08/2009 16:46:59] Pexalita has logged in.
+[25/08/2009 16:46:59] Pexalita has logged out.
+[25/08/2009 16:47:02] Pexalita has logged in.
+[25/08/2009 16:47:02] Pexalita has logged out.
+[25/08/2009 16:47:03] Pexalita has logged in.
+[25/08/2009 16:47:05] Pexalita has logged out.
+[25/08/2009 16:47:06] Pexalita has logged in.
+[25/08/2009 16:47:07] Pexalita has logged out.
+[25/08/2009 16:47:08] Pexalita has logged in.
+[25/08/2009 16:47:08] Pexalita has logged out.
+[25/08/2009 16:47:09] > Saving server...
+[25/08/2009 16:47:14] > SAVE: Complete in 4.829 seconds using relational house storage.
+[25/08/2009 16:47:15] Account Manager has logged in.
+[25/08/2009 16:47:15] 
+[25/08/2009 16:47:15] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 16:47:15] data/talkactions/scripts/kick.lua:onSay
+[25/08/2009 16:47:15] 
+[25/08/2009 16:47:15] data/talkactions/scripts/kick.lua:13: attempt to compare number with boolean
+[25/08/2009 16:47:15] stack traceback:
+[25/08/2009 16:47:15] 	data/talkactions/scripts/kick.lua:13: in function <data/talkactions/scripts/kick.lua:1>
+[25/08/2009 16:47:17] Account Manager has logged out.
+[25/08/2009 16:47:18] Account Manager has logged in.
+[25/08/2009 16:47:21] Account Manager has logged out.
+[25/08/2009 16:47:21] Theclaudio has logged out.
+[25/08/2009 16:47:22] Pexalita has logged in.
+[25/08/2009 16:47:23] Theclaudio has logged in.
+[25/08/2009 16:48:06] Account Manager has logged in.
+[25/08/2009 16:48:09] El Admi Es Bkn has logged out.
+[25/08/2009 16:48:21] > [Admin] Kogotero Lanza broadcasted: "cualker cosa ablen x el game chat ^^".
+[25/08/2009 16:48:26] Account Manager has logged out.
+[25/08/2009 16:48:26] > [Admin] Kogotero Lanza broadcasted: "si necesitan algo no se ....".
+[25/08/2009 16:48:28] El Admi Es Bkn has logged in.
+[25/08/2009 16:48:30] El Admi Es Bkn has logged out.
+[25/08/2009 16:48:31] El Admi Es Bkn has logged in.
+[25/08/2009 16:48:33] Account Manager has logged in.
+[25/08/2009 16:48:58] Darkoo has logged in.
+[25/08/2009 16:49:10] Account Manager has logged out.
+[25/08/2009 16:49:15] > [Admin] Kogotero Lanza broadcasted: "entrwen al templooo".
+[25/08/2009 16:49:18] White Widow has logged in.
+[25/08/2009 16:49:19] > [Admin] Kogotero Lanza broadcasted: "entren al templo".
+[25/08/2009 16:49:23] Betaaxxxz has logged out.
+[25/08/2009 16:49:26] Betaaxxxz has logged in.
+[25/08/2009 16:49:28] Zana dras has logged out.
+[25/08/2009 16:49:29] Loko Alex has logged out.
+[25/08/2009 16:49:29] Theclaudio has logged out.
+[25/08/2009 16:49:30] Zana dras has logged in.
+[25/08/2009 16:49:31] Theclaudio has logged in.
+[25/08/2009 16:49:31] Loko Alex has logged in.
+[25/08/2009 16:49:34] Darkoo has logged out.
+[25/08/2009 16:49:37] Darkoo has logged in.
+[25/08/2009 16:49:45] > CLEAN: Removed 547 items from 867 tiles in 0.031 seconds.
+[25/08/2009 16:49:50] Ekooor has logged out.
+[25/08/2009 16:49:53] Darkoo has logged out.
+[25/08/2009 16:49:54] Darkoo has logged in.
+[25/08/2009 16:49:57] Ekooor has logged in.
+[25/08/2009 16:50:03] Account Manager has logged in.
+[25/08/2009 16:50:03] > CLEAN: Removed 5 items from 16 tiles in 0.031 seconds.
+[25/08/2009 16:50:04] Account Manager has logged in.
+[25/08/2009 16:50:10] Pexalita has logged out.
+[25/08/2009 16:50:12] Pexalita has logged in.
+[25/08/2009 16:50:13] Ekooor has logged out.
+[25/08/2009 16:50:17] Ekooor has logged in.
+[25/08/2009 16:50:19] Account Manager has logged out.
+[25/08/2009 16:50:24] Marmotita has logged out.
+[25/08/2009 16:50:24] Account Manager has logged in.
+[25/08/2009 16:50:26] Marmotita has logged in.
+[25/08/2009 16:50:27] > CLEAN: Removed 5 items from 10 tiles in 0.031 seconds.
+[25/08/2009 16:50:34] > [Admin] Kogotero Lanza broadcasted: "cabros leveleenn jajaja".
+[25/08/2009 16:50:39] Darkoo has logged out.
+[25/08/2009 16:50:41] Darkoo has logged in.
+[25/08/2009 16:50:45] > [Admin] Kogotero Lanza broadcasted: "weon no ablen x private".
+[25/08/2009 16:50:45] Account Manager has logged out.
+[25/08/2009 16:50:50] > [Admin] Kogotero Lanza broadcasted: "-.- no contesto".
+[25/08/2009 16:50:52] Killer assassin has logged in.
+[25/08/2009 16:50:55] El Admi Es Bkn has logged out.
+[25/08/2009 16:51:03] Account Manager has logged out.
+[25/08/2009 16:51:05] > [Admin] Boonart broadcasted: "la premi se compra asi !buypremium".
+[25/08/2009 16:51:10] Account Manager has logged in.
+[25/08/2009 16:51:17] > CLEAN: Removed 28 items from 37 tiles in 0.031 seconds.
+[25/08/2009 16:51:22] > [Admin] Kogotero Lanza broadcasted: "YA LEVELEEENNN".
+[25/08/2009 16:51:43] Account Manager has logged out.
+[25/08/2009 16:51:50] El Shxle has logged in.
+[25/08/2009 16:51:51] Pexalita has logged out.
+[25/08/2009 16:51:51] [Hoster] Dee has logged in.
+[25/08/2009 16:51:52] Rorowx has logged out.
+[25/08/2009 16:51:53] Zana dras has logged out.
+[25/08/2009 16:51:53] Pexalita has logged in.
+[25/08/2009 16:51:57] Zana dras has logged in.
+[25/08/2009 16:51:58] Rorowx has logged in.
+[25/08/2009 16:52:53] [Hoster] Dee has logged out.
+[25/08/2009 16:52:57] > [Admin] Kogotero Lanza broadcasted: "me voy a plololiar ".
+[25/08/2009 16:52:59] [Admin] Kogotero Lanza has logged out.
+[25/08/2009 16:53:07] Kynoxentia has logged out.
+[25/08/2009 16:53:39] Thunder has logged out.
+[25/08/2009 16:53:45] Darkoo has logged out.
+[25/08/2009 16:53:47] Darkoo has logged in.
+[25/08/2009 16:53:55] Zana dras has logged out.
+[25/08/2009 16:53:55] Thunder has logged in.
+[25/08/2009 16:53:57] Zana dras has logged in.
+[25/08/2009 16:54:03] Darkoo has logged out.
+[25/08/2009 16:54:05] Darkoo has logged in.
+[25/08/2009 16:54:12] Pexalita has logged out.
+[25/08/2009 16:54:15] Darkoo has logged out.
+[25/08/2009 16:54:17] Darkoo has logged in.
+[25/08/2009 16:54:26] Darkoo has logged out.
+[25/08/2009 16:54:27] Darkoo has logged in.
+[25/08/2009 16:54:49] Account Manager has logged in.
+[25/08/2009 16:54:52] Account Manager has logged out.
+[25/08/2009 16:54:53] Mostronoso has logged in.
+[25/08/2009 16:54:56] Mostronoso has logged out.
+[25/08/2009 16:54:57] Mostron has logged in.
+[25/08/2009 16:55:01] Loko Alex has logged out.
+[25/08/2009 16:55:04] Loko Alex has logged in.
+[25/08/2009 16:55:42] Darkoo has logged out.
+[25/08/2009 16:55:43] Darkoo has logged in.
+[25/08/2009 16:55:46] Mostron has logged out.
+[25/08/2009 16:55:47] Mostron has logged in.
+[25/08/2009 16:55:57] 
+[25/08/2009 16:55:57] Lua Script Error: [CreatureScript Interface] 
+[25/08/2009 16:55:57] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[25/08/2009 16:55:57] 
+[25/08/2009 16:55:57] luaGetCreatureName(). Creature not found
+[25/08/2009 16:55:57] 
+[25/08/2009 16:55:57] Lua Script Error: [CreatureScript Interface] 
+[25/08/2009 16:55:57] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[25/08/2009 16:55:57] 
+[25/08/2009 16:55:57] luaGetCreatureName(). Creature not found
+[25/08/2009 16:55:57] Killer assassin has logged out.
+[25/08/2009 16:56:02] Killer assassin has logged in.
+[25/08/2009 16:56:15] Mono Pirata has logged in.
+[25/08/2009 16:56:28] Raz Strayzer has logged in.
+[25/08/2009 16:56:30] Account Manager has logged in.
+[25/08/2009 16:56:33] Raz Strayzer has logged out.
+[25/08/2009 16:56:33] Account Manager has logged out.
+[25/08/2009 16:56:42] Account Manager has logged in.
+[25/08/2009 16:56:52] Account Manager has logged out.
+[25/08/2009 16:56:53] Raz Strayzer has logged in.
+[25/08/2009 16:56:58] Account Manager has logged in.
+[25/08/2009 16:57:11] Account Manager has logged out.
+[25/08/2009 16:57:16] Seshpi has logged in.
+[25/08/2009 16:57:16] White Widow has logged out.
+[25/08/2009 16:57:18] White Widow has logged in.
+[25/08/2009 16:57:32] Rorowx has logged out.
+[25/08/2009 16:57:34] Rorowx has logged in.
+[25/08/2009 16:57:47] Mono Pirata has logged out.
+[25/08/2009 16:57:51] [Hoster] Dee has logged in.
+[25/08/2009 16:57:58] Darkoo has logged out.
+[25/08/2009 16:58:00] Darkoo has logged in.
+[25/08/2009 16:59:07] Account Manager has logged in.
+[25/08/2009 16:59:27] Raz Strayzer has logged out.
+[25/08/2009 16:59:27] Account Manager has logged out.
+[25/08/2009 16:59:31] [Hoster] Dee has logged out.
+[25/08/2009 16:59:32] Raz Strayzer has logged in.
+[25/08/2009 16:59:35] Account Manager has logged in.
+[25/08/2009 16:59:36] Account Manager has logged in.
+[25/08/2009 16:59:38] Rorowx has logged out.
+[25/08/2009 16:59:39] Rorowx has logged in.
+[25/08/2009 16:59:52] Account Manager has logged out.
+[25/08/2009 16:59:59] Akatzura has logged in.
+[25/08/2009 17:00:01] Rorowx has logged out.
+[25/08/2009 17:00:03] Rorowx has logged in.
+[25/08/2009 17:00:07] Account Manager has logged out.
+[25/08/2009 17:00:13] Account Manager has logged in.
+[25/08/2009 17:00:37] Account Manager has logged out.
+[25/08/2009 17:00:40] Rorowx has logged out.
+[25/08/2009 17:00:41] Rorowx has logged in.
+[25/08/2009 17:00:44] Pirox has logged in.
+[25/08/2009 17:00:45] Frankocoz has logged out.
+[25/08/2009 17:00:45] Raz Strayzer has logged out.
+[25/08/2009 17:00:47] Frankocoz has logged in.
+[25/08/2009 17:01:36] Account Manager has logged in.
+[25/08/2009 17:01:45] Lord Etal has logged out.
+[25/08/2009 17:01:47] Lord Etal has logged in.
+[25/08/2009 17:02:08] Account Manager has logged out.
+[25/08/2009 17:02:10] > Saving server...
+[25/08/2009 17:02:16] > SAVE: Complete in 6.266 seconds using relational house storage.
+[25/08/2009 17:02:27] Account Manager has logged in.
+[25/08/2009 17:02:34] Ekooor has logged out.
+[25/08/2009 17:02:38] Ekooor has logged in.
+[25/08/2009 17:02:55] Darkoo has logged out.
+[25/08/2009 17:02:57] Darkoo has logged in.
+[25/08/2009 17:02:59] Account Manager has logged out.
+[25/08/2009 17:03:09] Icaros has logged in.
+[25/08/2009 17:03:17] Pirox has logged out.
+[25/08/2009 17:03:24] [Hoster] Dee has logged in.
+[25/08/2009 17:03:33] Account Manager has logged in.
+[25/08/2009 17:03:36] Account Manager has logged in.
+[25/08/2009 17:03:55] Account Manager has logged out.
+[25/08/2009 17:03:58] Account Manager has logged out.
+[25/08/2009 17:03:58] 
+[25/08/2009 17:03:58] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:03:58] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:03:59] 
+[25/08/2009 17:03:59] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:04:00] 
+[25/08/2009 17:04:00] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:04:00] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:04:00] 
+[25/08/2009 17:04:00] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:04:01] 
+[25/08/2009 17:04:01] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:04:01] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:04:01] 
+[25/08/2009 17:04:01] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:04:01] Account Manager has logged in.
+[25/08/2009 17:04:03] Loko Alex has logged out.
+[25/08/2009 17:04:05] Loko Alex has logged in.
+[25/08/2009 17:04:07] Account Manager has logged in.
+[25/08/2009 17:04:07] Marmotita has logged out.
+[25/08/2009 17:04:11] Akatzura has logged out.
+[25/08/2009 17:04:12] [Admin] Senik One has logged in.
+[25/08/2009 17:04:13] Akatzura has logged in.
+[25/08/2009 17:04:27] Account Manager has logged out.
+[25/08/2009 17:04:34] Loko Alex has logged out.
+[25/08/2009 17:04:36] Loko Alex has logged in.
+[25/08/2009 17:04:38] Nano has logged in.
+[25/08/2009 17:04:50] > [Admin] Senik One broadcasted: "q asa caxros".
+[25/08/2009 17:05:09] Loko Alex has logged out.
+[25/08/2009 17:05:11] Loko Alex has logged in.
+[25/08/2009 17:05:21] Rubiosky has logged out.
+[25/08/2009 17:05:22] Mostron has logged out.
+[25/08/2009 17:05:23] Mostron has logged in.
+[25/08/2009 17:05:34] Frankocoz has logged out.
+[25/08/2009 17:05:36] Frankocoz has logged in.
+[25/08/2009 17:05:39] [Admin] Senik One has logged out.
+[25/08/2009 17:05:41] Marmotita has logged in.
+[25/08/2009 17:05:54] Rorowx has logged out.
+[25/08/2009 17:05:56] Darkoo has logged out.
+[25/08/2009 17:05:57] Rorowx has logged in.
+[25/08/2009 17:05:58] Darkoo has logged in.
+[25/08/2009 17:06:17] Kynoxentia has logged in.
+[25/08/2009 17:06:18] Frankocoz has logged out.
+[25/08/2009 17:06:19] Frankocoz has logged in.
+[25/08/2009 17:06:19] > Broadcasted message: "New record: 28 players are logged in.".
+[25/08/2009 17:06:20] Account Manager has logged in.
+[25/08/2009 17:06:21] 
+[25/08/2009 17:06:21] Lua Script Error: [CreatureScript Interface] 
+[25/08/2009 17:06:21] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[25/08/2009 17:06:22] 
+[25/08/2009 17:06:22] luaGetCreatureName(). Creature not found
+[25/08/2009 17:06:22] 
+[25/08/2009 17:06:22] Lua Script Error: [CreatureScript Interface] 
+[25/08/2009 17:06:22] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[25/08/2009 17:06:22] 
+[25/08/2009 17:06:22] luaGetCreatureName(). Creature not found
+[25/08/2009 17:06:22] Theclaudio has logged out.
+[25/08/2009 17:06:27] Theclaudio has logged in.
+[25/08/2009 17:06:30] Marmotita has logged out.
+[25/08/2009 17:06:33] Marmotita has logged in.
+[25/08/2009 17:06:40] Account Manager has logged out.
+[25/08/2009 17:06:50] Account Manager has logged out.
+[25/08/2009 17:06:51] Shadow Warrior has logged in.
+[25/08/2009 17:07:20] Marmotita has logged out.
+[25/08/2009 17:07:22] Marmotita has logged in.
+[25/08/2009 17:07:37] Frankocoz has logged out.
+[25/08/2009 17:07:51] Nano has logged out.
+[25/08/2009 17:07:53] Nano has logged in.
+[25/08/2009 17:07:54] Pirox has logged in.
+[25/08/2009 17:07:56] Darkoo has logged out.
+[25/08/2009 17:07:57] Darkoo has logged in.
+[25/08/2009 17:08:19] Account Manager has logged in.
+[25/08/2009 17:08:21] White Widow has logged out.
+[25/08/2009 17:08:23] Pirox has logged out.
+[25/08/2009 17:08:27] Pirox has logged in.
+[25/08/2009 17:08:38] Account Manager has logged out.
+[25/08/2009 17:08:41] Rorowx has logged out.
+[25/08/2009 17:08:42] Rorowx has logged in.
+[25/08/2009 17:08:46] 
+[25/08/2009 17:08:46] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:08:46] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:08:46] 
+[25/08/2009 17:08:46] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:08:49] Scoby Doo has logged out.
+[25/08/2009 17:08:50] Scoby Doo has logged in.
+[25/08/2009 17:08:52] Account Manager has logged in.
+[25/08/2009 17:08:53] Account Manager has logged in.
+[25/08/2009 17:08:55] > [Hoster] Dee broadcasted: "pirox es god porq somo como hmnos nos comocemo ase caleta".
+[25/08/2009 17:08:59] Rorowx has logged out.
+[25/08/2009 17:09:00] Rorowx has logged in.
+[25/08/2009 17:09:03] Account Manager has logged out.
+[25/08/2009 17:09:09] Account Manager has logged in.
+[25/08/2009 17:09:20] Account Manager has logged out.
+[25/08/2009 17:09:28] Account Manager has logged in.
+[25/08/2009 17:09:29] > Broadcasted message: "New record: 29 players are logged in.".
+[25/08/2009 17:09:29] Rapshodixx has logged in.
+[25/08/2009 17:09:31] Account Manager has logged out.
+[25/08/2009 17:09:34] Seshpi has logged out.
+[25/08/2009 17:09:34] Account Manager has logged in.
+[25/08/2009 17:09:35] Master Killer has logged in.
+[25/08/2009 17:09:38] Shadow Warrior has logged out.
+[25/08/2009 17:09:39] Shadow Warrior has logged in.
+[25/08/2009 17:09:43] > Broadcasted message: "New record: 30 players are logged in.".
+[25/08/2009 17:09:43] Account Manager has logged in.
+[25/08/2009 17:09:47] [Hoster] Dee has logged out.
+[25/08/2009 17:09:48] Shadow Warrior has logged out.
+[25/08/2009 17:09:49] Royal sio has logged in.
+[25/08/2009 17:09:56] Account Manager has logged out.
+[25/08/2009 17:10:00] Royal sio has logged out.
+[25/08/2009 17:10:03] Royal sio has logged in.
+[25/08/2009 17:10:03] El Lonxi has logged in.
+[25/08/2009 17:10:05] Royal sio has logged out.
+[25/08/2009 17:10:07] Shadow Warrior has logged in.
+[25/08/2009 17:10:10] Account Manager has logged out.
+[25/08/2009 17:10:11] Seshpi has logged in.
+[25/08/2009 17:10:12] Seshpi has logged out.
+[25/08/2009 17:10:13] Account Manager has logged in.
+[25/08/2009 17:10:26] Account Manager has logged out.
+[25/08/2009 17:10:26] Seshpi has logged in.
+[25/08/2009 17:10:31] White Widow has logged in.
+[25/08/2009 17:10:32] Koonstanza has logged out.
+[25/08/2009 17:10:36] Koonstanza has logged in.
+[25/08/2009 17:10:47] > Broadcasted message: "New record: 31 players are logged in.".
+[25/08/2009 17:10:47] Account Manager has logged in.
+[25/08/2009 17:10:49] Account Manager has logged out.
+[25/08/2009 17:10:51] Account Manager has logged out.
+[25/08/2009 17:10:57] Chino mage has logged in.
+[25/08/2009 17:11:02] Account Manager has logged in.
+[25/08/2009 17:11:11] Shadow Warrior has logged out.
+[25/08/2009 17:11:11] [Admin] Boonart has logged out.
+[25/08/2009 17:11:13] Shadow Warrior has logged in.
+[25/08/2009 17:11:15] [Admin] Boonart has logged in.
+[25/08/2009 17:11:30] > CLEAN: Removed 1402 items from 2206 tiles in 0.047 seconds.
+[25/08/2009 17:11:32] Marcelo has logged out.
+[25/08/2009 17:11:34] Marcelo has logged in.
+[25/08/2009 17:11:37] Mostron has logged out.
+[25/08/2009 17:11:39] Mostron has logged in.
+[25/08/2009 17:11:40] Marcelo has logged out.
+[25/08/2009 17:11:41] Marcelo has logged in.
+[25/08/2009 17:11:42] Master Killer has logged out.
+[25/08/2009 17:11:44] Master Killer has logged in.
+[25/08/2009 17:11:45] El Lonxi has logged out.
+[25/08/2009 17:11:47] El Lonxi has logged in.
+[25/08/2009 17:11:48] Nano has logged out.
+[25/08/2009 17:11:49] Nano has logged in.
+[25/08/2009 17:11:51] El Shxle has logged out.
+[25/08/2009 17:11:56] Pirox has logged out.
+[25/08/2009 17:11:58] Pirox has logged in.
+[25/08/2009 17:12:01] Shadow Warrior has logged out.
+[25/08/2009 17:12:03] Shadow Warrior has logged in.
+[25/08/2009 17:12:13] Marmotita has logged out.
+[25/08/2009 17:12:16] Marmotita has logged in.
+[25/08/2009 17:12:19] Account Manager has logged out.
+[25/08/2009 17:12:27] Rorowx has logged out.
+[25/08/2009 17:12:27] Koonstanza has logged out.
+[25/08/2009 17:12:29] Koonstanza has logged in.
+[25/08/2009 17:12:30] Hesperides has logged in.
+[25/08/2009 17:12:31] Ella has logged in.
+[25/08/2009 17:12:31] Mariicela has logged out.
+[25/08/2009 17:12:34] Mariicela has logged in.
+[25/08/2009 17:12:35] Ella has logged out.
+[25/08/2009 17:12:36] Shadow Warrior has logged out.
+[25/08/2009 17:12:38] Shadow Warrior has logged in.
+[25/08/2009 17:12:39] Ella has logged in.
+[25/08/2009 17:12:40] Marmotita has logged out.
+[25/08/2009 17:12:42] Shadow Warrior has logged out.
+[25/08/2009 17:12:43] [Admin] Senik One has logged in.
+[25/08/2009 17:12:44] Scoby Doo has logged out.
+[25/08/2009 17:12:44] Shadow Warrior has logged in.
+[25/08/2009 17:12:46] [Admin] Senik One has logged out.
+[25/08/2009 17:12:48] [Admin] Senik One has logged in.
+[25/08/2009 17:12:55] Betaaxxxz has logged out.
+[25/08/2009 17:12:57] Shadow Warrior has logged out.
+[25/08/2009 17:12:58] Betaaxxxz has logged in.
+[25/08/2009 17:12:59] Shadow Warrior has logged in.
+[25/08/2009 17:13:01] Shadow Warrior has logged out.
+[25/08/2009 17:13:02] > Seshpi broadcasted: "Bye a toss xDDD deje la caga".
+[25/08/2009 17:13:02] Royal sio has logged in.
+[25/08/2009 17:13:04] Betaaxxxz has logged out.
+[25/08/2009 17:13:06] Betaaxxxz has logged in.
+[25/08/2009 17:13:08] Thunder has logged out.
+[25/08/2009 17:13:09] Loko Alex has logged out.
+[25/08/2009 17:13:12] Loko Alex has logged in.
+[25/08/2009 17:13:14] Thunder has logged in.
+[25/08/2009 17:13:16] Royal sio has logged out.
+[25/08/2009 17:13:17] Royal sio has logged in.
+[25/08/2009 17:13:21] Chino mage has logged out.
+[25/08/2009 17:13:22] Chino mage has logged in.
+[25/08/2009 17:13:25] Lord Etal has logged out.
+[25/08/2009 17:13:26] Royal sio has logged out.
+[25/08/2009 17:13:27] Nano has logged out.
+[25/08/2009 17:13:27] Shadow Warrior has logged in.
+[25/08/2009 17:13:27] Lord Etal has logged in.
+[25/08/2009 17:13:39] [Admin] Senik One has logged out.
+[25/08/2009 17:13:40] Marcelo has logged out.
+[25/08/2009 17:13:41] [Admin] Senik One has logged in.
+[25/08/2009 17:13:42] Marcelo has logged in.
+[25/08/2009 17:13:52] > Thunder broadcasted: "KEN NOS HIZO A TODOS GOD ?".
+[25/08/2009 17:13:57] [Admin] Boonart has logged out.
+[25/08/2009 17:14:01] [Admin] Boonart has logged in.
+[25/08/2009 17:14:03] Marcelo has logged out.
+[25/08/2009 17:14:03] > Master Killer broadcasted: "kien dejo la kaga".
+[25/08/2009 17:14:04] Theclaudio has logged out.
+[25/08/2009 17:14:04] Marcelo has logged in.
+[25/08/2009 17:14:05] Theclaudio has logged in.
+[25/08/2009 17:14:11] > Thunder broadcasted: "HAY QE VIOLARLO XD".
+[25/08/2009 17:14:13] [Admin] Boonart has logged out.
+[25/08/2009 17:14:15] [Admin] Boonart has logged in.
+[25/08/2009 17:14:20] > Seshpi broadcasted: "cage alos GM con todo".
+[25/08/2009 17:14:21] > Master Killer broadcasted: "pero no se pueden hacer monster po ".
+[25/08/2009 17:14:24] Darkoo has logged out.
+[25/08/2009 17:14:24] Zana dras has logged out.
+[25/08/2009 17:14:26] Darkoo has logged in.
+[25/08/2009 17:14:27] > Master Killer broadcasted: "esa esa la wea penca u.u".
+[25/08/2009 17:14:27] Zana dras has logged in.
+[25/08/2009 17:14:32] Ekooor has logged out.
+[25/08/2009 17:14:35] Darkoo has logged out.
+[25/08/2009 17:14:36] Ekooor has logged in.
+[25/08/2009 17:14:36] Darkoo has logged in.
+[25/08/2009 17:14:39] Mariicela has logged out.
+[25/08/2009 17:14:40] Koonstanza has logged out.
+[25/08/2009 17:14:42] Koonstanza has logged in.
+[25/08/2009 17:14:43] El Lonxi has logged out.
+[25/08/2009 17:14:56] > Darkoo broadcasted: "buta la wea".
+[25/08/2009 17:14:59] > Thunder broadcasted: "PERO QE WEA HICISTE ? XD".
+[25/08/2009 17:15:05] > Darkoo broadcasted: "saquenme el god!!".
+[25/08/2009 17:15:27] > [Admin] Senik One broadcasted: "son aweonao loko".
+[25/08/2009 17:15:28] > Master Killer broadcasted: "no hagan esa ke lagean el ot sakos weas".
+[25/08/2009 17:15:40] > [Admin] Boonart broadcasted: "lonji ql".
+[25/08/2009 17:15:40] > Darkoo broadcasted: "saquenme el god!!!!!".
+[25/08/2009 17:16:02] Pirox has logged out.
+[25/08/2009 17:16:03] Theclaudio has logged out.
+[25/08/2009 17:16:05] Theclaudio has logged in.
+[25/08/2009 17:16:13] > Darkoo broadcasted: "uta".
+[25/08/2009 17:16:25] > Darkoo broadcasted: "saquenme el gm po wn".
+[25/08/2009 17:16:33] [Admin] Senik One has logged out.
+[25/08/2009 17:16:33] Marmotita has logged in.
+[25/08/2009 17:16:36] Koonstanza has logged out.
+[25/08/2009 17:16:39] Lord Etal has logged out.
+[25/08/2009 17:16:41] Koonstanza has logged in.
+[25/08/2009 17:16:42] White Widow has logged out.
+[25/08/2009 17:16:42] Lord Etal has logged in.
+[25/08/2009 17:16:50] White Widow has logged in.
+[25/08/2009 17:16:50] Shadow Warrior has logged out.
+[25/08/2009 17:16:52] Shadow Warrior has logged in.
+[25/08/2009 17:16:54] Marmotita has logged out.
+[25/08/2009 17:16:54] [Admin] Senik One has logged in.
+[25/08/2009 17:16:59] > Master Killer broadcasted: "no agan esa wea weoenes ".
+[25/08/2009 17:17:10] > [Admin] Senik One broadcasted: "paren de aser magias qls wons".
+[25/08/2009 17:17:11] > Saving server...
+[25/08/2009 17:17:17] > SAVE: Complete in 6.266 seconds using relational house storage.
+[25/08/2009 17:17:34] Marcelo has logged out.
+[25/08/2009 17:17:36] Marcelo has logged in.
+[25/08/2009 17:17:46] > Thunder broadcasted: "wn porfa arreglen esta wea loco".
+[25/08/2009 17:17:50] Rapshodixx has logged out.
+[25/08/2009 17:17:52] Rapshodixx has logged in.
+[25/08/2009 17:17:53] > Thunder broadcasted: "taba bkn el server ql".
+[25/08/2009 17:17:56] > Darkoo broadcasted: "qn es god?".
+[25/08/2009 17:18:02] > Thunder broadcasted: "yo".
+[25/08/2009 17:18:02] Betaaxxxz has logged out.
+[25/08/2009 17:18:04] Betaaxxxz has logged in.
+[25/08/2009 17:18:05] > [Admin] Senik One broadcasted: "paren de aser spam ql".
+[25/08/2009 17:18:06] > Darkoo broadcasted: "god god si no gm".
+[25/08/2009 17:18:20] > Thunder broadcasted: "a los wns qe les sale admin po weta".
+[25/08/2009 17:18:27] > Thunder broadcasted: "xD".
+[25/08/2009 17:18:32] Chino mage has logged out.
+[25/08/2009 17:19:04] Marcelo has logged out.
+[25/08/2009 17:19:05] Marcelo has logged in.
+[25/08/2009 17:19:08] > Ekooor broadcasted: "hola".
+[25/08/2009 17:19:13] White Widow has logged out.
+[25/08/2009 17:19:16] White Widow has logged in.
+[25/08/2009 17:19:19] > Hesperides broadcasted: "hola?".
+[25/08/2009 17:19:36] [Admin] Senik One has logged out.
+[25/08/2009 17:19:36] Marmotita has logged in.
+[25/08/2009 17:20:37] > Ekooor broadcasted: "olle qe wea soy".
+[25/08/2009 17:20:39] > Ekooor broadcasted: "tutor".
+[25/08/2009 17:20:42] Thunder has logged out.
+[25/08/2009 17:20:44] 
+[25/08/2009 17:20:44] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:20:44] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:20:44] 
+[25/08/2009 17:20:44] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:20:44] 
+[25/08/2009 17:20:44] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:20:44] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:20:44] 
+[25/08/2009 17:20:44] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:20:45] > Master Killer broadcasted: "paren de hacer spam los jiles ql noob".
+[25/08/2009 17:20:45] 
+[25/08/2009 17:20:45] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:20:45] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:20:45] 
+[25/08/2009 17:20:45] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:20:45] 
+[25/08/2009 17:20:45] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:20:45] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:20:45] 
+[25/08/2009 17:20:45] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:20:45] 
+[25/08/2009 17:20:45] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:20:45] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:20:45] 
+[25/08/2009 17:20:45] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:20:45] 
+[25/08/2009 17:20:45] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:20:45] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:20:45] 
+[25/08/2009 17:20:45] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:20:45] 
+[25/08/2009 17:20:45] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:20:45] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:20:45] 
+[25/08/2009 17:20:45] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:20:45] 
+[25/08/2009 17:20:45] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:20:45] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:20:45] 
+[25/08/2009 17:20:45] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:20:45] 
+[25/08/2009 17:20:45] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:20:45] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:20:45] 
+[25/08/2009 17:20:45] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:20:45] 
+[25/08/2009 17:20:45] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:20:46] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:20:46] 
+[25/08/2009 17:20:46] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:20:46] 
+[25/08/2009 17:20:46] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:20:46] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:20:46] 
+[25/08/2009 17:20:46] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:20:46] 
+[25/08/2009 17:20:46] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:20:46] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:20:46] 
+[25/08/2009 17:20:46] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:20:46] 
+[25/08/2009 17:20:46] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:20:46] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:20:46] 
+[25/08/2009 17:20:46] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:20:46] 
+[25/08/2009 17:20:46] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:20:46] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:20:46] 
+[25/08/2009 17:20:46] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:20:47] 
+[25/08/2009 17:20:47] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:20:47] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:20:47] 
+[25/08/2009 17:20:47] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:20:47] 
+[25/08/2009 17:20:47] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:20:47] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:20:47] 
+[25/08/2009 17:20:47] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:20:47] 
+[25/08/2009 17:20:47] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:20:47] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:20:47] 
+[25/08/2009 17:20:47] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:20:47] 
+[25/08/2009 17:20:47] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:20:47] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:20:47] 
+[25/08/2009 17:20:47] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:20:47] 
+[25/08/2009 17:20:47] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:20:47] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:20:47] 
+[25/08/2009 17:20:47] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:20:47] 
+[25/08/2009 17:20:47] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:20:47] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:20:47] 
+[25/08/2009 17:20:47] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:20:47] 
+[25/08/2009 17:20:47] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:20:47] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:20:47] 
+[25/08/2009 17:20:47] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:20:47] 
+[25/08/2009 17:20:47] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:20:48] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:20:48] 
+[25/08/2009 17:20:48] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:20:48] 
+[25/08/2009 17:20:48] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:20:48] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:20:48] 
+[25/08/2009 17:20:48] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:20:48] 
+[25/08/2009 17:20:48] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:20:48] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:20:48] 
+[25/08/2009 17:20:48] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:20:48] 
+[25/08/2009 17:20:48] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:20:48] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:20:48] 
+[25/08/2009 17:20:48] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:20:48] 
+[25/08/2009 17:20:48] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:20:48] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:20:48] 
+[25/08/2009 17:20:48] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:20:48] 
+[25/08/2009 17:20:48] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:20:48] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:20:48] 
+[25/08/2009 17:20:48] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:20:48] 
+[25/08/2009 17:20:48] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:20:48] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:20:48] 
+[25/08/2009 17:20:48] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:20:48] 
+[25/08/2009 17:20:48] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:20:48] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:20:48] 
+[25/08/2009 17:20:48] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:20:48] 
+[25/08/2009 17:20:49] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:20:49] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:20:49] 
+[25/08/2009 17:20:49] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:20:49] 
+[25/08/2009 17:20:49] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:20:49] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:20:49] 
+[25/08/2009 17:20:49] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:20:49] 
+[25/08/2009 17:20:49] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:20:49] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:20:49] 
+[25/08/2009 17:20:49] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:20:49] 
+[25/08/2009 17:20:49] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:20:49] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:20:49] 
+[25/08/2009 17:20:49] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:20:49] 
+[25/08/2009 17:20:49] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:20:49] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:20:49] 
+[25/08/2009 17:20:49] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:20:49] 
+[25/08/2009 17:20:49] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:20:49] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:20:49] 
+[25/08/2009 17:20:49] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:20:49] 
+[25/08/2009 17:20:49] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:20:49] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:20:49] 
+[25/08/2009 17:20:49] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:20:50] Thunder has logged in.
+[25/08/2009 17:20:52] 
+[25/08/2009 17:20:52] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:20:52] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:20:52] 
+[25/08/2009 17:20:52] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:20:59] Marmotita has logged out.
+[25/08/2009 17:21:02] Thunder has logged out.
+[25/08/2009 17:21:05] 
+[25/08/2009 17:21:05] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:05] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:05] 
+[25/08/2009 17:21:05] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:05] 
+[25/08/2009 17:21:05] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:05] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:05] 
+[25/08/2009 17:21:05] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:05] 
+[25/08/2009 17:21:05] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:05] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:06] 
+[25/08/2009 17:21:06] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:06] 
+[25/08/2009 17:21:06] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:06] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:06] 
+[25/08/2009 17:21:06] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:06] 
+[25/08/2009 17:21:06] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:06] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:06] 
+[25/08/2009 17:21:06] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:06] 
+[25/08/2009 17:21:06] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:06] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:06] 
+[25/08/2009 17:21:06] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:06] 
+[25/08/2009 17:21:06] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:06] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:06] 
+[25/08/2009 17:21:06] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:06] 
+[25/08/2009 17:21:06] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:06] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:06] 
+[25/08/2009 17:21:06] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:06] 
+[25/08/2009 17:21:06] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:06] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:06] 
+[25/08/2009 17:21:06] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:06] 
+[25/08/2009 17:21:06] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:06] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:06] 
+[25/08/2009 17:21:06] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:06] 
+[25/08/2009 17:21:06] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:06] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:06] 
+[25/08/2009 17:21:06] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:07] 
+[25/08/2009 17:21:07] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:07] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:07] 
+[25/08/2009 17:21:07] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:07] 
+[25/08/2009 17:21:07] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:07] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:07] 
+[25/08/2009 17:21:07] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:07] 
+[25/08/2009 17:21:07] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:07] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:07] 
+[25/08/2009 17:21:07] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:07] 
+[25/08/2009 17:21:07] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:07] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:07] 
+[25/08/2009 17:21:07] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:07] 
+[25/08/2009 17:21:07] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:07] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:07] 
+[25/08/2009 17:21:07] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:07] 
+[25/08/2009 17:21:07] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:07] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:07] 
+[25/08/2009 17:21:07] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:07] 
+[25/08/2009 17:21:07] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:07] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:07] 
+[25/08/2009 17:21:07] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:07] 
+[25/08/2009 17:21:07] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:07] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:08] 
+[25/08/2009 17:21:08] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:08] 
+[25/08/2009 17:21:08] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:08] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:08] 
+[25/08/2009 17:21:08] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:08] 
+[25/08/2009 17:21:08] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:08] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:08] 
+[25/08/2009 17:21:08] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:08] 
+[25/08/2009 17:21:08] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:08] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:08] 
+[25/08/2009 17:21:08] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:08] 
+[25/08/2009 17:21:08] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:08] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:08] 
+[25/08/2009 17:21:08] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:08] 
+[25/08/2009 17:21:08] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:08] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:08] 
+[25/08/2009 17:21:08] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:08] 
+[25/08/2009 17:21:08] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:08] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:08] 
+[25/08/2009 17:21:08] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:08] 
+[25/08/2009 17:21:08] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:08] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:08] 
+[25/08/2009 17:21:08] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:08] 
+[25/08/2009 17:21:08] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:09] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:09] 
+[25/08/2009 17:21:09] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:09] 
+[25/08/2009 17:21:09] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:09] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:09] 
+[25/08/2009 17:21:09] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:09] 
+[25/08/2009 17:21:09] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:09] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:09] 
+[25/08/2009 17:21:09] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:09] 
+[25/08/2009 17:21:09] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:09] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:09] 
+[25/08/2009 17:21:09] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:09] 
+[25/08/2009 17:21:09] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:09] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:09] 
+[25/08/2009 17:21:09] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:09] 
+[25/08/2009 17:21:09] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:09] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:09] 
+[25/08/2009 17:21:09] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:09] 
+[25/08/2009 17:21:09] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:09] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:09] 
+[25/08/2009 17:21:09] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:09] 
+[25/08/2009 17:21:09] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:09] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:09] 
+[25/08/2009 17:21:09] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:09] 
+[25/08/2009 17:21:09] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:10] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:10] 
+[25/08/2009 17:21:10] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:10] 
+[25/08/2009 17:21:10] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:10] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:10] 
+[25/08/2009 17:21:10] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:10] 
+[25/08/2009 17:21:10] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:10] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:10] 
+[25/08/2009 17:21:10] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:10] 
+[25/08/2009 17:21:10] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:10] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:10] 
+[25/08/2009 17:21:10] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:10] 
+[25/08/2009 17:21:10] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:10] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:10] 
+[25/08/2009 17:21:10] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:10] 
+[25/08/2009 17:21:10] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:10] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:10] 
+[25/08/2009 17:21:10] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:10] 
+[25/08/2009 17:21:10] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:10] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:10] 
+[25/08/2009 17:21:10] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:10] 
+[25/08/2009 17:21:10] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:11] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:11] 
+[25/08/2009 17:21:11] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:11] 
+[25/08/2009 17:21:11] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:11] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:11] 
+[25/08/2009 17:21:11] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:11] 
+[25/08/2009 17:21:11] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:11] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:11] 
+[25/08/2009 17:21:11] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:11] 
+[25/08/2009 17:21:11] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:11] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:11] 
+[25/08/2009 17:21:11] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:11] 
+[25/08/2009 17:21:11] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:11] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:11] 
+[25/08/2009 17:21:11] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:11] 
+[25/08/2009 17:21:11] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:11] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:11] 
+[25/08/2009 17:21:11] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:11] 
+[25/08/2009 17:21:11] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:11] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:11] 
+[25/08/2009 17:21:11] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:11] 
+[25/08/2009 17:21:11] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:11] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:11] 
+[25/08/2009 17:21:11] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:11] 
+[25/08/2009 17:21:11] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:12] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:12] 
+[25/08/2009 17:21:12] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:12] 
+[25/08/2009 17:21:12] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:12] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:12] 
+[25/08/2009 17:21:12] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:12] 
+[25/08/2009 17:21:12] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:12] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:12] 
+[25/08/2009 17:21:12] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:13] Kynoxentia has logged out.
+[25/08/2009 17:21:17] Demoledor has logged in.
+[25/08/2009 17:21:18] 
+[25/08/2009 17:21:18] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:18] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:18] 
+[25/08/2009 17:21:18] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:18] Kynoxentia has logged in.
+[25/08/2009 17:21:18] 
+[25/08/2009 17:21:18] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:18] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:18] 
+[25/08/2009 17:21:18] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:18] 
+[25/08/2009 17:21:18] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:18] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:18] 
+[25/08/2009 17:21:18] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:18] 
+[25/08/2009 17:21:18] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:18] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:18] 
+[25/08/2009 17:21:18] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:18] 
+[25/08/2009 17:21:18] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:19] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:19] 
+[25/08/2009 17:21:19] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:19] 
+[25/08/2009 17:21:19] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:19] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:19] 
+[25/08/2009 17:21:19] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:19] 
+[25/08/2009 17:21:19] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:19] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:19] 
+[25/08/2009 17:21:19] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:19] 
+[25/08/2009 17:21:19] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:19] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:19] 
+[25/08/2009 17:21:19] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:19] 
+[25/08/2009 17:21:19] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:19] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:19] 
+[25/08/2009 17:21:19] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:19] 
+[25/08/2009 17:21:19] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:19] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:19] 
+[25/08/2009 17:21:19] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:19] 
+[25/08/2009 17:21:19] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:19] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:19] 
+[25/08/2009 17:21:19] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:19] 
+[25/08/2009 17:21:19] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:19] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:19] 
+[25/08/2009 17:21:19] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:20] 
+[25/08/2009 17:21:20] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:20] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:20] 
+[25/08/2009 17:21:20] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:20] 
+[25/08/2009 17:21:20] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:20] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:20] 
+[25/08/2009 17:21:20] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:20] 
+[25/08/2009 17:21:20] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:20] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:20] 
+[25/08/2009 17:21:20] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:20] 
+[25/08/2009 17:21:20] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:20] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:20] 
+[25/08/2009 17:21:20] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:20] 
+[25/08/2009 17:21:20] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:20] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:20] 
+[25/08/2009 17:21:20] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:20] 
+[25/08/2009 17:21:20] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:20] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:20] 
+[25/08/2009 17:21:20] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:20] 
+[25/08/2009 17:21:20] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:20] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:20] 
+[25/08/2009 17:21:20] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:20] 
+[25/08/2009 17:21:20] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:20] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:20] 
+[25/08/2009 17:21:20] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:21] 
+[25/08/2009 17:21:21] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:21] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:21] 
+[25/08/2009 17:21:21] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:21] 
+[25/08/2009 17:21:21] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:21] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:21] 
+[25/08/2009 17:21:21] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:21] 
+[25/08/2009 17:21:21] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:21] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:21] 
+[25/08/2009 17:21:21] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:21] 
+[25/08/2009 17:21:21] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:21] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:21] 
+[25/08/2009 17:21:21] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:21] 
+[25/08/2009 17:21:21] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:21] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:21] 
+[25/08/2009 17:21:21] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:21] 
+[25/08/2009 17:21:21] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:21] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:21] 
+[25/08/2009 17:21:21] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:21] 
+[25/08/2009 17:21:21] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:21] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:21] 
+[25/08/2009 17:21:21] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:21] 
+[25/08/2009 17:21:21] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:21] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:21] 
+[25/08/2009 17:21:21] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:22] 
+[25/08/2009 17:21:22] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:22] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:22] 
+[25/08/2009 17:21:22] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:22] 
+[25/08/2009 17:21:22] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:22] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:22] 
+[25/08/2009 17:21:22] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:22] 
+[25/08/2009 17:21:22] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:22] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:22] 
+[25/08/2009 17:21:22] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:22] 
+[25/08/2009 17:21:22] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:22] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:22] 
+[25/08/2009 17:21:22] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:22] 
+[25/08/2009 17:21:22] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:22] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:22] 
+[25/08/2009 17:21:22] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:22] 
+[25/08/2009 17:21:22] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:22] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:22] 
+[25/08/2009 17:21:22] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:22] 
+[25/08/2009 17:21:22] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:22] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:22] 
+[25/08/2009 17:21:22] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:22] 
+[25/08/2009 17:21:22] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:23] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:23] 
+[25/08/2009 17:21:23] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:23] 
+[25/08/2009 17:21:23] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:23] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:23] 
+[25/08/2009 17:21:23] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:23] 
+[25/08/2009 17:21:23] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:23] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:23] 
+[25/08/2009 17:21:23] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:38] 
+[25/08/2009 17:21:38] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:21:38] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:21:38] 
+[25/08/2009 17:21:38] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:21:55] Marcelo has logged out.
+[25/08/2009 17:22:06] Marcelo has logged in.
+[25/08/2009 17:22:20] Rapshodixx has logged out.
+[25/08/2009 17:22:27] [Admin] Senik One has logged in.
+[25/08/2009 17:22:34] Darkoo has logged out.
+[25/08/2009 17:22:36] Darkoo has logged in.
+[25/08/2009 17:22:42] Demoledor has logged out.
+[25/08/2009 17:22:45] 
+[25/08/2009 17:22:45] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:22:45] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:22:45] 
+[25/08/2009 17:22:45] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:22:46] 
+[25/08/2009 17:22:46] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:22:46] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:22:46] 
+[25/08/2009 17:22:46] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:22:46] 
+[25/08/2009 17:22:46] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:22:46] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:22:46] 
+[25/08/2009 17:22:46] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:22:46] 
+[25/08/2009 17:22:46] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:22:46] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:22:46] 
+[25/08/2009 17:22:46] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:22:46] 
+[25/08/2009 17:22:46] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:22:46] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:22:46] 
+[25/08/2009 17:22:46] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:22:46] 
+[25/08/2009 17:22:46] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:22:47] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:22:47] 
+[25/08/2009 17:22:47] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:22:47] 
+[25/08/2009 17:22:47] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:22:47] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:22:47] 
+[25/08/2009 17:22:47] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:22:47] 
+[25/08/2009 17:22:47] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:22:47] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:22:47] 
+[25/08/2009 17:22:47] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:22:47] 
+[25/08/2009 17:22:47] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:22:47] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:22:47] 
+[25/08/2009 17:22:47] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:22:47] 
+[25/08/2009 17:22:47] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:22:47] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:22:47] 
+[25/08/2009 17:22:47] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:22:47] 
+[25/08/2009 17:22:47] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:22:47] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:22:47] 
+[25/08/2009 17:22:47] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:22:48] 
+[25/08/2009 17:22:48] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:22:48] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:22:48] 
+[25/08/2009 17:22:48] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:22:48] 
+[25/08/2009 17:22:48] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:22:48] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:22:48] 
+[25/08/2009 17:22:48] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:22:48] 
+[25/08/2009 17:22:48] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:22:48] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:22:48] 
+[25/08/2009 17:22:48] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:22:48] 
+[25/08/2009 17:22:48] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:22:48] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:22:48] 
+[25/08/2009 17:22:48] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:22:48] 
+[25/08/2009 17:22:48] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:22:48] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:22:48] 
+[25/08/2009 17:22:48] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:22:49] 
+[25/08/2009 17:22:49] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:22:49] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:22:49] 
+[25/08/2009 17:22:49] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:22:49] 
+[25/08/2009 17:22:49] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:22:49] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:22:49] 
+[25/08/2009 17:22:49] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:22:49] 
+[25/08/2009 17:22:49] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:22:49] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:22:49] 
+[25/08/2009 17:22:49] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:22:50] 
+[25/08/2009 17:22:50] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:22:50] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:22:50] 
+[25/08/2009 17:22:50] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:22:50] 
+[25/08/2009 17:22:50] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:22:50] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:22:50] 
+[25/08/2009 17:22:50] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:22:50] 
+[25/08/2009 17:22:50] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:22:50] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:22:50] 
+[25/08/2009 17:22:50] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:22:50] 
+[25/08/2009 17:22:50] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:22:50] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:22:50] 
+[25/08/2009 17:22:50] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:22:50] 
+[25/08/2009 17:22:50] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:22:50] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:22:50] 
+[25/08/2009 17:22:50] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:22:50] 
+[25/08/2009 17:22:50] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:22:51] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:22:51] 
+[25/08/2009 17:22:51] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:22:51] 
+[25/08/2009 17:22:51] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:22:51] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:22:51] 
+[25/08/2009 17:22:51] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:22:51] 
+[25/08/2009 17:22:51] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:22:51] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:22:51] 
+[25/08/2009 17:22:51] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:22:51] 
+[25/08/2009 17:22:51] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:22:51] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:22:51] 
+[25/08/2009 17:22:51] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:22:52] 
+[25/08/2009 17:22:52] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:22:52] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:22:52] 
+[25/08/2009 17:22:52] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:22:52] 
+[25/08/2009 17:22:52] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:22:52] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:22:52] 
+[25/08/2009 17:22:52] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:22:52] 
+[25/08/2009 17:22:52] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:22:52] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:22:52] 
+[25/08/2009 17:22:52] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:22:52] 
+[25/08/2009 17:22:52] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:22:52] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:22:52] 
+[25/08/2009 17:22:52] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:22:52] 
+[25/08/2009 17:22:52] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:22:52] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:22:52] 
+[25/08/2009 17:22:52] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:22:52] 
+[25/08/2009 17:22:52] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:22:52] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:22:52] 
+[25/08/2009 17:22:52] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:22:53] 
+[25/08/2009 17:22:53] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:22:53] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:22:53] 
+[25/08/2009 17:22:53] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:22:53] 
+[25/08/2009 17:22:53] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:22:53] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:22:53] 
+[25/08/2009 17:22:53] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:22:53] 
+[25/08/2009 17:22:53] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:22:53] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:22:53] 
+[25/08/2009 17:22:53] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:22:53] 
+[25/08/2009 17:22:53] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:22:53] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:22:53] 
+[25/08/2009 17:22:53] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:22:53] 
+[25/08/2009 17:22:53] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:22:53] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:22:53] 
+[25/08/2009 17:22:53] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:22:54] 
+[25/08/2009 17:22:54] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:22:54] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:22:54] 
+[25/08/2009 17:22:54] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:22:54] 
+[25/08/2009 17:22:54] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:22:54] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:22:54] 
+[25/08/2009 17:22:54] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:22:54] 
+[25/08/2009 17:22:54] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:22:54] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:22:54] 
+[25/08/2009 17:22:54] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:22:55] 
+[25/08/2009 17:22:55] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:22:55] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:22:55] 
+[25/08/2009 17:22:55] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:22:55] 
+[25/08/2009 17:22:55] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:22:55] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:22:55] 
+[25/08/2009 17:22:55] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:22:55] 
+[25/08/2009 17:22:55] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:22:55] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:22:55] 
+[25/08/2009 17:22:55] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:22:55] 
+[25/08/2009 17:22:55] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:22:55] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:22:55] 
+[25/08/2009 17:22:55] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:22:55] 
+[25/08/2009 17:22:55] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:22:55] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:22:55] 
+[25/08/2009 17:22:55] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:22:56] 
+[25/08/2009 17:22:56] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:22:56] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:22:56] 
+[25/08/2009 17:22:56] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:22:56] 
+[25/08/2009 17:22:56] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:22:56] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:22:56] 
+[25/08/2009 17:22:56] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:22:56] 
+[25/08/2009 17:22:56] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:22:56] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:22:56] 
+[25/08/2009 17:22:56] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:22:56] 
+[25/08/2009 17:22:56] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:22:56] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:22:56] 
+[25/08/2009 17:22:56] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:22:57] 
+[25/08/2009 17:22:57] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:22:57] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:22:57] 
+[25/08/2009 17:22:57] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:22:57] 
+[25/08/2009 17:22:57] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:22:57] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:22:57] 
+[25/08/2009 17:22:57] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:22:58] 
+[25/08/2009 17:22:58] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:22:58] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:22:58] 
+[25/08/2009 17:22:58] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:22:58] 
+[25/08/2009 17:22:58] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:22:58] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:22:58] 
+[25/08/2009 17:22:58] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:22:59] 
+[25/08/2009 17:22:59] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:22:59] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:22:59] 
+[25/08/2009 17:22:59] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:22:59] 
+[25/08/2009 17:22:59] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:22:59] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:22:59] 
+[25/08/2009 17:22:59] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:22:59] 
+[25/08/2009 17:22:59] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:22:59] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:22:59] 
+[25/08/2009 17:22:59] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:22:59] 
+[25/08/2009 17:22:59] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:22:59] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:22:59] 
+[25/08/2009 17:22:59] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:22:59] 
+[25/08/2009 17:22:59] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:23:00] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:23:00] 
+[25/08/2009 17:23:00] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:23:00] 
+[25/08/2009 17:23:00] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:23:00] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:23:00] 
+[25/08/2009 17:23:00] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:23:00] 
+[25/08/2009 17:23:00] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:23:00] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:23:00] 
+[25/08/2009 17:23:00] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:23:00] 
+[25/08/2009 17:23:00] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:23:00] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:23:00] 
+[25/08/2009 17:23:00] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:23:00] 
+[25/08/2009 17:23:00] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:23:00] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:23:00] 
+[25/08/2009 17:23:00] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:23:01] 
+[25/08/2009 17:23:01] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:23:01] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:23:01] 
+[25/08/2009 17:23:01] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:23:01] 
+[25/08/2009 17:23:01] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:23:01] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:23:01] 
+[25/08/2009 17:23:01] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:23:02] 
+[25/08/2009 17:23:02] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:23:02] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:23:02] 
+[25/08/2009 17:23:02] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:23:02] 
+[25/08/2009 17:23:02] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:23:02] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:23:02] 
+[25/08/2009 17:23:02] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:23:03] 
+[25/08/2009 17:23:03] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:23:03] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:23:03] 
+[25/08/2009 17:23:03] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:23:03] 
+[25/08/2009 17:23:03] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:23:03] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:23:03] 
+[25/08/2009 17:23:03] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:23:03] 
+[25/08/2009 17:23:03] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:23:03] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:23:03] 
+[25/08/2009 17:23:03] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:23:03] 
+[25/08/2009 17:23:03] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:23:03] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:23:03] 
+[25/08/2009 17:23:03] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:23:04] > Ekooor broadcasted: "cabros matenme".
+[25/08/2009 17:23:06] > [Admin] Senik One broadcasted: "PAREN DE ASER SPAM PERROS QLS!!!".
+[25/08/2009 17:23:06] > Master Killer broadcasted: "paren de hacer spam los ql ".
+[25/08/2009 17:23:13] Koonstanza has logged out.
+[25/08/2009 17:23:14] Koonstanza has logged in.
+[25/08/2009 17:23:24] Killer assassin has logged out.
+[25/08/2009 17:23:27] Jack Dee has logged in.
+[25/08/2009 17:23:27] Killer assassin has logged in.
+[25/08/2009 17:23:37] Jack Dee has logged out.
+[25/08/2009 17:23:40] [Hoster] Dee has logged in.
+[25/08/2009 17:23:41] Killer assassin has logged out.
+[25/08/2009 17:23:42] Killer assassin has logged in.
+[25/08/2009 17:24:00] Ella has logged out.
+[25/08/2009 17:24:09] Killer assassin has logged out.
+[25/08/2009 17:24:10] Icaros has logged out.
+[25/08/2009 17:24:11] Akatzura has logged out.
+[25/08/2009 17:24:11] Seshpi has logged out.
+[25/08/2009 17:24:12] Master Killer has logged out.
+[25/08/2009 17:24:12] Ekooor has logged out.
+[25/08/2009 17:24:12] Theclaudio has logged out.
+[25/08/2009 17:24:13] Shadow Warrior has logged out.
+[25/08/2009 17:24:13] White Widow has logged out.
+[25/08/2009 17:24:13] Kynoxentia has logged out.
+[25/08/2009 17:24:14] Darkoo has logged out.
+[25/08/2009 17:24:14] > Saving server...
+[25/08/2009 17:24:18] > SAVE: Complete in 3.718 seconds using relational house storage.
+[25/08/2009 17:24:18] 
+[25/08/2009 17:24:18] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:24:18] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:24:18] 
+[25/08/2009 17:24:18] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:24:19] 
+[25/08/2009 17:24:19] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:24:19] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:24:19] 
+[25/08/2009 17:24:19] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:24:19] 
+[25/08/2009 17:24:19] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:24:19] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:24:19] 
+[25/08/2009 17:24:19] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:24:19] 
+[25/08/2009 17:24:19] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:24:19] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:24:20] 
+[25/08/2009 17:24:20] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:24:20] Royal sio has logged in.
+[25/08/2009 17:24:20] 
+[25/08/2009 17:24:20] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:24:20] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:24:20] 
+[25/08/2009 17:24:20] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:24:21] 
+[25/08/2009 17:24:21] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:24:21] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:24:21] 
+[25/08/2009 17:24:21] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:24:21] 
+[25/08/2009 17:24:21] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:24:21] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:24:21] 
+[25/08/2009 17:24:21] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:24:22] 
+[25/08/2009 17:24:22] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:24:22] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:24:22] 
+[25/08/2009 17:24:22] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:24:22] 
+[25/08/2009 17:24:22] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:24:22] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:24:22] 
+[25/08/2009 17:24:22] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:24:26] 
+[25/08/2009 17:24:26] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:24:27] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:24:27] 
+[25/08/2009 17:24:27] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:24:27] 
+[25/08/2009 17:24:27] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:24:27] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:24:27] 
+[25/08/2009 17:24:27] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:24:28] 
+[25/08/2009 17:24:28] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:24:28] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:24:28] 
+[25/08/2009 17:24:28] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:24:29] 
+[25/08/2009 17:24:29] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:24:29] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:24:29] 
+[25/08/2009 17:24:29] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:24:30] 
+[25/08/2009 17:24:30] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:24:30] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:24:30] 
+[25/08/2009 17:24:30] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:24:31] 
+[25/08/2009 17:24:31] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:24:31] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:24:31] 
+[25/08/2009 17:24:31] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:24:31] 
+[25/08/2009 17:24:31] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:24:31] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:24:31] 
+[25/08/2009 17:24:31] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:24:32] 
+[25/08/2009 17:24:32] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:24:32] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:24:32] 
+[25/08/2009 17:24:32] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:24:32] 
+[25/08/2009 17:24:32] Lua Script Error: [TalkAction Interface] 
+[25/08/2009 17:24:32] data/talkactions/scripts/teleporthere.lua:onSay
+[25/08/2009 17:24:32] 
+[25/08/2009 17:24:32] luaGetClosestFreeTile(). Creature not found
+[25/08/2009 17:25:28] [Hoster] Dee has logged out.
+[25/08/2009 17:25:31] Thunder has logged in.
+[25/08/2009 17:25:35] Mostron has logged out.
+[25/08/2009 17:25:35] Hesperides has logged out.
+[25/08/2009 17:25:35] Loko Alex has logged out.
+[25/08/2009 17:25:35] [Admin] Boonart has logged out.
+[25/08/2009 17:25:36] Zana dras has logged out.
+[25/08/2009 17:25:37] Lord Etal has logged out.
+[25/08/2009 17:25:37] Betaaxxxz has logged out.
+[25/08/2009 17:25:37] Marcelo has logged out.
+[25/08/2009 17:25:38] [Admin] Senik One has logged out.
+[25/08/2009 17:25:38] Koonstanza has logged out.
+[25/08/2009 17:25:38] Royal sio has logged out.
+[25/08/2009 17:25:39] Thunder has logged out.
+[25/08/2009 17:25:39] > Saving server...
+[25/08/2009 17:25:40] > SAVE: Complete in 1.688 seconds using relational house storage.
+[25/08/2009 17:25:41] 
+[25/08/2009 17:25:41] Lua Script Error: [Spell Interface] 
+[25/08/2009 17:25:41] in a timer event called from: 
+[25/08/2009 17:25:41] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[25/08/2009 17:25:41] 
+[25/08/2009 17:25:41] luaDoCombat(). Creature not found
+[25/08/2009 17:25:41] 
+[25/08/2009 17:25:41] Lua Script Error: [Spell Interface] 
+[25/08/2009 17:25:41] in a timer event called from: 
+[25/08/2009 17:25:41] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[25/08/2009 17:25:41] 
+[25/08/2009 17:25:41] luaDoCombat(). Creature not found
+[25/08/2009 17:25:41] 
+[25/08/2009 17:25:41] Lua Script Error: [Spell Interface] 
+[25/08/2009 17:25:41] in a timer event called from: 
+[25/08/2009 17:25:41] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[25/08/2009 17:25:41] 
+[25/08/2009 17:25:41] luaDoCombat(). Creature not found
+[25/08/2009 17:25:41] 
+[25/08/2009 17:25:41] Lua Script Error: [Spell Interface] 
+[25/08/2009 17:25:41] in a timer event called from: 
+[25/08/2009 17:25:41] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[25/08/2009 17:25:41] 
+[25/08/2009 17:25:41] luaDoCombat(). Creature not found
+[25/08/2009 17:25:41] 
+[25/08/2009 17:25:41] Lua Script Error: [Spell Interface] 
+[25/08/2009 17:25:41] in a timer event called from: 
+[25/08/2009 17:25:41] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[25/08/2009 17:25:41] 
+[25/08/2009 17:25:41] luaDoCombat(). Creature not found
+[25/08/2009 17:25:41] 
+[25/08/2009 17:25:41] Lua Script Error: [Spell Interface] 
+[25/08/2009 17:25:41] in a timer event called from: 
+[25/08/2009 17:25:41] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[25/08/2009 17:25:41] 
+[25/08/2009 17:25:41] luaDoCombat(). Creature not found
+[25/08/2009 17:25:41] 
+[25/08/2009 17:25:41] Lua Script Error: [Spell Interface] 
+[25/08/2009 17:25:42] in a timer event called from: 
+[25/08/2009 17:25:42] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[25/08/2009 17:25:42] 
+[25/08/2009 17:25:42] luaDoCombat(). Creature not found
+[25/08/2009 17:25:42] 
+[25/08/2009 17:25:42] Lua Script Error: [Spell Interface] 
+[25/08/2009 17:25:42] in a timer event called from: 
+[25/08/2009 17:25:42] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[25/08/2009 17:25:42] 
+[25/08/2009 17:25:42] luaDoCombat(). Creature not found
+[25/08/2009 17:25:42] 
+[25/08/2009 17:25:42] Lua Script Error: [Spell Interface] 
+[25/08/2009 17:25:42] in a timer event called from: 
+[25/08/2009 17:25:42] data/spells/scripts/attack/thecondition.lua:onCastSpell
+[25/08/2009 17:25:42] 
+[25/08/2009 17:25:42] luaDoCombat(). Creature not found
+[25/08/2009 17:25:42] Preparing to shutdown server..
+[25/08/2009 17:25:42] .
+[25/08/2009 17:25:42] Exiting
+[25/08/2009 17:28:33] The Forgotten Server, version 0.3.4 (Crying Damson)
+[25/08/2009 17:28:33] Sever Criado Por Alissow e Comedinha.
+[25/08/2009 17:28:33] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[25/08/2009 17:28:33] Bom Jogo!!!
+[25/08/2009 17:28:33] 
+[25/08/2009 17:28:33] >> Debugging: nothing.
+[25/08/2009 17:28:33] >> Checking software version... outdated, please consider updating!
+[25/08/2009 17:28:34] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[25/08/2009 17:28:34] > Latest version information - version: 0.3.5, patch: 1, build: 2576, timestamp: 1249584126.
+[25/08/2009 17:28:34] [Warning - ConfigManager::getBool] 62
+[25/08/2009 17:28:34] 
+[25/08/2009 17:28:34] >> Loading config (config.lua)
+[25/08/2009 17:28:34] > Using plaintext passwords
+[25/08/2009 17:28:34] >> Loading RSA key
+[25/08/2009 17:28:34] >> Starting SQL connection
+[25/08/2009 17:28:34] >> Running Database Manager
+[25/08/2009 17:28:35] > Optimized database.
+[25/08/2009 17:28:35] >> Loading items
+[25/08/2009 17:28:36] >> Loading groups
+[25/08/2009 17:28:36] >> Loading vocations
+[25/08/2009 17:28:36] >> Loading script systems
+[25/08/2009 17:28:36] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/backpack2.lua)
+[25/08/2009 17:28:36] data/actions/scripts/backpack2.lua:5: unexpected symbol near ')'
+[25/08/2009 17:28:36] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/backpack1.lua)
+[25/08/2009 17:28:37] data/actions/scripts/backpack1.lua:5: unexpected symbol near ')'
+[25/08/2009 17:28:37] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/razgos1.lua)
+[25/08/2009 17:28:37] data/actions/scripts/razgos1.lua:5: unexpected symbol near ')'
+[25/08/2009 17:28:37] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/boots.lua)
+[25/08/2009 17:28:37] data/actions/scripts/boots.lua:5: unexpected symbol near ')'
+[25/08/2009 17:28:37] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/darknessarmor.lua)
+[25/08/2009 17:28:37] cannot open data/actions/scripts/darknessarmor.lua: No such file or directory
+[25/08/2009 17:28:37] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/darknessshield.lua)
+[25/08/2009 17:28:37] cannot open data/actions/scripts/darknessshield.lua: No such file or directory
+[25/08/2009 17:28:37] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/darknesslegs.lua)
+[25/08/2009 17:28:37] cannot open data/actions/scripts/darknesslegs.lua: No such file or directory
+[25/08/2009 17:28:38] >> Loading chat channels
+[25/08/2009 17:28:38] >> Loading outfits
+[25/08/2009 17:28:38] >> Loading experience stages
+[25/08/2009 17:28:38] >> Loading monsters
+[25/08/2009 17:28:38] >> Loading map and spawns...
+[25/08/2009 17:28:39] > Map size: 512x512.
+[25/08/2009 17:28:39] > Map descriptions: 
+[25/08/2009 17:28:39] Saved with Remere's Map Editor 1.1.7 BETA
+[25/08/2009 17:28:39] SimOne MapEditor 0.5.5
+[25/08/2009 17:28:42] > Map loading time: 3.219 seconds.
+[25/08/2009 17:28:42] [Spawn::addMonster] NULL tile at spawn position (( 00589 / 00148 / 007 ))
+[25/08/2009 17:28:42] [Spawn::addMonster] NULL tile at spawn position (( 00618 / 00150 / 007 ))
+[25/08/2009 17:28:42] [Spawn::addMonster] NULL tile at spawn position (( 00617 / 00169 / 007 ))
+[25/08/2009 17:28:42] [Spawn::addMonster] NULL tile at spawn position (( 00582 / 00183 / 007 ))
+[25/08/2009 17:28:42] [Spawn::addMonster] NULL tile at spawn position (( 00576 / 00191 / 007 ))
+[25/08/2009 17:28:42] [Spawn::addMonster] NULL tile at spawn position (( 00628 / 00197 / 007 ))
+[25/08/2009 17:28:42] [Spawn::addMonster] NULL tile at spawn position (( 00601 / 00206 / 007 ))
+[25/08/2009 17:28:43] [Spawn::addMonster] NULL tile at spawn position (( 00571 / 00209 / 007 ))
+[25/08/2009 17:28:43] [Spawn::addMonster] NULL tile at spawn position (( 00594 / 00213 / 007 ))
+[25/08/2009 17:28:43] [Spawn::addMonster] NULL tile at spawn position (( 00618 / 00221 / 007 ))
+[25/08/2009 17:28:43] [Spawn::addMonster] NULL tile at spawn position (( 00595 / 00228 / 007 ))
+[25/08/2009 17:28:43] [Spawn::addMonster] NULL tile at spawn position (( 00554 / 00229 / 007 ))
+[25/08/2009 17:28:43] [Warning - Houses::loadFromXml] House entry not set for:  (158)
+[25/08/2009 17:28:43] > Data loading time: 1.328 seconds.
+[25/08/2009 17:28:43] > Unserialization time for houses: 0.015 seconds.
+[25/08/2009 17:28:54] > Unserialization time for map: 10.891 seconds.
+[25/08/2009 17:28:54] >> Checking world type... PvP
+[25/08/2009 17:28:54] >> Initializing game state modules and registering services...
+[25/08/2009 17:28:55] > Global address: razgosserver.no-ip.info
+[25/08/2009 17:28:56] > Local ports:
+[25/08/2009 17:28:56] 7171	7172	
+[25/08/2009 17:28:56] >> All modules were loaded, server starting up...
+[25/08/2009 17:28:56] >> Snowz OTs server Online!
+[25/08/2009 17:28:56] 
+[25/08/2009 17:28:56] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[25/08/2009 17:28:57] Account Manager has logged in.
+[25/08/2009 17:28:59] Account Manager has logged out.
+[25/08/2009 17:29:05] Killer assassin has logged in.
+[25/08/2009 17:29:12] [Hoster] Dee has logged in.
+[25/08/2009 17:29:15] Kynoxentia has logged in.
+[25/08/2009 17:29:16] Icaros has logged in.
+[25/08/2009 17:29:17] [Admin] Senik One has logged in.
+[25/08/2009 17:29:20] Theclaudio has logged in.
+[25/08/2009 17:29:29] Account Manager has logged in.
+[25/08/2009 17:29:32] [Admin] Boonart has logged in.
+[25/08/2009 17:29:33] Account Manager has logged out.
+[25/08/2009 17:29:40] Shadow Warrior has logged in.
+[25/08/2009 17:29:59] Koonstanza has logged in.
+[25/08/2009 17:30:17] [Admin] Senik One has logged out.
+[25/08/2009 17:30:18] [Admin] Senik One has logged in.
+[25/08/2009 17:30:22] [Admin] Senik One has logged out.
+[25/08/2009 17:30:23] Marmotita has logged in.
+[25/08/2009 17:30:30] Kynoxentia has logged out.
+[25/08/2009 17:30:33] Kynoxentia has logged in.
+[25/08/2009 17:30:49] Shadow Warrior has logged out.
+[25/08/2009 17:30:50] Royal sio has logged in.
+[25/08/2009 17:31:14] Hesperides has logged in.
+[25/08/2009 17:32:13] Royal sio has logged out.
+[25/08/2009 17:32:14] Royal sio has logged in.
+[25/08/2009 17:32:24] [Hoster] Dee has logged out.
+[25/08/2009 17:32:27] Killer assassin has logged out.
+[25/08/2009 17:32:27] Icaros has logged out.
+[25/08/2009 17:32:27] Theclaudio has logged out.
+[25/08/2009 17:32:28] [Admin] Boonart has logged out.
+[25/08/2009 17:32:28] Koonstanza has logged out.
+[25/08/2009 17:32:28] Marmotita has logged out.
+[25/08/2009 17:32:29] Kynoxentia has logged out.
+[25/08/2009 17:32:29] Hesperides has logged out.
+[25/08/2009 17:32:29] Royal sio has logged out.
+[25/08/2009 17:32:30] > Saving server...
+[25/08/2009 17:32:31] > SAVE: Complete in 1.562 seconds using relational house storage.
+[25/08/2009 17:32:31] 
+[25/08/2009 17:32:31] Lua Script Error: [Spell Interface] 
+[25/08/2009 17:32:31] in a timer event called from: 
+[25/08/2009 17:32:31] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[25/08/2009 17:32:31] 
+[25/08/2009 17:32:31] luaDoCombat(). Creature not found
+[25/08/2009 17:32:31] 
+[25/08/2009 17:32:31] Lua Script Error: [Spell Interface] 
+[25/08/2009 17:32:31] in a timer event called from: 
+[25/08/2009 17:32:31] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[25/08/2009 17:32:31] 
+[25/08/2009 17:32:31] luaDoCombat(). Creature not found
+[25/08/2009 17:32:31] 
+[25/08/2009 17:32:31] Lua Script Error: [Spell Interface] 
+[25/08/2009 17:32:31] in a timer event called from: 
+[25/08/2009 17:32:31] data/spells/scripts/attack/whatahell.lua:onCastSpell
+[25/08/2009 17:32:32] 
+[25/08/2009 17:32:32] luaDoCombat(). Creature not found
+[25/08/2009 17:32:32] Preparing to shutdown server..
+[25/08/2009 17:32:32] .
+[25/08/2009 17:32:32] Exiting

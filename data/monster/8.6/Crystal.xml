@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<monster name=" " nameDescription="a crystal coin" race="undead" experience="35000" speed="3000" manacost="0"> 
+<health now="10000000" max="10000000"/> 
+<look typeex="2160" corpse="3058"/> 
+<targetchange interval="60000" chance="0"/> 
+<strategy attack="100" defense="0"/> 
+<flags> 
+<flag summonable="0"/> 
+<flag attackable="1"/> 
+<flag hostile="1"/> 
+<flag illusionable="0"/> 
+<flag convinceable="0"/> 
+<flag pushable="0"/> 
+<flag canpushitems="0"/> 
+<flag canpushcreatures="1"/> 
+<flag targetdistance="1"/>
+<flag hidehealth="1"/> 
+<flag runonhealth="100"/> 
+</flags> 
+<attacks> 
+<attack name="melee" interval="2000" skill="500" attack="7000"/> 
+<attack name="poison" interval="1000" chance="100" range="7" min="-70500" max="-100000"> 
+<attribute key="shootEffect" value="energy"/>
+<attribute key="areaEffect" value="poison"/> 
+</attack> 
+</attacks> 
+<defenses armor="300" defense="200"/> 
+<immunities> 
+<immunity physical="1"/> 
+<immunity energy="0"/> 
+<immunity fire="0"/> 
+<immunity poison="0"/> 
+<immunity lifedrain="1"/> 
+<immunity paralyze="1"/> 
+<immunity outfit="1"/> 
+<immunity drunk="1"/> 
+<immunity invisible="1"/> 
+</immunities> 
+</monster> 

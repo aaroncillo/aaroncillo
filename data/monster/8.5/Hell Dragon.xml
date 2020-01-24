@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <monster name="Hell Dragon" nameDescription="a Hell Dragon" race="blood" experience="500000" speed="1500" manacost="0">
+    <health now="150000" max="150000"/>
+    <look type="39" head="20" body="30" legs="40" feet="50" corpse="2881"/>
+    <targetchange interval="10000" chance="20"/>
+    <strategy attack="100" defense="0"/>
+    <flags>
+      <flag summonable="0"/>
+      <flag attackable="1"/>
+      <flag hostile="1"/>
+      <flag illusionable="0"/>
+      <flag convinceable="0"/>
+      <flag pushable="0"/>
+      <flag canpushitems="1"/>
+      <flag staticattack="50"/>
+      <flag lightlevel="0"/>
+      <flag lightcolor="0"/>
+      <flag targetdistance="1"/>
+      <flag runonhealth="520"/>
+    </flags>
+    <attacks>
+      <attack name="melee" interval="2000" min="-1000" max="-5000"/>
+      <attack name="chidori" interval="2000" chance="95" min="-1000" max="-5000"/>
+          <attribute key="areaEffect" value="redshimmer"/>
+    </attacks>
+    <defenses armor="39" defense="40">
+      <defense name="intense healing" interval="5000" chance="70" min="50" max="1200"/>
+    </defenses>
+    <immunities>
+      <immunity physical="0"/>
+      <immunity energy="0"/>
+      <immunity fire="1"/>
+      <immunity poison="1"/>
+      <immunity lifedrain="0"/>
+      <immunity paralyze="0"/>
+      <immunity outfit="0"/>
+      <immunity drunk="1"/>
+      <immunity invisible="1"/>
+    </immunities>
+    <voices interval="2000" chance="100">
+      <voice sentence="O ALISSON EH NOOB!"/>
+      <voice sentence="VEM ME MATAR SEU EMO!"/>
+    </voices>
+    <loot>
+      <item id="2160" countmax="100" chance1="100000" chancemax="100000"/>
+      <item id="2672" countmax="2" chance1="20000" chancemax="0"/>
+      <item id="2033" chance="1818"/>
+      <item id="1976" chance="3333"/>
+      <item id="2342" chance="2000"/>
+      <item id="2452" chance="1333"/>
+      <item id="2413" chance="5000"/>
+      <item id="7382" chance="1333"/>
+      <item id="2498" chance="888"/>
+      <item id="2157" countmax="1" chance1="9000" chancemax="0"/>
+      <item id="2546" countmax="5" chance1="2222" chancemax="0"/>
+      <item id="2796" countmax="1" chance1="6666" chancemax="0"/>
+      <item id="2004" chance="6666">
+        <inside>
+          <item id="2160" countmax="100" chance1="100000" chancemax="100000"/>
+          <item id="2149" countmax="2" chance1="1666" chancemax="0"/>
+          <item id="8293" chance="230003"/>
+      <item id="2539" chance="3000"/>
+      <item id="2542" chance="3000"/>
+          <item id="2146" countmax="2" chance1="2222" chancemax="0"/>
+          <item id="2528" chance="2666"/>
+          <item id="2424" chance="166006"/>
+          <item id="2492" chance="909"/>
+        </inside>
+      </item>
+    </loot>
+  </monster>

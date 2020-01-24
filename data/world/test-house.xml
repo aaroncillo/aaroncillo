@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<houses>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="1" entryx="155" entryy="107" entryz="7" rent="0" townid="0" size="95"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="2" entryx="121" entryy="127" entryz="7" rent="0" townid="0" size="43"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="3" entryx="144" entryy="27" entryz="7" rent="0" townid="0" size="53"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="8" entryx="176" entryy="57" entryz="7" rent="0" townid="0" size="42"/>
+  <house name="Frost Village 1" houseid="9" entryx="446" entryy="213" entryz="7" rent="0" townid="5" size="70"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="10" entryx="181" entryy="105" entryz="7" rent="0" townid="0" size="68"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="11" entryx="171" entryy="102" entryz="7" rent="0" townid="0" size="13"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="12" entryx="176" entryy="97" entryz="7" rent="0" townid="0" size="13"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="13" entryx="185" entryy="97" entryz="7" rent="0" townid="0" size="10"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="14" entryx="185" entryy="101" entryz="7" rent="0" townid="0" size="11"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="15" entryx="185" entryy="105" entryz="7" rent="0" townid="0" size="12"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="16" entryx="199" entryy="51" entryz="6" rent="0" townid="0" size="352"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="17" entryx="103" entryy="30" entryz="7" rent="0" townid="0" size="287"/>
+  <house name="Frost Village 2" houseid="18" entryx="467" entryy="222" entryz="7" rent="0" townid="5" size="106"/>
+  <house name="vip" houseid="19" entryx="401" entryy="167" entryz="7" rent="0" townid="0" size="139"/>
+  <house name="vip2" houseid="20" entryx="395" entryy="146" entryz="7" rent="0" townid="0" size="34"/>
+  <house name="vip3" houseid="21" entryx="400" entryy="150" entryz="7" rent="0" townid="0" size="23"/>
+  <house name="vip4" houseid="22" entryx="413" entryy="150" entryz="7" rent="0" townid="0" size="18"/>
+  <house name="vip5" houseid="23" entryx="400" entryy="144" entryz="7" rent="0" townid="0" size="23"/>
+  <house name="vip6" houseid="24" entryx="413" entryy="144" entryz="7" rent="0" townid="0" size="18"/>
+  <house name="vip7" houseid="25" entryx="400" entryy="138" entryz="7" rent="0" townid="0" size="18"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="35" entryx="144" entryy="41" entryz="6" rent="0" townid="0" size="10"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="37" entryx="165" entryy="31" entryz="6" rent="0" townid="0" size="32"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="38" entryx="165" entryy="33" entryz="6" rent="0" townid="0" size="6"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="39" entryx="165" entryy="35" entryz="6" rent="0" townid="0" size="12"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="40" entryx="168" entryy="31" entryz="5" rent="0" townid="0" size="20"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="41" entryx="168" entryy="33" entryz="5" rent="0" townid="0" size="21"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="42" entryx="129" entryy="61" entryz="7" rent="0" townid="0" size="19"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="43" entryx="133" entryy="62" entryz="6" rent="0" townid="0" size="33"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="44" entryx="141" entryy="36" entryz="7" rent="0" townid="0" size="45"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="45" entryx="147" entryy="29" entryz="7" rent="0" townid="0" size="37"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="46" entryx="147" entryy="32" entryz="7" rent="0" townid="0" size="36"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="47" entryx="104" entryy="61" entryz="7" rent="0" townid="0" size="10"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="48" entryx="105" entryy="65" entryz="7" rent="0" townid="0" size="22"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="49" entryx="110" entryy="66" entryz="7" rent="0" townid="0" size="6"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="50" entryx="110" entryy="68" entryz="7" rent="0" townid="0" size="13"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="51" entryx="103" entryy="73" entryz="7" rent="0" townid="0" size="17"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="54" entryx="86" entryy="27" entryz="7" rent="0" townid="0" size="8"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="55" entryx="87" entryy="35" entryz="7" rent="0" townid="0" size="6"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="56" entryx="122" entryy="67" entryz="7" rent="0" townid="0" size="15"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="57" entryx="119" entryy="69" entryz="7" rent="0" townid="0" size="13"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="59" entryx="115" entryy="183" entryz="7" rent="0" townid="0" size="66"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="61" entryx="113" entryy="201" entryz="7" rent="0" townid="0" size="42"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="62" entryx="121" entryy="201" entryz="7" rent="0" townid="0" size="42"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="63" entryx="127" entryy="190" entryz="7" rent="0" townid="0" size="30"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="64" entryx="136" entryy="186" entryz="7" rent="0" townid="0" size="15"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="66" entryx="151" entryy="186" entryz="7" rent="0" townid="0" size="27"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="67" entryx="145" entryy="47" entryz="5" rent="0" townid="0" size="36"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="68" entryx="146" entryy="51" entryz="5" rent="0" townid="0" size="7"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="69" entryx="146" entryy="52" entryz="5" rent="0" townid="0" size="6"/>
+  <house name="Frost Village 3" houseid="70" entryx="445" entryy="230" entryz="7" rent="0" townid="5" size="100"/>
+  <house name="Frost Village 4" houseid="71" entryx="458" entryy="234" entryz="7" rent="0" townid="5" size="252"/>
+  <house name="Frost Village 5" houseid="72" entryx="461" entryy="252" entryz="7" rent="0" townid="5" size="96"/>
+  <house name="Frost Village 6" houseid="73" entryx="452" entryy="251" entryz="7" rent="0" townid="5" size="94"/>
+  <house name="Frost Village 7" houseid="74" entryx="448" entryy="254" entryz="7" rent="0" townid="5" size="154"/>
+  <house name="vip8" houseid="75" entryx="413" entryy="138" entryz="7" rent="0" townid="0" size="14"/>
+  <house name="vip9" houseid="76" entryx="395" entryy="132" entryz="7" rent="0" townid="0" size="19"/>
+  <house name="vip10" houseid="77" entryx="401" entryy="124" entryz="7" rent="0" townid="0" size="24"/>
+  <house name="vip11" houseid="78" entryx="409" entryy="124" entryz="7" rent="0" townid="0" size="33"/>
+  <house name="vip12" houseid="79" entryx="407" entryy="112" entryz="7" rent="0" townid="0" size="31"/>
+  <house name="vip13" houseid="80" entryx="407" entryy="108" entryz="7" rent="0" townid="0" size="36"/>
+  <house name="vip14" houseid="81" entryx="450" entryy="162" entryz="7" rent="0" townid="0" size="61"/>
+  <house name="vip15" houseid="82" entryx="463" entryy="154" entryz="7" rent="0" townid="0" size="7"/>
+  <house name="vip16" houseid="83" entryx="459" entryy="153" entryz="7" rent="0" townid="0" size="27"/>
+  <house name="vip17" houseid="84" entryx="459" entryy="136" entryz="7" rent="0" townid="0" size="79"/>
+  <house name="vip18" houseid="85" entryx="449" entryy="148" entryz="7" rent="0" townid="0" size="43"/>
+  <house name="vip19" houseid="86" entryx="448" entryy="134" entryz="7" rent="0" townid="0" size="43"/>
+  <house name="vip20" houseid="87" entryx="463" entryy="127" entryz="7" rent="0" townid="0" size="9"/>
+  <house name="vip21" houseid="88" entryx="458" entryy="125" entryz="7" rent="0" townid="0" size="21"/>
+  <house name="vip22" houseid="89" entryx="451" entryy="125" entryz="7" rent="0" townid="0" size="30"/>
+  <house name="vip23" houseid="90" entryx="445" entryy="117" entryz="7" rent="0" townid="0" size="31"/>
+  <house name="vip24" houseid="91" entryx="464" entryy="109" entryz="7" rent="0" townid="0" size="6"/>
+  <house name="vip25" houseid="92" entryx="464" entryy="107" entryz="7" rent="0" townid="0" size="12"/>
+  <house name="vip26" houseid="93" entryx="458" entryy="109" entryz="7" rent="0" townid="0" size="37"/>
+  <house name="vip27" houseid="94" entryx="444" entryy="109" entryz="7" rent="0" townid="0" size="17"/>
+  <house name="vip28" houseid="95" entryx="427" entryy="163" entryz="6" rent="0" townid="0" size="50"/>
+  <house name="vip29" houseid="96" entryx="447" entryy="163" entryz="6" rent="0" townid="0" size="42"/>
+  <house name="vip30" houseid="97" entryx="456" entryy="163" entryz="6" rent="0" townid="0" size="34"/>
+  <house name="vip31" houseid="98" entryx="450" entryy="155" entryz="6" rent="0" townid="0" size="52"/>
+  <house name="vip32" houseid="99" entryx="454" entryy="149" entryz="6" rent="0" townid="0" size="26"/>
+  <house name="vip33" houseid="100" entryx="459" entryy="149" entryz="6" rent="0" townid="0" size="26"/>
+  <house name="vip34" houseid="101" entryx="450" entryy="137" entryz="6" rent="0" townid="0" size="77"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="102" entryx="352" entryy="275" entryz="7" rent="0" townid="0" size="59"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="103" entryx="343" entryy="269" entryz="7" rent="0" townid="0" size="16"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="104" entryx="343" entryy="272" entryz="7" rent="0" townid="0" size="10"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="105" entryx="343" entryy="276" entryz="7" rent="0" townid="0" size="28"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="106" entryx="343" entryy="283" entryz="7" rent="0" townid="0" size="28"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="107" entryx="343" entryy="289" entryz="7" rent="0" townid="0" size="22"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="108" entryx="343" entryy="293" entryz="7" rent="0" townid="0" size="22"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="109" entryx="343" entryy="297" entryz="7" rent="0" townid="0" size="28"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="110" entryx="343" entryy="304" entryz="7" rent="0" townid="0" size="28"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="111" entryx="343" entryy="310" entryz="7" rent="0" townid="0" size="28"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="112" entryx="343" entryy="315" entryz="7" rent="0" townid="0" size="64"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="113" entryx="346" entryy="318" entryz="7" rent="0" townid="0" size="23"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="114" entryx="352" entryy="318" entryz="7" rent="0" townid="0" size="23"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="115" entryx="357" entryy="318" entryz="7" rent="0" townid="0" size="23"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="116" entryx="363" entryy="318" entryz="7" rent="0" townid="0" size="33"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="117" entryx="370" entryy="318" entryz="7" rent="0" townid="0" size="28"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="118" entryx="128" entryy="380" entryz="7" rent="0" townid="0" size="64"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="119" entryx="128" entryy="386" entryz="7" rent="0" townid="0" size="24"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="120" entryx="128" entryy="390" entryz="7" rent="0" townid="0" size="16"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="121" entryx="128" entryy="393" entryz="7" rent="0" townid="0" size="24"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="122" entryx="128" entryy="399" entryz="7" rent="0" townid="0" size="48"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="123" entryx="128" entryy="405" entryz="7" rent="0" townid="0" size="40"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="124" entryx="133" entryy="377" entryz="7" rent="0" townid="0" size="24"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="125" entryx="133" entryy="384" entryz="7" rent="0" townid="0" size="80"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="126" entryx="133" entryy="394" entryz="7" rent="0" townid="0" size="48"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="127" entryx="133" entryy="401" entryz="7" rent="0" townid="0" size="48"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="128" entryx="133" entryy="406" entryz="7" rent="0" townid="0" size="24"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="129" entryx="128" entryy="418" entryz="7" rent="0" townid="0" size="80"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="130" entryx="128" entryy="428" entryz="7" rent="0" townid="0" size="64"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="131" entryx="128" entryy="438" entryz="7" rent="0" townid="0" size="72"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="132" entryx="128" entryy="446" entryz="7" rent="0" townid="0" size="40"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="133" entryx="128" entryy="452" entryz="7" rent="0" townid="0" size="24"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="134" entryx="128" entryy="460" entryz="7" rent="0" townid="0" size="24"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="135" entryx="128" entryy="456" entryz="7" rent="0" townid="0" size="32"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="136" entryx="133" entryy="457" entryz="7" rent="0" townid="0" size="64"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="137" entryx="133" entryy="451" entryz="7" rent="0" townid="0" size="40"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="138" entryx="133" entryy="445" entryz="7" rent="0" townid="0" size="24"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="139" entryx="133" entryy="417" entryz="7" rent="0" townid="0" size="40"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="140" entryx="133" entryy="423" entryz="7" rent="0" townid="0" size="48"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="141" entryx="133" entryy="441" entryz="7" rent="0" townid="0" size="24"/>
+  <house name="OTServ headquarter (Flat 1, Area 42)" houseid="142" entryx="133" entryy="430" entryz="7" rent="0" townid="0" size="96"/>
+  <house name="vip35" houseid="143" entryx="450" entryy="125" entryz="6" rent="0" townid="0" size="61"/>
+  <house name="vip36" houseid="144" entryx="443" entryy="130" entryz="6" rent="0" townid="0" size="54"/>
+  <house name="vip37" houseid="145" entryx="434" entryy="130" entryz="6" rent="0" townid="0" size="40"/>
+  <house name="vip38" houseid="146" entryx="425" entryy="127" entryz="6" rent="0" townid="0" size="26"/>
+  <house name="vip389" houseid="147" entryx="423" entryy="126" entryz="6" rent="0" townid="0" size="33"/>
+  <house name="vip40" houseid="148" entryx="405" entryy="139" entryz="6" rent="0" townid="0" size="34"/>
+  <house name="vip41" houseid="149" entryx="408" entryy="140" entryz="6" rent="0" townid="0" size="13"/>
+  <house name="vip42" houseid="150" entryx="405" entryy="147" entryz="6" rent="0" townid="0" size="34"/>
+  <house name="vip43" houseid="151" entryx="408" entryy="144" entryz="6" rent="0" townid="0" size="10"/>
+  <house name="vip44" houseid="152" entryx="405" entryy="154" entryz="6" rent="0" townid="0" size="37"/>
+  <house name="vip45" houseid="153" entryx="408" entryy="150" entryz="6" rent="0" townid="0" size="10"/>
+  <house name="vip46" houseid="154" entryx="408" entryy="155" entryz="6" rent="0" townid="0" size="10"/>
+  <house name="vip47" houseid="155" entryx="402" entryy="161" entryz="6" rent="0" townid="0" size="25"/>
+  <house name="vip48" houseid="156" entryx="402" entryy="174" entryz="6" rent="0" townid="0" size="28"/>
+  <house name="vip50" houseid="157" entryx="403" entryy="176" entryz="6" rent="0" townid="0" size="28"/>
+  <house name="Unnamed House #180" houseid="180" entryx="41" entryy="294" entryz="13" rent="100000" townid="7" size="73"/>
+  <house name="Unnamed House #181" houseid="181" entryx="31" entryy="294" entryz="13" rent="100000" townid="7" size="73"/>
+  <house name="Unnamed House #182" houseid="182" entryx="18" entryy="294" entryz="13" rent="100000" townid="7" size="73"/>
+  <house name="Unnamed House #183" houseid="183" entryx="18" entryy="306" entryz="13" rent="100000" townid="7" size="73"/>
+  <house name="Unnamed House #184" houseid="184" entryx="31" entryy="306" entryz="13" rent="100000" townid="7" size="73"/>
+  <house name="Unnamed House #185" houseid="185" entryx="46" entryy="301" entryz="13" rent="100000" townid="7" size="73"/>
+  <house name="Unnamed House #186" houseid="186" entryx="56" entryy="300" entryz="13" rent="100000" townid="7" size="73"/>
+  <house name="Unnamed House #187" houseid="187" entryx="71" entryy="296" entryz="13" rent="100000" townid="7" size="73"/>
+  <house name="Unnamed House #188" houseid="188" entryx="83" entryy="296" entryz="13" rent="100000" townid="7" size="73"/>
+  <house name="Unnamed House #189" houseid="189" entryx="83" entryy="294" entryz="13" rent="100000" townid="7" size="73"/>
+  <house name="Unnamed House #190" houseid="190" entryx="71" entryy="294" entryz="13" rent="100000" townid="7" size="73"/>
+  <house name="Unnamed House #191" houseid="191" entryx="61" entryy="294" entryz="13" rent="100000" townid="7" size="73"/>
+  <house name="Unnamed House #192" houseid="192" entryx="17" entryy="308" entryz="13" rent="100000" townid="7" size="73"/>
+  <house name="Unnamed House #193" houseid="193" entryx="31" entryy="308" entryz="13" rent="100000" townid="7" size="73"/>
+  <house name="Unnamed House #194" houseid="194" entryx="46" entryy="313" entryz="13" rent="100000" townid="7" size="73"/>
+  <house name="Unnamed House #195" houseid="195" entryx="56" entryy="313" entryz="13" rent="100000" townid="7" size="73"/>
+  <house name="Unnamed House #196" houseid="196" entryx="71" entryy="308" entryz="13" rent="100000" townid="7" size="73"/>
+  <house name="Unnamed House #197" houseid="197" entryx="83" entryy="308" entryz="13" rent="100000" townid="7" size="73"/>
+  <house name="Unnamed House #198" houseid="198" entryx="83" entryy="320" entryz="13" rent="100000" townid="7" size="73"/>
+  <house name="Unnamed House #199" houseid="199" entryx="71" entryy="320" entryz="13" rent="100000" townid="7" size="73"/>
+  <house name="Unnamed House #200" houseid="200" entryx="56" entryy="324" entryz="13" rent="100000" townid="7" size="73"/>
+  <house name="Unnamed House #201" houseid="201" entryx="17" entryy="320" entryz="13" rent="100000" townid="7" size="73"/>
+  <house name="Unnamed House #202" houseid="202" entryx="31" entryy="320" entryz="13" rent="100000" townid="7" size="73"/>
+  <house name="Unnamed House #203" houseid="203" entryx="46" entryy="324" entryz="13" rent="100000" townid="7" size="73"/>
+  <house name="Unnamed House #244" houseid="244" entryx="140" entryy="50" entryz="6" rent="100000" townid="1" size="22"/>
+  <house name="Unnamed House #245" houseid="245" entryx="150" entryy="47" entryz="7" rent="100000" townid="1" size="34"/>
+  <house name="The GOD Mansion #1" houseid="246" entryx="65" entryy="277" entryz="12" rent="2000000" guildhall="1" townid="1" size="454"/>
+  <house name="Donator House #247" houseid="247" entryx="39" entryy="273" entryz="12" rent="30000" townid="1" size="83"/>
+  <house name="Donator House #248" houseid="248" entryx="39" entryy="273" entryz="11" rent="30000" townid="1" size="82"/>
+  <house name="Donator House #250" houseid="250" entryx="25" entryy="268" entryz="11" rent="30000" townid="1" size="62"/>
+  <house name="Donator House #251" houseid="251" entryx="8" entryy="276" entryz="12" rent="30000" townid="1" size="76"/>
+  <house name="Donator House #252" houseid="252" entryx="21" entryy="276" entryz="12" rent="30000" townid="1" size="72"/>
+  <house name="Donator House #253" houseid="253" entryx="580" entryy="220" entryz="12" rent="30000" townid="1" size="134"/>
+  <house name="Donator House #254" houseid="254" entryx="592" entryy="220" entryz="12" rent="30000" townid="1" size="136"/>
+  <house name="Cm House #255" houseid="255" entryx="587" entryy="235" entryz="12" rent="100000" guildhall="1" townid="1" size="469"/>
+  <house name="Donator House #256" houseid="256" entryx="587" entryy="255" entryz="12" rent="30000" townid="1" size="76"/>
+  <house name="Donator House #257" houseid="257" entryx="595" entryy="260" entryz="11" rent="30000" townid="1" size="58"/>
+  <house name="Tutor House #258" houseid="258" entryx="591" entryy="273" entryz="12" rent="30000" townid="1" size="274"/>
+  <house name="The Great Mansion " houseid="259" entryx="179" entryy="33" entryz="7" rent="100000000" guildhall="1" townid="0" size="532"/>
+  <house name="Unnamed House #260" houseid="260" entryx="163" entryy="36" entryz="7" rent="10000" townid="7" size="26"/>
+  <house name="royal House #261" houseid="261" entryx="765" entryy="694" entryz="7" rent="0" townid="1" size="22"/>
+  <house name="royal House #262" houseid="262" entryx="770" entryy="694" entryz="7" rent="0" townid="1" size="22"/>
+  <house name="Unnamed House #263" houseid="263" entryx="775" entryy="694" entryz="7" rent="0" townid="1" size="28"/>
+  <house name="Unnamed House #264" houseid="264" entryx="764" entryy="667" entryz="7" rent="0" townid="1" size="41"/>
+  <house name="Unnamed House #265" houseid="265" entryx="778" entryy="667" entryz="7" rent="0" townid="1" size="41"/>
+  <house name="Unnamed House #266" houseid="266" entryx="768" entryy="667" entryz="6" rent="0" townid="1" size="44"/>
+  <house name="Unnamed House #267" houseid="267" entryx="774" entryy="667" entryz="6" rent="0" townid="1" size="44"/>
+  <house name="Unnamed House #268" houseid="268" entryx="787" entryy="680" entryz="7" rent="0" townid="1" size="54"/>
+  <house name="Unnamed House #269" houseid="269" entryx="797" entryy="680" entryz="7" rent="0" townid="1" size="54"/>
+  <house name="Unnamed House #270" houseid="270" entryx="807" entryy="680" entryz="7" rent="0" townid="1" size="54"/>
+  <house name="Unnamed House #271" houseid="271" entryx="787" entryy="689" entryz="7" rent="0" townid="1" size="54"/>
+  <house name="Unnamed House #272" houseid="272" entryx="797" entryy="689" entryz="7" rent="0" townid="1" size="54"/>
+  <house name="Unnamed House #273" houseid="273" entryx="807" entryy="689" entryz="7" rent="0" townid="1" size="54"/>
+  <house name="Unnamed House #274" houseid="274" entryx="796" entryy="665" entryz="7" rent="0" townid="1" size="39"/>
+  <house name="Unnamed House #275" houseid="275" entryx="800" entryy="665" entryz="6" rent="0" townid="1" size="52"/>
+  <house name="Unnamed House #276" houseid="276" entryx="819" entryy="665" entryz="6" rent="0" townid="1" size="134"/>
+  <house name="Unnamed House #277" houseid="277" entryx="796" entryy="695" entryz="7" rent="0" townid="1" size="64"/>
+  <house name="Unnamed House #278" houseid="278" entryx="796" entryy="701" entryz="7" rent="0" townid="1" size="83"/>
+  <house name="Unnamed House #279" houseid="279" entryx="796" entryy="706" entryz="7" rent="0" townid="1" size="48"/>
+  <house name="Unnamed House #280" houseid="280" entryx="796" entryy="708" entryz="7" rent="0" townid="1" size="61"/>
+  <house name="Unnamed House #281" houseid="281" entryx="792" entryy="708" entryz="7" rent="0" townid="1" size="22"/>
+  <house name="Unnamed House #282" houseid="282" entryx="817" entryy="717" entryz="7" rent="0" townid="1" size="36"/>
+  <house name="Unnamed House #283" houseid="283" entryx="820" entryy="716" entryz="7" rent="0" townid="1" size="31"/>
+  <house name="Unnamed House #284" houseid="284" entryx="820" entryy="712" entryz="7" rent="0" townid="1" size="24"/>
+  <house name="Unnamed House #285" houseid="285" entryx="820" entryy="707" entryz="7" rent="0" townid="1" size="26"/>
+  <house name="Unnamed House #286" houseid="286" entryx="780" entryy="718" entryz="7" rent="0" townid="1" size="19"/>
+  <house name="Unnamed House #287" houseid="287" entryx="772" entryy="718" entryz="7" rent="0" townid="1" size="19"/>
+  <house name="Unnamed House #288" houseid="288" entryx="760" entryy="718" entryz="7" rent="0" townid="1" size="176"/>
+  <house name="Unnamed House #289" houseid="289" entryx="755" entryy="691" entryz="7" rent="0" townid="1" size="31"/>
+  <house name="Unnamed House #290" houseid="290" entryx="755" entryy="694" entryz="7" rent="0" townid="1" size="18"/>
+  <house name="Unnamed House #291" houseid="291" entryx="755" entryy="698" entryz="7" rent="0" townid="1" size="31"/>
+  <house name="Unnamed House #292" houseid="292" entryx="758" entryy="698" entryz="7" rent="0" townid="1" size="35"/>
+  <house name="Unnamed House #293" houseid="293" entryx="765" entryy="695" entryz="7" rent="0" townid="1" size="21"/>
+  <house name="Unnamed House #294" houseid="294" entryx="759" entryy="691" entryz="7" rent="0" townid="1" size="31"/>
+  <house name="Unnamed House #295" houseid="295" entryx="770" entryy="695" entryz="7" rent="0" townid="1" size="22"/>
+  <house name="Unnamed House #296" houseid="296" entryx="775" entryy="695" entryz="7" rent="0" townid="1" size="28"/>
+  <house name="Unnamed House #297" houseid="297" entryx="755" entryy="691" entryz="6" rent="0" townid="1" size="33"/>
+  <house name="Unnamed House #298" houseid="298" entryx="755" entryy="694" entryz="6" rent="0" townid="1" size="36"/>
+  <house name="Unnamed House #299" houseid="299" entryx="760" entryy="691" entryz="6" rent="0" townid="1" size="23"/>
+  <house name="Unnamed House #300" houseid="300" entryx="755" entryy="698" entryz="6" rent="0" townid="1" size="33"/>
+  <house name="Unnamed House #301" houseid="301" entryx="760" entryy="698" entryz="6" rent="0" townid="1" size="28"/>
+  <house name="Humilde Jacal De Don ramon #302" houseid="302" entryx="679" entryy="276" entryz="5" rent="500" townid="1" size="1184"/>
+</houses>

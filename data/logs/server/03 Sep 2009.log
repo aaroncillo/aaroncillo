@@ -1,0 +1,475 @@
+[03/09/2009 17:40:06] The Forgotten Server, version 0.3.4 (Crying Damson)
+[03/09/2009 17:40:06] Sever Criado Por Alissow e Comedinha.
+[03/09/2009 17:40:06] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[03/09/2009 17:40:06] Bom Jogo!!!
+[03/09/2009 17:40:06] 
+[03/09/2009 17:40:06] >> Debugging: nothing.
+[03/09/2009 17:40:06] >> Checking software version... outdated, please consider updating!
+[03/09/2009 17:40:08] > Current version information - version: 0.3.4, patch: 2, build: 1879, timestamp: 1242396574.
+[03/09/2009 17:40:08] > Latest version information - version: 0.3.5, patch: 1, build: 2576, timestamp: 1249584126.
+[03/09/2009 17:40:08] [Warning - ConfigManager::getBool] 62
+[03/09/2009 17:40:08] 
+[03/09/2009 17:40:08] >> Loading config (config.lua)
+[03/09/2009 17:40:08] > Using plaintext passwords
+[03/09/2009 17:40:08] >> Loading RSA key
+[03/09/2009 17:40:08] >> Starting SQL connection
+[03/09/2009 17:40:08] >> Running Database Manager
+[03/09/2009 17:40:10] > Optimized database.
+[03/09/2009 17:40:10] >> Loading items
+[03/09/2009 17:40:10] >> Loading groups
+[03/09/2009 17:40:10] >> Loading vocations
+[03/09/2009 17:40:10] >> Loading script systems
+[03/09/2009 17:40:13] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/backpack2.lua)
+[03/09/2009 17:40:13] data/actions/scripts/backpack2.lua:5: unexpected symbol near ')'
+[03/09/2009 17:40:13] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/backpack1.lua)
+[03/09/2009 17:40:13] data/actions/scripts/backpack1.lua:5: unexpected symbol near ')'
+[03/09/2009 17:40:13] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/razgos1.lua)
+[03/09/2009 17:40:13] data/actions/scripts/razgos1.lua:5: unexpected symbol near ')'
+[03/09/2009 17:40:14] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/boots.lua)
+[03/09/2009 17:40:14] data/actions/scripts/boots.lua:5: unexpected symbol near ')'
+[03/09/2009 17:40:14] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/darknessarmor.lua)
+[03/09/2009 17:40:14] cannot open data/actions/scripts/darknessarmor.lua: No such file or directory
+[03/09/2009 17:40:14] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/darknessshield.lua)
+[03/09/2009 17:40:14] cannot open data/actions/scripts/darknessshield.lua: No such file or directory
+[03/09/2009 17:40:14] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/darknesslegs.lua)
+[03/09/2009 17:40:14] cannot open data/actions/scripts/darknesslegs.lua: No such file or directory
+[03/09/2009 17:40:15] [Warning - TalkAction::configureEvent] Duplicate registered talkaction with words: /a
+[03/09/2009 17:40:15] [Warning - TalkAction::configureEvent] Duplicate registered talkaction with words: /t
+[03/09/2009 17:40:15] [Warning - TalkAction::configureEvent] Duplicate registered talkaction with words: /goto
+[03/09/2009 17:40:16] >> Loading chat channels
+[03/09/2009 17:40:16] >> Loading outfits
+[03/09/2009 17:40:16] >> Loading experience stages
+[03/09/2009 17:40:16] >> Loading monsters
+[03/09/2009 17:40:22] >> Loading map and spawns...
+[03/09/2009 17:40:24] > Map size: 512x512.
+[03/09/2009 17:40:24] > Map descriptions: 
+[03/09/2009 17:40:24] Saved with Remere's Map Editor 1.1.7 BETA
+[03/09/2009 17:40:24] SimOne MapEditor 0.5.5
+[03/09/2009 17:40:26] > Map loading time: 4.406 seconds.
+[03/09/2009 17:40:27] [Spawn::addMonster] NULL tile at spawn position (( 00589 / 00148 / 007 ))
+[03/09/2009 17:40:27] [Spawn::addMonster] NULL tile at spawn position (( 00618 / 00150 / 007 ))
+[03/09/2009 17:40:27] [Spawn::addMonster] NULL tile at spawn position (( 00617 / 00169 / 007 ))
+[03/09/2009 17:40:27] [Spawn::addMonster] NULL tile at spawn position (( 00582 / 00183 / 007 ))
+[03/09/2009 17:40:27] [Spawn::addMonster] NULL tile at spawn position (( 00576 / 00191 / 007 ))
+[03/09/2009 17:40:27] [Spawn::addMonster] NULL tile at spawn position (( 00628 / 00197 / 007 ))
+[03/09/2009 17:40:27] [Spawn::addMonster] NULL tile at spawn position (( 00601 / 00206 / 007 ))
+[03/09/2009 17:40:27] [Spawn::addMonster] NULL tile at spawn position (( 00571 / 00209 / 007 ))
+[03/09/2009 17:40:27] [Spawn::addMonster] NULL tile at spawn position (( 00594 / 00213 / 007 ))
+[03/09/2009 17:40:27] [Spawn::addMonster] NULL tile at spawn position (( 00618 / 00221 / 007 ))
+[03/09/2009 17:40:27] [Spawn::addMonster] NULL tile at spawn position (( 00595 / 00228 / 007 ))
+[03/09/2009 17:40:27] [Spawn::addMonster] NULL tile at spawn position (( 00554 / 00229 / 007 ))
+[03/09/2009 17:40:27] [Error - Houses::loadFromXml] Unknown house with id: 29
+[03/09/2009 17:40:27] > WARNING: Could not load house data.
+[03/09/2009 17:40:27] > Data loading time: 1.391 seconds.
+[03/09/2009 17:40:27] > Unserialization time for houses: 0.031 seconds.
+[03/09/2009 17:40:29] [Warning - IOMapSerialize::loadTile] NULL item at ( 00161 / 00029 / 005 ) (type = 1754, sid = 1, pid = 0)
+[03/09/2009 17:40:29] [Warning - IOMapSerialize::loadTile] NULL item at ( 00161 / 00030 / 005 ) (type = 1755, sid = 1, pid = 0)
+[03/09/2009 17:40:29] [Warning - IOMapSerialize::loadTile] NULL item at ( 00164 / 00031 / 005 ) (type = 1211, sid = 1, pid = 0)
+[03/09/2009 17:40:39] > Unserialization time for map: 11.984 seconds.
+[03/09/2009 17:40:40] >> Checking world type... PvP
+[03/09/2009 17:40:40] >> Initializing game state modules and registering services...
+[03/09/2009 17:40:40] > Global address: razgosserver.no-ip.info
+[03/09/2009 17:40:42] > Local ports:
+[03/09/2009 17:40:42] 7171	7172	
+[03/09/2009 17:40:42] >> All modules were loaded, server starting up...
+[03/09/2009 17:40:42] >> Snowz OTs server Online!
+[03/09/2009 17:40:42] 
+[03/09/2009 17:40:50] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[03/09/2009 17:40:52] [Hoster] Dee has logged in.
+[03/09/2009 17:42:22] Longixd has logged in.
+[03/09/2009 17:42:30] Longixd has logged out.
+[03/09/2009 17:42:32] Napoleon has logged in.
+[03/09/2009 17:42:35] Napoleon has logged out.
+[03/09/2009 17:42:40] Napoleon has logged in.
+[03/09/2009 17:43:09] [Hoster] Dee has logged out.
+[03/09/2009 17:43:53] [Hoster] Dee has logged in.
+[03/09/2009 17:44:33] [Hoster] Dee has logged out.
+[03/09/2009 17:45:59] [Admin] Kogotero Lanza has logged in.
+[03/09/2009 17:46:15] > [Admin] Kogotero Lanza broadcasted: "wuena".
+[03/09/2009 17:47:31] Napoleon has logged out.
+[03/09/2009 17:47:33] Napoleon has logged in.
+[03/09/2009 17:48:10] Napoleon has logged out.
+[03/09/2009 17:48:13] Napoleon has logged in.
+[03/09/2009 17:49:19] [Admin] Kogotero Lanza has logged out.
+[03/09/2009 17:49:22] Pikao Shoro has logged in.
+[03/09/2009 17:49:29] Choro Mota has logged in.
+[03/09/2009 17:50:27] Account Manager has logged in.
+[03/09/2009 17:50:32] Account Manager has logged in.
+[03/09/2009 17:50:36] Account Manager has logged out.
+[03/09/2009 17:50:43] Account Manager has logged in.
+[03/09/2009 17:50:45] Account Manager has logged out.
+[03/09/2009 17:50:54] Account Manager has logged in.
+[03/09/2009 17:51:04] Account Manager has logged out.
+[03/09/2009 17:51:11] Marta has logged in.
+[03/09/2009 17:51:19] Account Manager has logged out.
+[03/09/2009 17:51:25] Camilitax has logged in.
+[03/09/2009 17:51:55] Napoleon has logged out.
+[03/09/2009 17:51:57] Napoleon has logged in.
+[03/09/2009 17:53:06] Account Manager has logged in.
+[03/09/2009 17:53:14] Pikao Shoro has logged out.
+[03/09/2009 17:53:15] Account Manager has logged out.
+[03/09/2009 17:53:16] [Admin] Kogotero Lanza has logged in.
+[03/09/2009 17:53:21] Zeus Elite has logged in.
+[03/09/2009 17:53:30] > [Admin] Kogotero Lanza broadcasted: "qwena wenaa cabross".
+[03/09/2009 17:53:32] [Hoster] Dee has logged in.
+[03/09/2009 17:53:40] [Hoster] Dee has logged out.
+[03/09/2009 17:53:40] > [Admin] Kogotero Lanza broadcasted: "no se hacen gm ni god ,,,,,, ".
+[03/09/2009 17:53:42] Mono Pirata has logged in.
+[03/09/2009 17:55:13] Zeus Elite has logged out.
+[03/09/2009 17:55:13] Zeus Elite has logged in.
+[03/09/2009 17:55:17] Napoleon has logged out.
+[03/09/2009 17:55:17] > Saving server...
+[03/09/2009 17:55:19] > SAVE: Complete in 2.5 seconds using relational house storage.
+[03/09/2009 17:55:20] > CLEAN: Removed 196 items from 484 tiles in 0.062 seconds.
+[03/09/2009 17:55:21] Napoleon has logged in.
+[03/09/2009 17:55:25] Account Manager has logged in.
+[03/09/2009 17:55:37] > [Admin] Kogotero Lanza broadcasted: "marta dimee q pasaaa".
+[03/09/2009 17:55:46] Account Manager has logged out.
+[03/09/2009 17:55:49] Zeus Elite has logged out.
+[03/09/2009 17:55:50] Zeus Elite has logged in.
+[03/09/2009 17:55:50] Zeus Elite has logged out.
+[03/09/2009 17:55:52] Account Manager has logged in.
+[03/09/2009 17:55:52] Account Manager has logged in.
+[03/09/2009 17:55:53] Zeus Elite has logged in.
+[03/09/2009 17:55:54] Zeus Elite has logged out.
+[03/09/2009 17:55:55] Zeus Elite has logged in.
+[03/09/2009 17:55:55] Zeus Elite has logged out.
+[03/09/2009 17:55:57] Zeus Elite has logged in.
+[03/09/2009 17:55:58] Zeus Elite has logged out.
+[03/09/2009 17:55:59] Zeus Elite has logged in.
+[03/09/2009 17:55:59] Zeus Elite has logged out.
+[03/09/2009 17:56:01] Zeus Elite has logged in.
+[03/09/2009 17:56:01] Zeus Elite has logged out.
+[03/09/2009 17:56:02] Zeus Elite has logged in.
+[03/09/2009 17:56:02] Zeus Elite has logged out.
+[03/09/2009 17:56:04] Zeus Elite has logged in.
+[03/09/2009 17:56:04] Camilitax has logged out.
+[03/09/2009 17:56:04] Zeus Elite has logged out.
+[03/09/2009 17:56:05] Camilitax has logged in.
+[03/09/2009 17:56:05] Zeus Elite has logged in.
+[03/09/2009 17:56:05] Zeus Elite has logged out.
+[03/09/2009 17:56:07] Zeus Elite has logged in.
+[03/09/2009 17:56:07] Zeus Elite has logged out.
+[03/09/2009 17:56:09] Zeus Elite has logged in.
+[03/09/2009 17:56:09] Zeus Elite has logged out.
+[03/09/2009 17:56:10] Zeus Elite has logged in.
+[03/09/2009 17:56:11] Zeus Elite has logged out.
+[03/09/2009 17:56:12] Napoleon has logged out.
+[03/09/2009 17:56:12] Knight Poderoso has logged in.
+[03/09/2009 17:56:12] Zeus Elite has logged in.
+[03/09/2009 17:56:13] Napoleon has logged in.
+[03/09/2009 17:56:21] Account Manager has logged out.
+[03/09/2009 17:56:37] Zeus Elite has logged out.
+[03/09/2009 17:56:39] Zeus Elite has logged in.
+[03/09/2009 17:56:50] Account Manager has logged out.
+[03/09/2009 17:56:56] Account Manager has logged in.
+[03/09/2009 17:57:12] Napoleon has logged out.
+[03/09/2009 17:57:14] Napoleon has logged in.
+[03/09/2009 17:57:16] > CLEAN: Removed 41 items from 139 tiles in 0.078 seconds.
+[03/09/2009 17:57:17] Mono Pirata has logged out.
+[03/09/2009 17:57:17] Sir Assasin has logged in.
+[03/09/2009 17:57:19] Kina Zarprite has logged in.
+[03/09/2009 17:57:57] Kina Zarprite has logged out.
+[03/09/2009 17:57:59] Zorra Zorrienta has logged in.
+[03/09/2009 17:58:01] Zorra Zorrienta has logged out.
+[03/09/2009 17:58:02] [Hoster] Dee has logged in.
+[03/09/2009 17:58:06] [Hoster] Dee has logged out.
+[03/09/2009 17:58:08] Account Manager has logged in.
+[03/09/2009 17:58:09] Account Manager has logged in.
+[03/09/2009 17:58:12] Account Manager has logged out.
+[03/09/2009 17:58:17] Seshpi has logged in.
+[03/09/2009 17:58:19] Seshpi has logged out.
+[03/09/2009 17:58:20] Account Manager has logged in.
+[03/09/2009 17:58:27] Account Manager has logged out.
+[03/09/2009 17:58:27] Account Manager has logged out.
+[03/09/2009 17:58:28] Seshpi has logged in.
+[03/09/2009 17:58:34] Account Manager has logged in.
+[03/09/2009 17:59:06] Account Manager has logged out.
+[03/09/2009 17:59:21] Felippe has logged in.
+[03/09/2009 17:59:34] Account Manager has logged out.
+[03/09/2009 17:59:40] Andreita has logged in.
+[03/09/2009 18:00:02] Seshpi has logged out.
+[03/09/2009 18:00:17] Seshpi has logged in.
+[03/09/2009 18:00:45] Seides has logged in.
+[03/09/2009 18:01:09] Sir Assasin has logged out.
+[03/09/2009 18:01:29] Zeus Elite has logged out.
+[03/09/2009 18:01:31] Zeus Elite has logged in.
+[03/09/2009 18:01:32] Felippe has logged out.
+[03/09/2009 18:01:35] Felippe has logged in.
+[03/09/2009 18:01:39] Camilitax has logged out.
+[03/09/2009 18:01:40] Camilitax has logged in.
+[03/09/2009 18:01:42] [Admin] Kogotero Lanza has logged out.
+[03/09/2009 18:01:51] Account Manager has logged in.
+[03/09/2009 18:01:52] Camilitax has logged out.
+[03/09/2009 18:02:20] Account Manager has logged out.
+[03/09/2009 18:03:25] Knight Poderoso has logged out.
+[03/09/2009 18:03:26] Choro Mota has logged out.
+[03/09/2009 18:03:27] Knight Poderoso has logged in.
+[03/09/2009 18:03:28] Choro Mota has logged in.
+[03/09/2009 18:03:42] Felippe has logged out.
+[03/09/2009 18:03:44] Felippe has logged in.
+[03/09/2009 18:04:15] Napoleon has logged out.
+[03/09/2009 18:04:17] Napoleon has logged in.
+[03/09/2009 18:04:19] Knight Poderoso has logged out.
+[03/09/2009 18:04:20] Knight Poderoso has logged in.
+[03/09/2009 18:04:33] Account Manager has logged in.
+[03/09/2009 18:04:43] Account Manager has logged out.
+[03/09/2009 18:05:03] Knight Poderoso has logged out.
+[03/09/2009 18:05:05] Knight Poderoso has logged in.
+[03/09/2009 18:05:15] Napoleon has logged out.
+[03/09/2009 18:05:16] Napoleon has logged in.
+[03/09/2009 18:05:30] Napoleon has logged out.
+[03/09/2009 18:05:32] Napoleon has logged in.
+[03/09/2009 18:05:33] Knight Poderoso has logged out.
+[03/09/2009 18:05:34] Knight Poderoso has logged in.
+[03/09/2009 18:05:47] Napoleon has logged out.
+[03/09/2009 18:05:49] Knight Poderoso has logged out.
+[03/09/2009 18:05:50] Napoleon has logged in.
+[03/09/2009 18:05:51] Knight Poderoso has logged in.
+[03/09/2009 18:06:02] Napoleon has logged out.
+[03/09/2009 18:06:03] Napoleon has logged in.
+[03/09/2009 18:06:05] Knight Poderoso has logged out.
+[03/09/2009 18:06:06] Knight Poderoso has logged in.
+[03/09/2009 18:06:26] Zeus Elite has logged out.
+[03/09/2009 18:06:27] Napoleon has logged out.
+[03/09/2009 18:06:28] Napoleon has logged in.
+[03/09/2009 18:06:28] Zeus Elite has logged in.
+[03/09/2009 18:06:36] [Hoster] Dee has logged in.
+[03/09/2009 18:06:42] Knight Poderoso has logged out.
+[03/09/2009 18:06:43] Knight Poderoso has logged in.
+[03/09/2009 18:06:52] Knight Poderoso has logged out.
+[03/09/2009 18:06:52] 
+[03/09/2009 18:06:52] Lua Script Error: [Spell Interface] 
+[03/09/2009 18:06:52] in a timer event called from: 
+[03/09/2009 18:06:53] data/spells/scripts/attack/razgosfury.lua:onCastSpell
+[03/09/2009 18:06:53] 
+[03/09/2009 18:06:53] luaDoCombat(). Creature not found
+[03/09/2009 18:06:53] Knight Poderoso has logged in.
+[03/09/2009 18:07:21] Felippe has logged out.
+[03/09/2009 18:07:27] Felippe has logged in.
+[03/09/2009 18:07:34] Knight Poderoso has logged out.
+[03/09/2009 18:07:35] Knight Poderoso has logged in.
+[03/09/2009 18:07:47] Knight Poderoso has logged out.
+[03/09/2009 18:07:49] Knight Poderoso has logged in.
+[03/09/2009 18:08:14] Knight Poderoso has logged out.
+[03/09/2009 18:08:15] Knight Poderoso has logged in.
+[03/09/2009 18:08:33] Knight Poderoso has logged out.
+[03/09/2009 18:08:35] Knight Poderoso has logged in.
+[03/09/2009 18:09:04] Knight Poderoso has logged out.
+[03/09/2009 18:09:08] Knight Poderoso has logged in.
+[03/09/2009 18:09:10] 
+[03/09/2009 18:09:10] Lua Script Error: [CreatureScript Interface] 
+[03/09/2009 18:09:10] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[03/09/2009 18:09:10] 
+[03/09/2009 18:09:10] luaGetCreatureName(). Creature not found
+[03/09/2009 18:09:10] 
+[03/09/2009 18:09:10] Lua Script Error: [CreatureScript Interface] 
+[03/09/2009 18:09:10] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[03/09/2009 18:09:11] 
+[03/09/2009 18:09:11] luaGetCreatureName(). Creature not found
+[03/09/2009 18:09:11] Seides has logged out.
+[03/09/2009 18:09:12] Seides has logged in.
+[03/09/2009 18:09:22] Knight Poderoso has logged out.
+[03/09/2009 18:09:23] Knight Poderoso has logged in.
+[03/09/2009 18:09:26] Marta has logged out.
+[03/09/2009 18:09:29] Knight Poderoso has logged out.
+[03/09/2009 18:09:30] 
+[03/09/2009 18:09:30] Lua Script Error: [Spell Interface] 
+[03/09/2009 18:09:30] in a timer event called from: 
+[03/09/2009 18:09:30] data/spells/scripts/attack/razgosfury.lua:onCastSpell
+[03/09/2009 18:09:30] 
+[03/09/2009 18:09:30] luaDoCombat(). Creature not found
+[03/09/2009 18:09:30] Knight Poderoso has logged in.
+[03/09/2009 18:10:03] Seides has logged out.
+[03/09/2009 18:10:05] Seides has logged in.
+[03/09/2009 18:10:16] Felippe has logged out.
+[03/09/2009 18:10:18] > Saving server...
+[03/09/2009 18:10:21] > SAVE: Complete in 2.922 seconds using relational house storage.
+[03/09/2009 18:10:22] Felippe has logged in.
+[03/09/2009 18:11:30] Felippe has logged out.
+[03/09/2009 18:11:32] Felippe has logged in.
+[03/09/2009 18:11:47] Knight Poderoso has logged out.
+[03/09/2009 18:11:48] Knight Poderoso has logged in.
+[03/09/2009 18:11:52] Felippe has logged out.
+[03/09/2009 18:11:54] Felippe has logged in.
+[03/09/2009 18:12:12] Felippe has logged out.
+[03/09/2009 18:12:14] Felippe has logged in.
+[03/09/2009 18:12:15] Napoleon has logged out.
+[03/09/2009 18:12:17] Napoleon has logged in.
+[03/09/2009 18:12:25] Napoleon has logged out.
+[03/09/2009 18:12:27] Napoleon has logged in.
+[03/09/2009 18:12:31] Felippe has logged out.
+[03/09/2009 18:12:32] Felippe has logged in.
+[03/09/2009 18:13:53] > CLEAN: Removed 378 items from 910 tiles in 0.047 seconds.
+[03/09/2009 18:14:15] Seshpi has logged out.
+[03/09/2009 18:14:53] 
+[03/09/2009 18:14:53] Lua Script Error: [CreatureScript Interface] 
+[03/09/2009 18:14:53] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[03/09/2009 18:14:53] 
+[03/09/2009 18:14:53] luaGetCreatureName(). Creature not found
+[03/09/2009 18:14:53] 
+[03/09/2009 18:14:53] Lua Script Error: [CreatureScript Interface] 
+[03/09/2009 18:14:53] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[03/09/2009 18:14:53] 
+[03/09/2009 18:14:53] luaGetCreatureName(). Creature not found
+[03/09/2009 18:14:53] Choro Mota has logged out.
+[03/09/2009 18:14:56] Choro Mota has logged in.
+[03/09/2009 18:15:01] Andreita has logged out.
+[03/09/2009 18:15:03] Andreita has logged in.
+[03/09/2009 18:15:04] 
+[03/09/2009 18:15:04] Lua Script Error: [TalkAction Interface] 
+[03/09/2009 18:15:05] data/talkactions/scripts/kick.lua:onSay
+[03/09/2009 18:15:05] 
+[03/09/2009 18:15:05] data/talkactions/scripts/kick.lua:13: attempt to compare number with boolean
+[03/09/2009 18:15:05] stack traceback:
+[03/09/2009 18:15:05] 	data/talkactions/scripts/kick.lua:13: in function <data/talkactions/scripts/kick.lua:1>
+[03/09/2009 18:15:31] Seides has logged out.
+[03/09/2009 18:15:32] Seides has logged in.
+[03/09/2009 18:15:54] Knight Poderoso has logged out.
+[03/09/2009 18:15:54] 
+[03/09/2009 18:15:54] Lua Script Error: [Spell Interface] 
+[03/09/2009 18:15:54] in a timer event called from: 
+[03/09/2009 18:15:54] data/spells/scripts/attack/razgosfury.lua:onCastSpell
+[03/09/2009 18:15:54] 
+[03/09/2009 18:15:54] luaDoCombat(). Creature not found
+[03/09/2009 18:15:55] Knight Poderoso has logged in.
+[03/09/2009 18:15:59] Napoleon has logged out.
+[03/09/2009 18:16:01] Napoleon has logged in.
+[03/09/2009 18:16:12] Seides has logged out.
+[03/09/2009 18:16:13] Seides has logged in.
+[03/09/2009 18:16:32] Choro Mota has logged out.
+[03/09/2009 18:16:36] Choro Mota has logged in.
+[03/09/2009 18:16:51] Account Manager has logged in.
+[03/09/2009 18:17:03] Account Manager has logged out.
+[03/09/2009 18:17:04] Account Manager has logged in.
+[03/09/2009 18:17:06] Account Manager has logged out.
+[03/09/2009 18:17:13] Account Manager has logged in.
+[03/09/2009 18:17:24] Choro Mota has logged out.
+[03/09/2009 18:17:26] Choro Mota has logged in.
+[03/09/2009 18:17:35] Andreita has logged out.
+[03/09/2009 18:17:35] Account Manager has logged out.
+[03/09/2009 18:17:36] Andreita has logged in.
+[03/09/2009 18:17:41] Rudo has logged in.
+[03/09/2009 18:18:16] 
+[03/09/2009 18:18:16] Lua Script Error: [CreatureScript Interface] 
+[03/09/2009 18:18:16] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[03/09/2009 18:18:16] 
+[03/09/2009 18:18:16] luaGetCreatureName(). Creature not found
+[03/09/2009 18:18:17] 
+[03/09/2009 18:18:17] Lua Script Error: [CreatureScript Interface] 
+[03/09/2009 18:18:17] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[03/09/2009 18:18:17] 
+[03/09/2009 18:18:17] luaGetCreatureName(). Creature not found
+[03/09/2009 18:18:17] Knight Poderoso has logged out.
+[03/09/2009 18:18:18] Knight Poderoso has logged in.
+[03/09/2009 18:18:21] Zeus Elite has logged out.
+[03/09/2009 18:18:24] Zeus Elite has logged in.
+[03/09/2009 18:19:13] > CLEAN: Removed 218 items from 713 tiles in 0.062 seconds.
+[03/09/2009 18:20:14] Knight Poderoso has logged out.
+[03/09/2009 18:20:15] [Hoster] Dee has logged out.
+[03/09/2009 18:20:17] Knight Poderoso has logged in.
+[03/09/2009 18:20:17] Kina Zarprite has logged in.
+[03/09/2009 18:21:08] Kina Zarprite has logged out.
+[03/09/2009 18:21:10] Rudo has logged out.
+[03/09/2009 18:21:11] Mono Pirata has logged in.
+[03/09/2009 18:21:12] Rudo has logged in.
+[03/09/2009 18:21:30] Account Manager has logged in.
+[03/09/2009 18:21:32] Mono Pirata has logged out.
+[03/09/2009 18:21:51] Account Manager has logged out.
+[03/09/2009 18:22:49] Diiegooxkina has logged in.
+[03/09/2009 18:22:53] Diiegooxkina has logged out.
+[03/09/2009 18:22:56] Diiegooxsorc has logged in.
+[03/09/2009 18:23:49] Account Manager has logged in.
+[03/09/2009 18:24:09] Account Manager has logged out.
+[03/09/2009 18:24:18] Account Manager has logged in.
+[03/09/2009 18:24:20] Napoleon has logged out.
+[03/09/2009 18:24:22] Napoleon has logged in.
+[03/09/2009 18:24:49] Account Manager has logged out.
+[03/09/2009 18:24:59] Royal has logged in.
+[03/09/2009 18:25:06] Napoleon has logged out.
+[03/09/2009 18:25:13] Napoleon has logged in.
+[03/09/2009 18:25:19] > Saving server...
+[03/09/2009 18:25:23] > SAVE: Complete in 3.188 seconds using relational house storage.
+[03/09/2009 18:25:25] Account Manager has logged in.
+[03/09/2009 18:25:26] Choro Mota has logged out.
+[03/09/2009 18:25:27] Account Manager has logged out.
+[03/09/2009 18:25:34] Account Manager has logged in.
+[03/09/2009 18:25:56] Account Manager has logged out.
+[03/09/2009 18:26:03] Xuuxuuh has logged in.
+[03/09/2009 18:26:09] Seides has logged out.
+[03/09/2009 18:26:15] Seides has logged in.
+[03/09/2009 18:27:07] Seides has logged out.
+[03/09/2009 18:27:08] Seides has logged in.
+[03/09/2009 18:27:31] Seides has logged out.
+[03/09/2009 18:27:32] Seides has logged in.
+[03/09/2009 18:27:40] Seides has logged out.
+[03/09/2009 18:27:41] Seides has logged in.
+[03/09/2009 18:27:42] Account Manager has logged in.
+[03/09/2009 18:28:55] Napoleon has logged out.
+[03/09/2009 18:28:58] Napoleon has logged in.
+[03/09/2009 18:29:11] Raic Dalos has logged in.
+[03/09/2009 18:29:20] Account Manager has logged out.
+[03/09/2009 18:30:06] Raic Dalos has logged out.
+[03/09/2009 18:30:07] Raic Dalos has logged in.
+[03/09/2009 18:30:08] Napoleon has logged out.
+[03/09/2009 18:30:58] Raic Dalos has logged out.
+[03/09/2009 18:31:00] Raic Dalos has logged in.
+[03/09/2009 18:31:20] 
+[03/09/2009 18:31:20] Lua Script Error: [CreatureScript Interface] 
+[03/09/2009 18:31:20] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[03/09/2009 18:31:20] 
+[03/09/2009 18:31:20] luaGetCreatureName(). Creature not found
+[03/09/2009 18:31:20] 
+[03/09/2009 18:31:20] Lua Script Error: [CreatureScript Interface] 
+[03/09/2009 18:31:20] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[03/09/2009 18:31:20] 
+[03/09/2009 18:31:20] luaGetCreatureName(). Creature not found
+[03/09/2009 18:31:21] Seides has logged out.
+[03/09/2009 18:31:22] Seides has logged in.
+[03/09/2009 18:31:43] Xuuxuuh has logged out.
+[03/09/2009 18:31:45] Xuuxuuh has logged in.
+[03/09/2009 18:32:12] Andreita has logged out.
+[03/09/2009 18:32:14] Diiegooxsorc has logged out.
+[03/09/2009 18:32:16] Andreita has logged in.
+[03/09/2009 18:32:16] Diiegooxkina has logged in.
+[03/09/2009 18:32:37] Diiegooxkina has logged out.
+[03/09/2009 18:32:39] Diiegooxsorc has logged in.
+[03/09/2009 18:32:44] Diiegooxsorc has logged out.
+[03/09/2009 18:32:46] Diiegooxsorc has logged in.
+[03/09/2009 18:32:47] Diiegooxsorc has logged out.
+[03/09/2009 18:32:49] Diiegooxkina has logged in.
+[03/09/2009 18:33:07] 
+[03/09/2009 18:33:07] Lua Script Error: [CreatureScript Interface] 
+[03/09/2009 18:33:07] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[03/09/2009 18:33:08] 
+[03/09/2009 18:33:08] luaGetCreatureName(). Creature not found
+[03/09/2009 18:33:08] 
+[03/09/2009 18:33:08] Lua Script Error: [CreatureScript Interface] 
+[03/09/2009 18:33:08] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[03/09/2009 18:33:08] 
+[03/09/2009 18:33:08] luaGetCreatureName(). Creature not found
+[03/09/2009 18:33:08] Seides has logged out.
+[03/09/2009 18:33:09] Seides has logged in.
+[03/09/2009 18:33:25] [Hoster] Dee has logged in.
+[03/09/2009 18:33:34] Seides has logged out.
+[03/09/2009 18:33:35] Seides has logged in.
+[03/09/2009 18:33:58] Seides has logged out.
+[03/09/2009 18:33:59] Seides has logged in.
+[03/09/2009 18:34:14] Royal has logged out.
+[03/09/2009 18:34:17] Seides has logged out.
+[03/09/2009 18:34:17] Royal has logged in.
+[03/09/2009 18:34:18] Seides has logged in.
+[03/09/2009 18:34:27] [Hoster] Dee has logged out.
+[03/09/2009 18:34:33] Felippe has logged out.
+[03/09/2009 18:34:33] Zeus Elite has logged out.
+[03/09/2009 18:34:34] Knight Poderoso has logged out.
+[03/09/2009 18:34:34] Rudo has logged out.
+[03/09/2009 18:34:34] Raic Dalos has logged out.
+[03/09/2009 18:34:34] Xuuxuuh has logged out.
+[03/09/2009 18:34:35] Andreita has logged out.
+[03/09/2009 18:34:35] Diiegooxkina has logged out.
+[03/09/2009 18:34:35] Royal has logged out.
+[03/09/2009 18:34:35] Seides has logged out.
+[03/09/2009 18:34:36] > Saving server...
+[03/09/2009 18:34:37] > SAVE: Complete in 1.703 seconds using relational house storage.
+[03/09/2009 18:34:37] Preparing to shutdown

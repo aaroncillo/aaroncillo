@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<monster name="Itachi" nameDescription="an Itachi" race="VENOM" experience="350000" speed="1200" manacost="0"> 
+<health now="100000" max="100000"/> 
+<look type="152" head="114" body="114" legs="114" feet="114" addons="3" corpse="3058"/> 
+<targetchange interval="5000" chance="0"/> 
+<strategy attack="100" defense="0"/> 
+<flags> 
+<flag summonable="0"/>
+<flag attackable="1"/>
+<flag hostile="1"/>
+<flag illusionable="1"/>
+<flag convinceable="0"/>
+<flag pushable="0"/>
+<flag canpushitems="1"/>
+<flag canpushcreatures="0"/>
+<flag targetdistance="4"/>
+<flag staticattack="90"/>
+<flag runonhealth="0"/>
+</flags> 
+<attacks>
+<attack name="throwing knife" interval="2000" chance="60" min="-400" max="-3000"/>
+<attack name="speed" interval="1000" chance="17" range="7" radius="4" target="1" speedchange="-700" duration="3500">
+<attribute key="shootEffect" value="poison"/>
+<attribute key="areaEffect" value="greenbubble"/>
+</attack>
+<attack name="physical" interval="3000" chance="17" length="8" spread="3" min="-400" max="-3050">
+<attribute key="areaEffect" value="bluebubble"/>
+</attack>
+<attack name="poison" interval="2000" chance="20" length="8" spread="3" min="-400" max="-3000">
+<attribute key="areaEffect" value="poison"/>
+</attack>
+<attack name="terra wave" interval="1000" chance="20" length="8" spread="3" min="-400" max="-3000">
+<attribute key="areaEffect" value="poison"/>
+</attack>
+
+</attacks>
+<defenses armor="1999" defense="1999"/> 
+<immunities> 
+<immunity physical="0"/> 
+<immunity holy="0"/> 
+<immunity energy="0"/> 
+<immunity fire="0"/> 
+<immunity death="0"/> 
+<immunity earth="0"/> 
+<immunity ice="0"/> 
+<immunity poison="0"/> 
+<immunity lifedrain="0"/> 
+<immunity invisible="1"/> 
+</immunities> 
+<loot>
+<item id="2148" chance="100000" countmax="100"/>
+<item id="2148" chance="50000" countmax="90"/>
+<item id="2143" chance="10000" countmax="5"/>
+<item id="2396" chance="19429"/>
+<item id="5953" chance="20000"/>
+<item id="8885" chance="16000"/>
+<item id="8886" chance="15000"/>
+<item id="2003" chance="100000">
+<inside>
+<item id="2495" chance="6000"/>
+<item id="2387" chance="20000"/>
+<item id="2393" chance="60000"/>
+<item id="2195" chance="16033"/>
+<item id="2421" chance="7000"/>
+<item id="2522" chance="5600"/>
+<item id="2192" chance="24000"/>
+</inside>
+</item>
+</loot>
+</monster> 
